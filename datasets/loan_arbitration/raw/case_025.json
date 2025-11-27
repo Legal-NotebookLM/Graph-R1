@@ -1,0 +1,350 @@
+[
+  {
+    "question": "What is the loan account number for Abdul Rahman's two-wheeler loan with Phoenix Finance Ltd.? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The loan account number is PFL-TWL-241025. This is a Two-Wheeler Loan for a Bajaj Pulsar 125 sanctioned on 10th July 2024 with a loan amount of ₹72,000/- for a 24-month tenure."
+    ]
+  },
+  {
+    "question": "What is the total outstanding amount claimed against Abdul Rahman as on 26-11-2024? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The total outstanding amount is ₹95,672/- as on 26-11-2024, comprising: Principal outstanding ₹69,544/-, Interest outstanding ₹14,678/-, Penal interest & charges ₹6,450/-, and Legal notice charges ₹5,000/-."
+    ]
+  },
+  {
+    "question": "What is the reason for default in Abdul Rahman's case? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The default reason is: 'Bike theft leading to loss of livelihood and inability to pay.' The borrower's Bajaj Pulsar 125 was stolen on 30th August 2024, and as a gig worker (Rapido Bike Taxi), he lost his only means of livelihood, making it impossible to pay EMIs."
+    ]
+  },
+  {
+    "question": "What is the borrower's employment details as per CRM records? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "Abdul Rahman is a gig worker with Rapido Bike Taxi with monthly income of ₹22,000/-. He works from Room 45, Worker Hostel, MIDC Area, Pune. The bike was his only means of livelihood, and after theft, his income stopped completely."
+    ]
+  },
+  {
+    "question": "How many EMIs did Abdul Rahman pay before defaulting? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "Abdul Rahman paid only 1 full EMI of ₹3,565/- in August 2024. The September 2024 EMI bounced due to insufficient funds, and from October 2024 onwards all EMIs remained unpaid as the bike was stolen on 30th August 2024, causing complete loss of income."
+    ]
+  },
+  {
+    "question": "What is the Days Past Due (DPD) for this loan account? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Days Past Due (DPD) is 87 days as on 26-11-2024. The default commenced from September 2024 when the first EMI bounced after the bike theft on 30th August 2024."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Loan Recall Notice regarding borrower name and vehicle? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Loan Recall Notice is addressed to 'Sanjay Kumar, Lucknow' and mentions 'Royal Enfield Classic 350' but the actual borrower is 'Abdul Rahman' from Pune and the vehicle is 'Bajaj Pulsar 125.' This is a critical error - the notice appears to be copied from a different case file and must be completely rewritten with correct borrower name, address, and vehicle details."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 21 Notice? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Section 21 Notice is addressed to 'Sanjay Kumar' and references 'PFL-TWL-231025' but the actual borrower is 'Abdul Rahman' and the loan account is 'PFL-TWL-241025.' Additionally, the notice mentions 'Royal Enfield Classic 350' and 'FIR No. 456/2024 (Hazratganj PS, Lucknow)' which are incorrect - the actual vehicle is Bajaj Pulsar 125 and FIR details are not mentioned in the case file."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 9 Petition? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Section 9 Petition mentions 'Two-Wheeler Loan ₹88,000/-' and 'Royal Enfield Classic 350' and 'FIR No. 456/2024 (Hazratganj PS, Lucknow)' but the actual loan is ₹72,000/-, vehicle is Bajaj Pulsar 125, and the case is in Pune, not Lucknow. The petition also mentions 'Borrower not insured (negligence)' which is correct, but all other details are wrong."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Statement of Claim? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Statement of Claim Part I & II mentions 'Two-Wheeler Loan' and 'Vehicle stolen (uninsured) - borrower's negligence' which is correct, but the loan amount, vehicle details, and other specifics are not clearly stated. The Statement of Account section shows '[Amount]' as placeholder, which should be filled with actual outstanding amount of ₹95,672/-."
+    ]
+  },
+  {
+    "question": "What is the borrower's residential address? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The residential address is Room 45, Worker Hostel, MIDC Area, Pune, Maharashtra - 411019. However, during the follow-up visit on 20-11-2024, it was discovered that the borrower left the hostel and went back to his hometown in Bihar, making him untraceable."
+    ]
+  },
+  {
+    "question": "What is the generated Case ID for this matter? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The generated Case ID is PFL/TWL/2024/01025. This is Phoenix Finance Ltd.'s internal reference number for tracking this Two-Wheeler Loan recovery case against Abdul Rahman."
+    ]
+  },
+  {
+    "question": "What is the EMI amount per month for this loan? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The EMI amount is ₹3,565/- per month for the 24-month tenure. This was calculated based on the loan amount of ₹72,000/- at an interest rate of 18.5% p.a. on reducing balance."
+    ]
+  },
+  {
+    "question": "What processing fee was charged on this loan? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The processing fee charged was ₹2,160/- which represents 3% of the loan amount (₹72,000/-). This is a standard processing fee percentage for two-wheeler loans."
+    ]
+  },
+  {
+    "question": "What principal amount has been recovered from EMI payments? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The principal recovered is ₹2,456/- from the single EMI payment of ₹3,565/- made in August 2024. The remaining ₹1,109/- was applied towards interest recovery."
+    ]
+  },
+  {
+    "question": "What was discovered during the hostel visit on 10-10-2024? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "During the hostel visit on 10-10-2024, the field team met the borrower who confirmed the bike theft on 30th August 2024 and showed the FIR copy. This verified the genuine nature of the theft and the borrower's cooperation in providing documentation."
+    ]
+  },
+  {
+    "question": "What was verified during the police station visit on 15-10-2024? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "During the police station visit to MIDC Police Station on 15-10-2024, the FIR was verified, confirming that the bike was not recovered yet and a suspect was identified. This showed that police investigation was ongoing but recovery was uncertain."
+    ]
+  },
+  {
+    "question": "What was discovered during the insurance inquiry on 25-10-2024? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "During the insurance inquiry on 25-10-2024, it was discovered that the vehicle had only third-party insurance with no theft cover. This confirmed the borrower's negligence in not maintaining comprehensive insurance, which is a breach of loan agreement terms."
+    ]
+  },
+  {
+    "question": "What information was shared during the call on 05-11-2024? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "On 05-11-2024, during a call to the borrower, he mentioned that he cannot work without the bike and his income has stopped completely. This explained the inability to pay EMIs despite willingness to honor the loan obligation."
+    ]
+  },
+  {
+    "question": "What was discovered during the follow-up visit on 20-11-2024? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "During the follow-up visit on 20-11-2024, it was discovered that the borrower left the hostel and went back to his hometown in Bihar. This made him untraceable and complicated the recovery process, though the borrower had been cooperative until this point."
+    ]
+  },
+  {
+    "question": "What is the interest rate on this two-wheeler loan? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The interest rate is 18.5% p.a. on a reducing balance basis. This was the contracted rate at the time of sanction on 10th July 2024 for the 24-month tenure loan."
+    ]
+  },
+  {
+    "question": "What is the date of sanction and disbursal for this loan? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The date of sanction is 10th July 2024 and the date of disbursal is 18th July 2024 - an 8-day gap which is standard for two-wheeler loan processing."
+    ]
+  },
+  {
+    "question": "What email address is on record for the borrower? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The borrower's email address is abdul.rahman02@gmail.com as per CRM records. The borrower replied to an email reminder on 28-09-2024 mentioning that insurance claim was in process, showing cooperation in communication."
+    ]
+  },
+  {
+    "question": "What is the borrower's age and gender? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The borrower Abdul Rahman is 21 years old and male. He is a gig worker with Rapido Bike Taxi with monthly income of ₹22,000/-, and the bike was his only means of livelihood."
+    ]
+  },
+  {
+    "question": "What vehicle was financed under this two-wheeler loan? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The loan financed a Bajaj Pulsar 125 two-wheeler. The vehicle was stolen on 30th August 2024, and the borrower had only third-party insurance with no theft cover, which is a breach of loan agreement terms requiring comprehensive insurance."
+    ]
+  },
+  {
+    "question": "What is the first EMI and last EMI due date? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The first EMI due date is 5th August 2024 and the last EMI due date is 5th July 2026. The loan has a 24-month tenure and the borrower paid only 1 EMI before the bike theft caused complete loss of income."
+    ]
+  },
+  {
+    "question": "What is the current case status? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The current status is: 'Arbitration being initiated, borrower cooperative but financially unable, asset recovery uncertain.' The Section 21 Notice was issued on 25-11-2024, and the company is exploring restructuring versus full arbitration given the borrower's genuine hardship and cooperation."
+    ]
+  },
+  {
+    "question": "What interaction occurred on 08-09-2024? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "On 08-09-2024, a reminder call was made to the borrower. During the call, the customer mentioned that the bike was stolen and he had filed a police complaint. This was the first communication about the theft incident."
+    ]
+  },
+  {
+    "question": "What information was shared on 20-09-2024? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "On 20-09-2024, during a follow-up call, the borrower shared the FIR copy and mentioned that the bike was not recovered yet. This showed the borrower's transparency and cooperation in providing documentation."
+    ]
+  },
+  {
+    "question": "What was the borrower's response on 28-09-2024? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "On 28-09-2024, the borrower replied to an email reminder mentioning that insurance claim was in process. However, it was later discovered on 25-10-2024 that the vehicle had only third-party insurance with no theft cover, so no insurance claim was possible."
+    ]
+  },
+  {
+    "question": "What is the Loan Recall Notice date? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Loan Recall Notice is dated 22nd November 2024 sent via Speed Post to Pune and traced Bihar address. However, the notice is incorrectly addressed to 'Sanjay Kumar, Lucknow' and mentions wrong vehicle details, which must be corrected."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice date is mentioned? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Section 21 Notice is dated 25th November 2024 invoking arbitration and mentioning asset loss. However, the notice is incorrectly addressed to 'Sanjay Kumar' and contains wrong vehicle and FIR details, which must be corrected before service."
+    ]
+  },
+  {
+    "question": "What borrower's response was received on 28-11-2024? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "On 28-11-2024, the borrower (incorrectly named as Sanjay Kumar in the response) sent an email acknowledging the loan obligation, explaining that the bike was his only means of livelihood, mentioning he now earns ₹8,000-10,000/month from odd jobs, and proposing EMI reduction to ₹1,500 for 12 months. However, this response appears to be from a different case as it references wrong details."
+    ]
+  },
+  {
+    "question": "What Section 9 relief is contemplated in this case? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Section 9 Petition contemplates restraining the borrower from relocating without disclosure, directing asset disclosure (any other property/income source), and authorizing salary/income attachment from current odd jobs. However, the petition contains wrong borrower name, vehicle details, and location, which must be corrected."
+    ]
+  },
+  {
+    "question": "What urgency grounds are cited in the Affidavit of Urgency? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta cites that this is a unique case where the vehicle was stolen and uninsured. The borrower's negligence in not insuring creates risk of absconding citing loss. There is no collateral left, and early disclosure and restriction orders are critical to maintain contact and recovery possibility through income attachment."
+    ]
+  },
+  {
+    "question": "What is unique about this vehicle theft case? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "Unique aspects: (1) Vehicle stolen - Bajaj Pulsar 125 stolen on 30th August 2024; (2) Uninsured - only third-party insurance, no theft cover (borrower's negligence); (3) Loss of livelihood - gig worker (Rapido) lost only income source; (4) Borrower cooperative - provided FIR, communicated transparently; (5) Financially unable - now earning ₹8,000-10,000/month from odd jobs vs ₹22,000/month before; (6) Loan obligation survives theft; (7) Borrower returned to Bihar hometown making him untraceable; (8) Insurance breach is separate violation; (9) Restructuring being considered vs full arbitration."
+    ]
+  },
+  {
+    "question": "What is the borrower's PAN and Aadhaar number? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The borrower's PAN is STUAR7890F and Aadhaar is XXXX-XXXX-5678 (masked format). These KYC details are maintained in CRM records for loan account PFL-TWL-241025."
+    ]
+  },
+  {
+    "question": "What phone numbers are on record for the borrower? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The phone numbers on record are: Primary +91-9689123456 and Alternate +91-9689123457. The borrower has been responsive to calls, though he has now returned to his hometown in Bihar, making contact more difficult."
+    ]
+  },
+  {
+    "question": "What is the repayment tenure for this loan? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The repayment tenure is 24 months from August 2024 to July 2026. The first EMI was due on 5th August 2024 and the last EMI is scheduled for 5th July 2026. The borrower paid only 1 EMI before the bike theft."
+    ]
+  },
+  {
+    "question": "Calculate the outstanding as percentage of original loan. <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The outstanding amount of ₹95,672/- represents approximately 133% of the original loan of ₹72,000/-. This reflects that minimal principal has been recovered (₹2,456/-) and accumulated interest, penalties, and legal charges over the 87-day default period have significantly increased the total outstanding."
+    ]
+  },
+  {
+    "question": "What is the interest recovered from EMI payments? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The interest recovered is ₹1,109/- from the single EMI payment of ₹3,565/- made in August 2024. The principal recovered is ₹2,456/-."
+    ]
+  },
+  {
+    "question": "What is the pincode of the borrower's address? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The pincode of the borrower's address in MIDC Area, Pune is 411019. However, the borrower has now returned to his hometown in Bihar, making the Pune address no longer valid for service."
+    ]
+  },
+  {
+    "question": "What penal interest and charges are outstanding? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The penal interest and charges amount to ₹6,450/- as on 26-11-2024. Additionally, legal notice charges of ₹5,000/- have been added, reflecting the progression to formal legal proceedings with the Loan Recall Notice and Section 21 Notice."
+    ]
+  },
+  {
+    "question": "What is the case folder number? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The case folder number is ARB/2024/1025 as shown in the header. This matches the Arbitration Reference Number ARB/2024/1025 used in legal documents."
+    ]
+  },
+  {
+    "question": "What is the Arbitration Reference Number mentioned? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Arbitration Reference Number is ARB/2024/1025 as mentioned in the Section 17 Application and Statement of Claim documents. The Section 21 Notice was issued on 25-11-2024, and arbitration is being initiated."
+    ]
+  },
+  {
+    "question": "What recovery timeline is documented from bike theft to current status? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "Timeline: Bike stolen 30-08-2024 → First EMI paid 05-08-2024 → September EMI bounced 05-09-2024 → Customer mentioned bike stolen 08-09-2024 → Shared FIR copy 20-09-2024 → Insurance claim mentioned 28-09-2024 → Hostel visit confirmed theft 10-10-2024 → Police verified FIR 15-10-2024 → Insurance inquiry found no theft cover 25-10-2024 → Borrower mentioned income stopped 05-11-2024 → Borrower left for Bihar 20-11-2024 → Loan Recall Notice 22-11-2024 → Section 21 Notice 25-11-2024 → Arbitration being initiated as of 26-11-2024."
+    ]
+  },
+  {
+    "question": "What execution mode is contemplated for this case? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Execution Petition contemplates: (A) INCOME ATTACHMENT from current employment (odd jobs earning ₹8,000-10,000/month); (B) Bank accounts attachment; (C) Property search and attachment; (D) Enhanced recovery including insurance breach penalty of ₹25,000/-. The execution is challenging due to borrower's low income and relocation to Bihar."
+    ]
+  },
+  {
+    "question": "What advocate represents Phoenix Finance Ltd.? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "Advocate Ramesh Khanna represents Phoenix Finance Ltd. His name appears on the Section 9 Petition dated 10th November 2024 and other legal documents for this case."
+    ]
+  },
+  {
+    "question": "Review if the status in header matches current case stage. <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The header shows status as 'Arbitration Process Initiated' which is correct. The Section 21 Notice was issued on 25-11-2024, and the company is exploring restructuring versus full arbitration. The case is in early arbitration stage with decision pending on whether to proceed with full arbitration or consider the borrower's restructuring proposal."
+    ]
+  },
+  {
+    "question": "What List of Documents should be included for this case? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "Annexures C-1 to C-16 (74 pages) should include: Loan Agreement with Insurance Clause Highlighted, Theft FIR from MIDC Police Station, Police Reports, Insurance Lapse Documentation (third-party only, no theft cover), Loan Terms Breach Evidence, Original Vehicle Documents, Bank Statements, and KYC documents."
+    ]
+  },
+  {
+    "question": "What is the Evidence Affidavit verification date? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Evidence Affidavit by Amit Verma is verified on 15th November 2024. The affidavit correctly mentions vehicle stolen (uninsured), borrower's negligence in not maintaining mandatory insurance, primary collateral lost, and loan obligation remains despite theft."
+    ]
+  },
+  {
+    "question": "What is the Statement of Claim filing date? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Statement of Claim is dated 15th November 2024 as per the legal documents. However, the Statement of Account section shows '[Amount]' as placeholder, which should be filled with actual outstanding amount of ₹95,672/- before filing."
+    ]
+  },
+  {
+    "question": "What discrepancies exist across multiple documents regarding borrower name and vehicle? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "Critical discrepancies: (1) Loan Recall Notice addressed to 'Sanjay Kumar, Lucknow' but actual borrower is 'Abdul Rahman, Pune'; (2) Notice mentions 'Royal Enfield Classic 350' but actual vehicle is 'Bajaj Pulsar 125'; (3) Notice mentions 'FIR No. 456/2024 (Hazratganj PS, Lucknow)' but actual FIR is from MIDC Police Station, Pune; (4) Section 21 Notice has same errors; (5) Section 9 Petition mentions wrong loan amount (₹88,000 vs ₹72,000), wrong vehicle, wrong location; (6) Borrower's response email dated 28-11-2024 is from 'Sanjay Kumar' which appears to be from a different case. All these documents must be corrected with accurate borrower and vehicle details."
+    ]
+  },
+  {
+    "question": "What is the Section 9 Petition filing date? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Section 9 Petition is dated 10th November 2024 before the Hon'ble District Judge, Lucknow. However, the actual case is in Pune, and the petition contains wrong borrower name, vehicle details, and location. The petition should be filed in Pune court with correct details."
+    ]
+  },
+  {
+    "question": "What is the borrower's employment type and income? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The borrower is a gig worker with Rapido Bike Taxi with monthly income of ₹22,000/-. After the bike theft, he lost his only means of livelihood and is now doing odd jobs earning ₹8,000-10,000/month, which is insufficient to pay the EMI of ₹3,565/-."
+    ]
+  },
+  {
+    "question": "What is the total amount of EMIs paid? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The total EMIs paid is ₹3,565/- representing 1 full EMI paid in August 2024. The borrower defaulted from September 2024 onwards after the bike theft on 30th August 2024 caused complete loss of income."
+    ]
+  },
+  {
+    "question": "What FIR details are mentioned in the case file? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The case file mentions that the borrower filed a police complaint and showed FIR copy during the hostel visit on 10-10-2024. The FIR was verified at MIDC Police Station on 15-10-2024, confirming the bike was not recovered and a suspect was identified. However, the specific FIR number is not mentioned in the case file, which should be added for proper documentation."
+    ]
+  },
+  {
+    "question": "What is the Arbitral Award extract showing? <case_id:case_025, folder_id:ARB/2024/1025>",
+    "golden_answers": [
+      "The Arbitral Award extract shows: (A) DOUBLE BREACH - EMI default and Insurance lapse (borrower's negligence); (B) Pay outstanding amount plus ₹25,000/- penalty for insurance breach; (C) Interest @ 18% p.a.; (D) Costs: ₹75,000/-; (E) Loan obligation survives theft; (F) Income attachment authorized. The award recognizes both the default and the insurance breach as separate violations."
+    ]
+  }
+]

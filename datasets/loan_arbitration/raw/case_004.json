@@ -1,330 +1,494 @@
 [
   {
-    "question": "The Section 17 application lists respondent as 'Deepak Singh' in Bangalore, but the case is about Vikram Singh in Gurgaon. Is this content from the wrong case file?",
-    "golden_answers": ["Yes, this is clearly content from a different case. The Section 17 application for Deepak Singh in Bangalore was mistakenly included in Vikram Singh's Gurgaon case file. This entire section should be removed and replaced with the correct application for Vikram Singh if one exists."]
+    "question": "The Section 17 application lists respondent as 'Deepak Singh' in Bangalore, but the case is about Vikram Singh in Gurgaon. Is this content from the wrong case file? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, this is clearly content from a different case. The Section 17 application for Deepak Singh in Bangalore was mistakenly included in Vikram Singh's Gurgaon case file. This entire section should be removed and replaced with the correct application for Vikram Singh if one exists."
+    ]
   },
   {
-    "question": "The case file shows the borrower Vikram Singh is 'still employed at Wipro Technologies' earning ₹52,000/month but deliberately avoiding payment. What does this imply about the nature of the default?",
-    "golden_answers": ["This indicates willful default rather than inability to pay. Unlike cases involving job loss or medical emergencies, Vikram Singh has consistent income but chose to evade payment, abandon his residence, and avoid communication. This pattern of deliberate evasion justifies more aggressive recovery measures and potentially higher penal consequences."]
+    "question": "The case file shows the borrower Vikram Singh is 'still employed at Wipro Technologies' earning ₹52,000/month but deliberately avoiding payment. What does this imply about the nature of the default? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "This indicates willful default rather than inability to pay. Unlike cases involving job loss or medical emergencies, Vikram Singh has consistent income but chose to evade payment, abandon his residence, and avoid communication. This pattern of deliberate evasion justifies more aggressive recovery measures and potentially higher penal consequences."
+    ]
   },
   {
-    "question": "The recovery timeline shows the borrower 'disconnected call' on 08-09-2023 and subsequently 'walked away' when met at office gate on 25-11-2023. How should these evasive behaviors be characterized in legal filings?",
-    "golden_answers": ["These behaviors should be characterized as 'deliberate evasion and non-cooperation' in legal filings. The pattern of disconnecting calls, avoiding office interactions, and absconding from registered address despite stable employment demonstrates intentional avoidance of obligations, supporting claims for ex-parte proceedings and enhanced recovery measures."]
+    "question": "The recovery timeline shows the borrower 'disconnected call' on 08-09-2023 and subsequently 'walked away' when met at office gate on 25-11-2023. How should these evasive behaviors be characterized in legal filings? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "These behaviors should be characterized as 'deliberate evasion and non-cooperation' in legal filings. The pattern of disconnecting calls, avoiding office interactions, and absconding from registered address despite stable employment demonstrates intentional avoidance of obligations, supporting claims for ex-parte proceedings and enhanced recovery measures."
+    ]
   },
   {
-    "question": "The field visit on 10-11-2023 found the residence locked with society security saying 'family moved out.' However, employer verification on 15-11-2023 confirmed the borrower is 'still employed, no resignation.' What does this discrepancy reveal?",
-    "golden_answers": ["This reveals strategic evasion: the borrower changed residence to avoid recovery while maintaining employment at Wipro for income. This sophisticated avoidance pattern suggests premeditated default rather than hardship, strengthening the lender's case for immediate interim measures and potentially supporting claims of fraudulent conduct."]
+    "question": "The field visit on 10-11-2023 found the residence locked with society security saying 'family moved out.' However, employer verification on 15-11-2023 confirmed the borrower is 'still employed, no resignation.' What does this discrepancy reveal? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "This reveals strategic evasion: the borrower changed residence to avoid recovery while maintaining employment at Wipro for income. This sophisticated avoidance pattern suggests premeditated default rather than hardship, strengthening the lender's case for immediate interim measures and potentially supporting claims of fraudulent conduct."
+    ]
   },
   {
-    "question": "The alternate phone number call on 10-12-2023 resulted in 'Person claimed wrong number.' Should this be investigated further?",
-    "golden_answers": ["Yes, this warrants investigation. The person may be denying association to protect the borrower, or the borrower may have given a false alternate number. Verification through telco records or connecting this number to other contact points could reveal the borrower's actual network, aiding in locating him or establishing deliberate provision of false information."]
+    "question": "The alternate phone number call on 10-12-2023 resulted in 'Person claimed wrong number.' Should this be investigated further? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, this warrants investigation. The person may be denying association to protect the borrower, or the borrower may have given a false alternate number. Verification through telco records or connecting this number to other contact points could reveal the borrower's actual network, aiding in locating him or establishing deliberate provision of false information."
+    ]
   },
   {
-    "question": "The Section 9 petition states the borrower's salary as ₹55,000/month but the CRM shows ₹52,000/month. Which figure should be used?",
-    "golden_answers": ["The CRM figure of ₹52,000/month should be used as it represents verified original documentation. The ₹55,000 figure may be a typographical error or outdated information. Consistency with CRM data ensures accuracy and prevents the respondent from challenging factual discrepancies. The petition should be corrected."]
+    "question": "The Section 9 petition states the borrower's salary as ₹55,000/month but the CRM shows ₹52,000/month. Which figure should be used? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "The CRM figure of ₹52,000/month should be used as it represents verified original documentation. The ₹55,000 figure may be a typographical error or outdated information. Consistency with CRM data ensures accuracy and prevents the respondent from challenging factual discrepancies. The petition should be corrected."
+    ]
   },
   {
-    "question": "The vehicle registration number is stated as HR-26-AB-1234 in the SOC. Should this be cross-verified with RTO records before proceeding with attachment?",
-    "golden_answers": ["Yes, RTO verification is essential. This confirms the vehicle exists, is registered to the borrower, has no other encumbrances, and its current status (active/cancelled/transferred). RTO verification also confirms the hypothecation in favor of Phoenix Finance Ltd. is recorded, establishing the lender's priority claim."]
+    "question": "The vehicle registration number is stated as HR-26-AB-1234 in the SOC. Should this be cross-verified with RTO records before proceeding with attachment? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, RTO verification is essential. This confirms the vehicle exists, is registered to the borrower, has no other encumbrances, and its current status (active/cancelled/transferred). RTO verification also confirms the hypothecation in favor of Phoenix Finance Ltd. is recorded, establishing the lender's priority claim."
+    ]
   },
   {
-    "question": "The award passed by Justice (Retd.) Suresh Mehta at Gurgaon shows the seat of arbitration as 'Gurgaon' but the Arbitration Reference number shows ARB/DEL/2024/1004 indicating Delhi. Is this inconsistent?",
-    "golden_answers": ["This is a minor inconsistency. 'DEL' likely indicates the broader Delhi NCR region which includes Gurgaon. However, for clarity, the reference should ideally match the seat exactly. If Gurgaon is the seat, using ARB/GGN/2024/1004 would be more precise. This should be verified against the arbitrator appointment order."]
+    "question": "The award passed by Justice (Retd.) Suresh Mehta at Gurgaon shows the seat of arbitration as 'Gurgaon' but the Arbitration Reference number shows ARB/DEL/2024/1004 indicating Delhi. Is this inconsistent? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "This is a minor inconsistency. 'DEL' likely indicates the broader Delhi NCR region which includes Gurgaon. However, for clarity, the reference should ideally match the seat exactly. If Gurgaon is the seat, using ARB/GGN/2024/1004 would be more precise. This should be verified against the arbitrator appointment order."
+    ]
   },
   {
-    "question": "The DPD is stated as 447 days as on 26-11-2024. If the September 2023 EMI bounced on 05-09-2023, does this calculation appear accurate?",
-    "golden_answers": ["Yes, from 5 September 2023 to 26 November 2024 is approximately 448 days, matching the stated 447 DPD within acceptable tolerance. This extensive default period of nearly 15 months justifies the aggressive recovery approach, especially given the borrower's deliberate evasion despite having income."]
+    "question": "The DPD is stated as 447 days as on 26-11-2024. If the September 2023 EMI bounced on 05-09-2023, does this calculation appear accurate? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, from 5 September 2023 to 26 November 2024 is approximately 448 days, matching the stated 447 DPD within acceptable tolerance. This extensive default period of nearly 15 months justifies the aggressive recovery approach, especially given the borrower's deliberate evasion despite having income."
+    ]
   },
   {
-    "question": "The case shows only 4 EMIs were paid from May to August 2023 before default. The Statement of Claim claims ₹1,18,758 outstanding. Should the original vs outstanding amounts be reconciled?",
-    "golden_answers": ["Let's verify: Original loan ₹82,000, 4 EMIs paid = ₹11,740, with principal recovery of ₹9,637 leaving principal outstanding of ₹72,363. Adding interest (₹28,945), penal interest (₹12,450), and legal charges (₹5,000) totals ₹1,18,758. The calculation appears correct and consistent with the Statement of Account breakdown."]
+    "question": "The case shows only 4 EMIs were paid from May to August 2023 before default. The Statement of Claim claims ₹1,18,758 outstanding. Should the original vs outstanding amounts be reconciled? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Let's verify: Original loan ₹82,000, 4 EMIs paid = ₹11,740, with principal recovery of ₹9,637 leaving principal outstanding of ₹72,363. Adding interest (₹28,945), penal interest (₹12,450), and legal charges (₹5,000) totals ₹1,18,758. The calculation appears correct and consistent with the Statement of Account breakdown."
+    ]
   },
   {
-    "question": "The Recall Notice was issued on 15th January 2024 and returned undelivered from the old address on 05th February 2024. Does the undelivered notice affect service validity?",
-    "golden_answers": ["Under Section 3 of the Arbitration Act, deemed service occurs when notice is sent to the last known address. Even if returned undelivered, service is deemed complete if sent to the registered address. The borrower's deliberate change of address without notification doesn't invalidate service. The postal receipt establishes dispatch, which is sufficient."]
+    "question": "The Recall Notice was issued on 15th January 2024 and returned undelivered from the old address on 05th February 2024. Does the undelivered notice affect service validity? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Under Section 3 of the Arbitration Act, deemed service occurs when notice is sent to the last known address. Even if returned undelivered, service is deemed complete if sent to the registered address. The borrower's deliberate change of address without notification doesn't invalidate service. The postal receipt establishes dispatch, which is sufficient."
+    ]
   },
   {
-    "question": "The Section 21 Notice was sent to the office address on 20th February 2024 after the residence notice was returned. Is service to office address valid?",
-    "golden_answers": ["Yes, service to office address is valid when the registered address proves unserviceable. Since employer verification confirmed continued employment, the office is a known address where the borrower can be reached. Courts recognize alternative service methods when primary address becomes unavailable due to the recipient's own actions."]
+    "question": "The Section 21 Notice was sent to the office address on 20th February 2024 after the residence notice was returned. Is service to office address valid? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, service to office address is valid when the registered address proves unserviceable. Since employer verification confirmed continued employment, the office is a known address where the borrower can be reached. Courts recognize alternative service methods when primary address becomes unavailable due to the recipient's own actions."
+    ]
   },
   {
-    "question": "The borrower was met at the Wipro office gate on 25-11-2023 and 'walked away' avoiding conversation. Does this in-person contact establish he received notice of the default?",
-    "golden_answers": ["Yes, this in-person contact establishes actual knowledge of the recovery attempt. Even without formal notice delivery at that moment, the borrower's awareness of the lender's pursuit is documented. This undermines any future claim of 'no notice' and supports characterization of willful evasion despite knowledge of obligations."]
+    "question": "The borrower was met at the Wipro office gate on 25-11-2023 and 'walked away' avoiding conversation. Does this in-person contact establish he received notice of the default? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, this in-person contact establishes actual knowledge of the recovery attempt. Even without formal notice delivery at that moment, the borrower's awareness of the lender's pursuit is documented. This undermines any future claim of 'no notice' and supports characterization of willful evasion despite knowledge of obligations."
+    ]
   },
   {
-    "question": "The Evidence Affidavit states the borrower 'has absconded.' Is this term appropriate given he is still employed at his known workplace?",
-    "golden_answers": ["'Absconded from registered address' is more accurate than simply 'absconded.' The borrower hasn't disappeared completely—he's still employed at Wipro—but has abandoned his registered residence without providing forwarding address. The affidavit language should specify 'absconded from registered residential address while continuing employment elsewhere.'"]
+    "question": "The Evidence Affidavit states the borrower 'has absconded.' Is this term appropriate given he is still employed at his known workplace? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "'Absconded from registered address' is more accurate than simply 'absconded.' The borrower hasn't disappeared completely—he's still employed at Wipro—but has abandoned his registered residence without providing forwarding address. The affidavit language should specify 'absconded from registered residential address while continuing employment elsewhere.'"
+    ]
   },
   {
-    "question": "The Statement of Claim is filed on 15th July 2024 but the arbitrator was appointed on 25th June 2024. Is the 20-day gap between appointment and SOC filing acceptable?",
-    "golden_answers": ["Yes, a 20-day gap is acceptable. There's no statutory deadline for filing SOC after arbitrator appointment, though most institutional rules suggest 30-45 days. The gap allows time for document preparation and formal tribunal constitution. The claimant filed within a reasonable timeframe."]
+    "question": "The Statement of Claim is filed on 15th July 2024 but the arbitrator was appointed on 25th June 2024. Is the 20-day gap between appointment and SOC filing acceptable? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, a 20-day gap is acceptable. There's no statutory deadline for filing SOC after arbitrator appointment, though most institutional rules suggest 30-45 days. The gap allows time for document preparation and formal tribunal constitution. The claimant filed within a reasonable timeframe."
+    ]
   },
   {
-    "question": "The case shows the arbitrator was appointed on 25-06-2024 via Section 11 petition filed on 15-05-2024. What was the timeline from petition to appointment?",
-    "golden_answers": ["The timeline was 41 days (15 May to 25 June 2024), which is reasonable for court-appointed arbitrators. Section 11 appointments typically take 30-60 days depending on court workload. This timeline suggests the petition was processed expeditiously."]
+    "question": "The case shows the arbitrator was appointed on 25-06-2024 via Section 11 petition filed on 15-05-2024. What was the timeline from petition to appointment? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "The timeline was 41 days (15 May to 25 June 2024), which is reasonable for court-appointed arbitrators. Section 11 appointments typically take 30-60 days depending on court workload. This timeline suggests the petition was processed expeditiously."
+    ]
   },
   {
-    "question": "The Execution Petition requests 'police assistance for tracing' the borrower. Is police involvement appropriate in a civil loan default case?",
-    "golden_answers": ["Police assistance for tracing is limited in civil matters. Police can assist in execution under CPC Order 21 but typically for attachment/eviction support, not borrower tracing. For tracing, private investigators or skip tracing services are more appropriate. Police involvement requires court order and is justified only when resistance or breach of peace is anticipated."]
+    "question": "The Execution Petition requests 'police assistance for tracing' the borrower. Is police involvement appropriate in a civil loan default case? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Police assistance for tracing is limited in civil matters. Police can assist in execution under CPC Order 21 but typically for attachment/eviction support, not borrower tracing. For tracing, private investigators or skip tracing services are more appropriate. Police involvement requires court order and is justified only when resistance or breach of peace is anticipated."
+    ]
   },
   {
-    "question": "The total outstanding ₹1,18,758 includes legal charges of ₹5,000 but no invoice is referenced. Should this be documented?",
-    "golden_answers": ["Yes, an invoice or cost breakdown should be provided. While ₹5,000 for legal notices is reasonable, attaching documentation (notice drafting: ₹2,000, courier/Speed Post: ₹500, advocate consultation: ₹2,500) prevents disputes and demonstrates transparency. The borrower could challenge undocumented costs."]
+    "question": "The total outstanding ₹1,18,758 includes legal charges of ₹5,000 but no invoice is referenced. Should this be documented? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, an invoice or cost breakdown should be provided. While ₹5,000 for legal notices is reasonable, attaching documentation (notice drafting: ₹2,000, courier/Speed Post: ₹500, advocate consultation: ₹2,500) prevents disputes and demonstrates transparency. The borrower could challenge undocumented costs."
+    ]
   },
   {
-    "question": "The case shows penal interest of ₹12,450 on an outstanding principal of approximately ₹72,363 over 447 days. What is the implied penal rate?",
-    "golden_answers": ["₹12,450 on ₹72,363 over 447 days (~15 months) implies approximately 1.15% per month or 14% per year in penal charges. This is relatively moderate compared to typical 2-3% monthly penal rates. The calculation appears within acceptable bounds and is unlikely to be challenged as excessive."]
+    "question": "The case shows penal interest of ₹12,450 on an outstanding principal of approximately ₹72,363 over 447 days. What is the implied penal rate? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "₹12,450 on ₹72,363 over 447 days (~15 months) implies approximately 1.15% per month or 14% per year in penal charges. This is relatively moderate compared to typical 2-3% monthly penal rates. The calculation appears within acceptable bounds and is unlikely to be challenged as excessive."
+    ]
   },
   {
-    "question": "The arbitration reference shows ARB/BLR/2024/1004 in some sections (indicating Bangalore) and ARB/DEL/2024/1004 in others. Which is correct for a Gurgaon-based case?",
-    "golden_answers": ["ARB/DEL/2024/1004 (Delhi NCR) is likely correct for a Gurgaon case, as Gurgaon is in the Delhi NCR region. The ARB/BLR (Bangalore) references are clearly from a different case that got mixed into this file. All Bangalore references should be removed and the file cleaned to contain only Vikram Singh's Gurgaon case content."]
+    "question": "The arbitration reference shows ARB/BLR/2024/1004 in some sections (indicating Bangalore) and ARB/DEL/2024/1004 in others. Which is correct for a Gurgaon-based case? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "ARB/DEL/2024/1004 (Delhi NCR) is likely correct for a Gurgaon case, as Gurgaon is in the Delhi NCR region. The ARB/BLR (Bangalore) references are clearly from a different case that got mixed into this file. All Bangalore references should be removed and the file cleaned to contain only Vikram Singh's Gurgaon case content."
+    ]
   },
   {
-    "question": "The Arbitral Award references a different borrower 'Deepak Singh' and 'Hero Splendor Plus' vehicle. The actual case is Vikram Singh with Suzuki Access 125. What needs correction?",
-    "golden_answers": ["This is a critical error—content from a completely different case has been included. The entire Award section appears to be from a Deepak Singh case in Bangalore with a different vehicle and loan amount. This must be replaced with Vikram Singh's actual award or marked as pending if no award has been passed yet."]
+    "question": "The Arbitral Award references a different borrower 'Deepak Singh' and 'Hero Splendor Plus' vehicle. The actual case is Vikram Singh with Suzuki Access 125. What needs correction? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "This is a critical error—content from a completely different case has been included. The entire Award section appears to be from a Deepak Singh case in Bangalore with a different vehicle and loan amount. This must be replaced with Vikram Singh's actual award or marked as pending if no award has been passed yet."
+    ]
   },
   {
-    "question": "The EMI payment history shows the August 2023 EMI as 'Paid' but the CRM notes say default started in September 2023. Is this timeline consistent?",
-    "golden_answers": ["Yes, the timeline is internally consistent. Four EMIs were paid (May-August 2023), all on time. The September 2023 EMI bounced, marking the start of default. The August EMI being 'Paid' is correct, and September being 'Bounced' aligns with the stated default commencement date."]
+    "question": "The EMI payment history shows the August 2023 EMI as 'Paid' but the CRM notes say default started in September 2023. Is this timeline consistent? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, the timeline is internally consistent. Four EMIs were paid (May-August 2023), all on time. The September 2023 EMI bounced, marking the start of default. The August EMI being 'Paid' is correct, and September being 'Bounced' aligns with the stated default commencement date."
+    ]
   },
   {
-    "question": "The case status is 'Arbitration Process Initiated' but the file contains an Arbitral Award. Should the status be updated?",
-    "golden_answers": ["The status should be verified. If the Award content is from a different case (Deepak Singh), then 'Arbitration Process Initiated' may be correct for Vikram Singh. If Vikram Singh's arbitration has concluded with an award, status should be 'Award Passed.' The file needs cleaning to determine the actual case stage."]
+    "question": "The case status is 'Arbitration Process Initiated' but the file contains an Arbitral Award. Should the status be updated? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "The status should be verified. If the Award content is from a different case (Deepak Singh), then 'Arbitration Process Initiated' may be correct for Vikram Singh. If Vikram Singh's arbitration has concluded with an award, status should be 'Award Passed.' The file needs cleaning to determine the actual case stage."
+    ]
   },
   {
-    "question": "The recovery timeline shows employer verification at 'Wipro HR Department' on 15-11-2023. Should periodic re-verification be done during arbitration?",
-    "golden_answers": ["Yes, re-verification at key stages (pre-SOC filing, pre-hearing, pre-execution) ensures the borrower remains employed and salary attachment remains viable. Given this borrower's evasive pattern, he might resign or relocate further. Current employment status directly impacts recovery strategy."]
+    "question": "The recovery timeline shows employer verification at 'Wipro HR Department' on 15-11-2023. Should periodic re-verification be done during arbitration? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, re-verification at key stages (pre-SOC filing, pre-hearing, pre-execution) ensures the borrower remains employed and salary attachment remains viable. Given this borrower's evasive pattern, he might resign or relocate further. Current employment status directly impacts recovery strategy."
+    ]
   },
   {
-    "question": "The SOC filed on 15th July 2024 claims ₹1,18,758 as 'outstanding as on 26-11-2024.' How can the SOC reference a future date?",
-    "golden_answers": ["This is an error. The SOC filed in July 2024 cannot reference amounts calculated as of November 2024. The amount should be calculated as of the SOC filing date (July 2024) or the most recent date before filing. Future interest accrual can be claimed but the base amount must be accurate as of filing."]
+    "question": "The SOC filed on 15th July 2024 claims ₹1,18,758 as 'outstanding as on 26-11-2024.' How can the SOC reference a future date? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "This is an error. The SOC filed in July 2024 cannot reference amounts calculated as of November 2024. The amount should be calculated as of the SOC filing date (July 2024) or the most recent date before filing. Future interest accrual can be claimed but the base amount must be accurate as of filing."
+    ]
   },
   {
-    "question": "The Loan Agreement date is stated as 8th April 2023 but disbursal occurred on 15th April 2023. The EMI table shows first payment in May 2023. Is there any gap issue?",
-    "golden_answers": ["No gap issue exists. Loan Agreement on 8 April, disbursal on 15 April (7 days for processing), and first EMI on 5 May (20 days post-disbursal) is a standard timeline allowing the borrower time to arrange funds after receiving the vehicle. The dates are internally consistent."]
+    "question": "The Loan Agreement date is stated as 8th April 2023 but disbursal occurred on 15th April 2023. The EMI table shows first payment in May 2023. Is there any gap issue? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "No gap issue exists. Loan Agreement on 8 April, disbursal on 15 April (7 days for processing), and first EMI on 5 May (20 days post-disbursal) is a standard timeline allowing the borrower time to arrange funds after receiving the vehicle. The dates are internally consistent."
+    ]
   },
   {
-    "question": "The Section 9 petition requests restraint on vehicle disposal. If the borrower has absconded, who would dispose of the vehicle?",
-    "golden_answers": ["The vehicle may be disposed by someone acting on the borrower's behalf—family members, friends, or the borrower remotely arranging sale. The petition should specifically name any known possessors (e.g., if the vehicle is with parents or at the old residence with caretaker). Generic restraint is less effective than targeted orders."]
+    "question": "The Section 9 petition requests restraint on vehicle disposal. If the borrower has absconded, who would dispose of the vehicle? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "The vehicle may be disposed by someone acting on the borrower's behalf—family members, friends, or the borrower remotely arranging sale. The petition should specifically name any known possessors (e.g., if the vehicle is with parents or at the old residence with caretaker). Generic restraint is less effective than targeted orders."
+    ]
   },
   {
-    "question": "The interest rate is 16.5% p.a. per the loan agreement, but the alternate award shows 18% 'for evasion.' Can arbitrators impose higher interest rates as penalty for borrower behavior?",
-    "golden_answers": ["Arbitrators typically cannot unilaterally increase the contractual interest rate. The 18% rate in the mixed-in Deepak Singh award may reflect that case's contractual terms rather than a behavioral penalty. For Vikram Singh's case, the award should use 16.5% as per agreement, though costs may be enhanced for non-cooperation."]
+    "question": "The interest rate is 16.5% p.a. per the loan agreement, but the alternate award shows 18% 'for evasion.' Can arbitrators impose higher interest rates as penalty for borrower behavior? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Arbitrators typically cannot unilaterally increase the contractual interest rate. The 18% rate in the mixed-in Deepak Singh award may reflect that case's contractual terms rather than a behavioral penalty. For Vikram Singh's case, the award should use 16.5% as per agreement, though costs may be enhanced for non-cooperation."
+    ]
   },
   {
-    "question": "The loan amount is ₹82,000 for a Suzuki Access 125. Does this loan-to-value ratio appear appropriate?",
-    "golden_answers": ["A Suzuki Access 125 typically costs ₹75,000-₹85,000 on-road. A loan of ₹82,000 represents approximately 95-100% financing, which is high but common for two-wheeler loans. Some portion is usually covered by down payment. The LTV appears normal for the vehicle type, though high financing increases recovery risk if the borrower defaults early."]
+    "question": "The loan amount is ₹82,000 for a Suzuki Access 125. Does this loan-to-value ratio appear appropriate? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "A Suzuki Access 125 typically costs ₹75,000-₹85,000 on-road. A loan of ₹82,000 represents approximately 95-100% financing, which is high but common for two-wheeler loans. Some portion is usually covered by down payment. The LTV appears normal for the vehicle type, though high financing increases recovery risk if the borrower defaults early."
+    ]
   },
   {
-    "question": "The Affidavit of Urgency mentions 'deliberate evading despite employment.' Should specific evidence of deliberate evasion be annexed?",
-    "golden_answers": ["Yes, annexing evidence strengthens the urgency claim: call logs showing disconnected calls, field visit reports showing society security statements, email delivery confirmations without response, and employer verification confirming active employment. This documented pattern of knowing avoidance despite means to pay establishes deliberate evasion."]
+    "question": "The Affidavit of Urgency mentions 'deliberate evading despite employment.' Should specific evidence of deliberate evasion be annexed? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, annexing evidence strengthens the urgency claim: call logs showing disconnected calls, field visit reports showing society security statements, email delivery confirmations without response, and employer verification confirming active employment. This documented pattern of knowing avoidance despite means to pay establishes deliberate evasion."
+    ]
   },
   {
-    "question": "The recovery timeline shows SMS messages as 'Delivered' but no response. Should delivery reports be preserved as evidence?",
-    "golden_answers": ["Yes, SMS delivery reports should be preserved. They establish that messages reached the borrower's device, meaning he was aware of recovery attempts and chose not to respond. This evidence counters any claim of 'no communication' and supports ex-parte proceedings justification."]
+    "question": "The recovery timeline shows SMS messages as 'Delivered' but no response. Should delivery reports be preserved as evidence? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, SMS delivery reports should be preserved. They establish that messages reached the borrower's device, meaning he was aware of recovery attempts and chose not to respond. This evidence counters any claim of 'no communication' and supports ex-parte proceedings justification."
+    ]
   },
   {
-    "question": "The Statement of Claim lists only 7 documents. Is this sufficient for a case involving absconding borrower?",
-    "golden_answers": ["Seven documents appears minimal for a complex case. Additional documentation should include: field visit reports with photographs, call logs and recordings, SMS delivery reports, email correspondence, employer verification letter, society security statements, and postal tracking records. Comprehensive documentation strengthens the ex-parte case."]
+    "question": "The Statement of Claim lists only 7 documents. Is this sufficient for a case involving absconding borrower? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Seven documents appears minimal for a complex case. Additional documentation should include: field visit reports with photographs, call logs and recordings, SMS delivery reports, email correspondence, employer verification letter, society security statements, and postal tracking records. Comprehensive documentation strengthens the ex-parte case."
+    ]
   },
   {
-    "question": "The case shows Principal Outstanding as ₹72,363 and Total Outstanding as ₹1,18,758. The difference of ₹46,395 represents interest and charges. Is this 64% markup over principal concerning?",
-    "golden_answers": ["The 64% markup accumulates over 15 months of default: interest at 16.5% p.a. (~₹18,000), penal charges (~₹12,450), and legal costs (₹5,000) plus additional interest accrual. While substantial, each component is contractually or legally justified. The percentage appears high but individual elements are defensible."]
+    "question": "The case shows Principal Outstanding as ₹72,363 and Total Outstanding as ₹1,18,758. The difference of ₹46,395 represents interest and charges. Is this 64% markup over principal concerning? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "The 64% markup accumulates over 15 months of default: interest at 16.5% p.a. (~₹18,000), penal charges (~₹12,450), and legal costs (₹5,000) plus additional interest accrual. While substantial, each component is contractually or legally justified. The percentage appears high but individual elements are defensible."
+    ]
   },
   {
-    "question": "The Execution Petition requests 'property search.' What properties might an employed software analyst own that could be attached?",
-    "golden_answers": ["Potential attachable properties include: bank accounts (salary accounts at major banks), fixed deposits, mutual fund investments, any real estate in the borrower's name, vehicles other than the financed one, provident fund (with restrictions), and any movable assets traceable through PAN-linked transactions. Employment at a reputable company suggests some savings/investments."]
+    "question": "The Execution Petition requests 'property search.' What properties might an employed software analyst own that could be attached? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Potential attachable properties include: bank accounts (salary accounts at major banks), fixed deposits, mutual fund investments, any real estate in the borrower's name, vehicles other than the financed one, provident fund (with restrictions), and any movable assets traceable through PAN-linked transactions. Employment at a reputable company suggests some savings/investments."
+    ]
   },
   {
-    "question": "The borrower earns ₹52,000/month at Wipro. The EMI is ₹2,935/month, which is about 5.6% of salary. Why would someone with such affordable EMI deliberately default?",
-    "golden_answers": ["The affordable EMI ratio makes deliberate default puzzling. Possible explanations include: other undisclosed debts creating overall stress, personal financial priorities, belief he can avoid consequences, or dispute with the lender. Regardless of reason, the low EMI burden undermines any hardship defense and strengthens the willful default characterization."]
+    "question": "The borrower earns ₹52,000/month at Wipro. The EMI is ₹2,935/month, which is about 5.6% of salary. Why would someone with such affordable EMI deliberately default? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "The affordable EMI ratio makes deliberate default puzzling. Possible explanations include: other undisclosed debts creating overall stress, personal financial priorities, belief he can avoid consequences, or dispute with the lender. Regardless of reason, the low EMI burden undermines any hardship defense and strengthens the willful default characterization."
+    ]
   },
   {
-    "question": "The recovery timeline shows the borrower 'promised to set up auto-debit from Indian account' on 15-09-2023 but never did. Should this broken promise be documented?",
-    "golden_answers": ["Yes, documenting this broken promise demonstrates the borrower made specific commitments he failed to honor, establishing a pattern of false assurances. This should be included in the SOC narrative and can support claims of deceptive conduct, though it falls short of criminal fraud without proof of intent never to pay."]
+    "question": "The recovery timeline shows the borrower 'promised to set up auto-debit from Indian account' on 15-09-2023 but never did. Should this broken promise be documented? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, documenting this broken promise demonstrates the borrower made specific commitments he failed to honor, establishing a pattern of false assurances. This should be included in the SOC narrative and can support claims of deceptive conduct, though it falls short of criminal fraud without proof of intent never to pay."
+    ]
   },
   {
-    "question": "The Section 21 Notice dated 20-02-2024 was sent to both 'registered and new traced address.' What is the new traced address?",
-    "golden_answers": ["The case file mentions notices were sent to 'registered and new traced address' but doesn't specify the new address. If a new residence was traced, it should be explicitly documented. The notice to office address is mentioned separately. The file should clarify all addresses used for service and their sources."]
+    "question": "The Section 21 Notice dated 20-02-2024 was sent to both 'registered and new traced address.' What is the new traced address? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "The case file mentions notices were sent to 'registered and new traced address' but doesn't specify the new address. If a new residence was traced, it should be explicitly documented. The notice to office address is mentioned separately. The file should clarify all addresses used for service and their sources."
+    ]
   },
   {
-    "question": "The borrower works at Wipro Technologies. Can the lender approach Wipro directly for salary deduction before obtaining an award?",
-    "golden_answers": ["No, pre-award salary deduction requires court order. The lender cannot approach Wipro for salary attachment without: (1) an arbitral award, (2) filing execution petition, and (3) court order directing the employer to deduct and remit. Approaching the employer without legal authority could expose the lender to harassment claims."]
+    "question": "The borrower works at Wipro Technologies. Can the lender approach Wipro directly for salary deduction before obtaining an award? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "No, pre-award salary deduction requires court order. The lender cannot approach Wipro for salary attachment without: (1) an arbitral award, (2) filing execution petition, and (3) court order directing the employer to deduct and remit. Approaching the employer without legal authority could expose the lender to harassment claims."
+    ]
   },
   {
-    "question": "The case shows ex-parte proceedings are 'likely.' What procedures must be followed before conducting ex-parte arbitration?",
-    "golden_answers": ["Before ex-parte proceedings: (1) Multiple notices served to known addresses with proof of dispatch, (2) Reasonable time for response (typically 15-30 days), (3) Affidavit confirming non-response, (4) Application to proceed ex-parte explaining service attempts, (5) Arbitrator's order permitting ex-parte hearing. These steps ensure procedural fairness and enforceability."]
+    "question": "The case shows ex-parte proceedings are 'likely.' What procedures must be followed before conducting ex-parte arbitration? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Before ex-parte proceedings: (1) Multiple notices served to known addresses with proof of dispatch, (2) Reasonable time for response (typically 15-30 days), (3) Affidavit confirming non-response, (4) Application to proceed ex-parte explaining service attempts, (5) Arbitrator's order permitting ex-parte hearing. These steps ensure procedural fairness and enforceability."
+    ]
   },
   {
-    "question": "The vehicle is a Suzuki Access 125. What is the approximate current market value for a 2023 vehicle in 2024?",
-    "golden_answers": ["A 2023 Suzuki Access 125 originally costing ~₹82,000 would have a 2024 resale value of approximately ₹55,000-₹65,000 (70-80% of purchase price for a 1-2 year old vehicle in good condition). This may not cover the ₹1,18,758 outstanding, indicating vehicle liquidation alone is insufficient for full recovery."]
+    "question": "The vehicle is a Suzuki Access 125. What is the approximate current market value for a 2023 vehicle in 2024? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "A 2023 Suzuki Access 125 originally costing ~₹82,000 would have a 2024 resale value of approximately ₹55,000-₹65,000 (70-80% of purchase price for a 1-2 year old vehicle in good condition). This may not cover the ₹1,18,758 outstanding, indicating vehicle liquidation alone is insufficient for full recovery."
+    ]
   },
   {
-    "question": "The recovery timeline ends at 15-07-2024 with 'Statement of Claim filed.' What happens after SOC filing in arbitration?",
-    "golden_answers": ["After SOC filing: (1) Service of SOC on respondent (15-30 days), (2) Opportunity to file Statement of Defense, (3) Pre-hearing conference, (4) Evidence submission, (5) Oral hearing or document-only proceedings, (6) Post-hearing submissions, (7) Award. For ex-parte cases, steps involving respondent participation are waived due to non-appearance."]
+    "question": "The recovery timeline ends at 15-07-2024 with 'Statement of Claim filed.' What happens after SOC filing in arbitration? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "After SOC filing: (1) Service of SOC on respondent (15-30 days), (2) Opportunity to file Statement of Defense, (3) Pre-hearing conference, (4) Evidence submission, (5) Oral hearing or document-only proceedings, (6) Post-hearing submissions, (7) Award. For ex-parte cases, steps involving respondent participation are waived due to non-appearance."
+    ]
   },
   {
-    "question": "The Affidavit of Urgency states the borrower 'changed contact numbers.' Is there evidence of number change in the timeline?",
-    "golden_answers": ["The timeline shows phone 'switched off' on 15-09-2023 and call not connecting due to 'international roaming' on 10-10-2023, but doesn't explicitly confirm number change. The alternate number call where 'person claimed wrong number' suggests possible deception rather than actual number change. The affidavit claim should be supported by concrete evidence."]
+    "question": "The Affidavit of Urgency states the borrower 'changed contact numbers.' Is there evidence of number change in the timeline? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "The timeline shows phone 'switched off' on 15-09-2023 and call not connecting due to 'international roaming' on 10-10-2023, but doesn't explicitly confirm number change. The alternate number call where 'person claimed wrong number' suggests possible deception rather than actual number change. The affidavit claim should be supported by concrete evidence."
+    ]
   },
   {
-    "question": "The case shows extensive evasion by an IT professional. Should the lender consider cyber investigation tools like social media monitoring?",
-    "golden_answers": ["Social media monitoring (LinkedIn, Facebook, Instagram) can reveal current location, lifestyle, and assets without violating privacy laws. Professional networks like LinkedIn may confirm current employment and location. However, information obtained should be used carefully—for recovery strategy, not harassment. Any surveillance should be proportionate and legal."]
+    "question": "The case shows extensive evasion by an IT professional. Should the lender consider cyber investigation tools like social media monitoring? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Social media monitoring (LinkedIn, Facebook, Instagram) can reveal current location, lifestyle, and assets without violating privacy laws. Professional networks like LinkedIn may confirm current employment and location. However, information obtained should be used carefully—for recovery strategy, not harassment. Any surveillance should be proportionate and legal."
+    ]
   },
   {
-    "question": "The Section 9 petition was filed on 10-04-2024, but the Section 11 petition for arbitrator appointment was filed on 15-05-2024. Is this sequence correct?",
-    "golden_answers": ["This sequence is acceptable. Section 9 (interim measures) can be filed before or after tribunal constitution. Filing Section 9 for urgent vehicle protection before Section 11 (arbitrator appointment) is strategically sound. Section 9 courts can grant interim relief pending tribunal formation to preserve assets."]
+    "question": "The Section 9 petition was filed on 10-04-2024, but the Section 11 petition for arbitrator appointment was filed on 15-05-2024. Is this sequence correct? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "This sequence is acceptable. Section 9 (interim measures) can be filed before or after tribunal constitution. Filing Section 9 for urgent vehicle protection before Section 11 (arbitrator appointment) is strategically sound. Section 9 courts can grant interim relief pending tribunal formation to preserve assets."
+    ]
   },
   {
-    "question": "The processing fee is ₹2,460 (3% of ₹82,000). Should this be mentioned in the Statement of Account?",
-    "golden_answers": ["Processing fees are not included in outstanding dues—they're deducted upfront from disbursal. The borrower received ₹79,540 (₹82,000 - ₹2,460) but owes ₹82,000 principal. The Statement of Account correctly shows principal outstanding based on the full loan amount, not the net disbursement. Processing fee recovery is not applicable."]
+    "question": "The processing fee is ₹2,460 (3% of ₹82,000). Should this be mentioned in the Statement of Account? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Processing fees are not included in outstanding dues—they're deducted upfront from disbursal. The borrower received ₹79,540 (₹82,000 - ₹2,460) but owes ₹82,000 principal. The Statement of Account correctly shows principal outstanding based on the full loan amount, not the net disbursement. Processing fee recovery is not applicable."
+    ]
   },
   {
-    "question": "The recovery interaction shows outreach from 07-09-2023 to 15-07-2024 (10 months). Is this duration of pre-legal recovery appropriate before filing claims?",
-    "golden_answers": ["Ten months of recovery effort before legal action is reasonable but potentially excessive given the borrower's clear evasion pattern. For willfully defaulting borrowers with income, 3-6 months of soft recovery followed by legal escalation is often more effective. Prolonged soft recovery against intentional evaders may delay recovery and increase costs without benefit."]
+    "question": "The recovery interaction shows outreach from 07-09-2023 to 15-07-2024 (10 months). Is this duration of pre-legal recovery appropriate before filing claims? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Ten months of recovery effort before legal action is reasonable but potentially excessive given the borrower's clear evasion pattern. For willfully defaulting borrowers with income, 3-6 months of soft recovery followed by legal escalation is often more effective. Prolonged soft recovery against intentional evaders may delay recovery and increase costs without benefit."
+    ]
   },
   {
-    "question": "The Execution Petition mentions 'vehicle seizure' as primary mode. If the vehicle is untraceable, what alternative execution modes are available?",
-    "golden_answers": ["If the vehicle is untraceable, alternatives include: (1) Salary attachment from Wipro (most reliable given confirmed employment), (2) Bank account garnishment via PAN-linked search, (3) Attachment of other movable property, (4) Property attachment if real estate is owned, (5) Civil arrest warrant (extreme measure). Wipro salary attachment is likely the most effective option."]
+    "question": "The Execution Petition mentions 'vehicle seizure' as primary mode. If the vehicle is untraceable, what alternative execution modes are available? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "If the vehicle is untraceable, alternatives include: (1) Salary attachment from Wipro (most reliable given confirmed employment), (2) Bank account garnishment via PAN-linked search, (3) Attachment of other movable property, (4) Property attachment if real estate is owned, (5) Civil arrest warrant (extreme measure). Wipro salary attachment is likely the most effective option."
+    ]
   },
   {
-    "question": "The file mentions the vehicle registration number HR-26-AB-1234. What does the 'HR-26' prefix indicate?",
-    "golden_answers": ["'HR' indicates Haryana state, and '26' is the district code for Gurgaon RTO. This confirms the vehicle was registered in Gurgaon, aligning with the borrower's stated address. This information helps locate RTO records and confirms jurisdiction for vehicle-related enforcement actions."]
+    "question": "The file mentions the vehicle registration number HR-26-AB-1234. What does the 'HR-26' prefix indicate? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "'HR' indicates Haryana state, and '26' is the district code for Gurgaon RTO. This confirms the vehicle was registered in Gurgaon, aligning with the borrower's stated address. This information helps locate RTO records and confirms jurisdiction for vehicle-related enforcement actions."
+    ]
   },
   {
-    "question": "The Award shows arbitrator's fees of ₹60,000 in the Deepak Singh mixed content. For Vikram Singh's claim of ₹1,18,758, what would be appropriate arbitrator fees under Fourth Schedule?",
-    "golden_answers": ["For claims between ₹1-5 lakh, the Fourth Schedule suggests arbitrator fees in the range of ₹45,000-₹60,000. For a ₹1,18,758 claim, fees around ₹50,000-₹55,000 would be appropriate. The ₹60,000 shown is slightly high but within acceptable range, though it's from a different case that shouldn't be referenced."]
+    "question": "The Award shows arbitrator's fees of ₹60,000 in the Deepak Singh mixed content. For Vikram Singh's claim of ₹1,18,758, what would be appropriate arbitrator fees under Fourth Schedule? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "For claims between ₹1-5 lakh, the Fourth Schedule suggests arbitrator fees in the range of ₹45,000-₹60,000. For a ₹1,18,758 claim, fees around ₹50,000-₹55,000 would be appropriate. The ₹60,000 shown is slightly high but within acceptable range, though it's from a different case that shouldn't be referenced."
+    ]
   },
   {
-    "question": "The borrower's email vikram.singh88@gmail.com suggests birth year 1988, making him 35 in 2023. The CRM states age as 35. Is this consistent?",
-    "golden_answers": ["Yes, if the '88' indicates birth year 1988, the borrower would be 35 years old in 2023, matching the stated age. This internal consistency validates the borrower's identity information. The email pattern provides a simple verification cross-check."]
+    "question": "The borrower's email vikram.singh88@gmail.com suggests birth year 1988, making him 35 in 2023. The CRM states age as 35. Is this consistent? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, if the '88' indicates birth year 1988, the borrower would be 35 years old in 2023, matching the stated age. This internal consistency validates the borrower's identity information. The email pattern provides a simple verification cross-check."
+    ]
   },
   {
-    "question": "The default reason is stated as 'Intentional evasion - borrower deliberately avoiding payment despite having employment.' Should this characterization be used in legal documents?",
-    "golden_answers": ["Yes, but with supporting evidence. The characterization is appropriate given documented evasion (disconnecting calls, walking away, absconding from residence). Legal documents should state facts that support this conclusion rather than the conclusion itself. Let the tribunal infer 'intentional evasion' from the pattern of conduct described."]
+    "question": "The default reason is stated as 'Intentional evasion - borrower deliberately avoiding payment despite having employment.' Should this characterization be used in legal documents? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, but with supporting evidence. The characterization is appropriate given documented evasion (disconnecting calls, walking away, absconding from residence). Legal documents should state facts that support this conclusion rather than the conclusion itself. Let the tribunal infer 'intentional evasion' from the pattern of conduct described."
+    ]
   },
   {
-    "question": "The case references 'Hero Splendor Plus' in the Deepak Singh content but the actual vehicle is 'Suzuki Access 125.' How critical is vehicle identification accuracy?",
-    "golden_answers": ["Vehicle identification is critical. Wrong vehicle references could result in attempting to attach the wrong asset or having attachment orders rejected. All documents must consistently identify the correct vehicle (Suzuki Access 125, HR-26-AB-1234) based on the Loan Agreement and RC. The Hero Splendor references must be removed."]
+    "question": "The case references 'Hero Splendor Plus' in the Deepak Singh content but the actual vehicle is 'Suzuki Access 125.' How critical is vehicle identification accuracy? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Vehicle identification is critical. Wrong vehicle references could result in attempting to attach the wrong asset or having attachment orders rejected. All documents must consistently identify the correct vehicle (Suzuki Access 125, HR-26-AB-1234) based on the Loan Agreement and RC. The Hero Splendor references must be removed."
+    ]
   },
   {
-    "question": "The Section 11 petition was filed on 15-05-2024 and arbitrator was appointed on 25-06-2024. What factors determine the time for Section 11 appointment?",
-    "golden_answers": ["Section 11 appointment timeline depends on: court workload, complexity of appointment issues, whether parties participated in proceedings, availability of qualified arbitrators, and whether any objections were raised. The 41-day timeline here is efficient. Some Section 11 petitions take 3-6 months. Prompt appointment suggests straightforward circumstances."]
+    "question": "The Section 11 petition was filed on 15-05-2024 and arbitrator was appointed on 25-06-2024. What factors determine the time for Section 11 appointment? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Section 11 appointment timeline depends on: court workload, complexity of appointment issues, whether parties participated in proceedings, availability of qualified arbitrators, and whether any objections were raised. The 41-day timeline here is efficient. Some Section 11 petitions take 3-6 months. Prompt appointment suggests straightforward circumstances."
+    ]
   },
   {
-    "question": "The borrower designation is 'Senior Analyst' at Wipro. Should employment details be verified through formal channels before salary attachment?",
-    "golden_answers": ["Yes, formal verification is essential before salary attachment. An informal visit to HR is different from formal verification letter. For execution, obtain: (1) Employee ID confirmation, (2) Current designation and department, (3) Salary structure (gross, deductions, net), (4) Bank account for salary credit. This ensures accurate attachment orders."]
+    "question": "The borrower designation is 'Senior Analyst' at Wipro. Should employment details be verified through formal channels before salary attachment? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, formal verification is essential before salary attachment. An informal visit to HR is different from formal verification letter. For execution, obtain: (1) Employee ID confirmation, (2) Current designation and department, (3) Salary structure (gross, deductions, net), (4) Bank account for salary credit. This ensures accurate attachment orders."
+    ]
   },
   {
-    "question": "The total outstanding includes ₹5,000 legal notice charges. If the borrower contests these charges, what documentation supports them?",
-    "golden_answers": ["Supporting documentation includes: (1) Advocate fee invoice for notice preparation, (2) Speed Post receipts and charges, (3) Courier charges for multiple deliveries, (4) Process service costs. If standard charges are applied per company policy, that policy document should be referenced. ₹5,000 for multiple notices and service attempts is reasonable but should be itemized."]
+    "question": "The total outstanding includes ₹5,000 legal notice charges. If the borrower contests these charges, what documentation supports them? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Supporting documentation includes: (1) Advocate fee invoice for notice preparation, (2) Speed Post receipts and charges, (3) Courier charges for multiple deliveries, (4) Process service costs. If standard charges are applied per company policy, that policy document should be referenced. ₹5,000 for multiple notices and service attempts is reasonable but should be itemized."
+    ]
   },
   {
-    "question": "The case shows the borrower 'absconded from registered address' but is 'still employed.' Should recovery focus on residence or workplace?",
-    "golden_answers": ["Focus should shift to workplace for communication and salary attachment as primary recovery mode. The residence is no longer a viable service point. Workplace provides: reliable service address, salary attachment opportunity, and potential employer pressure (awareness of employee's default). However, workplace visits must be professional to avoid harassment claims."]
+    "question": "The case shows the borrower 'absconded from registered address' but is 'still employed.' Should recovery focus on residence or workplace? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Focus should shift to workplace for communication and salary attachment as primary recovery mode. The residence is no longer a viable service point. Workplace provides: reliable service address, salary attachment opportunity, and potential employer pressure (awareness of employee's default). However, workplace visits must be professional to avoid harassment claims."
+    ]
   },
   {
-    "question": "The recovery timeline shows 'Email' as a repeated communication mode. Are emails legally sufficient for notice under the Arbitration Act?",
-    "golden_answers": ["Yes, Section 3(a) of the Arbitration Act 1996 allows electronic communication including email if parties have agreed to it (often included in loan agreement's communication clause). Email provides instant delivery, read receipts (if enabled), and is accepted as valid notice mode. Combined with Speed Post, it strengthens service compliance."]
+    "question": "The recovery timeline shows 'Email' as a repeated communication mode. Are emails legally sufficient for notice under the Arbitration Act? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, Section 3(a) of the Arbitration Act 1996 allows electronic communication including email if parties have agreed to it (often included in loan agreement's communication clause). Email provides instant delivery, read receipts (if enabled), and is accepted as valid notice mode. Combined with Speed Post, it strengthens service compliance."
+    ]
   },
   {
-    "question": "The case describes the borrower's conduct as 'absconding' multiple times. Could this term have legal implications beyond civil recovery?",
-    "golden_answers": ["'Absconding' in loan recovery context means avoiding service/payment, not criminal absconding. However, if the pattern suggests fraud (obtaining loan with no intent to repay, providing false information), criminal complaint under IPC 420 (cheating) might be considered. The civil use of 'absconding' doesn't automatically imply criminal conduct but suggests serious evasion."]
+    "question": "The case describes the borrower's conduct as 'absconding' multiple times. Could this term have legal implications beyond civil recovery? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "'Absconding' in loan recovery context means avoiding service/payment, not criminal absconding. However, if the pattern suggests fraud (obtaining loan with no intent to repay, providing false information), criminal complaint under IPC 420 (cheating) might be considered. The civil use of 'absconding' doesn't automatically imply criminal conduct but suggests serious evasion."
+    ]
   },
   {
-    "question": "The Statement of Claim references 'Enrollment No.: D/1234/2005' for advocate Ramesh Khanna. Should advocate credentials be verified?",
-    "golden_answers": ["Advocate credentials can be verified through the Bar Council of the relevant state. The enrollment number format (D/1234/2005) indicates enrollment in Delhi Bar Council in 2005. Verification ensures the advocate is authorized to practice and the credential is genuine. For formal proceedings, correct credentials are essential."]
+    "question": "The Statement of Claim references 'Enrollment No.: D/1234/2005' for advocate Ramesh Khanna. Should advocate credentials be verified? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Advocate credentials can be verified through the Bar Council of the relevant state. The enrollment number format (D/1234/2005) indicates enrollment in Delhi Bar Council in 2005. Verification ensures the advocate is authorized to practice and the credential is genuine. For formal proceedings, correct credentials are essential."
+    ]
   },
   {
-    "question": "The Arbitral Award includes 'authorization for gold auction' which is irrelevant to a two-wheeler loan case. What does this indicate?",
-    "golden_answers": ["This clearly indicates content mixing from a gold loan case. Two-wheeler loans involve vehicle hypothecation, not gold pledge. Any references to gold auction, gold custody, or gold liquidation are from a different case file and must be removed. The award for Vikram Singh should only authorize vehicle repossession/liquidation."]
+    "question": "The Arbitral Award includes 'authorization for gold auction' which is irrelevant to a two-wheeler loan case. What does this indicate? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "This clearly indicates content mixing from a gold loan case. Two-wheeler loans involve vehicle hypothecation, not gold pledge. Any references to gold auction, gold custody, or gold liquidation are from a different case file and must be removed. The award for Vikram Singh should only authorize vehicle repossession/liquidation."
+    ]
   },
   {
-    "question": "The recovery timeline shows the first bounce alert on 07-09-2023, one day after the 05-09-2023 EMI due date. Is this response time appropriate?",
-    "golden_answers": ["One day is too fast for bounce processing. Banks typically report bounces after end-of-day processing, so 07-09-2023 (two days after due date) is realistic. The bounce likely occurred on presentation date (05-09), processed on 06-09, and reported on 07-09. The timeline reflects typical banking operations."]
+    "question": "The recovery timeline shows the first bounce alert on 07-09-2023, one day after the 05-09-2023 EMI due date. Is this response time appropriate? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "One day is too fast for bounce processing. Banks typically report bounces after end-of-day processing, so 07-09-2023 (two days after due date) is realistic. The bounce likely occurred on presentation date (05-09), processed on 06-09, and reported on 07-09. The timeline reflects typical banking operations."
+    ]
   },
   {
-    "question": "The case shows no legal notice charges in the CRM (₹0) but ₹5,000 in the SOC. When were these charges incurred?",
-    "golden_answers": ["Legal charges accumulate as recovery progresses. CRM shows ₹0 at the soft reminder stage. By SOC filing, legal costs include: Recall Notice preparation, Section 21 Notice drafting, advocate consultations, and filing fees. The progression from ₹0 to ₹5,000 reflects actual legal expenditure over time and should be documented with invoices."]
+    "question": "The case shows no legal notice charges in the CRM (₹0) but ₹5,000 in the SOC. When were these charges incurred? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Legal charges accumulate as recovery progresses. CRM shows ₹0 at the soft reminder stage. By SOC filing, legal costs include: Recall Notice preparation, Section 21 Notice drafting, advocate consultations, and filing fees. The progression from ₹0 to ₹5,000 reflects actual legal expenditure over time and should be documented with invoices."
+    ]
   },
   {
-    "question": "The borrower promised auto-debit setup on 15-09-2023 but relocated to avoid payment. Does this broken promise have evidentiary value?",
-    "golden_answers": ["Yes, the broken promise demonstrates: (1) Acknowledgment of the debt, (2) Commitment to pay (useful for limitation), (3) Subsequent intentional non-compliance, and (4) Pattern of deceptive assurances. This should be documented in recovery notes and can be cited in the SOC to establish the borrower's knowing avoidance despite expressed willingness."]
+    "question": "The borrower promised auto-debit setup on 15-09-2023 but relocated to avoid payment. Does this broken promise have evidentiary value? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, the broken promise demonstrates: (1) Acknowledgment of the debt, (2) Commitment to pay (useful for limitation), (3) Subsequent intentional non-compliance, and (4) Pattern of deceptive assurances. This should be documented in recovery notes and can be cited in the SOC to establish the borrower's knowing avoidance despite expressed willingness."
+    ]
   },
   {
-    "question": "The Execution Petition requests 'urgent execution.' What makes an execution petition 'urgent'?",
-    "golden_answers": ["Urgency factors include: (1) Asset at risk of disposal, (2) Borrower planning to leave jurisdiction, (3) Time-sensitive value depreciation, (4) Evidence of fund transfers abroad, (5) Borrower's demonstrated flight risk. For Vikram Singh, the absconding pattern and untraceable residence support urgency claims. Courts prioritize genuinely urgent executions."]
+    "question": "The Execution Petition requests 'urgent execution.' What makes an execution petition 'urgent'? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Urgency factors include: (1) Asset at risk of disposal, (2) Borrower planning to leave jurisdiction, (3) Time-sensitive value depreciation, (4) Evidence of fund transfers abroad, (5) Borrower's demonstrated flight risk. For Vikram Singh, the absconding pattern and untraceable residence support urgency claims. Courts prioritize genuinely urgent executions."
+    ]
   },
   {
-    "question": "The case mentions the borrower was 'met at office gate' but 'walked away.' Should this encounter have been documented with witnesses?",
-    "golden_answers": ["Yes, having witnesses (colleague field officers) or obtaining photographic/video evidence would strengthen documentation. A single field officer's account is credible but corroboration makes it unassailable. Future attempts should involve paired recovery teams to provide witness testimony if needed."]
+    "question": "The case mentions the borrower was 'met at office gate' but 'walked away.' Should this encounter have been documented with witnesses? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, having witnesses (colleague field officers) or obtaining photographic/video evidence would strengthen documentation. A single field officer's account is credible but corroboration makes it unassailable. Future attempts should involve paired recovery teams to provide witness testimony if needed."
+    ]
   },
   {
-    "question": "The Section 9 petition mentions Suzuki Access 125 with registration HR-26-AB-1234, but Section 9 in the mixed content mentions 'Bajaj Pulsar.' Which is correct?",
-    "golden_answers": ["The correct vehicle for Vikram Singh's case is Suzuki Access 125 with registration HR-26-AB-1234. Any reference to Bajaj Pulsar is from a different case that was incorrectly mixed into this file. All vehicle references must be verified against the original Loan Agreement and Vehicle RC documentation."]
+    "question": "The Section 9 petition mentions Suzuki Access 125 with registration HR-26-AB-1234, but Section 9 in the mixed content mentions 'Bajaj Pulsar.' Which is correct? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "The correct vehicle for Vikram Singh's case is Suzuki Access 125 with registration HR-26-AB-1234. Any reference to Bajaj Pulsar is from a different case that was incorrectly mixed into this file. All vehicle references must be verified against the original Loan Agreement and Vehicle RC documentation."
+    ]
   },
   {
-    "question": "The recovery team visited the society on 10-11-2023 but 'security denied entry.' What alternative access methods exist?",
-    "golden_answers": ["Alternatives include: (1) Obtain court order for access, (2) Serve notice to society secretary requesting cooperation, (3) Wait for the borrower outside common areas, (4) Contact borrower's known associates for information, (5) Monitor vehicle movement for contact. However, forced entry or harassment is illegal—recovery must be through lawful means."]
+    "question": "The recovery team visited the society on 10-11-2023 but 'security denied entry.' What alternative access methods exist? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Alternatives include: (1) Obtain court order for access, (2) Serve notice to society secretary requesting cooperation, (3) Wait for the borrower outside common areas, (4) Contact borrower's known associates for information, (5) Monitor vehicle movement for contact. However, forced entry or harassment is illegal—recovery must be through lawful means."
+    ]
   },
   {
-    "question": "The Award mentions total payable as '₹4,93,642/- plus interest' in the mixed content. For Vikram Singh's ₹1,18,758 claim, what would be the total with typical costs?",
-    "golden_answers": ["For a ₹1,18,758 claim, typical costs would be: Arbitrator fees ~₹50,000-55,000, Advocate fees ~₹35,000-40,000, Administrative expenses ~₹10,000-12,000, totaling approximately ₹95,000-107,000 in costs. Total payable would be approximately ₹2,13,758-₹2,25,758 plus future interest, substantially less than the mixed-in ₹4,93,642 figure."]
+    "question": "The Award mentions total payable as '₹4,93,642/- plus interest' in the mixed content. For Vikram Singh's ₹1,18,758 claim, what would be the total with typical costs? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "For a ₹1,18,758 claim, typical costs would be: Arbitrator fees ~₹50,000-55,000, Advocate fees ~₹35,000-40,000, Administrative expenses ~₹10,000-12,000, totaling approximately ₹95,000-107,000 in costs. Total payable would be approximately ₹2,13,758-₹2,25,758 plus future interest, substantially less than the mixed-in ₹4,93,642 figure."
+    ]
   },
   {
-    "question": "The borrower's PAN is JKLPS1234J. Should the Execution Petition include a prayer for PAN-based asset search?",
-    "golden_answers": ["Yes, PAN-based search is valuable for comprehensive execution. PAN links to: bank accounts, mutual funds, demat accounts, property transactions, and income tax records. The execution court can order financial institutions to disclose accounts linked to PAN JKLPS1234J, enabling attachment of assets beyond the vehicle."]
+    "question": "The borrower's PAN is JKLPS1234J. Should the Execution Petition include a prayer for PAN-based asset search? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, PAN-based search is valuable for comprehensive execution. PAN links to: bank accounts, mutual funds, demat accounts, property transactions, and income tax records. The execution court can order financial institutions to disclose accounts linked to PAN JKLPS1234J, enabling attachment of assets beyond the vehicle."
+    ]
   },
   {
-    "question": "The recovery shows the borrower was at Amazon's office on 25-11-2023. The case involves Wipro employment. Is there confusion about the employer?",
-    "golden_answers": ["This is likely content mixing. Vikram Singh is employed at Wipro Technologies per CRM data, not Amazon. References to Amazon are from a different case (possibly Arjun Reddy who works at Amazon). All employer references must be verified and corrected to Wipro Technologies for Vikram Singh's case."]
+    "question": "The recovery shows the borrower was at Amazon's office on 25-11-2023. The case involves Wipro employment. Is there confusion about the employer? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "This is likely content mixing. Vikram Singh is employed at Wipro Technologies per CRM data, not Amazon. References to Amazon are from a different case (possibly Arjun Reddy who works at Amazon). All employer references must be verified and corrected to Wipro Technologies for Vikram Singh's case."
+    ]
   },
   {
-    "question": "The case shows multiple document sections from different cases (Deepak Singh/Bangalore, gold loans, Amazon employee). What quality control measures should prevent such mixing?",
-    "golden_answers": ["Quality control measures include: (1) Case-specific file naming and organization, (2) Document headers with borrower name and account number, (3) Review checklist before filing, (4) Digital case management systems with case-linked documents, (5) Senior review of compiled filings. Template-based document generation often causes such errors when placeholders aren't properly replaced."]
+    "question": "The case shows multiple document sections from different cases (Deepak Singh/Bangalore, gold loans, Amazon employee). What quality control measures should prevent such mixing? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Quality control measures include: (1) Case-specific file naming and organization, (2) Document headers with borrower name and account number, (3) Review checklist before filing, (4) Digital case management systems with case-linked documents, (5) Senior review of compiled filings. Template-based document generation often causes such errors when placeholders aren't properly replaced."
+    ]
   },
   {
-    "question": "The Award references 'Ex-parte award. Vehicle (Hero Splendor Plus) attachment authorized.' For Vikram Singh, what vehicle should the award authorize?",
-    "golden_answers": ["For Vikram Singh's case, the award should authorize attachment and liquidation of 'Suzuki Access 125, Registration No. HR-26-AB-1234.' The Hero Splendor Plus reference is from a different case. Vehicle identification in the award must precisely match the Loan Agreement and hypothecation documents for valid enforcement."]
+    "question": "The Award references 'Ex-parte award. Vehicle (Hero Splendor Plus) attachment authorized.' For Vikram Singh, what vehicle should the award authorize? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "For Vikram Singh's case, the award should authorize attachment and liquidation of 'Suzuki Access 125, Registration No. HR-26-AB-1234.' The Hero Splendor Plus reference is from a different case. Vehicle identification in the award must precisely match the Loan Agreement and hypothecation documents for valid enforcement."
+    ]
   },
   {
-    "question": "The Execution Petition requests 'employment verification and salary attachment if traced.' Given employment at Wipro is already confirmed, why conditional language?",
-    "golden_answers": ["The conditional 'if traced' language is inappropriate since Wipro employment was verified on 15-11-2023. The petition should directly seek salary attachment from 'Wipro Technologies' at the known Gurgaon office. Conditional language suggests uncertainty that doesn't exist and may weaken the execution strategy."]
+    "question": "The Execution Petition requests 'employment verification and salary attachment if traced.' Given employment at Wipro is already confirmed, why conditional language? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "The conditional 'if traced' language is inappropriate since Wipro employment was verified on 15-11-2023. The petition should directly seek salary attachment from 'Wipro Technologies' at the known Gurgaon office. Conditional language suggests uncertainty that doesn't exist and may weaken the execution strategy."
+    ]
   },
   {
-    "question": "The case shows ₹11,740 paid in 4 EMIs but principal recovery is ₹9,637 and interest recovery is ₹2,103. Does this allocation match?",
-    "golden_answers": ["Yes, ₹9,637 (principal) + ₹2,103 (interest) = ₹11,740, matching 4 EMIs × ₹2,935. For a 16.5% reducing balance loan, early EMIs have approximately 18% interest component. The ₹2,103 interest from ₹11,740 payments (18%) aligns with typical early-stage amortization. The calculations appear correct."]
+    "question": "The case shows ₹11,740 paid in 4 EMIs but principal recovery is ₹9,637 and interest recovery is ₹2,103. Does this allocation match? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, ₹9,637 (principal) + ₹2,103 (interest) = ₹11,740, matching 4 EMIs × ₹2,935. For a 16.5% reducing balance loan, early EMIs have approximately 18% interest component. The ₹2,103 interest from ₹11,740 payments (18%) aligns with typical early-stage amortization. The calculations appear correct."
+    ]
   },
   {
-    "question": "The interest rate is 16.5% p.a. reducing balance. The interest outstanding is ₹28,945 on principal of ₹72,363 over 15 months. Is this calculation reasonable?",
-    "golden_answers": ["Let's verify: ₹72,363 × 16.5% × (15/12) = approximately ₹14,927 in straight interest. The stated ₹28,945 is nearly double. This includes compounding and possibly higher EMI interest allocation. The figure should be verified against the loan amortization schedule. If it includes missed EMI interest accumulation, it may be accurate."]
+    "question": "The interest rate is 16.5% p.a. reducing balance. The interest outstanding is ₹28,945 on principal of ₹72,363 over 15 months. Is this calculation reasonable? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Let's verify: ₹72,363 × 16.5% × (15/12) = approximately ₹14,927 in straight interest. The stated ₹28,945 is nearly double. This includes compounding and possibly higher EMI interest allocation. The figure should be verified against the loan amortization schedule. If it includes missed EMI interest accumulation, it may be accurate."
+    ]
   },
   {
-    "question": "The borrower was last contacted on 08-09-2023 before going unresponsive. Over 10 months elapsed before SOC filing. Does this delay affect the case?",
-    "golden_answers": ["The delay doesn't legally harm the case (limitation is 3 years), but prolonged non-payment increases the outstanding amount and reduces vehicle value (depreciation). Earlier legal action would have limited damage. However, the extensive recovery attempts before litigation demonstrate good faith effort, which tribunals view favorably."]
+    "question": "The borrower was last contacted on 08-09-2023 before going unresponsive. Over 10 months elapsed before SOC filing. Does this delay affect the case? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "The delay doesn't legally harm the case (limitation is 3 years), but prolonged non-payment increases the outstanding amount and reduces vehicle value (depreciation). Earlier legal action would have limited damage. However, the extensive recovery attempts before litigation demonstrate good faith effort, which tribunals view favorably."
+    ]
   },
   {
-    "question": "The Notice warns of 'vehicle repossession.' For a hypothecated two-wheeler, what is the legal process for repossession?",
-    "golden_answers": ["Legal repossession requires: (1) Demand notice and opportunity to cure, (2) Arbitral award or court order authorizing possession, (3) Formal demand for voluntary surrender, (4) If refused, application for court-assisted possession, (5) Execution of possession order with court officer. Self-help repossession without court order may invite criminal complaints for theft or trespass."]
+    "question": "The Notice warns of 'vehicle repossession.' For a hypothecated two-wheeler, what is the legal process for repossession? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Legal repossession requires: (1) Demand notice and opportunity to cure, (2) Arbitral award or court order authorizing possession, (3) Formal demand for voluntary surrender, (4) If refused, application for court-assisted possession, (5) Execution of possession order with court officer. Self-help repossession without court order may invite criminal complaints for theft or trespass."
+    ]
   },
   {
-    "question": "The file shows Speed Post tracking number EE345678901IN. Should tracking records be preserved and produced?",
-    "golden_answers": ["Yes, Speed Post tracking records should be preserved as evidence of service. India Post's online tracking system shows dispatch date, transit, delivery attempts, and final status. These records prove the lender dispatched notice to the correct address and support deemed service arguments even if the borrower claims non-receipt."]
+    "question": "The file shows Speed Post tracking number EE345678901IN. Should tracking records be preserved and produced? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Yes, Speed Post tracking records should be preserved as evidence of service. India Post's online tracking system shows dispatch date, transit, delivery attempts, and final status. These records prove the lender dispatched notice to the correct address and support deemed service arguments even if the borrower claims non-receipt."
+    ]
   },
   {
-    "question": "The case shows the borrower is 35 years old, Senior Analyst at Wipro with ₹52,000 salary. What is his likely financial profile?",
-    "golden_answers": ["Profile suggests mid-career IT professional with stable employment, likely some savings, possibly other loans (home/car), and investment capacity (mutual funds, PF). The modest ₹82,000 loan default despite ₹52,000 income is puzzling—possibly other debts consuming income, or deliberate prioritization against this loan. Asset search may reveal hidden resources."]
+    "question": "The case shows the borrower is 35 years old, Senior Analyst at Wipro with ₹52,000 salary. What is his likely financial profile? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Profile suggests mid-career IT professional with stable employment, likely some savings, possibly other loans (home/car), and investment capacity (mutual funds, PF). The modest ₹82,000 loan default despite ₹52,000 income is puzzling—possibly other debts consuming income, or deliberate prioritization against this loan. Asset search may reveal hidden resources."
+    ]
   },
   {
-    "question": "The Recall Notice gives 15 days to pay or face legal action. Is 15 days a legally mandated period?",
-    "golden_answers": ["15 days is not strictly mandated by law but is accepted as reasonable notice period. Courts and tribunals expect lenders to provide adequate opportunity before escalation. 15 days allows time for the borrower to arrange funds or respond. Shorter periods might be challenged as insufficient; longer periods may be seen as dilatory. 15 days is industry standard."]
+    "question": "The Recall Notice gives 15 days to pay or face legal action. Is 15 days a legally mandated period? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "15 days is not strictly mandated by law but is accepted as reasonable notice period. Courts and tribunals expect lenders to provide adequate opportunity before escalation. 15 days allows time for the borrower to arrange funds or respond. Shorter periods might be challenged as insufficient; longer periods may be seen as dilatory. 15 days is industry standard."
+    ]
   },
   {
-    "question": "The case shows the borrower was met at Wipro 'office gate' but avoided conversation. Could recovery agents enter the office premises?",
-    "golden_answers": ["Entering private office premises without permission could be trespassing. Recovery agents can wait in public areas or request to meet through reception. Forcing entry or creating scenes at workplaces may violate RBI Fair Practices Code and invite harassment complaints. Meeting at the gate (public/semi-public area) is the appropriate approach."]
+    "question": "The case shows the borrower was met at Wipro 'office gate' but avoided conversation. Could recovery agents enter the office premises? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "Entering private office premises without permission could be trespassing. Recovery agents can wait in public areas or request to meet through reception. Forcing entry or creating scenes at workplaces may violate RBI Fair Practices Code and invite harassment complaints. Meeting at the gate (public/semi-public area) is the appropriate approach."
+    ]
   },
   {
-    "question": "The Award directs payment within 30 days from award date. If the borrower is untraceable, how is this deadline communicated?",
-    "golden_answers": ["The award is served through the same methods used during proceedings: email, Speed Post to known addresses, and potentially publication if addresses fail. Even if the borrower doesn't actually receive the award, deemed service applies. The 30-day clock starts from the award date, and the borrower's absence doesn't extend the timeline."]
+    "question": "The Award directs payment within 30 days from award date. If the borrower is untraceable, how is this deadline communicated? <case_id:case_004, folder_id:ARB/2024/1004>",
+    "golden_answers": [
+      "The award is served through the same methods used during proceedings: email, Speed Post to known addresses, and potentially publication if addresses fail. Even if the borrower doesn't actually receive the award, deemed service applies. The 30-day clock starts from the award date, and the borrower's absence doesn't extend the timeline."
+    ]
   }
 ]

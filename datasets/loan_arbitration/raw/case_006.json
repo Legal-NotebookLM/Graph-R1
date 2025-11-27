@@ -1,262 +1,392 @@
 [
   {
-    "question": "The case shows the borrower Suresh Kumar is a 'Gig Worker - Zomato Delivery Partner' but the Section 9 petition references a different respondent 'Ramesh Yadav' in Sitapur. Is this content from the wrong case?",
-    "golden_answers": ["Yes, this is content from a different case. The Section 9 petition for Ramesh Yadav in Sitapur was mistakenly included in Suresh Kumar's Gurgaon case file. This section should be removed and replaced with the correct application for Suresh Kumar if one exists."]
+    "question": "The case shows the borrower Suresh Kumar is a 'Gig Worker - Zomato Delivery Partner' but the Section 9 petition references a different respondent 'Ramesh Yadav' in Sitapur. Is this content from the wrong case? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Yes, this is content from a different case. The Section 9 petition for Ramesh Yadav in Sitapur was mistakenly included in Suresh Kumar's Gurgaon case file. This section should be removed and replaced with the correct application for Suresh Kumar if one exists."
+    ]
   },
   {
-    "question": "The borrower paid 6 full EMIs plus 1 partial (₹800) totaling ₹14,216. He then made a part payment mentioned in the timeline. Does the EMI history accurately reflect all payments?",
-    "golden_answers": ["The EMI history shows 6 full EMIs (April-September 2023) plus partial ₹800 in November 2023, totaling ₹14,216. This matches the stated recovery amount. The partial payment of ₹800 shows some attempt to continue payment despite reduced income from gig work termination."]
+    "question": "The borrower paid 6 full EMIs plus 1 partial (₹800) totaling ₹14,216. He then made a part payment mentioned in the timeline. Does the EMI history accurately reflect all payments? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The EMI history shows 6 full EMIs (April-September 2023) plus partial ₹800 in November 2023, totaling ₹14,216. This matches the stated recovery amount. The partial payment of ₹800 shows some attempt to continue payment despite reduced income from gig work termination."
+    ]
   },
   {
-    "question": "The case status is 'Midway Arbitration' with both parties present at hearings. The borrower filed a Statement of Defense requesting reduced settlement. What does this indicate about case management?",
-    "golden_answers": ["This indicates constructive engagement: the borrower is participating rather than evading. Filing a Statement of Defense shows awareness of obligations and willingness to negotiate. 'Settlement under negotiation' status suggests potential resolution without full litigation, which is often preferable for both parties given the gig worker's limited means."]
+    "question": "The case status is 'Midway Arbitration' with both parties present at hearings. The borrower filed a Statement of Defense requesting reduced settlement. What does this indicate about case management? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "This indicates constructive engagement: the borrower is participating rather than evading. Filing a Statement of Defense shows awareness of obligations and willingness to negotiate. 'Settlement under negotiation' status suggests potential resolution without full litigation, which is often preferable for both parties given the gig worker's limited means."
+    ]
   },
   {
-    "question": "The borrower was suspended from Zomato for 'customer complaints' and then had a 'bike accident' with minor injuries. Should these events be verified before settlement?",
-    "golden_answers": ["Verification is advisable for significant claims. App suspension can be verified through Zomato records (if available). Accident claims might have hospital/medical records. However, for a ₹62,000 loan, extensive verification may be disproportionate. The borrower's continued cooperation and partial payment suggest genuine hardship rather than fabrication."]
+    "question": "The borrower was suspended from Zomato for 'customer complaints' and then had a 'bike accident' with minor injuries. Should these events be verified before settlement? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Verification is advisable for significant claims. App suspension can be verified through Zomato records (if available). Accident claims might have hospital/medical records. However, for a ₹62,000 loan, extensive verification may be disproportionate. The borrower's continued cooperation and partial payment suggest genuine hardship rather than fabrication."
+    ]
   },
   {
-    "question": "The recovery timeline shows the borrower 'went back to village' and is 'starting work in local market.' How does relocation from Gurgaon to Azamgarh, UP affect recovery?",
-    "golden_answers": ["Relocation significantly impacts recovery: (1) Increased distance makes field visits costly, (2) Different court jurisdiction may require case transfer, (3) Local market income likely lower than gig economy, (4) Vehicle may have been brought to village (useful for attachment). The shift from urban gig work to rural employment suggests reduced repayment capacity."]
+    "question": "The recovery timeline shows the borrower 'went back to village' and is 'starting work in local market.' How does relocation from Gurgaon to Azamgarh, UP affect recovery? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Relocation significantly impacts recovery: (1) Increased distance makes field visits costly, (2) Different court jurisdiction may require case transfer, (3) Local market income likely lower than gig economy, (4) Vehicle may have been brought to village (useful for attachment). The shift from urban gig work to rural employment suggests reduced repayment capacity."
+    ]
   },
   {
-    "question": "The borrower's father answered the call on 20-12-2023 confirming the son returned to Azamgarh. Should family members be included in communication strategy?",
-    "golden_answers": ["Yes, family contact is valuable for locating the borrower and maintaining communication. The father's cooperation (confirming son's location) suggests the family isn't evading. However, only the borrower is legally liable—family cannot be made to pay. Using family as communication channel is appropriate; pressuring them for payment is not."]
+    "question": "The borrower's father answered the call on 20-12-2023 confirming the son returned to Azamgarh. Should family members be included in communication strategy? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Yes, family contact is valuable for locating the borrower and maintaining communication. The father's cooperation (confirming son's location) suggests the family isn't evading. However, only the borrower is legally liable—family cannot be made to pay. Using family as communication channel is appropriate; pressuring them for payment is not."
+    ]
   },
   {
-    "question": "The loan is for Hero Splendor Plus purchased for gig delivery work. The vehicle is now in the village. What is its current condition likely to be?",
-    "golden_answers": ["A delivery vehicle used for Zomato would have high mileage and wear. After an accident (mentioned in timeline) and subsequent rural use, condition would be fair to poor. Original ₹62,000 vehicle might now be worth ₹30,000-40,000 depending on maintenance. Valuation should be conducted before attachment decisions."]
+    "question": "The loan is for Hero Splendor Plus purchased for gig delivery work. The vehicle is now in the village. What is its current condition likely to be? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "A delivery vehicle used for Zomato would have high mileage and wear. After an accident (mentioned in timeline) and subsequent rural use, condition would be fair to poor. Original ₹62,000 vehicle might now be worth ₹30,000-40,000 depending on maintenance. Valuation should be conducted before attachment decisions."
+    ]
   },
   {
-    "question": "The arbitrator is Justice (Retd.) Kavita Sharma. The case shows 'settlement under negotiation' with both parties present. What settlement options exist?",
-    "golden_answers": ["Settlement options include: (1) Reduced principal (waive penal interest/charges), (2) Extended tenure with lower EMIs matching current income, (3) One-time settlement at 60-70% of outstanding, (4) Vehicle surrender with debt satisfaction, (5) Combination of partial payment plus vehicle. Given borrower cooperation, negotiated settlement is likely more effective than contested award."]
+    "question": "The arbitrator is Justice (Retd.) Kavita Sharma. The case shows 'settlement under negotiation' with both parties present. What settlement options exist? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Settlement options include: (1) Reduced principal (waive penal interest/charges), (2) Extended tenure with lower EMIs matching current income, (3) One-time settlement at 60-70% of outstanding, (4) Vehicle surrender with debt satisfaction, (5) Combination of partial payment plus vehicle. Given borrower cooperation, negotiated settlement is likely more effective than contested award."
+    ]
   },
   {
-    "question": "The borrower sent a letter 'expressing inability to pay, requested settlement' on 15-04-2024. Should this written acknowledgment be preserved?",
-    "golden_answers": ["Absolutely. This written communication is crucial evidence: (1) Acknowledges the debt (limitation extension), (2) Shows cooperative intent, (3) Documents settlement request for tribunal reference, (4) Establishes communication despite relocation. The letter should be annexed to proceedings and can support claims of debtor's good faith in settlement discussions."]
+    "question": "The borrower sent a letter 'expressing inability to pay, requested settlement' on 15-04-2024. Should this written acknowledgment be preserved? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Absolutely. This written communication is crucial evidence: (1) Acknowledges the debt (limitation extension), (2) Shows cooperative intent, (3) Documents settlement request for tribunal reference, (4) Establishes communication despite relocation. The letter should be annexed to proceedings and can support claims of debtor's good faith in settlement discussions."
+    ]
   },
   {
-    "question": "The DPD is 417 days as on 26-11-2024. If the October 2023 EMI bounced on 05-10-2023, does this calculation match?",
-    "golden_answers": ["From 5 October 2023 to 26 November 2024 is approximately 418 days, closely matching the stated 417 DPD. This 14-month default period, combined with the borrower's relocation and job loss, explains the escalation to arbitration while the borrower's cooperation justifies ongoing settlement discussions."]
+    "question": "The DPD is 417 days as on 26-11-2024. If the October 2023 EMI bounced on 05-10-2023, does this calculation match? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "From 5 October 2023 to 26 November 2024 is approximately 418 days, closely matching the stated 417 DPD. This 14-month default period, combined with the borrower's relocation and job loss, explains the escalation to arbitration while the borrower's cooperation justifies ongoing settlement discussions."
+    ]
   },
   {
-    "question": "The Statement of Claim shows placeholder values like '[As per case]' for amounts. Should the SOC contain specific figures?",
-    "golden_answers": ["Yes, this is a critical error. The Statement of Claim must contain precise, specific amounts—not placeholders. The SOC should state: Principal Outstanding ₹50,030, Interest Outstanding ₹19,345, Penal Interest ₹8,150, Legal Charges ₹5,000, Total ₹82,525 as per the CRM data. Placeholders suggest template use without proper customization."]
+    "question": "The Statement of Claim shows placeholder values like '[As per case]' for amounts. Should the SOC contain specific figures? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Yes, this is a critical error. The Statement of Claim must contain precise, specific amounts—not placeholders. The SOC should state: Principal Outstanding ₹50,030, Interest Outstanding ₹19,345, Penal Interest ₹8,150, Legal Charges ₹5,000, Total ₹82,525 as per the CRM data. Placeholders suggest template use without proper customization."
+    ]
   },
   {
-    "question": "The case shows the borrower visited the Phoenix Finance office on 15-04-2024 for in-person discussion. What does this in-person visit demonstrate?",
-    "golden_answers": ["The in-person visit demonstrates: (1) Strong cooperative intent despite relocation, (2) Willingness to travel from Azamgarh to Gurgaon for resolution, (3) Good faith engagement in settlement process, (4) Acknowledgment of the debt obligation. This level of engagement distinguishes genuine hardship cases from willful defaulters."]
+    "question": "The case shows the borrower visited the Phoenix Finance office on 15-04-2024 for in-person discussion. What does this in-person visit demonstrate? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The in-person visit demonstrates: (1) Strong cooperative intent despite relocation, (2) Willingness to travel from Azamgarh to Gurgaon for resolution, (3) Good faith engagement in settlement process, (4) Acknowledgment of the debt obligation. This level of engagement distinguishes genuine hardship cases from willful defaulters."
+    ]
   },
   {
-    "question": "The borrower 'assured payment by Ramzan' during the office meeting. What is the significance of this timeline commitment?",
-    "golden_answers": ["Ramzan is a major Muslim festival when businesses often see increased sales and families exchange gifts. The borrower likely anticipated improved income during this period. A religiously-significant promise also carries personal commitment weight. This should be documented and followed up after Ramzan to verify if payment materialized."]
+    "question": "The borrower 'assured payment by Ramzan' during the office meeting. What is the significance of this timeline commitment? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Ramzan is a major Muslim festival when businesses often see increased sales and families exchange gifts. The borrower likely anticipated improved income during this period. A religiously-significant promise also carries personal commitment weight. This should be documented and followed up after Ramzan to verify if payment materialized."
+    ]
   },
   {
-    "question": "The loan interest rate is 17.0% p.a. reducing balance. The total outstanding of ₹82,525 on ₹62,000 original loan represents 33% increase. Is this proportionate?",
-    "golden_answers": ["The 33% increase over 14 months of default includes: principal outstanding (~₹50,000), accrued interest (~₹19,000), penal charges (~₹8,000), and legal fees (~₹5,000). Each component is contractually or legally justified. While 33% seems high, it reflects the cost of sustained default. Early settlement would have avoided most of this accumulation."]
+    "question": "The loan interest rate is 17.0% p.a. reducing balance. The total outstanding of ₹82,525 on ₹62,000 original loan represents 33% increase. Is this proportionate? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The 33% increase over 14 months of default includes: principal outstanding (~₹50,000), accrued interest (~₹19,000), penal charges (~₹8,000), and legal fees (~₹5,000). Each component is contractually or legally justified. While 33% seems high, it reflects the cost of sustained default. Early settlement would have avoided most of this accumulation."
+    ]
   },
   {
-    "question": "The arbitration status shows 'First Hearing: 15th September 2024' and 'Second Hearing: 25th October 2024' with negotiations ongoing. What is the typical arbitration timeline for such cases?",
-    "golden_answers": ["For contested cases with settlement discussions, 6-12 months from filing to award is typical. Here, SOC was filed 15 July 2024, with hearings in September and October. If settlement isn't reached by end-2024, expect additional hearings and possible award by Q1 2025. Settlement would conclude faster than fully contested proceedings."]
+    "question": "The arbitration status shows 'First Hearing: 15th September 2024' and 'Second Hearing: 25th October 2024' with negotiations ongoing. What is the typical arbitration timeline for such cases? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "For contested cases with settlement discussions, 6-12 months from filing to award is typical. Here, SOC was filed 15 July 2024, with hearings in September and October. If settlement isn't reached by end-2024, expect additional hearings and possible award by Q1 2025. Settlement would conclude faster than fully contested proceedings."
+    ]
   },
   {
-    "question": "The Affidavit of Urgency mentions 'high wear and tear risk' because the vehicle is used daily for deliveries. Is this still relevant now that the borrower has left gig work?",
-    "golden_answers": ["The urgency basis has changed. Originally, daily delivery use posed wear risk. Now, the vehicle may be in the village with reduced use. Updated urgency might focus on: (1) Risk of disposal by distressed borrower, (2) Deterioration from non-use or poor storage, (3) Possible sale to fund relocation expenses. The petition should be updated to reflect current circumstances."]
+    "question": "The Affidavit of Urgency mentions 'high wear and tear risk' because the vehicle is used daily for deliveries. Is this still relevant now that the borrower has left gig work? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The urgency basis has changed. Originally, daily delivery use posed wear risk. Now, the vehicle may be in the village with reduced use. Updated urgency might focus on: (1) Risk of disposal by distressed borrower, (2) Deterioration from non-use or poor storage, (3) Possible sale to fund relocation expenses. The petition should be updated to reflect current circumstances."
+    ]
   },
   {
-    "question": "The Section 17 application requests 'GPS tracking device installation.' Is this relief typically granted for two-wheeler loans?",
-    "golden_answers": ["GPS tracking is unusual for small vehicle loans and may be considered disproportionate and invasive. Courts are more likely to grant: (1) Restraint on sale, (2) RC deposit requirement, (3) Periodic reporting of vehicle location. GPS tracking is typically reserved for high-value assets or cases with demonstrated flight risk, not a ₹62,000 loan with a cooperative borrower."]
+    "question": "The Section 17 application requests 'GPS tracking device installation.' Is this relief typically granted for two-wheeler loans? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "GPS tracking is unusual for small vehicle loans and may be considered disproportionate and invasive. Courts are more likely to grant: (1) Restraint on sale, (2) RC deposit requirement, (3) Periodic reporting of vehicle location. GPS tracking is typically reserved for high-value assets or cases with demonstrated flight risk, not a ₹62,000 loan with a cooperative borrower."
+    ]
   },
   {
-    "question": "The borrower's address changed from 'C-45, DLF Phase 2, Gurgaon' to presumably his village in Azamgarh. How should service be handled?",
-    "golden_answers": ["Service should be sent to both addresses: (1) Gurgaon address (last registered), (2) Azamgarh village address (current location per recovery timeline), (3) Email to suresh.k1994@gmail.com. Dual service demonstrates diligence and ensures actual notice. Any formal address change should be requested from the borrower for records."]
+    "question": "The borrower's address changed from 'C-45, DLF Phase 2, Gurgaon' to presumably his village in Azamgarh. How should service be handled? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Service should be sent to both addresses: (1) Gurgaon address (last registered), (2) Azamgarh village address (current location per recovery timeline), (3) Email to suresh.k1994@gmail.com. Dual service demonstrates diligence and ensures actual notice. Any formal address change should be requested from the borrower for records."
+    ]
   },
   {
-    "question": "The Statement of Defense filed on 25-08-2024 cites 'accident, job loss' and 'requested reduced settlement.' Should the tribunal verify these claims?",
-    "golden_answers": ["The tribunal may request supporting documentation: (1) Accident report or medical records, (2) Zomato termination/suspension notice, (3) Evidence of reduced income in village. However, tribunals often accept reasonable explanations when corroborated by consistent narrative across interactions. The borrower's cooperative conduct supports credibility of his claims."]
+    "question": "The Statement of Defense filed on 25-08-2024 cites 'accident, job loss' and 'requested reduced settlement.' Should the tribunal verify these claims? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The tribunal may request supporting documentation: (1) Accident report or medical records, (2) Zomato termination/suspension notice, (3) Evidence of reduced income in village. However, tribunals often accept reasonable explanations when corroborated by consistent narrative across interactions. The borrower's cooperative conduct supports credibility of his claims."
+    ]
   },
   {
-    "question": "The case shows ₹0 legal notice charges in the CRM but ₹5,000 in the Statement of Account. When were these charges added?",
-    "golden_answers": ["The CRM shows ₹0 at the earlier documentation stage. Legal charges of ₹5,000 were added after: Recall Notice (February 2024), Section 21 Notice (March 2024), and related legal work. The progression from ₹0 to ₹5,000 is appropriate but should be documented with corresponding invoices for transparency."]
+    "question": "The case shows ₹0 legal notice charges in the CRM but ₹5,000 in the Statement of Account. When were these charges added? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The CRM shows ₹0 at the earlier documentation stage. Legal charges of ₹5,000 were added after: Recall Notice (February 2024), Section 21 Notice (March 2024), and related legal work. The progression from ₹0 to ₹5,000 is appropriate but should be documented with corresponding invoices for transparency."
+    ]
   },
   {
-    "question": "The EMI amount is ₹2,236/month. The borrower's previous gig income was ₹28,000/month. Current village market income is likely much lower. What EMI would be sustainable?",
-    "golden_answers": ["If current income is ₹12,000-15,000/month (typical for village market work), sustainable EMI would be ₹1,500-2,000 (10-15% of income). The original ₹2,236 was 8% of ₹28,000 income. Restructuring to ₹1,500-1,800/month over extended tenure would match his current capacity while ensuring some recovery."]
+    "question": "The EMI amount is ₹2,236/month. The borrower's previous gig income was ₹28,000/month. Current village market income is likely much lower. What EMI would be sustainable? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "If current income is ₹12,000-15,000/month (typical for village market work), sustainable EMI would be ₹1,500-2,000 (10-15% of income). The original ₹2,236 was 8% of ₹28,000 income. Restructuring to ₹1,500-1,800/month over extended tenure would match his current capacity while ensuring some recovery."
+    ]
   },
   {
-    "question": "The 'arbitrator exploring settlement' suggests active tribunal involvement in resolution. How does this affect award outcomes?",
-    "golden_answers": ["Active settlement facilitation by the arbitrator typically leads to: (1) Consent awards if settlement reached, (2) Award reflecting reasonable terms if parties are close but can't agree, (3) Possibly lower costs given cooperative proceedings. Tribunal-facilitated settlement often results in more balanced outcomes than purely contested ex-parte proceedings."]
+    "question": "The 'arbitrator exploring settlement' suggests active tribunal involvement in resolution. How does this affect award outcomes? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Active settlement facilitation by the arbitrator typically leads to: (1) Consent awards if settlement reached, (2) Award reflecting reasonable terms if parties are close but can't agree, (3) Possibly lower costs given cooperative proceedings. Tribunal-facilitated settlement often results in more balanced outcomes than purely contested ex-parte proceedings."
+    ]
   },
   {
-    "question": "The vehicle (Hero Splendor Plus) is a popular model. What is its approximate current market value?",
-    "golden_answers": ["A Hero Splendor Plus purchased for ₹62,000 in March 2023 (1.5 years old) with delivery service use and post-accident history would have market value of ₹35,000-45,000. Higher mileage from gig work reduces value. This would cover approximately half the ₹82,525 outstanding, leaving ~₹35,000-45,000 shortfall requiring other recovery means."]
+    "question": "The vehicle (Hero Splendor Plus) is a popular model. What is its approximate current market value? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "A Hero Splendor Plus purchased for ₹62,000 in March 2023 (1.5 years old) with delivery service use and post-accident history would have market value of ₹35,000-45,000. Higher mileage from gig work reduces value. This would cover approximately half the ₹82,525 outstanding, leaving ~₹35,000-45,000 shortfall requiring other recovery means."
+    ]
   },
   {
-    "question": "The borrower mentioned 'cannot work in city' and returned to village. What factors might prevent urban employment?",
-    "golden_answers": ["Potential factors include: (1) App-based work blacklisting after customer complaints, (2) Injury from accident limiting delivery work, (3) Loss of rental accommodation in expensive Gurgaon, (4) Family obligations in village requiring return, (5) Mental health impact of gig work pressures. Understanding these factors helps assess permanent vs. temporary capacity reduction."]
+    "question": "The borrower mentioned 'cannot work in city' and returned to village. What factors might prevent urban employment? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Potential factors include: (1) App-based work blacklisting after customer complaints, (2) Injury from accident limiting delivery work, (3) Loss of rental accommodation in expensive Gurgaon, (4) Family obligations in village requiring return, (5) Mental health impact of gig work pressures. Understanding these factors helps assess permanent vs. temporary capacity reduction."
+    ]
   },
   {
-    "question": "The Evidence Affidavit mentions 'salary cut affecting payment' but the borrower is a gig worker, not salaried. Is this terminology error significant?",
-    "golden_answers": ["Yes, this is an error that should be corrected. Gig workers have 'income' or 'earnings,' not 'salary.' The correct statement is 'income reduction from gig platform termination affecting payment capacity.' Accurate terminology demonstrates understanding of the borrower's employment situation and prevents technical challenges."]
+    "question": "The Evidence Affidavit mentions 'salary cut affecting payment' but the borrower is a gig worker, not salaried. Is this terminology error significant? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Yes, this is an error that should be corrected. Gig workers have 'income' or 'earnings,' not 'salary.' The correct statement is 'income reduction from gig platform termination affecting payment capacity.' Accurate terminology demonstrates understanding of the borrower's employment situation and prevents technical challenges."
+    ]
   },
   {
-    "question": "The case shows 'landlord informed tenant left on 30-11-2023.' Should the lender pursue the landlord for the borrower's forwarding address?",
-    "golden_answers": ["The landlord may have forwarding information (security deposit return address, final utility bills). Requesting this information is appropriate. However, the father already confirmed the borrower's return to Azamgarh, so the location is known. Landlord follow-up would mainly help verify and potentially provide more specific village address."]
+    "question": "The case shows 'landlord informed tenant left on 30-11-2023.' Should the lender pursue the landlord for the borrower's forwarding address? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The landlord may have forwarding information (security deposit return address, final utility bills). Requesting this information is appropriate. However, the father already confirmed the borrower's return to Azamgarh, so the location is known. Landlord follow-up would mainly help verify and potentially provide more specific village address."
+    ]
   },
   {
-    "question": "The Execution Petition shows 'GPS tracking data for vehicle location' as an execution mode. Is this relevant for a case with known vehicle location?",
-    "golden_answers": ["If the vehicle location is known (at borrower's village residence), GPS tracking is unnecessary. The petition should instead request: warrant for attachment at known location, coordination with Azamgarh local court for execution, and transportation arrangements for seized vehicle. GPS tracking is relevant only when vehicle location is unknown."]
+    "question": "The Execution Petition shows 'GPS tracking data for vehicle location' as an execution mode. Is this relevant for a case with known vehicle location? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "If the vehicle location is known (at borrower's village residence), GPS tracking is unnecessary. The petition should instead request: warrant for attachment at known location, coordination with Azamgarh local court for execution, and transportation arrangements for seized vehicle. GPS tracking is relevant only when vehicle location is unknown."
+    ]
   },
   {
-    "question": "The processing fee is ₹1,860 (3% of ₹62,000). Is this fee refundable if the loan is settled early?",
-    "golden_answers": ["Processing fees are non-refundable as they cover loan origination costs incurred regardless of loan performance. The borrower cannot claim processing fee refund in settlement. However, in settlement negotiations, the lender might consider reducing total claim to account for recovery of some costs through initial processing fee collection."]
+    "question": "The processing fee is ₹1,860 (3% of ₹62,000). Is this fee refundable if the loan is settled early? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Processing fees are non-refundable as they cover loan origination costs incurred regardless of loan performance. The borrower cannot claim processing fee refund in settlement. However, in settlement negotiations, the lender might consider reducing total claim to account for recovery of some costs through initial processing fee collection."
+    ]
   },
   {
-    "question": "The case shows hearings on 15-09-2024 and 25-10-2024 with 'both parties present.' How does borrower presence affect proceedings?",
-    "golden_answers": ["Borrower presence enables: (1) Direct testimony and explanation, (2) Cross-examination by claimant's advocate, (3) Real-time settlement negotiations, (4) Tribunal assessment of credibility and intent. This active participation typically results in more balanced awards compared to ex-parte proceedings where the tribunal only hears one side."]
+    "question": "The case shows hearings on 15-09-2024 and 25-10-2024 with 'both parties present.' How does borrower presence affect proceedings? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Borrower presence enables: (1) Direct testimony and explanation, (2) Cross-examination by claimant's advocate, (3) Real-time settlement negotiations, (4) Tribunal assessment of credibility and intent. This active participation typically results in more balanced awards compared to ex-parte proceedings where the tribunal only hears one side."
+    ]
   },
   {
-    "question": "The borrower's PAN is PQRPS6789L. Should PAN be used to trace any other financial assets?",
-    "golden_answers": ["Yes, PAN-linked search can reveal: (1) Bank accounts (probably minimal for gig worker), (2) Any income tax filings (if any), (3) Mutual funds or investments (unlikely), (4) Other loans (important for understanding total debt burden). For a gig worker earning ₹28,000/month, significant financial assets are unlikely, but verification ensures comprehensive execution."]
+    "question": "The borrower's PAN is PQRPS6789L. Should PAN be used to trace any other financial assets? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Yes, PAN-linked search can reveal: (1) Bank accounts (probably minimal for gig worker), (2) Any income tax filings (if any), (3) Mutual funds or investments (unlikely), (4) Other loans (important for understanding total debt burden). For a gig worker earning ₹28,000/month, significant financial assets are unlikely, but verification ensures comprehensive execution."
+    ]
   },
   {
-    "question": "The loan tenure is 36 months ending 5th March 2026. Given current default, how many EMIs remain if the borrower had continued paying?",
-    "golden_answers": ["As of November 2024, if regular payments had continued, approximately 16-17 EMIs would remain (through March 2026). The borrower paid only 6.5 EMIs before defaulting for 14 months. Even with current default, the loan would have been nearly half-paid by now with regular payments. This perspective may inform settlement calculations."]
+    "question": "The loan tenure is 36 months ending 5th March 2026. Given current default, how many EMIs remain if the borrower had continued paying? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "As of November 2024, if regular payments had continued, approximately 16-17 EMIs would remain (through March 2026). The borrower paid only 6.5 EMIs before defaulting for 14 months. Even with current default, the loan would have been nearly half-paid by now with regular payments. This perspective may inform settlement calculations."
+    ]
   },
   {
-    "question": "The borrower's email is suresh.k1994@gmail.com suggesting birth year 1994, making him 29 years old. Does this match the stated age?",
-    "golden_answers": ["The stated age is 29 years, and if '1994' indicates birth year, he would be 29-30 years in 2024. This is consistent. The young age combined with gig economy employment suggests limited savings or assets, explaining the inability to continue payments after income disruption and supporting the genuine hardship narrative."]
+    "question": "The borrower's email is suresh.k1994@gmail.com suggesting birth year 1994, making him 29 years old. Does this match the stated age? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The stated age is 29 years, and if '1994' indicates birth year, he would be 29-30 years in 2024. This is consistent. The young age combined with gig economy employment suggests limited savings or assets, explaining the inability to continue payments after income disruption and supporting the genuine hardship narrative."
+    ]
   },
   {
-    "question": "The case shows the borrower 'committed to restart payments from March' on 20-02-2024 but defaulted. Should this broken promise affect settlement negotiations?",
-    "golden_answers": ["The broken promise should be noted but contextualized: he made the promise before returning to village and likely overestimated his ability to find work quickly. In settlement, this shows intent but not capacity. The tribunal should focus on current realistic capacity rather than past promises made in different circumstances."]
+    "question": "The case shows the borrower 'committed to restart payments from March' on 20-02-2024 but defaulted. Should this broken promise affect settlement negotiations? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The broken promise should be noted but contextualized: he made the promise before returning to village and likely overestimated his ability to find work quickly. In settlement, this shows intent but not capacity. The tribunal should focus on current realistic capacity rather than past promises made in different circumstances."
+    ]
   },
   {
-    "question": "The Award mentions 'costs: ₹55,000' but doesn't break down components. Should cost breakdown be required?",
-    "golden_answers": ["Yes, cost breakdown provides transparency and enables challenge if excessive. Standard breakdown: Arbitrator fees (₹30,000-35,000), Advocate fees (₹15,000-20,000), Administrative costs (₹5,000-8,000). Without breakdown, costs appear arbitrary. The ₹55,000 seems reasonable for a contested case but should be itemized."]
+    "question": "The Award mentions 'costs: ₹55,000' but doesn't break down components. Should cost breakdown be required? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Yes, cost breakdown provides transparency and enables challenge if excessive. Standard breakdown: Arbitrator fees (₹30,000-35,000), Advocate fees (₹15,000-20,000), Administrative costs (₹5,000-8,000). Without breakdown, costs appear arbitrary. The ₹55,000 seems reasonable for a contested case but should be itemized."
+    ]
   },
   {
-    "question": "The borrower filed Statement of Defense. What defenses might be available in a loan default case?",
-    "golden_answers": ["Possible defenses include: (1) Improper notice/service (if any procedural lapses), (2) Calculation errors in claimed amount, (3) Excessive penal charges if beyond contractual terms, (4) Request for equitable treatment given hardship, (5) Partial performance acknowledgment, (6) Settlement offer as alternative to full claim. Complete debt denial is not viable given documented disbursement and partial payments."]
+    "question": "The borrower filed Statement of Defense. What defenses might be available in a loan default case? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Possible defenses include: (1) Improper notice/service (if any procedural lapses), (2) Calculation errors in claimed amount, (3) Excessive penal charges if beyond contractual terms, (4) Request for equitable treatment given hardship, (5) Partial performance acknowledgment, (6) Settlement offer as alternative to full claim. Complete debt denial is not viable given documented disbursement and partial payments."
+    ]
   },
   {
-    "question": "The Section 17 application asks for 'flexible repayment consideration.' Can arbitrators include such accommodations in awards?",
-    "golden_answers": ["Yes, arbitrators can structure awards with flexibility: (1) Installment payment schedules, (2) Grace periods before enforcement, (3) Proportionate recovery (some amount from assets, balance in installments), (4) Reduced costs given cooperation. Such accommodations are particularly appropriate when the borrower has participated constructively rather than evading."]
+    "question": "The Section 17 application asks for 'flexible repayment consideration.' Can arbitrators include such accommodations in awards? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Yes, arbitrators can structure awards with flexibility: (1) Installment payment schedules, (2) Grace periods before enforcement, (3) Proportionate recovery (some amount from assets, balance in installments), (4) Reduced costs given cooperation. Such accommodations are particularly appropriate when the borrower has participated constructively rather than evading."
+    ]
   },
   {
-    "question": "The recovery timeline shows communication via 'Email reply' on 05-11-2023 where the borrower 'shared injury details, made partial payment.' This proactive communication suggests what about the borrower?",
-    "golden_answers": ["This suggests: (1) Honest acknowledgment of the debt, (2) Explanation of circumstances affecting payment, (3) Action (partial payment) despite reduced capacity, (4) Engagement rather than evasion. This proactive communication strongly supports treating the borrower as cooperating in good faith rather than as a willful defaulter deserving punitive treatment."]
+    "question": "The recovery timeline shows communication via 'Email reply' on 05-11-2023 where the borrower 'shared injury details, made partial payment.' This proactive communication suggests what about the borrower? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "This suggests: (1) Honest acknowledgment of the debt, (2) Explanation of circumstances affecting payment, (3) Action (partial payment) despite reduced capacity, (4) Engagement rather than evasion. This proactive communication strongly supports treating the borrower as cooperating in good faith rather than as a willful defaulter deserving punitive treatment."
+    ]
   },
   {
-    "question": "The arbitration seat appears to be Gurgaon, but the borrower now lives in Azamgarh, UP. Does the tribunal have jurisdiction?",
-    "golden_answers": ["Yes, the arbitration seat (Gurgaon) establishes jurisdiction regardless of the borrower's current residence. The Loan Agreement specifies the seat, and the borrower agreed to it. Relocation doesn't change contractual jurisdiction. The borrower can participate remotely (video conference) if travel is difficult. Award enforcement may require coordination with Azamgarh courts."]
+    "question": "The arbitration seat appears to be Gurgaon, but the borrower now lives in Azamgarh, UP. Does the tribunal have jurisdiction? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Yes, the arbitration seat (Gurgaon) establishes jurisdiction regardless of the borrower's current residence. The Loan Agreement specifies the seat, and the borrower agreed to it. Relocation doesn't change contractual jurisdiction. The borrower can participate remotely (video conference) if travel is difficult. Award enforcement may require coordination with Azamgarh courts."
+    ]
   },
   {
-    "question": "The default reason is 'Relocation to hometown due to gig work termination and accident.' Is this a temporary or permanent change?",
-    "golden_answers": ["This appears semi-permanent: the borrower has started local market work suggesting long-term village settlement rather than temporary retreat. The combination of gig platform suspension (blocking return to that work) and accident injuries suggests limited ability to return to urban gig economy. Recovery planning should assume reduced capacity going forward."]
+    "question": "The default reason is 'Relocation to hometown due to gig work termination and accident.' Is this a temporary or permanent change? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "This appears semi-permanent: the borrower has started local market work suggesting long-term village settlement rather than temporary retreat. The combination of gig platform suspension (blocking return to that work) and accident injuries suggests limited ability to return to urban gig economy. Recovery planning should assume reduced capacity going forward."
+    ]
   },
   {
-    "question": "The second hearing on 25-10-2024 showed 'negotiations ongoing.' What are typical outcomes of prolonged settlement negotiations?",
-    "golden_answers": ["Prolonged negotiations typically lead to: (1) Compromise settlement at 50-70% of claim, (2) Consent award formalizing agreed terms, (3) Reduced costs given cooperative proceedings, (4) Structured payment plan matching borrower's capacity. If negotiations fail, the tribunal issues a contested award, but ongoing negotiation suggests both parties see value in settlement."]
+    "question": "The second hearing on 25-10-2024 showed 'negotiations ongoing.' What are typical outcomes of prolonged settlement negotiations? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Prolonged negotiations typically lead to: (1) Compromise settlement at 50-70% of claim, (2) Consent award formalizing agreed terms, (3) Reduced costs given cooperative proceedings, (4) Structured payment plan matching borrower's capacity. If negotiations fail, the tribunal issues a contested award, but ongoing negotiation suggests both parties see value in settlement."
+    ]
   },
   {
-    "question": "The Execution Petition mentions 'salary attachment (current employment).' What is the current employment status?",
-    "golden_answers": ["The borrower is currently working in 'local market' in his village—this is self-employment, not salaried work. Salary attachment is not applicable. Execution should focus on: (1) Vehicle attachment, (2) Any bank accounts, (3) Negotiated settlement from future earnings. The petition should be corrected to reflect self-employment status."]
+    "question": "The Execution Petition mentions 'salary attachment (current employment).' What is the current employment status? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The borrower is currently working in 'local market' in his village—this is self-employment, not salaried work. Salary attachment is not applicable. Execution should focus on: (1) Vehicle attachment, (2) Any bank accounts, (3) Negotiated settlement from future earnings. The petition should be corrected to reflect self-employment status."
+    ]
   },
   {
-    "question": "The case shows the borrower's phone was 'switched off' on 05-11-2023 but later 'answered' on 20-11-2023. What does this intermittent availability suggest?",
-    "golden_answers": ["Intermittent phone availability during this period could indicate: (1) Inability to afford phone bills, (2) Moving between locations with variable coverage, (3) Emotional avoidance during crisis period, (4) Phone damaged in accident. Importantly, he became reachable again, suggesting temporary difficulty rather than deliberate hiding."]
+    "question": "The case shows the borrower's phone was 'switched off' on 05-11-2023 but later 'answered' on 20-11-2023. What does this intermittent availability suggest? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Intermittent phone availability during this period could indicate: (1) Inability to afford phone bills, (2) Moving between locations with variable coverage, (3) Emotional avoidance during crisis period, (4) Phone damaged in accident. Importantly, he became reachable again, suggesting temporary difficulty rather than deliberate hiding."
+    ]
   },
   {
-    "question": "The outstanding includes penal interest of ₹8,150 over 14 months. What is the implied penal rate?",
-    "golden_answers": ["₹8,150 on approximately ₹50,000 principal over 14 months implies roughly 1.17% per month or about 14% per year in penal charges. This is moderate compared to typical 2-3% monthly penal rates. The reasonable penal rate suggests the lender isn't being excessive, which supports goodwill in settlement discussions."]
+    "question": "The outstanding includes penal interest of ₹8,150 over 14 months. What is the implied penal rate? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "₹8,150 on approximately ₹50,000 principal over 14 months implies roughly 1.17% per month or about 14% per year in penal charges. This is moderate compared to typical 2-3% monthly penal rates. The reasonable penal rate suggests the lender isn't being excessive, which supports goodwill in settlement discussions."
+    ]
   },
   {
-    "question": "The case mentions the borrower 'requested meeting to discuss restructuring' on 25-03-2024. What restructuring options exist for gig worker loans?",
-    "golden_answers": ["Restructuring options include: (1) Extended tenure (36 to 48-60 months) reducing EMI, (2) Step-up EMI starting low and increasing, (3) Interest-only period during stabilization, (4) Principal forgiveness with reduced settlement, (5) Vehicle surrender with debt satisfaction, (6) Income-based flexible payments tied to actual earnings."]
+    "question": "The case mentions the borrower 'requested meeting to discuss restructuring' on 25-03-2024. What restructuring options exist for gig worker loans? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Restructuring options include: (1) Extended tenure (36 to 48-60 months) reducing EMI, (2) Step-up EMI starting low and increasing, (3) Interest-only period during stabilization, (4) Principal forgiveness with reduced settlement, (5) Vehicle surrender with debt satisfaction, (6) Income-based flexible payments tied to actual earnings."
+    ]
   },
   {
-    "question": "The SOC references 'Delivery rider, Two-Wheeler Loan borrower' instead of specific name. Should the respondent be identified precisely?",
-    "golden_answers": ["Absolutely. The Statement of Claim must specifically identify: 'Suresh Kumar, son of [father's name], aged 29 years, former Gig Worker (Zomato Delivery Partner), currently residing at [village address], Azamgarh, UP.' Vague references like 'delivery rider' or 'borrower' are insufficient for legal documents and may create identification issues."]
+    "question": "The SOC references 'Delivery rider, Two-Wheeler Loan borrower' instead of specific name. Should the respondent be identified precisely? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Absolutely. The Statement of Claim must specifically identify: 'Suresh Kumar, son of [father's name], aged 29 years, former Gig Worker (Zomato Delivery Partner), currently residing at [village address], Azamgarh, UP.' Vague references like 'delivery rider' or 'borrower' are insufficient for legal documents and may create identification issues."
+    ]
   },
   {
-    "question": "The field visit found 'Flat locked, society security said tenant moved abroad.' The borrower moved to village, not abroad. Is this information accurate?",
-    "golden_answers": ["The security guard's statement 'moved abroad' appears to be either misinformation, miscommunication, or a different tenant. Subsequent investigation confirmed the borrower moved to Azamgarh village, not abroad. Field visit reports should record exactly what was stated but the actual verified information (village relocation) should be used for recovery purposes."]
+    "question": "The field visit found 'Flat locked, society security said tenant moved abroad.' The borrower moved to village, not abroad. Is this information accurate? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The security guard's statement 'moved abroad' appears to be either misinformation, miscommunication, or a different tenant. Subsequent investigation confirmed the borrower moved to Azamgarh village, not abroad. Field visit reports should record exactly what was stated but the actual verified information (village relocation) should be used for recovery purposes."
+    ]
   },
   {
-    "question": "The loan was for 'Hero Splendor Plus' purchased for gig delivery work. Can the loan purpose be considered when determining recovery approach?",
-    "golden_answers": ["Yes, the livelihood purpose is relevant. The vehicle was acquired for income generation (delivery work), not personal use. The borrower's inability to continue that work directly caused the default. While this doesn't excuse the debt, it provides context for compassionate treatment and realistic recovery expectations when the income-generating purpose is no longer served."]
+    "question": "The loan was for 'Hero Splendor Plus' purchased for gig delivery work. Can the loan purpose be considered when determining recovery approach? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Yes, the livelihood purpose is relevant. The vehicle was acquired for income generation (delivery work), not personal use. The borrower's inability to continue that work directly caused the default. While this doesn't excuse the debt, it provides context for compassionate treatment and realistic recovery expectations when the income-generating purpose is no longer served."
+    ]
   },
   {
-    "question": "The Section 17 application requests restraint on 'selling/damaging vehicle.' What constitutes 'damaging' in this context?",
-    "golden_answers": ["'Damaging' includes: (1) Deliberate destruction to reduce recovery value, (2) Removing parts for sale, (3) Neglectful maintenance causing deterioration, (4) Unauthorized modifications reducing resale value. The restraint aims to preserve asset value. Normal wear from use isn't 'damage,' but deliberate value reduction to frustrate recovery would be."]
+    "question": "The Section 17 application requests restraint on 'selling/damaging vehicle.' What constitutes 'damaging' in this context? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "'Damaging' includes: (1) Deliberate destruction to reduce recovery value, (2) Removing parts for sale, (3) Neglectful maintenance causing deterioration, (4) Unauthorized modifications reducing resale value. The restraint aims to preserve asset value. Normal wear from use isn't 'damage,' but deliberate value reduction to frustrate recovery would be."
+    ]
   },
   {
-    "question": "The borrower's father 'answered from Azamgarh, UP - son returned home' on 20-12-2023. Should the father be formally notified of proceedings?",
-    "golden_answers": ["The father is not a party to the loan and cannot be formally served with legal notices intended for the borrower. However, sending notice to the family address with the father as recipient for 'information to borrower' is acceptable practice. The father can be requested to inform his son and facilitate communication, but he has no legal obligation."]
+    "question": "The borrower's father 'answered from Azamgarh, UP - son returned home' on 20-12-2023. Should the father be formally notified of proceedings? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The father is not a party to the loan and cannot be formally served with legal notices intended for the borrower. However, sending notice to the family address with the father as recipient for 'information to borrower' is acceptable practice. The father can be requested to inform his son and facilitate communication, but he has no legal obligation."
+    ]
   },
   {
-    "question": "The case shows 'vehicle is used daily for work, creating wear-tear risk.' Now that the borrower has stopped delivery work, has this risk changed?",
-    "golden_answers": ["Yes, the risk profile has changed: (1) Reduced daily use means less active wear, (2) But potential neglect/non-maintenance if borrower can't afford upkeep, (3) Rural storage conditions may differ from urban, (4) Possible degradation from non-use (battery, tires). The urgency rationale should be updated to reflect current circumstances rather than outdated delivery work concerns."]
+    "question": "The case shows 'vehicle is used daily for work, creating wear-tear risk.' Now that the borrower has stopped delivery work, has this risk changed? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Yes, the risk profile has changed: (1) Reduced daily use means less active wear, (2) But potential neglect/non-maintenance if borrower can't afford upkeep, (3) Rural storage conditions may differ from urban, (4) Possible degradation from non-use (battery, tires). The urgency rationale should be updated to reflect current circumstances rather than outdated delivery work concerns."
+    ]
   },
   {
-    "question": "The Award mentions 'vehicle liquidation alternative.' If the vehicle is in Azamgarh and the award is from Gurgaon tribunal, how is liquidation executed?",
-    "golden_answers": ["Execution requires: (1) Filing execution petition in Gurgaon court, (2) Requesting transfer to Azamgarh under CPC provisions for execution where assets are located, (3) Local court in Azamgarh issuing attachment warrant, (4) Physical seizure with local bailiff assistance, (5) Either returning vehicle to Gurgaon for auction or conducting local auction. Inter-district coordination is necessary."]
+    "question": "The Award mentions 'vehicle liquidation alternative.' If the vehicle is in Azamgarh and the award is from Gurgaon tribunal, how is liquidation executed? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Execution requires: (1) Filing execution petition in Gurgaon court, (2) Requesting transfer to Azamgarh under CPC provisions for execution where assets are located, (3) Local court in Azamgarh issuing attachment warrant, (4) Physical seizure with local bailiff assistance, (5) Either returning vehicle to Gurgaon for auction or conducting local auction. Inter-district coordination is necessary."
+    ]
   },
   {
-    "question": "The recovery timeline shows 'mentioned bike accident, minor injuries' on 20-10-2023. Should accident-related expenses or damages be factored into settlement?",
-    "golden_answers": ["Accident expenses are the borrower's personal burden, separate from the loan obligation. However, understanding that the accident: (1) Caused medical expenses diverting funds, (2) Potentially damaged the financed vehicle, (3) May have contributed to work termination, provides context. Settlement discussions might acknowledge this hardship in determining realistic payment terms, but it doesn't reduce the legal debt."]
+    "question": "The recovery timeline shows 'mentioned bike accident, minor injuries' on 20-10-2023. Should accident-related expenses or damages be factored into settlement? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Accident expenses are the borrower's personal burden, separate from the loan obligation. However, understanding that the accident: (1) Caused medical expenses diverting funds, (2) Potentially damaged the financed vehicle, (3) May have contributed to work termination, provides context. Settlement discussions might acknowledge this hardship in determining realistic payment terms, but it doesn't reduce the legal debt."
+    ]
   },
   {
-    "question": "The case shows ₹5,000 legal notice charges. Should these be waived in settlement given the borrower's cooperative engagement?",
-    "golden_answers": ["Waiving or reducing legal charges in settlement is a goodwill gesture that often facilitates agreement. Since the borrower has: participated in hearings, filed defense, engaged in negotiations, and traveled for meetings—he has demonstrated cooperation that might not have occurred with other defaulters. Waiving ₹5,000 in exchange for expedited settlement could be worthwhile."]
+    "question": "The case shows ₹5,000 legal notice charges. Should these be waived in settlement given the borrower's cooperative engagement? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Waiving or reducing legal charges in settlement is a goodwill gesture that often facilitates agreement. Since the borrower has: participated in hearings, filed defense, engaged in negotiations, and traveled for meetings—he has demonstrated cooperation that might not have occurred with other defaulters. Waiving ₹5,000 in exchange for expedited settlement could be worthwhile."
+    ]
   },
   {
-    "question": "The Arbitration Reference shows ARB/2024/1006 without location prefix. What should the correct format be?",
-    "golden_answers": ["The reference should include location: ARB/GGN/2024/1006 (for Gurgaon seat) or similar. The current format 'ARB/2024/1006' lacks geographic identifier. Consistent reference formatting helps track cases and coordinate with courts. The complete reference should appear identically across all documents."]
+    "question": "The Arbitration Reference shows ARB/2024/1006 without location prefix. What should the correct format be? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "The reference should include location: ARB/GGN/2024/1006 (for Gurgaon seat) or similar. The current format 'ARB/2024/1006' lacks geographic identifier. Consistent reference formatting helps track cases and coordinate with courts. The complete reference should appear identically across all documents."
+    ]
   },
   {
-    "question": "The case involves a gig worker (Zomato partner). Are there any emerging protections for gig workers in loan defaults?",
-    "golden_answers": ["Gig worker protections are evolving. Current considerations include: (1) Variable income recognition in loan underwriting, (2) Platform data for income verification, (3) Flexible repayment structures matching gig earnings, (4) Some proposed social security benefits. However, contractual loan obligations remain unchanged regardless of employment type. Courts may show empathy but the debt remains legally due."]
+    "question": "The case involves a gig worker (Zomato partner). Are there any emerging protections for gig workers in loan defaults? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Gig worker protections are evolving. Current considerations include: (1) Variable income recognition in loan underwriting, (2) Platform data for income verification, (3) Flexible repayment structures matching gig earnings, (4) Some proposed social security benefits. However, contractual loan obligations remain unchanged regardless of employment type. Courts may show empathy but the debt remains legally due."
+    ]
   },
   {
-    "question": "The borrower visited the office on 15-04-2024 and 'discussed challenges, assured payment by Ramzan.' Ramzan 2024 was in March-April. Did payment occur?",
-    "golden_answers": ["If the visit was in April 2024 and Ramzan 2024 ended around April 9-10, the promise timing is confused. Either: (1) He meant the next Ramzan (2025), (2) The meeting date is incorrect, or (3) Ramzan had just passed when he made the promise for immediate payment. The file should clarify this timeline and confirm if any payment was received post-Ramzan."]
+    "question": "The borrower visited the office on 15-04-2024 and 'discussed challenges, assured payment by Ramzan.' Ramzan 2024 was in March-April. Did payment occur? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "If the visit was in April 2024 and Ramzan 2024 ended around April 9-10, the promise timing is confused. Either: (1) He meant the next Ramzan (2025), (2) The meeting date is incorrect, or (3) Ramzan had just passed when he made the promise for immediate payment. The file should clarify this timeline and confirm if any payment was received post-Ramzan."
+    ]
   },
   {
-    "question": "The case status is 'Midway Arbitration, borrower cooperating, settlement under negotiation.' What factors determine final settlement amount?",
-    "golden_answers": ["Settlement factors include: (1) Outstanding principal vs. total claim, (2) Vehicle value as partial recovery, (3) Borrower's demonstrated capacity (village income ~₹12,000-15,000/month), (4) Costs of continued litigation vs. immediate settlement, (5) Borrower's cooperation level, (6) Comparable settlements in similar cases. Typical settlement might be 60-70% of outstanding if vehicle is surrendered, or structured payments at reduced principal."]
+    "question": "The case status is 'Midway Arbitration, borrower cooperating, settlement under negotiation.' What factors determine final settlement amount? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Settlement factors include: (1) Outstanding principal vs. total claim, (2) Vehicle value as partial recovery, (3) Borrower's demonstrated capacity (village income ~₹12,000-15,000/month), (4) Costs of continued litigation vs. immediate settlement, (5) Borrower's cooperation level, (6) Comparable settlements in similar cases. Typical settlement might be 60-70% of outstanding if vehicle is surrendered, or structured payments at reduced principal."
+    ]
   },
   {
-    "question": "The List of Documents shows 'Salary Slips (showing cut)' but gig workers don't have salary slips. What documentation substitutes?",
-    "golden_answers": ["For gig workers, relevant documentation includes: (1) Platform earning statements/app screenshots, (2) Bank statements showing platform payments, (3) Platform account status (active/suspended), (4) Platform correspondence about termination, (5) Income tax returns if filed. The 'salary slips' reference is likely template language that should be replaced with 'Gig Platform Earning Records.'"]
+    "question": "The List of Documents shows 'Salary Slips (showing cut)' but gig workers don't have salary slips. What documentation substitutes? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "For gig workers, relevant documentation includes: (1) Platform earning statements/app screenshots, (2) Bank statements showing platform payments, (3) Platform account status (active/suspended), (4) Platform correspondence about termination, (5) Income tax returns if filed. The 'salary slips' reference is likely template language that should be replaced with 'Gig Platform Earning Records.'"
+    ]
   },
   {
-    "question": "The borrower mentioned 'app suspending him for customer complaints.' If reinstatement is possible, should recovery strategy include this option?",
-    "golden_answers": ["Exploring reinstatement is creative but challenging: (1) The borrower may have permanently damaged his platform standing, (2) Platform appeal processes have limited success, (3) Even if reinstated, his relocation to village makes Gurgaon work impractical. The recovery strategy should focus on current village income reality rather than hypothetical return to gig work."]
+    "question": "The borrower mentioned 'app suspending him for customer complaints.' If reinstatement is possible, should recovery strategy include this option? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Exploring reinstatement is creative but challenging: (1) The borrower may have permanently damaged his platform standing, (2) Platform appeal processes have limited success, (3) Even if reinstated, his relocation to village makes Gurgaon work impractical. The recovery strategy should focus on current village income reality rather than hypothetical return to gig work."
+    ]
   },
   {
-    "question": "The Award provides for 'vehicle liquidation alternative.' If the vehicle value exceeds outstanding, what happens to surplus?",
-    "golden_answers": ["If vehicle auction yields more than the outstanding debt plus costs, the surplus must be returned to the borrower under CPC provisions. However, for a used Hero Splendor Plus, this is unlikely—estimated value (₹35,000-45,000) is less than outstanding (₹82,525). More likely, vehicle liquidation will create shortfall requiring further recovery efforts."]
+    "question": "The Award provides for 'vehicle liquidation alternative.' If the vehicle value exceeds outstanding, what happens to surplus? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "If vehicle auction yields more than the outstanding debt plus costs, the surplus must be returned to the borrower under CPC provisions. However, for a used Hero Splendor Plus, this is unlikely—estimated value (₹35,000-45,000) is less than outstanding (₹82,525). More likely, vehicle liquidation will create shortfall requiring further recovery efforts."
+    ]
   },
   {
-    "question": "The arbitration has had two hearings with both parties present. What are typical costs if proceedings conclude by consent award vs. contested award?",
-    "golden_answers": ["Consent award (settlement) typically reduces costs: lower advocate time, shorter proceedings, goodwill reductions. Expect ₹30,000-40,000 in costs. Contested award to completion: additional hearings, full evidence, oral arguments—expect ₹50,000-65,000 in costs. The ~₹20,000 cost savings from settlement can be factored into the negotiation—both parties benefit from avoiding prolonged litigation."]
+    "question": "The arbitration has had two hearings with both parties present. What are typical costs if proceedings conclude by consent award vs. contested award? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Consent award (settlement) typically reduces costs: lower advocate time, shorter proceedings, goodwill reductions. Expect ₹30,000-40,000 in costs. Contested award to completion: additional hearings, full evidence, oral arguments—expect ₹50,000-65,000 in costs. The ~₹20,000 cost savings from settlement can be factored into the negotiation—both parties benefit from avoiding prolonged litigation."
+    ]
   },
   {
-    "question": "The Section 9 petition references 'Ramesh Yadav' and 'Sitapur' but this case is about 'Suresh Kumar' in 'Gurgaon.' What needs correction?",
-    "golden_answers": ["Complete replacement is needed. All references to Ramesh Yadav, Sitapur, or any other inconsistent details must be removed. The Section 9 petition should exclusively reference: Suresh Kumar, C-45 DLF Phase 2 Gurgaon (registered address) and village address Azamgarh (current), Hero Splendor Plus, loan account PFL-TWL-231006, and outstanding ₹82,525."]
+    "question": "The Section 9 petition references 'Ramesh Yadav' and 'Sitapur' but this case is about 'Suresh Kumar' in 'Gurgaon.' What needs correction? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Complete replacement is needed. All references to Ramesh Yadav, Sitapur, or any other inconsistent details must be removed. The Section 9 petition should exclusively reference: Suresh Kumar, C-45 DLF Phase 2 Gurgaon (registered address) and village address Azamgarh (current), Hero Splendor Plus, loan account PFL-TWL-231006, and outstanding ₹82,525."
+    ]
   },
   {
-    "question": "The Affidavit of Urgency states 'Vehicle used daily for delivery work, high wear and tear risk.' Is this still accurate given changed circumstances?",
-    "golden_answers": ["No, this is outdated. Current accurate statement: 'Vehicle formerly used for delivery work, now in borrower's village residence. Risk includes: potential disposal to meet financial needs, deterioration from storage conditions, and possible sale without lender's knowledge.' The urgency basis should reflect present circumstances, not historical use patterns."]
+    "question": "The Affidavit of Urgency states 'Vehicle used daily for delivery work, high wear and tear risk.' Is this still accurate given changed circumstances? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "No, this is outdated. Current accurate statement: 'Vehicle formerly used for delivery work, now in borrower's village residence. Risk includes: potential disposal to meet financial needs, deterioration from storage conditions, and possible sale without lender's knowledge.' The urgency basis should reflect present circumstances, not historical use patterns."
+    ]
   },
   {
-    "question": "The case shows cooperative borrower engagement through multiple channels (calls, emails, letter, office visit, arbitration appearance). How should this cooperation be weighted in the award?",
-    "golden_answers": ["Exceptional cooperation should be positively recognized: (1) Reduced costs reflecting minimal enforcement expenses, (2) Lower penal interest given good faith engagement, (3) Favorable payment terms in the award, (4) Acknowledgment in award findings noting cooperative conduct. This borrower's behavior contrasts with willful defaulters and deserves different treatment in final award terms."]
+    "question": "The case shows cooperative borrower engagement through multiple channels (calls, emails, letter, office visit, arbitration appearance). How should this cooperation be weighted in the award? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Exceptional cooperation should be positively recognized: (1) Reduced costs reflecting minimal enforcement expenses, (2) Lower penal interest given good faith engagement, (3) Favorable payment terms in the award, (4) Acknowledgment in award findings noting cooperative conduct. This borrower's behavior contrasts with willful defaulters and deserves different treatment in final award terms."
+    ]
   },
   {
-    "question": "The execution petition mentions 'vehicle seizure' as primary mode. Given the borrower's cooperation, should voluntary surrender be requested first?",
-    "golden_answers": ["Yes, requesting voluntary surrender before forced seizure is appropriate and cost-effective: (1) Saves execution costs, (2) Maintains cooperative relationship, (3) Borrower may prepare vehicle for handover in better condition, (4) Reduces community tension in village. A formal request with deadline before forced seizure respects the borrower's demonstrated good faith while preserving legal options."]
+    "question": "The execution petition mentions 'vehicle seizure' as primary mode. Given the borrower's cooperation, should voluntary surrender be requested first? <case_id:case_006, folder_id:ARB/2024/1006>",
+    "golden_answers": [
+      "Yes, requesting voluntary surrender before forced seizure is appropriate and cost-effective: (1) Saves execution costs, (2) Maintains cooperative relationship, (3) Borrower may prepare vehicle for handover in better condition, (4) Reduces community tension in village. A formal request with deadline before forced seizure respects the borrower's demonstrated good faith while preserving legal options."
+    ]
   }
 ]

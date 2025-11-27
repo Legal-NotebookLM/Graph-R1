@@ -1,0 +1,356 @@
+[
+  {
+    "question": "What is the loan account number for Prakash Joshi's business loan with Phoenix Finance Ltd.? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The loan account number is PFL-BL-241027. This is a Business Loan for Shop Expansion sanctioned on 15th September 2024 with a loan amount of ₹3,50,000/- for a 36-month tenure."
+    ]
+  },
+  {
+    "question": "What is the total outstanding amount claimed against Prakash Joshi as on 26-11-2024? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The total outstanding amount is ₹3,72,684/- as on 26-11-2024, comprising: Principal outstanding ₹3,50,000/- (no principal recovered), Interest outstanding ₹11,234/-, Penal interest & charges ₹6,450/-, and Legal notice charges ₹5,000/-."
+    ]
+  },
+  {
+    "question": "What is the reason for default in Prakash Joshi's case? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The default reason is: 'Fraud - took loan and immediately absconded, shop closed, family disappeared.' The borrower took the loan on 22nd September 2024 and absconded immediately, closing his shop and disappearing with his family, indicating premeditated fraud."
+    ]
+  },
+  {
+    "question": "What is the borrower's employment details as per CRM records? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "Prakash Joshi is self-employed as owner of Joshi Stationers & General Store, a retail shop in Shop No. 45, Tilak Bazaar, Dehradun, with monthly income of ₹45,000/-. However, the shop was found permanently closed on 30-10-2024, and shopkeepers confirmed he closed immediately after receiving the loan."
+    ]
+  },
+  {
+    "question": "How many EMIs did Prakash Joshi pay before defaulting? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "Prakash Joshi paid 0 EMIs - no payments were made at all. The first EMI was due on 5th October 2024 but remained unpaid as the business was closed and the borrower had already absconded by that time."
+    ]
+  },
+  {
+    "question": "What is the Days Past Due (DPD) for this loan account? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Days Past Due (DPD) is 56 days as on 26-11-2024. The default commenced from October 2024 when the first EMI was due, but the borrower had already absconded and closed his business by that time."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Loan Recall Notice date? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Loan Recall Notice is dated 20th August 2024, but the loan was sanctioned on 15th September 2024 and disbursed on 22nd September 2024. This date is impossible - the notice was issued before the loan was even sanctioned. The correct date should be 22nd November 2024 as mentioned in the recovery timeline."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 21 Notice date? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Section 21 Notice is dated 10th September 2024, but the loan was sanctioned on 15th September 2024 and disbursed on 22nd September 2024. This date is impossible - the notice was issued before the loan was disbursed. The correct date should be 23rd November 2024 as mentioned in the recovery timeline."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 9 Petition regarding court jurisdiction? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Section 9 Petition is filed before the Hon'ble District Judge, Raipur, but the borrower's address and business are in Dehradun, Uttarakhand. This is a jurisdiction error - the petition should be filed in Dehradun court, not Raipur. Additionally, the petition date is 1st September 2024, which is before loan disbursal on 22nd September 2024."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 17 Application regarding loan amount? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Section 17 Application mentions 'Business Loan ₹12,00,000/-' but the actual loan is ₹3,50,000/-. This is a critical error - the application appears to be copied from a different case file and must be completely rewritten with the correct loan amount."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Statement of Claim? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Statement of Claim Part I & II mentions 'Business Loan ₹12,00,000/-' and 'Outstanding: ₹12,05,000/-' but the actual loan is ₹3,50,000/- and outstanding is ₹3,72,684/-. Additionally, it mentions 'Loan disbursed on Day 1. Borrower vanished Day 2' which is correct, but all amounts are wrong."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Evidence Affidavit? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Evidence Affidavit mentions 'Business Loan ₹12,00,000/-' and 'Outstanding: ₹12,05,000/-' but the actual loan is ₹3,50,000/- and outstanding is ₹3,72,684/-. The affidavit appears to be copied from a different case and must be completely rewritten with correct facts."
+    ]
+  },
+  {
+    "question": "What is the borrower's residential address? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The residential address is Shop No. 45, Tilak Bazaar, Dehradun, Uttarakhand - 248001. However, during address verification on 10-11-2024, neighbors said the family left 2 weeks ago and forwarding address is unknown, confirming the absconding."
+    ]
+  },
+  {
+    "question": "What is the generated Case ID for this matter? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The generated Case ID is PFL/BL/2024/01027. This is Phoenix Finance Ltd.'s internal reference number for tracking this Business Loan fraud case against Prakash Joshi."
+    ]
+  },
+  {
+    "question": "What is the EMI amount per month for this loan? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The EMI amount is ₹12,988/- per month for the 36-month tenure. This was calculated based on the loan amount of ₹3,50,000/- at an interest rate of 19.5% p.a. on reducing balance. However, no EMIs were paid as the borrower absconded immediately after loan disbursal."
+    ]
+  },
+  {
+    "question": "What processing fee was charged on this loan? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The processing fee charged was ₹10,500/- which represents 3% of the loan amount (₹3,50,000/-). This is a standard processing fee percentage for business loans."
+    ]
+  },
+  {
+    "question": "What principal amount has been recovered from EMI payments? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The principal recovered is ₹0/- as no EMIs were paid at all. The borrower absconded immediately after receiving the loan on 22nd September 2024, before the first EMI was due on 5th October 2024."
+    ]
+  },
+  {
+    "question": "What was discovered during the shop visit on 30-10-2024? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "During the shop visit on 30-10-2024, the shop (Joshi Stationers & General Store) was found permanently closed with the shutter locked. This confirmed that the business was shut down, indicating the borrower had no intention of continuing operations after receiving the loan."
+    ]
+  },
+  {
+    "question": "What was discovered during the local inquiry on 05-11-2024? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "During the local inquiry at Tilak Bazaar on 05-11-2024, shopkeepers confirmed that Prakash closed his shop immediately after receiving the loan and hasn't been seen since. This provided evidence of premeditated fraud - taking the loan with intent to abscond."
+    ]
+  },
+  {
+    "question": "What was discovered during the address verification on 10-11-2024? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "During the address verification on 10-11-2024, neighbors said the family left 2 weeks ago and the forwarding address is unknown. This confirmed that the borrower and his family had absconded, making them untraceable."
+    ]
+  },
+  {
+    "question": "What was discovered during the police inquiry on 15-11-2024? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "During the police inquiry at the local police station on 15-11-2024, it was confirmed that no complaint had been filed and the borrower had absconded. This led to the decision to file a police complaint for fraud on 21-11-2024."
+    ]
+  },
+  {
+    "question": "What is the interest rate on this business loan? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The interest rate is 19.5% p.a. on a reducing balance basis. This was the contracted rate at the time of sanction on 15th September 2024 for the 36-month tenure loan."
+    ]
+  },
+  {
+    "question": "What is the date of sanction and disbursal for this loan? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The date of sanction is 15th September 2024 and the date of disbursal is 22nd September 2024 - a 7-day gap which is standard for business loan processing. The borrower absconded immediately after disbursal, indicating premeditated fraud."
+    ]
+  },
+  {
+    "question": "What email address is on record for the borrower? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The borrower's email address is prakash.joshi73@gmail.com as per CRM records. However, email reminders on 20-10-2024 and 28-10-2024 received no response, and all communication attempts failed, consistent with absconding behavior."
+    ]
+  },
+  {
+    "question": "What is the borrower's age and gender? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The borrower Prakash Joshi is 50 years old and male. He was the owner of Joshi Stationers & General Store in Dehradun, but absconded immediately after receiving the business loan, closing his shop and disappearing with his family."
+    ]
+  },
+  {
+    "question": "What was the business name and type? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The business name was 'Joshi Stationers & General Store' located at Shop No. 45, Tilak Bazaar, Dehradun. It was a retail shop, and the borrower was self-employed as the shop owner with monthly income of ₹45,000/-. However, the shop was permanently closed immediately after loan disbursal."
+    ]
+  },
+  {
+    "question": "What is the first EMI and last EMI due date? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The first EMI due date is 5th October 2024 and the last EMI due date is 5th September 2027. The loan has a 36-month tenure, but the borrower absconded before the first EMI was due, making no payments at all."
+    ]
+  },
+  {
+    "question": "What is the current case status? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The current status is: 'Award passed same day due to fraud, execution petition being prepared, criminal case ongoing.' The Arbitral Award was passed on 26th November 2024 (same day as Statement of Claim filing) for ₹3,72,684/- plus costs ₹1,20,000/- = ₹4,92,684/-, and execution petition is being prepared for immediate filing."
+    ]
+  },
+  {
+    "question": "What interaction occurred on 08-10-2024? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "On 08-10-2024, a reminder call was made to the borrower, but the phone was switched off. This was the first indication that the borrower was not reachable, though the full extent of absconding was not yet known."
+    ]
+  },
+  {
+    "question": "What was the outcome of multiple communication attempts? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "Multiple communication attempts on 15-10-2024 (phone not reachable), 20-10-2024 (email no response), and 28-10-2024 (phone & email all failed) all failed. This pattern of complete non-responsiveness indicated absconding rather than temporary unavailability."
+    ]
+  },
+  {
+    "question": "What police complaint was filed on 21-11-2024? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "On 21-11-2024, a police complaint was filed for fraud case registered under charges of cheating and criminal breach of trust. This was filed after confirming that the borrower had absconded, shop was closed, and family had disappeared, indicating premeditated fraud."
+    ]
+  },
+  {
+    "question": "What emergency arbitration action was taken? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "On 24-11-2024, emergency arbitration was requested with expedited arbitrator appointment. On 25-11-2024, Justice (Retd.) R.K. Sharma was appointed as Sole Arbitrator on urgent basis due to the clear fraud nature of the case."
+    ]
+  },
+  {
+    "question": "What was the outcome of the same-day award? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "On 26-11-2024, the Statement of Claim was filed and the Arbitral Award was passed on the same day due to clear fraud evidence. The award was for ₹3,72,684/- plus costs ₹1,20,000/- = ₹4,92,684/-, and ordered immediate recovery. This expedited process was justified by the egregious nature of the fraud."
+    ]
+  },
+  {
+    "question": "What is the Loan Recall Notice date? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Loan Recall Notice is dated 22nd November 2024 (as per recovery timeline) sent via Speed Post and publication since the address was unknown. However, the document section shows date as 20th August 2024, which is impossible and must be corrected to 22nd November 2024."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice date is mentioned? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Section 21 Notice is dated 23rd November 2024 (as per recovery timeline) invoking arbitration and mentioning fraud. However, the document section shows date as 10th September 2024, which is impossible and must be corrected to 23rd November 2024."
+    ]
+  },
+  {
+    "question": "What Section 9 relief is contemplated in this fraud case? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Section 9 Petition contemplates authorizing search and seizure of any assets, freezing bank accounts, issuing lookout notice, and restraining property transfers. However, the petition is filed in wrong court (Raipur vs Dehradun) and has wrong date (1st September vs should be after 22nd September), which must be corrected."
+    ]
+  },
+  {
+    "question": "What urgency grounds are cited in the Affidavit of Urgency? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta cites EXTREME FRAUD - borrower took loan and vanished same day. Criminal proceedings are ongoing, and any delay allows asset dissipation. Immediate freezing of all accounts and assets is critical, and police coordination is needed."
+    ]
+  },
+  {
+    "question": "What is unique about this extreme fraud case? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "Unique aspects: (1) Extreme fraud - took loan on 22nd September and absconded immediately; (2) Shop closed permanently on same day; (3) Family disappeared completely; (4) No payments made at all (0 EMIs); (5) Premeditated fraud pattern; (6) Police complaint filed for cheating and criminal breach of trust; (7) Emergency arbitrator appointment on urgent basis; (8) Same-day award passed (26-11-2024) due to clear fraud; (9) Execution petition being prepared immediately; (10) Criminal case ongoing parallel to civil recovery."
+    ]
+  },
+  {
+    "question": "What is the borrower's PAN and Aadhaar number? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The borrower's PAN is XYZJO2345H and Aadhaar is XXXX-XXXX-7890 (masked format). These KYC details are maintained in CRM records for loan account PFL-BL-241027. However, given the fraud nature, these documents may need verification for authenticity."
+    ]
+  },
+  {
+    "question": "What phone numbers are on record for the borrower? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The phone numbers on record are: Primary +91-9412345678 and Alternate +91-9412345679. However, the phone was switched off on 08-10-2024 and remained unreachable on all subsequent attempts, consistent with absconding behavior."
+    ]
+  },
+  {
+    "question": "What is the repayment tenure for this loan? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The repayment tenure is 36 months from October 2024 to September 2027. The first EMI was due on 5th October 2024 and the last EMI was scheduled for 5th September 2027. However, the borrower absconded before the first EMI was due."
+    ]
+  },
+  {
+    "question": "Calculate the outstanding as percentage of original loan. <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The outstanding amount of ₹3,72,684/- represents approximately 106% of the original loan of ₹3,50,000/-. This reflects that no principal has been recovered (₹0/-) and accumulated interest, penalties, and legal charges over the 56-day period have increased the total outstanding."
+    ]
+  },
+  {
+    "question": "What is the interest recovered from EMI payments? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The interest recovered is ₹0/- as no EMIs were paid at all. The borrower absconded immediately after loan disbursal, before any EMI was due."
+    ]
+  },
+  {
+    "question": "What is the pincode of the borrower's address? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The pincode of the borrower's address in Tilak Bazaar, Dehradun is 248001. However, the borrower and family have absconded from this address, and neighbors confirmed they left 2 weeks ago with no forwarding address."
+    ]
+  },
+  {
+    "question": "What penal interest and charges are outstanding? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The penal interest and charges amount to ₹6,450/- as on 26-11-2024. Additionally, legal notice charges of ₹5,000/- have been added, reflecting the progression to formal legal proceedings with police complaint, Loan Recall Notice, and Section 21 Notice."
+    ]
+  },
+  {
+    "question": "What is the case folder number? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The case folder number is ARB/2024/1027 as shown in the header. This matches the Arbitration Reference Number ARB/2024/1027 used in legal documents."
+    ]
+  },
+  {
+    "question": "What is the Arbitration Reference Number mentioned? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Arbitration Reference Number is ARB/2024/1027 as mentioned in the Section 17 Application and Statement of Claim documents. The Section 21 Notice was issued on 23-11-2024, emergency arbitrator was appointed on 25-11-2024, and Award was passed on 26-11-2024."
+    ]
+  },
+  {
+    "question": "What recovery timeline is documented from loan disbursal to award? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "Timeline: Loan disbursed 22-09-2024 → Borrower absconded immediately → First EMI due 05-10-2024 (unpaid) → Soft reminder 07-10-2024 → Phone switched off 08-10-2024 → All communication failed Oct 2024 → Shop visit found closed 30-10-2024 → Local inquiry confirmed absconding 05-11-2024 → Address verification confirmed family left 10-11-2024 → Police inquiry 15-11-2024 → Document review suspected fraud 20-11-2024 → Police complaint filed 21-11-2024 → Loan Recall Notice 22-11-2024 → Section 21 Notice 23-11-2024 → Emergency arbitration 24-11-2024 → Arbitrator appointed 25-11-2024 → SOC filed & Award passed same day 26-11-2024."
+    ]
+  },
+  {
+    "question": "What execution mode is contemplated for this fraud case? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Execution Petition contemplates: (A) CRIMINAL ENFORCEMENT with URGENT police assistance; (B) Asset freeze of all bank accounts and properties; (C) Business premises investigation (fake shop); (D) Lookout circular to prevent escape; (E) Forensic tracking. The execution is complex due to borrower absconding and requires police coordination."
+    ]
+  },
+  {
+    "question": "What advocate represents Phoenix Finance Ltd.? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "Advocate Ramesh Khanna represents Phoenix Finance Ltd. His name appears on the Section 9 Petition dated 1st September 2024 (note: date error) and other legal documents for this fraud case."
+    ]
+  },
+  {
+    "question": "Review if the status in header matches current case stage. <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The header shows status as 'Award Passed - Execution Stage' which is correct. The Arbitral Award was passed on 26-11-2024 for ₹4,92,684/-, execution petition is being prepared for immediate filing, and criminal case is ongoing. The case is indeed in the execution stage."
+    ]
+  },
+  {
+    "question": "What List of Documents should be included for this fraud case? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "Annexures C-1 to C-22 (94 pages) should include: Business Loan Agreement, Police FIR (Fraud), Fake Shop Address Investigation, Contact Details Verification (all false), Criminal Investigation Reports, Disbursal Records, Timeline showing loan Day 1 and vanished Day 2, Bank Statements, and KYC documents (which may need verification for authenticity given fraud)."
+    ]
+  },
+  {
+    "question": "What is the Evidence Affidavit verification date? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Evidence Affidavit by Amit Verma is verified on 5th September 2024. However, this date is before loan disbursal on 22nd September 2024, which is impossible. Additionally, the affidavit contains wrong loan amount (₹12,00,000 vs ₹3,50,000) which must be corrected. The correct verification date should be after 26-11-2024 when the Statement of Claim was filed."
+    ]
+  },
+  {
+    "question": "What is the Statement of Claim filing date? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Statement of Claim is dated 5th September 2024 as per the legal documents, but this is before loan disbursal on 22nd September 2024, which is impossible. The correct date should be 26th November 2024 as mentioned in the recovery timeline, when the Statement of Claim was actually filed and Award was passed same day."
+    ]
+  },
+  {
+    "question": "What discrepancies exist across multiple documents regarding dates and amounts? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "Multiple critical discrepancies: (1) Loan Recall Notice dated 20th August 2024 (before loan sanction on 15th September) - should be 22nd November 2024; (2) Section 21 Notice dated 10th September 2024 (before loan disbursal on 22nd September) - should be 23rd November 2024; (3) Section 9 Petition dated 1st September 2024 (before loan) - should be after 22nd September; (4) Section 17 Application mentions loan ₹12,00,000 but actual is ₹3,50,000; (5) Statement of Claim dated 5th September (before loan) - should be 26th November; (6) Evidence Affidavit dated 5th September (before loan) - should be after 26th November. All dates and amounts must be corrected."
+    ]
+  },
+  {
+    "question": "What is the Arbitral Award amount and costs? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Arbitral Award dated 26th November 2024 awarded ₹3,72,684/- (principal and interest outstanding) plus costs of ₹1,20,000/-, making total ₹4,92,684/-. The award was passed same day as Statement of Claim filing due to clear fraud evidence, and ordered immediate recovery."
+    ]
+  },
+  {
+    "question": "What is the borrower's business name and location? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The business name was 'Joshi Stationers & General Store' located at Shop No. 45, Tilak Bazaar, Dehradun, Uttarakhand. However, the shop was found permanently closed on 30-10-2024, and shopkeepers confirmed that Prakash closed the shop immediately after receiving the loan and hasn't been seen since, indicating the business location may have been used fraudulently."
+    ]
+  },
+  {
+    "question": "What is the total amount of EMIs paid? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The total EMIs paid is ₹0/- as no payments were made at all. The borrower absconded immediately after receiving the loan on 22nd September 2024, before the first EMI was due on 5th October 2024, indicating premeditated fraud with no intention to repay."
+    ]
+  },
+  {
+    "question": "What is unique about the same-day award in this case? <case_id:case_027, folder_id:ARB/2024/1027>",
+    "golden_answers": [
+      "The Arbitral Award was passed on the same day (26th November 2024) as the Statement of Claim was filed, which is extremely rare. This expedited process was justified by: (1) Clear fraud evidence - borrower absconded immediately after loan; (2) No defense possible - borrower untraceable; (3) Emergency arbitrator appointment on urgent basis; (4) Criminal case already filed; (5) Need for immediate execution to prevent further asset dissipation. The same-day award demonstrates the egregious nature of the fraud."
+    ]
+  }
+]

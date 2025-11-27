@@ -1,0 +1,338 @@
+[
+  {
+    "question": "What is the loan account number for Ramila Devi's gold loan with Phoenix Finance Ltd.? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The loan account number is PFL-GL-241026. This is a Gold Loan with 98 grams of gold pledged, sanctioned on 5th August 2024 with a loan amount of ₹3,80,000/- for a 12-month tenure."
+    ]
+  },
+  {
+    "question": "What is the total outstanding amount claimed against Ramila Devi as on 26-11-2024? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The total outstanding amount is ₹3,96,418/- as on 26-11-2024, comprising: Principal outstanding ₹3,66,112/-, Interest outstanding ₹19,456/-, Penal interest & charges ₹5,850/-, and Legal notice charges ₹5,000/-."
+    ]
+  },
+  {
+    "question": "What is the reason for default in Ramila Devi's case? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The default reason is: 'Medical emergency (husband's hospitalization) combined with crop failure.' The borrower's husband was hospitalized with a heart problem, and the family also suffered crop damage due to excess rains, creating severe financial crisis affecting repayment capacity."
+    ]
+  },
+  {
+    "question": "What is the borrower's employment details as per CRM records? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "Ramila Devi is self-employed in Agriculture & Livestock business with monthly income of ₹16,000/-. She is a farmer from Village Bairiya Tola, Post Office Ghosi, District Mau, Uttar Pradesh. The crop failure significantly impacted her income."
+    ]
+  },
+  {
+    "question": "How many EMIs did Ramila Devi pay before defaulting? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "Ramila Devi paid 0 full EMIs but made 1 partial payment of ₹15,000/- in September 2024. The October and November 2024 EMIs remained unpaid due to crop failure and husband's medical emergency."
+    ]
+  },
+  {
+    "question": "What is the Days Past Due (DPD) for this loan account? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Days Past Due (DPD) is 87 days as on 26-11-2024. The default commenced from October 2024 when the first full EMI was due but remained unpaid due to crop failure and medical emergency."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 9 Petition regarding loan amount and gold quantity? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Section 9 Petition mentions 'Gold Loan ₹3,50,000/- against 175 grams gold' and 'Outstanding: ₹3,96,785/-' but the actual loan is ₹3,80,000/- against 98 grams gold, and outstanding is ₹3,96,418/-. Additionally, the petition is filed in Jaipur court but the borrower is from District Mau, Uttar Pradesh, raising jurisdiction questions."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 17 Application? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Section 17 Application mentions 'Gold Loan ₹7,50,000/-' and 'Gold (205 grams, 22K) in custody worth ₹7+ lakhs' but the actual loan is ₹3,80,000/- against 98 grams gold. This is a critical error - the application appears to be copied from a different case file and must be completely rewritten with correct gold quantity and loan amount."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Statement of Claim? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Statement of Claim Part I & II mentions 'Gold Loan ₹7,50,000/- against 205 grams 22K gold' but the actual loan is ₹3,80,000/- against 98 grams gold. This is a major factual error that must be corrected throughout the Statement of Claim to accurately reflect the loan amount and gold quantity."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Evidence Affidavit? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Evidence Affidavit mentions 'Gold Loan ₹7,50,000/-' and 'Gold (205 grams, 22K) in custody' but the actual case involves a Gold Loan of ₹3,80,000/- against 98 grams gold. The affidavit appears to be copied from a different gold loan case and must be completely rewritten with correct facts."
+    ]
+  },
+  {
+    "question": "What is the borrower's residential address? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The residential address is Village Bairiya Tola, Post Office Ghosi, District Mau, Uttar Pradesh - 275305. The borrower is a farmer, and field visits on 10-10-2024 and 20-10-2024 confirmed crop failure and husband's medical emergency."
+    ]
+  },
+  {
+    "question": "What is the generated Case ID for this matter? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The generated Case ID is PFL/GL/2024/01026. This is Phoenix Finance Ltd.'s internal reference number for tracking this Gold Loan recovery case against Ramila Devi."
+    ]
+  },
+  {
+    "question": "What is the EMI amount per month for this loan? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The EMI amount is ₹34,056/- per month for the 12-month tenure. This was calculated based on the loan amount of ₹3,80,000/- at an interest rate of 13.0% p.a. on reducing balance. The borrower found this EMI too high, as mentioned during the reminder call on 08-09-2024."
+    ]
+  },
+  {
+    "question": "What processing fee was charged on this loan? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The processing fee charged was ₹11,400/- which represents 3% of the loan amount (₹3,80,000/-). This is a standard processing fee percentage for gold loans."
+    ]
+  },
+  {
+    "question": "What principal amount has been recovered from payments? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The principal recovered is ₹13,888/- from the partial payment of ₹15,000/- made in September 2024. The remaining ₹1,112/- was applied towards interest recovery."
+    ]
+  },
+  {
+    "question": "What was discovered during the village visit on 10-10-2024? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "During the village visit on 10-10-2024, the field team met the borrower's son who confirmed crop failure, husband's heart problem, and that the family was in severe crisis. This verified the genuine nature of the financial difficulties affecting repayment."
+    ]
+  },
+  {
+    "question": "What was verified during the second visit on 20-10-2024? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "During the second visit on 20-10-2024, the field team saw damaged fields and verified hospital records, confirming both the crop failure due to excess rains and the husband's medical emergency. This provided concrete evidence of the genuine hardship."
+    ]
+  },
+  {
+    "question": "What request was made by the borrower on 05-11-2024? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "On 05-11-2024, during a call to the borrower, she was very apologetic and requested gold sale for partial settlement. This showed the borrower's willingness to cooperate and find a solution despite the financial crisis."
+    ]
+  },
+  {
+    "question": "What settlement was negotiated on 15-11-2024? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "On 15-11-2024, during an office meeting where the son visited, a settlement was negotiated at 70% of outstanding amount (₹2,77,000/-) via gold auction. The family agreed to gold auction as a means of partial settlement, showing cooperation in resolving the default."
+    ]
+  },
+  {
+    "question": "What is the interest rate on this gold loan? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The interest rate is 13.0% p.a. on a reducing balance basis. This was the contracted rate at the time of sanction on 5th August 2024 for the 12-month tenure loan."
+    ]
+  },
+  {
+    "question": "What is the date of sanction and disbursal for this loan? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The date of sanction is 5th August 2024 and the date of disbursal is 10th August 2024 - a 5-day gap which is standard for gold loan processing."
+    ]
+  },
+  {
+    "question": "What email address is on record for the borrower? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The borrower's email address is ramiladevi1968@gmail.com as per CRM records. On 28-09-2024, the son replied on behalf via email, mentioning that the mother's husband was hospitalized, showing family cooperation in communication."
+    ]
+  },
+  {
+    "question": "What is the borrower's age and gender? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The borrower Ramila Devi is 55 years old and female. She is a self-employed farmer in Agriculture & Livestock business with monthly income of ₹16,000/-, and the family has been cooperative throughout the recovery process."
+    ]
+  },
+  {
+    "question": "What quantity and purity of gold was pledged? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The loan was secured against 98 grams of gold as mentioned in the loan type. However, the specific purity (22K, 24K, etc.) is not clearly mentioned in the case file, which should be added for proper gold valuation and auction purposes."
+    ]
+  },
+  {
+    "question": "What is the first EMI and last EMI due date? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The first EMI due date is 5th September 2024 and the last EMI due date is 5th August 2025. The loan has a 12-month tenure, and the borrower made only a partial payment in September before defaulting due to crop failure and medical emergency."
+    ]
+  },
+  {
+    "question": "What is the current case status? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The current status is: 'Arbitration being initiated, family cooperating, settlement via gold liquidation under negotiation.' The Section 21 Notice was issued on 22-11-2024, Section 11 petition was filed on 25-11-2024, and the family proposed settlement of ₹2,77,000/- (70% of outstanding) via gold auction on 26-11-2024."
+    ]
+  },
+  {
+    "question": "What interaction occurred on 08-09-2024? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "On 08-09-2024, during a reminder call, the customer mentioned that the EMI was too high and made a partial payment of ₹15,000/-. This was the first indication of financial difficulty, though the full extent of crop failure and medical emergency was not yet known."
+    ]
+  },
+  {
+    "question": "What information was shared on 20-09-2024? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "On 20-09-2024, during a follow-up call, the borrower mentioned crop damage due to excess rains and harvest loss. This explained the financial difficulties affecting the ability to pay the full EMI amount."
+    ]
+  },
+  {
+    "question": "What was the borrower's response on 28-09-2024? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "On 28-09-2024, in response to an email reminder, the son replied on behalf of the borrower, mentioning that the mother's husband was hospitalized. This added the medical emergency dimension to the financial crisis affecting repayment."
+    ]
+  },
+  {
+    "question": "What is the Loan Recall Notice date? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Loan Recall Notice is dated 18th November 2024 sent via Speed Post with settlement option mentioned. The notice calls for payment of ₹3,96,418/- but also acknowledges the settlement discussions, showing a balanced approach."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice date is mentioned? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Section 21 Notice is dated 22nd November 2024 invoking arbitration and mentioning that settlement discussions are ongoing. This shows that arbitration is being initiated while keeping settlement options open."
+    ]
+  },
+  {
+    "question": "What settlement proposal was received on 26-11-2024? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "On 26-11-2024, the family proposed a settlement letter offering ₹2,77,000/- via gold sale, which represents 70% of the outstanding amount of ₹3,96,418/-. The settlement is under consideration, and gold valuation is in progress."
+    ]
+  },
+  {
+    "question": "What Section 9 relief is contemplated in this case? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Section 9 Petition contemplates confirming legal custody of pledged gold, restraining any interference, authorizing gold valuation, and allowing auction if settlement fails. However, the petition contains wrong loan amount (₹3,50,000 vs ₹3,80,000), wrong gold quantity (175g vs 98g), and wrong jurisdiction (Jaipur vs District Mau, UP), which must be corrected."
+    ]
+  },
+  {
+    "question": "What urgency grounds are cited in the Affidavit of Urgency? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta cites that gold worth ₹7+ lakhs is in custody (note: this appears incorrect as actual gold is 98 grams, not 205 grams worth ₹7+ lakhs). Settlement negotiations are ongoing, and court confirmation of lawful possession is critical to prevent any dispute or forcible recovery attempt during negotiation period."
+    ]
+  },
+  {
+    "question": "What is unique about this gold loan settlement case? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "Unique aspects: (1) Gold loan with physical gold in company custody; (2) Genuine hardship - crop failure plus medical emergency; (3) Family cooperating and proposing settlement; (4) Settlement via gold liquidation being negotiated (70% of outstanding); (5) Gold valuation in progress; (6) Arbitration initiated but settlement discussions ongoing; (7) Borrower is farmer with low income (₹16,000/month); (8) EMI too high relative to income; (9) Gold provides recovery security; (10) Compassionate approach due to genuine crisis."
+    ]
+  },
+  {
+    "question": "What is the borrower's PAN and Aadhaar number? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The borrower's PAN is UVWDE1234G and Aadhaar is XXXX-XXXX-6789 (masked format). These KYC details are maintained in CRM records for loan account PFL-GL-241026."
+    ]
+  },
+  {
+    "question": "What phone numbers are on record for the borrower? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The phone numbers on record are: Primary +91-9450123456 and Alternate +91-9450123457. The borrower and her son have been responsive to calls throughout the recovery process, actively communicating about the financial crisis and settlement options."
+    ]
+  },
+  {
+    "question": "What is the repayment tenure for this loan? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The repayment tenure is 12 months from September 2024 to August 2025. The first EMI was due on 5th September 2024 and the last EMI is scheduled for 5th August 2025. The borrower made only a partial payment in September before defaulting."
+    ]
+  },
+  {
+    "question": "Calculate the outstanding as percentage of original loan. <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The outstanding amount of ₹3,96,418/- represents approximately 104% of the original loan of ₹3,80,000/-. This reflects that minimal principal has been recovered (₹13,888/-) and accumulated interest, penalties, and legal charges over the 87-day default period have increased the total outstanding."
+    ]
+  },
+  {
+    "question": "What is the interest recovered from payments? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The interest recovered is ₹1,112/- from the partial payment of ₹15,000/- made in September 2024. The principal recovered is ₹13,888/-."
+    ]
+  },
+  {
+    "question": "What is the pincode of the borrower's address? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The pincode of the borrower's address in Village Bairiya Tola, Post Office Ghosi, District Mau is 275305. The borrower is a farmer in rural Uttar Pradesh, and field visits confirmed the crop failure and medical emergency."
+    ]
+  },
+  {
+    "question": "What penal interest and charges are outstanding? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The penal interest and charges amount to ₹5,850/- as on 26-11-2024. Additionally, legal notice charges of ₹5,000/- have been added, reflecting the progression to formal legal proceedings with the Loan Recall Notice and Section 21 Notice."
+    ]
+  },
+  {
+    "question": "What is the case folder number? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The case folder number is ARB/2024/1026 as shown in the header. This matches the Arbitration Reference Number ARB/2024/1026 used in legal documents."
+    ]
+  },
+  {
+    "question": "What is the Arbitration Reference Number mentioned? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Arbitration Reference Number is ARB/2024/1026 as mentioned in the Section 17 Application and Statement of Claim documents. The Section 21 Notice was issued on 22-11-2024, and Section 11 petition was filed on 25-11-2024 for arbitrator appointment."
+    ]
+  },
+  {
+    "question": "What recovery timeline is documented from first default to current status? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "Timeline: First default October 2024 (unpaid) → Soft reminder 07-09-2024 → Customer mentioned EMI too high, made partial payment 08-09-2024 → Mentioned crop damage 20-09-2024 → Son replied, husband hospitalized 28-09-2024 → Village visit confirmed crisis 10-10-2024 → Second visit verified 20-10-2024 → Borrower requested gold sale 05-11-2024 → Settlement negotiated 70% 15-11-2024 → Loan Recall Notice 18-11-2024 → Section 21 Notice 22-11-2024 → Section 11 petition 25-11-2024 → Family proposed settlement ₹2,77,000 26-11-2024 → Gold valuation in progress, settlement under consideration as of 26-11-2024."
+    ]
+  },
+  {
+    "question": "What execution mode is contemplated for this case? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Execution Petition contemplates: (A) PRIMARY: GOLD AUCTION (98 grams) - Value to be determined; (B) Settlement terms if agreed, monitored enforcement; (C) Proceeds adjustment from gold sale. The execution is straightforward as gold is in company custody, providing direct recovery channel."
+    ]
+  },
+  {
+    "question": "What advocate represents Phoenix Finance Ltd.? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "Advocate Ramesh Khanna represents Phoenix Finance Ltd. His name appears on the Section 9 Petition dated 20th November 2024 and other legal documents for this case."
+    ]
+  },
+  {
+    "question": "Review if the status in header matches current case stage. <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The header shows status as 'Midway Arbitration' which is correct. The Section 21 Notice was issued on 22-11-2024, Section 11 petition was filed on 25-11-2024 for arbitrator appointment, and settlement discussions are ongoing. The case is in the arbitration initiation stage with settlement negotiations parallel."
+    ]
+  },
+  {
+    "question": "What List of Documents should be included for this case? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "Annexures C-1 to C-14 (68 pages) should include: Gold Loan Agreement, Gold Pledge Deed, Valuation Certificate (98 grams - note: purity should be specified), Custody Receipt, Settlement Communication, Bank Statements, and KYC documents. However, the current List of Documents incorrectly mentions '205g, 22K' which must be corrected to '98 grams' with proper purity specification."
+    ]
+  },
+  {
+    "question": "What is the Evidence Affidavit verification date? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Evidence Affidavit by Amit Verma is verified on 25th November 2024. However, the affidavit contains major errors mentioning 'Gold Loan ₹7,50,000/-' and 'Gold (205 grams, 22K) in custody' which must be completely rewritten with correct facts about the Gold Loan of ₹3,80,000/- against 98 grams gold."
+    ]
+  },
+  {
+    "question": "What is the Statement of Claim filing date? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Statement of Claim is dated 25th November 2024 as per the legal documents. However, the Statement of Claim contains critical errors mentioning gold loan of ₹7,50,000/- against 205 grams, which must be corrected to ₹3,80,000/- against 98 grams before filing."
+    ]
+  },
+  {
+    "question": "What discrepancies exist across multiple documents regarding loan amount and gold quantity? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "Multiple critical discrepancies: (1) Section 9 Petition mentions 'Gold Loan ₹3,50,000/- against 175 grams' but actual is ₹3,80,000/- against 98 grams; (2) Section 17 Application mentions 'Gold Loan ₹7,50,000/-' and 'Gold (205 grams, 22K)' but actual is ₹3,80,000/- against 98 grams; (3) Statement of Claim mentions same wrong details; (4) Evidence Affidavit mentions same wrong details; (5) Arbitral Award extract mentions 'Gold (205 grams, 22K) auction authorized' but should reference 98 grams. All these documents must be corrected with accurate loan amount and gold quantity."
+    ]
+  },
+  {
+    "question": "What is the Section 9 Petition filing date and jurisdiction issue? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The Section 9 Petition is dated 20th November 2024 and filed before the Hon'ble District Judge, Jaipur. However, the borrower is from District Mau, Uttar Pradesh, raising jurisdiction questions. The petition should clarify whether jurisdiction is based on borrower's address, company's choice, or gold custody location, and may need to be filed in the appropriate court in Uttar Pradesh."
+    ]
+  },
+  {
+    "question": "What is the borrower's business name and type? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The borrower operates 'Agriculture & Livestock' business as a self-employed farmer with monthly income of ₹16,000/-. The crop failure due to excess rains significantly impacted this agricultural income, contributing to the repayment difficulty."
+    ]
+  },
+  {
+    "question": "What is the total amount of payments made? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The total payments made is ₹15,000/- representing 1 partial payment in September 2024. The borrower found the EMI of ₹34,056/- too high relative to her monthly income of ₹16,000/-, and the crop failure and medical emergency made full payment impossible."
+    ]
+  },
+  {
+    "question": "What is the current stage of gold valuation and settlement? <case_id:case_026, folder_id:ARB/2024/1026>",
+    "golden_answers": [
+      "The current stage shows 'Gold valuation in progress, settlement under consideration.' The family proposed settlement of ₹2,77,000/- (70% of outstanding ₹3,96,418/-) via gold auction on 26-11-2024. The gold (98 grams) needs proper valuation to determine if the proposed settlement amount is appropriate, and the settlement terms are being negotiated."
+    ]
+  }
+]

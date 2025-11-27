@@ -1,0 +1,344 @@
+[
+  {
+    "question": "What is the loan account number for Farida Begum's personal loan with Phoenix Finance Ltd.? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The loan account number is PFL-PL-241022. This is a Personal Loan sanctioned on 15th April 2024 with a loan amount of ₹1,80,000/- for a 36-month tenure."
+    ]
+  },
+  {
+    "question": "What is the total outstanding amount claimed against Farida Begum as on 26-11-2024? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The total outstanding amount is ₹1,58,404/- as on 26-11-2024, comprising: Principal outstanding ₹1,50,320/-, Interest outstanding ₹6,234/-, Penal interest & charges ₹1,850/-, and Legal notice charges ₹0/- (no legal notice issued yet as case is in soft reminder stage)."
+    ]
+  },
+  {
+    "question": "What is the reason for default in Farida Begum's case? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The default reason is: 'Medical emergency - mother's heart surgery and ICU expenses.' The borrower's mother underwent emergency heart surgery in October 2024, leading to mounting medical expenses that affected the borrower's ability to pay EMIs."
+    ]
+  },
+  {
+    "question": "What is the borrower's employment details as per CRM records? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "Farida Begum is employed at Max Healthcare as a Staff Nurse with a monthly salary of ₹38,000/-. She has been highly cooperative throughout the default period, actively communicating about her mother's medical emergency and expressing commitment to resume payments."
+    ]
+  },
+  {
+    "question": "How many EMIs did Farida Begum pay before defaulting? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "Farida Begum paid 5 full EMIs totaling ₹32,230/- (May 2024 to September 2024). The first bounce occurred in October 2024 due to insufficient funds caused by her mother's emergency heart surgery expenses."
+    ]
+  },
+  {
+    "question": "What is the Days Past Due (DPD) for this loan account? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Days Past Due (DPD) is 56 days as on 26-11-2024. The default commenced from October 2024 when the first EMI bounced due to medical emergency expenses."
+    ]
+  },
+  {
+    "question": "What is the borrower's residential address? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The residential address is House No. 234, Zakir Nagar, New Delhi - 110025. The borrower has been responsive and cooperative at this address throughout the recovery process."
+    ]
+  },
+  {
+    "question": "What is the generated Case ID for this matter? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The generated Case ID is PFL/PL/2024/01022. This is Phoenix Finance Ltd.'s internal reference number for tracking this Personal Loan recovery case against Farida Begum."
+    ]
+  },
+  {
+    "question": "What is the EMI amount per month for this loan? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The EMI amount is ₹6,446/- per month for the 36-month tenure. This was calculated based on the loan amount of ₹1,80,000/- at an interest rate of 17.0% p.a. on reducing balance."
+    ]
+  },
+  {
+    "question": "What processing fee was charged on this loan? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The processing fee charged was ₹5,400/- which represents 3% of the loan amount (₹1,80,000/-). This is a standard processing fee percentage for personal loans."
+    ]
+  },
+  {
+    "question": "What principal amount has been recovered from EMI payments? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The principal recovered is ₹29,680/- from total EMI payments of ₹32,230/- (5 EMIs of ₹6,446/-). The remaining ₹2,550/- was applied towards interest recovery."
+    ]
+  },
+  {
+    "question": "What is the interest rate on this personal loan? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The interest rate is 17.0% p.a. on a reducing balance basis. This was the contracted rate at the time of sanction on 15th April 2024 for the 36-month tenure loan."
+    ]
+  },
+  {
+    "question": "What is the date of sanction and disbursal for this loan? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The date of sanction is 15th April 2024 and the date of disbursal is 20th April 2024 - a 5-day gap which is standard for personal loan processing."
+    ]
+  },
+  {
+    "question": "What email address is on record for the borrower? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The borrower's email address is farida.begum88@gmail.com as per CRM records. The borrower has been responsive to email communications, replying on 25-10-2024 about her mother's surgery and ICU expenses."
+    ]
+  },
+  {
+    "question": "What is the borrower's age and gender? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The borrower Farida Begum is 35 years old and female. She is employed at Max Healthcare as a Staff Nurse with monthly salary of ₹38,000/-."
+    ]
+  },
+  {
+    "question": "What is the first EMI and last EMI due date? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The first EMI due date is 5th May 2024 and the last EMI due date is 5th April 2027. The loan has a 36-month tenure and the borrower maintained regular payments for the first 5 months before the medical emergency."
+    ]
+  },
+  {
+    "question": "What is the current case status? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The current status is: 'Soft reminders ongoing, borrower highly cooperative, excellent payment history, temporary crisis.' The case is still in the soft reminder stage with no legal proceedings initiated yet, reflecting the compassionate approach due to genuine medical emergency."
+    ]
+  },
+  {
+    "question": "What interaction occurred on 08-10-2024? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "On 08-10-2024, a reminder call was made to the borrower. During the call, the customer mentioned her mother's emergency heart surgery, explaining the reason for the payment difficulty. This was the first communication about the medical emergency."
+    ]
+  },
+  {
+    "question": "What information was shared on 15-10-2024? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "On 15-10-2024, during a follow-up call, the borrower shared hospital bills and mentioned that the surgery was scheduled for 20th October 2024. This showed transparency and cooperation from the borrower."
+    ]
+  },
+  {
+    "question": "What was the borrower's response on 25-10-2024? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "On 25-10-2024, the borrower replied to an email reminder stating that the surgery was successful but her mother was in ICU and expenses were mounting. This continued communication demonstrated the borrower's commitment to keeping the lender informed."
+    ]
+  },
+  {
+    "question": "What update was provided on 05-11-2024? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "On 05-11-2024, during tele-verification, the borrower mentioned that her mother had been shifted to the ward and the customer expressed commitment to resume payments. This showed the borrower's intention to honor her obligations once the medical crisis subsided."
+    ]
+  },
+  {
+    "question": "What promise was made on 20-11-2024? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "On 20-11-2024, during a follow-up call, the borrower mentioned that her mother was recovering and promised payment by 30th November 2024. This demonstrated the borrower's proactive approach to resolving the default."
+    ]
+  },
+  {
+    "question": "What was communicated via WhatsApp on 25-11-2024? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "On 25-11-2024, a WhatsApp message was sent and the borrower replied stating she was working extra shifts to manage expenses. This showed the borrower's efforts to generate additional income to meet her loan obligations."
+    ]
+  },
+  {
+    "question": "What is the Loan Recall Notice date? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Loan Recall Notice is dated 25th November 2024 with Tracking Number EE122234567IN sent via Speed Post AD. The notice calls for payment of ₹1,58,404/- within 15 days, but the tone is standard rather than aggressive given the medical emergency context."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice date is mentioned? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Section 21 Notice is dated 15th December 2024 (future date), indicating that arbitration has not yet been invoked. The case remains in soft reminder stage, showing a compassionate approach to the genuine medical emergency."
+    ]
+  },
+  {
+    "question": "What Section 9 relief is contemplated in this case? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Section 9 Petition contemplates authorizing salary attachment of 25% of net salary from Max Healthcare. Alternatively, it allows for flexible restructuring, showing a balanced approach between protecting the lender's interest and showing compassion for the medical emergency."
+    ]
+  },
+  {
+    "question": "What urgency grounds are cited in the Affidavit of Urgency? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta cites that while there is a genuine medical crisis, this is an unsecured loan. The borrower works at a hospital and may exhaust her salary for treatment, leaving the loan unpaid. Early salary attachment authorization is needed as a protective measure while exploring compassionate restructuring."
+    ]
+  },
+  {
+    "question": "What Section 17 relief is contemplated? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Section 17 Application contemplates authorizing salary attachment of 15-20% of net salary from Max Healthcare (the hospital where borrower works). It also allows for flexible repayment considering medical expenses, showing a compassionate approach while maintaining recovery channel."
+    ]
+  },
+  {
+    "question": "What is unique about this medical emergency case? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "Unique aspects: (1) Genuine medical emergency - mother's heart surgery and ICU expenses; (2) Borrower highly cooperative and transparent; (3) Excellent payment history for 5 months before default; (4) Borrower working extra shifts to manage expenses; (5) Hospital employee with stable employment; (6) Case still in soft reminder stage despite 56 DPD; (7) Compassionate restructuring being considered; (8) No legal proceedings initiated yet; (9) Borrower actively communicating and promising payment."
+    ]
+  },
+  {
+    "question": "What is the borrower's PAN and Aadhaar number? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The borrower's PAN is JKLBE4567C and Aadhaar is XXXX-XXXX-2345 (masked format). These KYC details are maintained in CRM records for loan account PFL-PL-241022."
+    ]
+  },
+  {
+    "question": "What phone numbers are on record for the borrower? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The phone numbers on record are: Primary +91-9911234567 and Alternate +91-9911234568. The borrower has been responsive to calls throughout the recovery process, actively communicating about the medical emergency."
+    ]
+  },
+  {
+    "question": "What is the repayment tenure for this loan? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The repayment tenure is 36 months from May 2024 to April 2027. The first EMI was due on 5th May 2024 and the last EMI is scheduled for 5th April 2027. The borrower maintained regular payments for 5 months before the medical emergency."
+    ]
+  },
+  {
+    "question": "Calculate the outstanding as percentage of original loan. <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The outstanding amount of ₹1,58,404/- represents approximately 88% of the original loan of ₹1,80,000/-. This reflects that significant principal has been recovered (₹29,680/-) and only 2 months of default with relatively low accumulated interest and penalties."
+    ]
+  },
+  {
+    "question": "What is the interest recovered from EMI payments? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The interest recovered is ₹2,550/- from total EMI payments of ₹32,230/- (5 EMIs of ₹6,446/-). The principal recovered is ₹29,680/-."
+    ]
+  },
+  {
+    "question": "What is the pincode of the borrower's address? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The pincode of the borrower's address in Zakir Nagar, New Delhi is 110025. The borrower has been responsive and cooperative at this address throughout the recovery process."
+    ]
+  },
+  {
+    "question": "What penal interest and charges are outstanding? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The penal interest and charges amount to ₹1,850/- as on 26-11-2024. Notably, legal notice charges are ₹0/- as no formal legal notice has been issued yet, reflecting the compassionate approach to this medical emergency case."
+    ]
+  },
+  {
+    "question": "What is the case folder number? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The case folder number is ARB/2024/1022 as shown in the header. This matches the Case ID PFL/PL/2024/01022 used in internal tracking."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Statement of Claim regarding medical emergency? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Statement of Claim mentions 'wife's cancer treatment' in Part I & II, but the CRM data and all recovery interactions clearly state 'mother's heart surgery.' This is a critical error that should be corrected - the Statement of Claim should reference the mother's heart surgery, not wife's cancer treatment."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Evidence Affidavit? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Evidence Affidavit mentions 'wife's cancer treatment' but the actual case involves the borrower's mother's heart surgery. This is a significant factual error that must be corrected before filing. The affidavit should accurately reflect the medical emergency as mother's heart surgery with ICU expenses."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 17 Application? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Section 17 Application mentions 'wife's cancer treatment' but the actual case involves mother's heart surgery. This error should be corrected to accurately reflect the genuine medical emergency that caused the default."
+    ]
+  },
+  {
+    "question": "What is the Arbitration Reference Number mentioned? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Arbitration Reference Number is ARB/2024/1022 as mentioned in the Section 17 Application and Statement of Claim documents. However, arbitration has not yet been invoked as the case is still in soft reminder stage."
+    ]
+  },
+  {
+    "question": "What recovery timeline is documented from first default to current status? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "Timeline: First default October 2024 (bounce) → Soft reminder 07-10-2024 → Customer mentioned mother's surgery 08-10-2024 → Shared hospital bills 15-10-2024 → Surgery successful, mother in ICU 25-10-2024 → Mother shifted to ward 05-11-2024 → Mother recovering, payment promised by 30-11-2024 on 20-11-2024 → Working extra shifts 25-11-2024 → Loan Recall Notice 25-11-2024 → Case still in soft reminder stage as of 26-11-2024."
+    ]
+  },
+  {
+    "question": "What compassionate considerations are being explored? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "Compassionate considerations include: (1) Flexible repayment terms given medical emergency; (2) Reduced interest rate consideration (12% mentioned in Award extract); (3) Extended payment timeline (60 days instead of standard 30); (4) Reduced costs (₹45,000/- instead of standard); (5) Installment-based repayment allowed; (6) Salary attachment at lower percentage (15-20% instead of standard 25-40%); (7) No aggressive legal action despite 56 DPD."
+    ]
+  },
+  {
+    "question": "What salary attachment percentage is contemplated? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Section 9 Petition contemplates 25% salary attachment, while the Section 17 Application suggests 15-20% of net salary from Max Healthcare. The lower percentage in Section 17 reflects the compassionate approach, allowing the borrower to manage medical expenses while ensuring some recovery."
+    ]
+  },
+  {
+    "question": "What is the Arbitral Award extract showing? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Arbitral Award extract shows compassionate consideration: (A) Breach noted but COMPASSIONATE CONSIDERATION for cancer treatment (note: should be mother's heart surgery); (B) Pay outstanding within 60 days (extended); (C) Interest @ 12% p.a. (reduced compassionately from 17%); (D) Costs: ₹45,000/- (significantly reduced); (E) Flexible repayment installments allowed; (F) Salary attachment 15-20% from hospital as safety net."
+    ]
+  },
+  {
+    "question": "What execution mode is contemplated for this case? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Execution Petition contemplates: (A) COMPASSIONATE SALARY ATTACHMENT of 15-20% of net salary from Max Healthcare; (B) Flexible installments given medical emergency; (C) Medical expense monitoring to balance humanitarian and recovery concerns. The execution approach is more lenient than standard cases due to genuine medical emergency."
+    ]
+  },
+  {
+    "question": "What advocate represents Phoenix Finance Ltd.? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "Advocate Ramesh Khanna represents Phoenix Finance Ltd. His name appears on the Section 9 Petition dated 5th December 2024 and other legal documents contemplated for this case."
+    ]
+  },
+  {
+    "question": "Review if the status in header matches current case stage. <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The header shows status as 'Soft Reminder Stage' which is correct. The case has 56 DPD but remains in soft reminder stage with no legal proceedings initiated yet. The Loan Recall Notice was issued on 25-11-2024, and Section 21 Notice is dated 15-12-2024 (future), indicating the case is still in early recovery stage with compassionate approach."
+    ]
+  },
+  {
+    "question": "What medical documentation should be included in the case file? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The case file should include: Hospital bills for mother's heart surgery, ICU expenses documentation, surgery date confirmation (20th October 2024), hospital discharge summary, medical expense receipts, and any communication from the hospital. These documents support the genuine medical emergency claim and justify compassionate restructuring."
+    ]
+  },
+  {
+    "question": "What is the Evidence Affidavit verification date? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Evidence Affidavit by Amit Verma is verified on 10th December 2024. However, the affidavit contains an error mentioning 'wife's cancer treatment' instead of 'mother's heart surgery' which must be corrected before filing."
+    ]
+  },
+  {
+    "question": "What List of Documents should be included for this case? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "Annexures C-1 to C-15 (80 pages) should include: Loan Agreement, Cancer Treatment Bills & Hospital Records (note: should be Heart Surgery bills), Chemotherapy/Surgery Receipts (should be heart surgery receipts), Hospital Employment Proof, Borrower Communication showing cooperation, Bank Statements, and KYC documents."
+    ]
+  },
+  {
+    "question": "What is unique about the borrower's cooperation in this case? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "Unique cooperation aspects: (1) Borrower proactively informed about medical emergency; (2) Shared hospital bills voluntarily; (3) Provided regular updates on mother's condition; (4) Expressed commitment to resume payments; (5) Working extra shifts to manage expenses; (6) Promised payment by specific date (30-11-2024); (7) Responsive to all communications; (8) No evasion or avoidance; (9) Transparent about financial difficulties; (10) Excellent payment history before emergency."
+    ]
+  },
+  {
+    "question": "What is the Statement of Claim filing date? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Statement of Claim is dated 10th December 2024 as per the legal documents. However, this is a future date from the case file perspective (dated 26-11-2024), indicating the Statement of Claim is being prepared but not yet filed, consistent with the case still being in soft reminder stage."
+    ]
+  },
+  {
+    "question": "What discrepancy exists between different sections regarding the medical emergency? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "Critical discrepancy: CRM data and recovery timeline clearly state 'mother's heart surgery' but Statement of Claim, Evidence Affidavit, and Section 17 Application all mention 'wife's cancer treatment.' This is a major factual error that must be corrected across all documents to accurately reflect the actual medical emergency that caused the default."
+    ]
+  },
+  {
+    "question": "What is the Section 9 Petition filing date? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The Section 9 Petition is dated 5th December 2024 (future date from case file perspective). This indicates the petition is being prepared but not yet filed, showing the lender is taking a measured approach before initiating legal proceedings for this medical emergency case."
+    ]
+  },
+  {
+    "question": "What is the borrower's employer name and designation? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The borrower is employed at Max Healthcare as a Staff Nurse with a monthly salary of ₹38,000/-. The employer is a hospital, which provides a stable recovery channel through salary attachment while also showing understanding of medical emergencies."
+    ]
+  },
+  {
+    "question": "What is the total amount of EMIs paid? <case_id:case_022, folder_id:ARB/2024/1022>",
+    "golden_answers": [
+      "The total EMIs paid is ₹32,230/- representing 5 full EMIs (May 2024 to September 2024). This shows excellent payment history before the medical emergency occurred in October 2024."
+    ]
+  }
+]

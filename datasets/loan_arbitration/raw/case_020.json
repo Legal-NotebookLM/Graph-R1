@@ -1,0 +1,368 @@
+[
+  {
+    "question": "What is the loan account number for Shalini Gupta's consumer durable loan with Phoenix Finance Ltd.? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The loan account number is PFL-CDL-231020. This is a Consumer Durable Loan for a Home Appliances Package sanctioned on 5th February 2024 with a loan amount of ₹2,25,000/- for a 36-month tenure."
+    ]
+  },
+  {
+    "question": "What is the total outstanding amount claimed against Shalini Gupta as on 26-11-2024? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The total outstanding amount is ₹2,83,909/- as on 26-11-2024, comprising: Principal outstanding ₹2,11,892/-, Interest outstanding ₹48,567/-, Penal interest & charges ₹18,450/-, and Legal notice charges ₹5,000/-."
+    ]
+  },
+  {
+    "question": "What is the borrower's employment details as per CRM records? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Shalini Gupta is employed at State Bank of India as an Assistant Manager with a monthly salary of ₹62,000/-. Despite stable government bank employment, she has been deliberately evading loan payments."
+    ]
+  },
+  {
+    "question": "What is the reason for default in this case? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The official default reason is: 'Intentional evasion - deliberately avoiding payment despite employment and financial capacity.' The borrower has stable government bank employment but is willfully defaulting on loan payments."
+    ]
+  },
+  {
+    "question": "How many EMIs did Shalini Gupta pay before defaulting? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Shalini Gupta paid only 2 EMIs totaling ₹16,108/- (March and April 2024). The first bounce occurred in May 2024 due to insufficient funds, followed by complete default from June 2024 onwards."
+    ]
+  },
+  {
+    "question": "What is the Days Past Due (DPD) for this loan account? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Days Past Due (DPD) is 204 days as on 26-11-2024. The default commenced from May 2024 when the first EMI bounced despite the borrower's stable salary income."
+    ]
+  },
+  {
+    "question": "Who is the appointed arbitrator in this case? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Justice (Retd.) Alok Sharma was appointed as the Sole Arbitrator on 10th September 2024 following the Section 11 petition filed on 20th August 2024."
+    ]
+  },
+  {
+    "question": "What was the outcome of the Arbitral Award? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Arbitral Award dated 5th November 2024 awarded ₹2,83,909/- plus costs of ₹95,000/-, making total ₹3,78,909/-. The award was passed ex-parte as the borrower did not appear or file defense on 15th October 2024."
+    ]
+  },
+  {
+    "question": "What is the interest rate on this consumer durable loan? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The interest rate is 16.0% p.a. on a reducing balance basis. This was the contracted rate at the time of sanction on 5th February 2024 for the 36-month tenure loan."
+    ]
+  },
+  {
+    "question": "What was discovered during the residence visit on 10-06-2024? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "During the residence visit on 10-06-2024, the flat was locked and neighbors said the borrower is rarely seen at the residence. This indicated deliberate avoidance of contact."
+    ]
+  },
+  {
+    "question": "What employer verification was conducted? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The bank branch visit on 15-06-2024 confirmed that Shalini Gupta is still employed at SBI with regular attendance. This verified her financial capacity to pay while deliberately evading."
+    ]
+  },
+  {
+    "question": "What is the tracking number for the Loan Recall Notice? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Loan Recall Notice dated 15th March 2024 was sent via Speed Post AD with Tracking Number EE120234567IN to the borrower's residence and SBI bank branch addresses."
+    ]
+  },
+  {
+    "question": "What is the borrower's residential address? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The residential address is Flat No. 501, Rajendra Nagar, Indore, Madhya Pradesh - 452012. The borrower has been avoiding contact at this address."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice date is recorded? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Section 21 Notice invoking arbitration under the Arbitration and Conciliation Act, 1996 was issued on 5th April 2024 via Speed Post AD."
+    ]
+  },
+  {
+    "question": "What is the generated Case ID for this matter? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The generated Case ID is PFL/CDL/2023/01020. This is Phoenix Finance Ltd.'s internal reference number for tracking this Consumer Durable Loan recovery case against Shalini Gupta."
+    ]
+  },
+  {
+    "question": "What is the EMI amount per month for this loan? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The EMI amount is ₹8,054/- per month for the 36-month tenure. This was calculated based on the loan amount of ₹2,25,000/- at an interest rate of 16.0% p.a. on reducing balance."
+    ]
+  },
+  {
+    "question": "What processing fee was charged on this loan? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The processing fee charged was ₹6,750/- which represents 3% of the loan amount (₹2,25,000/-). This is a standard processing fee percentage for consumer durable loans."
+    ]
+  },
+  {
+    "question": "What principal amount has been recovered from EMI payments? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The principal recovered is ₹13,108/- from total EMI payments of ₹16,108/- (2 EMIs of ₹8,054/-). The remaining ₹3,000/- was applied towards interest recovery."
+    ]
+  },
+  {
+    "question": "What happened during the branch visit attempt on 25-06-2024? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "During the branch visit attempt on 25-06-2024, security did not permit entry to meet the borrower at the SBI branch. This prevented direct contact with the deliberately evading borrower."
+    ]
+  },
+  {
+    "question": "What is the current case status? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The current status is: 'Award passed on 05-11-2024, execution petition filed, salary attachment being pursued.' The case has progressed to execution stage with focus on salary garnishment from SBI."
+    ]
+  },
+  {
+    "question": "What salary attachment percentage is sought? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Execution Petition and Section 17 Application seek 40% salary attachment from State Bank of India. With monthly salary of ₹62,000/-, this would result in approximately ₹24,800/month recovery."
+    ]
+  },
+  {
+    "question": "What is the borrower's PAN and Aadhaar number? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The borrower's PAN is DEFGU2345A and Aadhaar is XXXX-XXXX-0123 (masked format). These KYC details are maintained in CRM records for loan account PFL-CDL-231020."
+    ]
+  },
+  {
+    "question": "What phone numbers are on record for the borrower? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The phone numbers on record are: Primary +91-9826123456 and Alternate +91-9826123457. The borrower disconnected calls on 08-05-2024 and the phone was switched off on 15-05-2024."
+    ]
+  },
+  {
+    "question": "What is the repayment tenure for this loan? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The repayment tenure is 36 months from March 2024 to February 2027. The first EMI was due on 5th March 2024 and the last EMI was scheduled for 5th February 2027."
+    ]
+  },
+  {
+    "question": "What Section 9 relief is sought in this case? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Section 9 Petition prays for: Restraining from selling financed assets, authorizing salary attachment from SBI (30-50%), and allowing dual recovery mode through both salary and asset channels."
+    ]
+  },
+  {
+    "question": "What is the date of sanction and disbursal for this loan? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The date of sanction is 5th February 2024 and the date of disbursal is 12th February 2024 - a 7-day gap which is standard for consumer durable loan processing."
+    ]
+  },
+  {
+    "question": "What email address is on record for the borrower? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The borrower's email address is shalini.gupta86@gmail.com as per CRM records. Email reminders on 25-05-2024 received no response."
+    ]
+  },
+  {
+    "question": "What is the borrower's age and gender? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The borrower Shalini Gupta is 37 years old and female. She is employed at State Bank of India as Assistant Manager with monthly salary of ₹62,000/-."
+    ]
+  },
+  {
+    "question": "What items were financed under this consumer durable loan? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The loan financed a Home Appliances Package including various home appliances. The total loan amount of ₹2,25,000/- was sanctioned for these consumer durable items."
+    ]
+  },
+  {
+    "question": "What urgency grounds are cited in the Affidavit of Urgency? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta cites: Government bank employee with stable income deliberately defaulting, consumer durables can be easily sold, salary attachment is primary recovery mode but asset protection also needed as backup security."
+    ]
+  },
+  {
+    "question": "What is the Arbitration Reference Number for this case? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Arbitration Reference Number is ARB/2024/1020 as mentioned in the Section 17 Application and Statement of Claim documents."
+    ]
+  },
+  {
+    "question": "What Section 9 petition filing date is recorded? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Section 9 Petition was filed on 25th March 2024 before the Hon'ble District Judge, Indore seeking interim measures including salary attachment and asset protection."
+    ]
+  },
+  {
+    "question": "What punitive interest rate is awarded in the Arbitral Award? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Arbitral Award awards interest at 20% p.a. described as 'punitive' for willful evasion by a financially capable government bank employee."
+    ]
+  },
+  {
+    "question": "What is the first EMI and last EMI due date? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The first EMI due date is 5th March 2024 and the last EMI due date is 5th February 2027. The loan has a 36-month tenure but the borrower defaulted after just 2 EMIs."
+    ]
+  },
+  {
+    "question": "Calculate the outstanding as percentage of original loan. <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The outstanding amount of ₹2,83,909/- represents approximately 126% of the original loan of ₹2,25,000/-. This reflects accumulated interest and penalties over the 204-day default period."
+    ]
+  },
+  {
+    "question": "What execution mode is available in this case? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Execution Petition seeks: (A) PRIMARY: Salary attachment (40%) from State Bank of India; (B) SBI Cooperation as PSU bank will comply with court order; (C) Consumer Durables attachment as backup; (D) Adverse reporting to SBI HR."
+    ]
+  },
+  {
+    "question": "What is unique about salary attachment from a PSU bank employee? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Unique aspects: (1) PSU banks like SBI are bound to comply with court garnishment orders; (2) Stable government employment ensures continuous salary; (3) No risk of job loss affecting recovery; (4) HR reporting creates additional pressure; (5) Career implications motivate settlement."
+    ]
+  },
+  {
+    "question": "What is the case folder number? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The case folder number is ARB/2024/1020 as shown in the header. This matches the Arbitration Reference Number used in legal documents."
+    ]
+  },
+  {
+    "question": "What Statement of Claim filing date is recorded? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Statement of Claim is dated 30th March 2024 as per Section 6 of the legal documents. It was filed by Advocate Ramesh Khanna on behalf of Phoenix Finance Ltd."
+    ]
+  },
+  {
+    "question": "Why did ex-parte proceedings occur? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Ex-parte proceedings were initiated on 15th October 2024 because the borrower did not appear for the hearing and did not file any Statement of Defense. The Award was subsequently passed on 5th November 2024 in favor of Phoenix Finance."
+    ]
+  },
+  {
+    "question": "What List of Documents should be included for this case? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Annexures C-1 to C-14 (68 pages) should include: Loan Agreement, SBI Employment Proof and Salary Slips (₹48,000/month - note discrepancy with ₹62,000), Asset Invoices, Communication Records showing evasion, Field Visit Reports, Bank Statements, and KYC."
+    ]
+  },
+  {
+    "question": "What salary discrepancy exists in the documents? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "There is a salary discrepancy: CRM data shows monthly salary of ₹62,000/-, but Section 17 Application and List of Documents mention ₹48,000/month. The correct salary should be verified and documents corrected."
+    ]
+  },
+  {
+    "question": "What is the interest recovered from EMI payments? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The interest recovered is ₹3,000/- from total EMI payments of ₹16,108/- (2 EMIs of ₹8,054/-). The principal recovered is ₹13,108/-."
+    ]
+  },
+  {
+    "question": "What Section 17 relief is sought in this case? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Section 17 Application seeks: Authorization for 40% salary attachment from State Bank of India, simultaneously restraining from selling financed assets, and dual recovery channels."
+    ]
+  },
+  {
+    "question": "What is the pincode of the borrower's address? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The pincode of the borrower's address in Rajendra Nagar, Indore is 452012. The flat was found locked during field visits with neighbors reporting the borrower is rarely seen."
+    ]
+  },
+  {
+    "question": "What penal interest and charges are outstanding? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The penal interest and charges amount to ₹18,450/- as on 26-11-2024. Additionally, legal notice charges of ₹5,000/- have been added, reflecting the progression to formal legal proceedings."
+    ]
+  },
+  {
+    "question": "What Execution Petition filing date is recorded? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Execution Petition was filed on 20th November 2024 before the District Court, Indore. The petition includes Arbitral Award dated 5th November 2024 and seeks salary garnishment order to SBI."
+    ]
+  },
+  {
+    "question": "What is the Affidavit of Urgency verification date? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta was verified on 25th March 2024, same date as the Section 9 Petition filing."
+    ]
+  },
+  {
+    "question": "Calculate the monthly recovery timeline with 40% salary attachment. <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "With ₹62,000/month salary and 40% attachment = ₹24,800/month recovery. Total decretal amount ₹3,78,909 would be recovered in approximately 15-16 months through salary garnishment alone."
+    ]
+  },
+  {
+    "question": "What evasion pattern is documented in this case? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Evasion pattern: (1) 08-05-2024 - Customer disconnected call; (2) 15-05-2024 - Phone switched off; (3) 10-06-2024 - Flat locked, rarely seen; (4) 15-06-2024 - Still employed at SBI; (5) 25-06-2024 - Security blocked office contact; (6) 15-10-2024 - Did not appear for arbitration; (7) No defense filed."
+    ]
+  },
+  {
+    "question": "What advocate represents Phoenix Finance Ltd.? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Advocate Ramesh Khanna represents Phoenix Finance Ltd. His name appears on the Section 9 Petition, Statement of Claim, and other legal documents filed in this case."
+    ]
+  },
+  {
+    "question": "What recovery timeline is documented from first default to Award? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Timeline: First default May 2024 → Soft reminders May 2024 → Field visits Jun 2024 → Loan Recall Notice 05-07-2024 → Section 21 Notice 20-07-2024 → Section 11 Petition 20-08-2024 → Arbitrator appointed 10-09-2024 → SOC filed 25-09-2024 → Ex-parte 15-10-2024 → Award 05-11-2024 → Execution 20-11-2024."
+    ]
+  },
+  {
+    "question": "What costs are awarded in the Arbitral Award? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Arbitral Award grants costs of ₹95,000/- in addition to the principal and interest amounts. Total Award including costs is ₹3,78,909/-."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Loan Recall Notice date? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "There is a date discrepancy: Section 2 header shows Loan Recall Notice dated 15th March 2024, but recovery timeline shows it was issued on 05-07-2024. The correct date should be verified against postal receipts."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice discrepancy exists? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Similar discrepancy: Section 2 shows Section 21 Notice dated 5th April 2024, but recovery timeline shows 20-07-2024. These date inconsistencies should be reconciled against actual documents."
+    ]
+  },
+  {
+    "question": "What is unique about this PSU bank employee evasion case? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Unique aspects: (1) Government bank employee with job security; (2) Stable salary of ₹62,000/month; (3) Deliberate evasion despite capacity; (4) SBI will comply with court orders; (5) Career implications of garnishment; (6) No genuine hardship - purely willful default; (7) Ex-parte proceedings due to non-appearance."
+    ]
+  },
+  {
+    "question": "Draft a summary of evidence showing deliberate evasion. <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Evidence of deliberate evasion: (1) Disconnected calls; (2) Phone switched off; (3) Flat rarely occupied; (4) Still employed with regular SBI attendance; (5) Security prevented office contact (borrower instruction?); (6) No response to any communication; (7) No defense filed; (8) No appearance at arbitration; (9) Financial capacity verified but payment refused."
+    ]
+  },
+  {
+    "question": "What execution order should be sought from court? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "Execution order should seek: (1) Garnishment order to State Bank of India for 40% salary deduction; (2) Direct transfer of attached salary to Phoenix Finance account; (3) Monthly compliance reports from SBI HR; (4) Attachment of financed consumer durables as backup; (5) Costs of execution from judgment debtor."
+    ]
+  },
+  {
+    "question": "What is the Evidence Affidavit verification date? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Evidence Affidavit by Amit Verma is verified on 30th March 2024. The affidavit confirms SBI employee status, deliberate evasion despite stable employment, all communications ignored, and assets at risk."
+    ]
+  },
+  {
+    "question": "Review if the status in header matches current case stage. <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The header shows status as 'Execution Stage' which is correct. The Award was passed on 05-11-2024, and Execution Petition was filed on 20-11-2024 with execution warrant issued. The case is indeed in the execution stage."
+    ]
+  },
+  {
+    "question": "What adverse HR reporting is mentioned in the Execution Petition? <case_id:case_020, folder_id:ARB/2024/1020>",
+    "golden_answers": [
+      "The Execution Petition includes 'Adverse reporting to SBI HR' as Mode D of execution. This creates additional pressure on the borrower as salary attachment and default reporting can affect career advancement in a government bank."
+    ]
+  }
+]

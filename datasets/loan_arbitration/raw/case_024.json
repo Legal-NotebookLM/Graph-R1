@@ -1,0 +1,344 @@
+[
+  {
+    "question": "What is the loan account number for Geeta Sharma's consumer durable loan with Phoenix Finance Ltd.? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The loan account number is PFL-CDL-241024. This is a Consumer Durable Loan for Kitchen Appliances sanctioned on 20th June 2024 with a loan amount of ₹95,000/- for a 24-month tenure."
+    ]
+  },
+  {
+    "question": "What is the total outstanding amount claimed against Geeta Sharma as on 26-11-2024? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The total outstanding amount is ₹1,09,246/- as on 26-11-2024, comprising: Principal outstanding ₹87,051/-, Interest outstanding ₹12,345/-, Penal interest & charges ₹4,850/-, and Legal notice charges ₹5,000/-."
+    ]
+  },
+  {
+    "question": "What is the reason for default in Geeta Sharma's case? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The default reason is: 'Relocation to hometown for family emergency, temporary transfer.' The borrower was transferred to Dehradun branch of Punjab National Bank for 6 months, and the family relocated, affecting payment capacity."
+    ]
+  },
+  {
+    "question": "What is the borrower's employment details as per CRM records? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "Geeta Sharma is employed at Punjab National Bank as a Clerk with a monthly salary of ₹36,000/-. She was transferred to Dehradun branch for 6 months effective from the relocation period, as confirmed by PNB HR on 20-10-2024."
+    ]
+  },
+  {
+    "question": "How many EMIs did Geeta Sharma pay before defaulting? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "Geeta Sharma paid 2 full EMIs totaling ₹9,176/- (July and August 2024). The first bounce occurred in September 2024 due to insufficient funds, followed by complete default from October 2024 onwards when the family relocated to Dehradun."
+    ]
+  },
+  {
+    "question": "What is the Days Past Due (DPD) for this loan account? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Days Past Due (DPD) is 87 days as on 26-11-2024. The default commenced from September 2024 when the first EMI bounced, and continued after the relocation to Dehradun."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 9 Petition regarding court jurisdiction? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Section 9 Petition is filed before the Hon'ble District Judge, Dehradun, but the borrower's original address is in Ghaziabad, Uttar Pradesh. The petition should clarify whether jurisdiction is based on borrower's original address, new address in Dehradun, or company's choice, as this affects service and enforcement."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 17 Application regarding loan amount? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Section 17 Application mentions 'Gold Loan ₹7,50,000/-' and 'Gold (205 grams, 22K)' but the actual loan is a Consumer Durable Loan of ₹95,000/- for Kitchen Appliances. This is a critical error - the application appears to be copied from a different case file and must be completely rewritten."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Statement of Claim? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Statement of Claim Part I & II mentions 'Gold Loan ₹7,50,000/- against 205 grams 22K gold' but the actual loan is a Consumer Durable Loan of ₹95,000/- for Kitchen Appliances. This is a major factual error that must be corrected throughout the Statement of Claim."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Evidence Affidavit? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Evidence Affidavit mentions 'Gold Loan ₹7,50,000/-' and 'Gold (205 grams, 22K) in custody' but the actual case involves a Consumer Durable Loan of ₹95,000/- for Kitchen Appliances. The affidavit appears to be copied from a gold loan case and must be completely rewritten with correct facts."
+    ]
+  },
+  {
+    "question": "What is the borrower's residential address? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The original residential address is C-234, Vaishali, Ghaziabad, Uttar Pradesh - 201010. However, the family relocated to Dehradun in September 2024 for a temporary 6-month transfer, and the flat in Ghaziabad was found locked during the residence visit on 10-10-2024."
+    ]
+  },
+  {
+    "question": "What is the generated Case ID for this matter? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The generated Case ID is PFL/CDL/2024/01024. This is Phoenix Finance Ltd.'s internal reference number for tracking this Consumer Durable Loan recovery case against Geeta Sharma."
+    ]
+  },
+  {
+    "question": "What is the EMI amount per month for this loan? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The EMI amount is ₹4,588/- per month for the 24-month tenure. This was calculated based on the loan amount of ₹95,000/- at an interest rate of 15.5% p.a. on reducing balance."
+    ]
+  },
+  {
+    "question": "What processing fee was charged on this loan? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The processing fee charged was ₹2,850/- which represents 3% of the loan amount (₹95,000/-). This is a standard processing fee percentage for consumer durable loans."
+    ]
+  },
+  {
+    "question": "What principal amount has been recovered from EMI payments? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The principal recovered is ₹7,949/- from total EMI payments of ₹9,176/- (2 EMIs of ₹4,588/-). The remaining ₹1,227/- was applied towards interest recovery."
+    ]
+  },
+  {
+    "question": "What was discovered during the residence visit on 10-10-2024? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "During the residence visit on 10-10-2024, the flat in Ghaziabad was found locked, and security informed that the family went to Dehradun 3 weeks ago. This confirmed the relocation mentioned by the borrower during earlier communications."
+    ]
+  },
+  {
+    "question": "What employer verification was conducted? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "On 20-10-2024, a bank branch visit to Punjab National Bank confirmed that Geeta Sharma was transferred to Dehradun branch for 6 months. The HR verified the transfer, explaining the relocation and temporary nature of the move."
+    ]
+  },
+  {
+    "question": "What information was shared during the call on 05-11-2024? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "On 05-11-2024, during a call to the borrower, she mentioned that she was settling in the new city and promised payment by month end. However, this promise was not fulfilled as no payment was made."
+    ]
+  },
+  {
+    "question": "What was the outcome of the follow-up call on 15-11-2024? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "On 15-11-2024, during a follow-up call, no payment had been made and the borrower gave vague excuses. This indicated declining cooperation despite the earlier promise of payment."
+    ]
+  },
+  {
+    "question": "What is the interest rate on this consumer durable loan? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The interest rate is 15.5% p.a. on a reducing balance basis. This was the contracted rate at the time of sanction on 20th June 2024 for the 24-month tenure loan."
+    ]
+  },
+  {
+    "question": "What is the date of sanction and disbursal for this loan? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The date of sanction is 20th June 2024 and the date of disbursal is 28th June 2024 - an 8-day gap which is standard for consumer durable loan processing."
+    ]
+  },
+  {
+    "question": "What email address is on record for the borrower? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The borrower's email address is geeta.sharma83@gmail.com as per CRM records. Email reminders were sent, including one on 28-09-2024 where the borrower promised to arrange payment from hometown, and another on 25-11-2024 with Recall Notice copy."
+    ]
+  },
+  {
+    "question": "What is the borrower's age and gender? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The borrower Geeta Sharma is 40 years old and female. She is employed at Punjab National Bank as a Clerk with monthly salary of ₹36,000/- and was transferred to Dehradun branch for 6 months."
+    ]
+  },
+  {
+    "question": "What items were financed under this consumer durable loan? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The loan financed Kitchen Appliances as mentioned in the loan type. The total loan amount of ₹95,000/- was sanctioned for these consumer durable items. However, the specific list of appliances is not detailed in the case file."
+    ]
+  },
+  {
+    "question": "What is the first EMI and last EMI due date? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The first EMI due date is 5th July 2024 and the last EMI due date is 5th June 2026. The loan has a 24-month tenure and the borrower maintained regular payments for 2 months before the relocation and default."
+    ]
+  },
+  {
+    "question": "What is the current case status? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The current status is: 'Recall Notice issued, borrower making excuses, cooperation declining.' The Loan Recall Notice was issued on 20-11-2024, and the borrower's cooperation has decreased despite earlier promises of payment."
+    ]
+  },
+  {
+    "question": "What interaction occurred on 08-09-2024? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "On 08-09-2024, a reminder call was made to the borrower. During the call, the customer mentioned a family emergency in hometown, which was the initial explanation for the payment difficulty before the full extent of relocation was discovered."
+    ]
+  },
+  {
+    "question": "What information was shared on 20-09-2024? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "On 20-09-2024, during a follow-up call, the borrower mentioned temporary relocation to Dehradun for 2-3 months. This was the first indication of the job transfer and relocation affecting payment capacity."
+    ]
+  },
+  {
+    "question": "What was the borrower's response on 28-09-2024? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "On 28-09-2024, the borrower replied to an email reminder promising to arrange payment from hometown. However, the son replied on behalf, mentioning that the mother's husband was hospitalized, adding another layer to the family emergency situation."
+    ]
+  },
+  {
+    "question": "What was discovered during the village visit on 10-10-2024? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "During the village visit on 10-10-2024, the field team met the borrower's son who confirmed crop failure, husband's heart problem, and that the family was in severe crisis. This provided context for the financial difficulties."
+    ]
+  },
+  {
+    "question": "What was verified during the second visit on 20-10-2024? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "During the second visit on 20-10-2024, the field team saw damaged fields and verified hospital records, confirming the genuine nature of the medical emergency and crop failure affecting the family's financial situation."
+    ]
+  },
+  {
+    "question": "What is the Loan Recall Notice date? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Loan Recall Notice is dated 20th November 2024 sent via Speed Post to both Ghaziabad and Dehradun addresses. The notice states that transfer to Dehradun does not excuse default in EMI payments and requires payment within 15 days."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice date is mentioned? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Section 21 Notice is dated 30th November 2024 (future date from case file perspective), indicating that arbitration has not yet been invoked. The notice will be sent via Speed Post AD requiring the borrower to propose an arbitrator within 15 days."
+    ]
+  },
+  {
+    "question": "What Section 9 relief is contemplated in this case? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Section 9 Petition contemplates directing the borrower to disclose new address and asset location, restraining from selling financed items, and allowing asset inspection at Dehradun. However, the petition incorrectly mentions it's filed in Dehradun court when jurisdiction may be in Ghaziabad."
+    ]
+  },
+  {
+    "question": "What urgency grounds are cited in the Affidavit of Urgency? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta cites that relocation creates tracking difficulty. Consumer durables can be easily sold in the new city. The borrower's cooperation is critical, and early disclosure order is needed to maintain asset visibility."
+    ]
+  },
+  {
+    "question": "What is unique about this relocation case? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "Unique aspects: (1) Job transfer relocation - temporary 6-month transfer to Dehradun; (2) Consumer durables at risk of being sold in new city; (3) Borrower initially cooperative but cooperation declining; (4) Family emergency (husband's hospitalization) combined with relocation; (5) Inter-state tracking difficulty; (6) Assets may be in transit or at new location; (7) PNB employee with stable employment but temporary transfer; (8) Good payment history for 2 months before relocation."
+    ]
+  },
+  {
+    "question": "What is the borrower's PAN and Aadhaar number? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The borrower's PAN is PQRSH6789E and Aadhaar is XXXX-XXXX-4567 (masked format). These KYC details are maintained in CRM records for loan account PFL-CDL-241024."
+    ]
+  },
+  {
+    "question": "What phone numbers are on record for the borrower? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The phone numbers on record are: Primary +91-9711234567 and Alternate +91-9711234568. The borrower has been reachable on these numbers, though responses have become less cooperative over time."
+    ]
+  },
+  {
+    "question": "What is the repayment tenure for this loan? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The repayment tenure is 24 months from July 2024 to June 2026. The first EMI was due on 5th July 2024 and the last EMI is scheduled for 5th June 2026. The borrower maintained regular payments for 2 months before the relocation."
+    ]
+  },
+  {
+    "question": "Calculate the outstanding as percentage of original loan. <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The outstanding amount of ₹1,09,246/- represents approximately 115% of the original loan of ₹95,000/-. This reflects that some principal has been recovered (₹7,949/-) but accumulated interest and penalties over the 87-day default period have increased the total outstanding."
+    ]
+  },
+  {
+    "question": "What is the interest recovered from EMI payments? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The interest recovered is ₹1,227/- from total EMI payments of ₹9,176/- (2 EMIs of ₹4,588/-). The principal recovered is ₹7,949/-."
+    ]
+  },
+  {
+    "question": "What is the pincode of the borrower's original address? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The pincode of the borrower's original address in Vaishali, Ghaziabad is 201010. However, the family has relocated to Dehradun temporarily for the 6-month job transfer period."
+    ]
+  },
+  {
+    "question": "What penal interest and charges are outstanding? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The penal interest and charges amount to ₹4,850/- as on 26-11-2024. Additionally, legal notice charges of ₹5,000/- have been added, reflecting the progression to formal legal proceedings with the Loan Recall Notice."
+    ]
+  },
+  {
+    "question": "What is the case folder number? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The case folder number is ARB/2024/1024 as shown in the header. This matches the Arbitration Reference Number ARB/2024/1024 used in legal documents."
+    ]
+  },
+  {
+    "question": "What is the Arbitration Reference Number mentioned? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Arbitration Reference Number is ARB/2024/1024 as mentioned in the Section 17 Application and Statement of Claim documents. However, arbitration has not yet been invoked as the Section 21 Notice is dated 30th November 2024 (future)."
+    ]
+  },
+  {
+    "question": "What recovery timeline is documented from first default to current status? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "Timeline: First default September 2024 (bounce) → Soft reminder 07-09-2024 → Customer mentioned family emergency 08-09-2024 → Mentioned relocation to Dehradun 20-09-2024 → Promised payment from hometown 28-09-2024 → Residence visit confirmed relocation 10-10-2024 → Bank verified transfer 20-10-2024 → Borrower promised payment by month end 05-11-2024 → No payment, vague excuses 15-11-2024 → Loan Recall Notice 20-11-2024 → Email reminder 25-11-2024 → Case in recall notice stage as of 26-11-2024."
+    ]
+  },
+  {
+    "question": "What execution mode is contemplated for this case? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Execution Petition contemplates: (A) ASSET LOCATION of consumer durables at new address in Dehradun; (B) Inter-state coordination for asset attachment between Ghaziabad and Dehradun; (C) Local court assistance at relocated jurisdiction. The execution is more complex due to inter-state relocation."
+    ]
+  },
+  {
+    "question": "What advocate represents Phoenix Finance Ltd.? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "Advocate Ramesh Khanna represents Phoenix Finance Ltd. His name appears on the Section 9 Petition dated 15th November 2024 and other legal documents contemplated for this case."
+    ]
+  },
+  {
+    "question": "Review if the status in header matches current case stage. <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The header shows status as 'Recall Notice Issued' which is correct. The Loan Recall Notice was issued on 20-11-2024, and the case is in the recall notice stage with no arbitration proceedings initiated yet. The Section 21 Notice is dated 30-11-2024 (future), indicating the case is transitioning to legal recovery stage."
+    ]
+  },
+  {
+    "question": "What List of Documents should be included for this case? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "Annexures C-1 to C-12 (58 pages) should include: Loan Agreement, Transfer Orders from PNB, New Address Verification Attempts (Dehradun), Asset Location Details (kitchen appliances), Communication Records, Bank Statements, and KYC documents. However, the current List of Documents incorrectly mentions gold loan documents which must be replaced."
+    ]
+  },
+  {
+    "question": "What is the Evidence Affidavit verification date? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Evidence Affidavit by Amit Verma is verified on 20th November 2024. However, the affidavit contains major errors mentioning 'Gold Loan ₹7,50,000/-' and 'Gold (205 grams, 22K) in custody' which must be completely rewritten with correct facts about the Consumer Durable Loan."
+    ]
+  },
+  {
+    "question": "What is the Statement of Claim filing date? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Statement of Claim is dated 20th November 2024 as per the legal documents. However, the Statement of Claim contains critical errors mentioning gold loan details instead of consumer durable loan, which must be corrected before filing."
+    ]
+  },
+  {
+    "question": "What discrepancies exist across multiple documents regarding loan type and amount? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "Multiple critical discrepancies: (1) Section 17 Application mentions 'Gold Loan ₹7,50,000/-' and 'Gold (205 grams, 22K)' but actual loan is Consumer Durable Loan ₹95,000/-; (2) Statement of Claim mentions same gold loan details; (3) Evidence Affidavit mentions same gold loan details; (4) Arbitral Award extract mentions 'Gold (205 grams, 22K) auction authorized' but should reference kitchen appliances. All these documents appear to be copied from a gold loan case file and must be completely rewritten with correct facts."
+    ]
+  },
+  {
+    "question": "What is the Section 9 Petition filing date? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The Section 9 Petition is dated 15th November 2024. However, there is a jurisdiction question - the petition is filed in Dehradun court, but the borrower's original address and loan agreement may indicate Ghaziabad jurisdiction. This should be clarified."
+    ]
+  },
+  {
+    "question": "What is the borrower's employer name and designation? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The borrower is employed at Punjab National Bank as a Clerk with a monthly salary of ₹36,000/-. She was transferred to Dehradun branch for 6 months, which is a temporary transfer affecting the family's location and payment capacity."
+    ]
+  },
+  {
+    "question": "What is the total amount of EMIs paid? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The total EMIs paid is ₹9,176/- representing 2 full EMIs of ₹4,588/- each (July and August 2024). This shows good payment history before the relocation and default occurred in September 2024."
+    ]
+  },
+  {
+    "question": "What specific kitchen appliances were financed under this loan? <case_id:case_024, folder_id:ARB/2024/1024>",
+    "golden_answers": [
+      "The case file mentions 'Kitchen Appliances' as the loan type but does not provide a detailed list of specific appliances financed under the ₹95,000/- loan. This information should be added to the case file for proper asset tracking and potential attachment if needed."
+    ]
+  }
+]

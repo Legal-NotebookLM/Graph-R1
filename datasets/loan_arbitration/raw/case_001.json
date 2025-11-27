@@ -1,362 +1,542 @@
 [
   {
-    "question": "The Loan Recall Notice dated 15th January 2024 states total outstanding as ₹64,926/- but the breakdown shows Principal ₹54,542, Interest ₹8,234, and Penal Charges ₹2,150. Does this add up correctly?",
-    "golden_answers": ["Yes, the breakdown adds up correctly: ₹54,542 + ₹8,234 + ₹2,150 = ₹64,926. The notice does not include Legal Notice Charges as the case is still at soft reminder stage."]
+    "question": "The Loan Recall Notice dated 15th January 2024 states total outstanding as ₹64,926/- but the breakdown shows Principal ₹54,542, Interest ₹8,234, and Penal Charges ₹2,150. Does this add up correctly? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, the breakdown adds up correctly: ₹54,542 + ₹8,234 + ₹2,150 = ₹64,926. The notice does not include Legal Notice Charges as the case is still at soft reminder stage."
+    ]
   },
   {
-    "question": "The Section 21 Notice dated 5th February 2024 mentions that the borrower failed to respond to the Loan Recall Notice dated 15th January 2024. Was sufficient time given between these two notices?",
-    "golden_answers": ["Yes, 21 days elapsed between the Recall Notice (15 January 2024) and the Section 21 Notice (5 February 2024), which exceeds the 15-day response period specified in the Recall Notice. This timeline is defensible."]
+    "question": "The Section 21 Notice dated 5th February 2024 mentions that the borrower failed to respond to the Loan Recall Notice dated 15th January 2024. Was sufficient time given between these two notices? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, 21 days elapsed between the Recall Notice (15 January 2024) and the Section 21 Notice (5 February 2024), which exceeds the 15-day response period specified in the Recall Notice. This timeline is defensible."
+    ]
   },
   {
-    "question": "In the EMI payment history, the November 2023 EMI shows 'Bounced' with Insufficient Funds, but the borrower cited medical emergency. Should the remarks column be updated to reflect the medical emergency reason?",
-    "golden_answers": ["Yes, updating the remarks to mention 'Insufficient Funds - Medical Emergency' would provide better context and demonstrate the lender's awareness of the borrower's circumstances. This could support claims of good faith engagement if challenged."]
+    "question": "In the EMI payment history, the November 2023 EMI shows 'Bounced' with Insufficient Funds, but the borrower cited medical emergency. Should the remarks column be updated to reflect the medical emergency reason? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, updating the remarks to mention 'Insufficient Funds - Medical Emergency' would provide better context and demonstrate the lender's awareness of the borrower's circumstances. This could support claims of good faith engagement if challenged."
+    ]
   },
   {
-    "question": "The Section 9 petition filed on 25th February 2024 does not include the vehicle registration number. Should this be added?",
-    "golden_answers": ["Yes, the vehicle registration number should be included to precisely identify the secured asset. Without it, the prayer for restraining alienation lacks specificity and may weaken enforcement if granted."]
+    "question": "The Section 9 petition filed on 25th February 2024 does not include the vehicle registration number. Should this be added? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, the vehicle registration number should be included to precisely identify the secured asset. Without it, the prayer for restraining alienation lacks specificity and may weaken enforcement if granted."
+    ]
   },
   {
-    "question": "The borrower Priya Sharma is listed as working at Infosys Technologies Ltd. with a monthly salary of ₹45,000. Does the Execution Petition correctly reference this employer for salary attachment?",
-    "golden_answers": ["Yes, the Execution Petition correctly identifies Infosys Technologies Ltd. and proposes 40% salary attachment from the ₹45,000 monthly salary. This is within permissible limits for salary attachment under execution proceedings."]
+    "question": "The borrower Priya Sharma is listed as working at Infosys Technologies Ltd. with a monthly salary of ₹45,000. Does the Execution Petition correctly reference this employer for salary attachment? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, the Execution Petition correctly identifies Infosys Technologies Ltd. and proposes 40% salary attachment from the ₹45,000 monthly salary. This is within permissible limits for salary attachment under execution proceedings."
+    ]
   },
   {
-    "question": "The Loan Agreement was sanctioned on 10th January 2023 and disbursed on 18th January 2023. The first EMI was due on 5th February 2023. Is this timeline consistent with standard practice?",
-    "golden_answers": ["Yes, this timeline is consistent: 8 days between sanction and disbursal, and approximately 18 days between disbursal and first EMI. This allows for loan processing, vehicle delivery, and providing the borrower time before first payment."]
+    "question": "The Loan Agreement was sanctioned on 10th January 2023 and disbursed on 18th January 2023. The first EMI was due on 5th February 2023. Is this timeline consistent with standard practice? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, this timeline is consistent: 8 days between sanction and disbursal, and approximately 18 days between disbursal and first EMI. This allows for loan processing, vehicle delivery, and providing the borrower time before first payment."
+    ]
   },
   {
-    "question": "The Statement of Claim mentions that the borrower paid 9 full EMIs totaling ₹24,102. If EMI is ₹2,678, does this calculation match?",
-    "golden_answers": ["Yes, the calculation is correct: 9 EMIs × ₹2,678 = ₹24,102. This matches the stated recovery amount and confirms the borrower's payment history from February to October 2023."]
+    "question": "The Statement of Claim mentions that the borrower paid 9 full EMIs totaling ₹24,102. If EMI is ₹2,678, does this calculation match? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, the calculation is correct: 9 EMIs × ₹2,678 = ₹24,102. This matches the stated recovery amount and confirms the borrower's payment history from February to October 2023."
+    ]
   },
   {
-    "question": "The affidavit of urgency states the borrower 'cited medical emergency but has not provided concrete repayment plan.' However, the recovery timeline shows medical bills were provided and annexed as C-16. Should the affidavit language be softened?",
-    "golden_answers": ["Yes, the affidavit should acknowledge that medical bills were provided as evidence. The current language may appear dismissive of genuine hardship. Revising to 'provided medical documentation but failed to finalize restructuring' would be more accurate."]
+    "question": "The affidavit of urgency states the borrower 'cited medical emergency but has not provided concrete repayment plan.' However, the recovery timeline shows medical bills were provided and annexed as C-16. Should the affidavit language be softened? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, the affidavit should acknowledge that medical bills were provided as evidence. The current language may appear dismissive of genuine hardship. Revising to 'provided medical documentation but failed to finalize restructuring' would be more accurate."
+    ]
   },
   {
-    "question": "The Section 21 Notice warns that the Company 'remains open to discussing settlement options even at this stage.' Should this language be retained in a formal arbitration invocation notice?",
-    "golden_answers": ["The language is permissible and shows good faith, which courts often favor. However, it may slightly undermine the urgency claim. A balanced approach would be to keep it but frame as a final opportunity to avoid protracted proceedings."]
+    "question": "The Section 21 Notice warns that the Company 'remains open to discussing settlement options even at this stage.' Should this language be retained in a formal arbitration invocation notice? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The language is permissible and shows good faith, which courts often favor. However, it may slightly undermine the urgency claim. A balanced approach would be to keep it but frame as a final opportunity to avoid protracted proceedings."
+    ]
   },
   {
-    "question": "The DPD is listed as 56 days as on 26-11-2024. If the November 2023 EMI bounced on 5-11-2023, how is the DPD only 56 days?",
-    "golden_answers": ["The DPD calculation appears incorrect. From 5 November 2023 to 26 November 2024 is approximately 387 days, not 56 days. This is a material error that should be corrected immediately across all documents to maintain credibility."]
+    "question": "The DPD is listed as 56 days as on 26-11-2024. If the November 2023 EMI bounced on 5-11-2023, how is the DPD only 56 days? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The DPD calculation appears incorrect. From 5 November 2023 to 26 November 2024 is approximately 387 days, not 56 days. This is a material error that should be corrected immediately across all documents to maintain credibility."
+    ]
   },
   {
-    "question": "The List of Documents includes Annexure C-16 as 'Medical Bills provided by Respondent (November 2023) - 8 pages.' Does this support or contradict the claim of default?",
-    "golden_answers": ["It supports the borrower's explanation for default without contradicting the lender's claim. Medical hardship explains but does not excuse contractual breach. Acknowledging these bills demonstrates fairness while maintaining the legal position on repayment obligation."]
+    "question": "The List of Documents includes Annexure C-16 as 'Medical Bills provided by Respondent (November 2023) - 8 pages.' Does this support or contradict the claim of default? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "It supports the borrower's explanation for default without contradicting the lender's claim. Medical hardship explains but does not excuse contractual breach. Acknowledging these bills demonstrates fairness while maintaining the legal position on repayment obligation."
+    ]
   },
   {
-    "question": "The Arbitral Award states 'Total amount payable: ₹1,37,926/- plus future interest' combining principal ₹64,926 and costs ₹73,000. Is the costs amount reasonable for a soft reminder stage case?",
-    "golden_answers": ["The costs of ₹73,000 appear disproportionately high for a case at soft reminder stage with a principal of ₹64,926. This represents 112% of the principal outstanding. Costs should typically be proportionate to claim value and stage of proceedings."]
+    "question": "The Arbitral Award states 'Total amount payable: ₹1,37,926/- plus future interest' combining principal ₹64,926 and costs ₹73,000. Is the costs amount reasonable for a soft reminder stage case? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The costs of ₹73,000 appear disproportionately high for a case at soft reminder stage with a principal of ₹64,926. This represents 112% of the principal outstanding. Costs should typically be proportionate to claim value and stage of proceedings."
+    ]
   },
   {
-    "question": "The Section 9 petition states 'There is risk of the Respondent alienating or disposing of the hypothecated vehicle (Honda Activa 125).' What evidence supports this claim?",
-    "golden_answers": ["No specific evidence of imminent disposal is provided. The claim appears to be based on general risk rather than concrete facts like attempted sale or relocating the vehicle. Without supporting evidence, this assertion may be challenged as speculative."]
+    "question": "The Section 9 petition states 'There is risk of the Respondent alienating or disposing of the hypothecated vehicle (Honda Activa 125).' What evidence supports this claim? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "No specific evidence of imminent disposal is provided. The claim appears to be based on general risk rather than concrete facts like attempted sale or relocating the vehicle. Without supporting evidence, this assertion may be challenged as speculative."
+    ]
   },
   {
-    "question": "The recovery timeline shows the borrower's mother received a call on 5-12-2023 when the borrower was in hospital. Should the SOC mention this family contact?",
-    "golden_answers": ["Yes, mentioning family contact demonstrates diligent recovery efforts and the borrower's genuine medical situation. It also shows the lender made reasonable attempts to communicate despite the borrower's hospitalization, strengthening the narrative of good faith engagement."]
+    "question": "The recovery timeline shows the borrower's mother received a call on 5-12-2023 when the borrower was in hospital. Should the SOC mention this family contact? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, mentioning family contact demonstrates diligent recovery efforts and the borrower's genuine medical situation. It also shows the lender made reasonable attempts to communicate despite the borrower's hospitalization, strengthening the narrative of good faith engagement."
+    ]
   },
   {
-    "question": "The Loan Recall Notice addresses the borrower at 'Flat No. 402, Green Valley Apartments, Sector 18, Noida' but does not mention Uttar Pradesh in the address line. Should this be corrected?",
-    "golden_answers": ["Yes, adding 'Uttar Pradesh - 201301' would complete the address and reduce any arguable ambiguity in service. Complete addressing is particularly important for Speed Post notices where proper service may be challenged."]
+    "question": "The Loan Recall Notice addresses the borrower at 'Flat No. 402, Green Valley Apartments, Sector 18, Noida' but does not mention Uttar Pradesh in the address line. Should this be corrected? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, adding 'Uttar Pradesh - 201301' would complete the address and reduce any arguable ambiguity in service. Complete addressing is particularly important for Speed Post notices where proper service may be challenged."
+    ]
   },
   {
-    "question": "The Section 17 application states 'response has been limited despite medical emergency explanations.' Does this phrasing accurately reflect the borrower's cooperation level shown in the recovery timeline?",
-    "golden_answers": ["The phrasing may be too harsh. The recovery timeline shows the borrower answered calls, shared medical bills, and requested restructuring. 'Response has been cooperative but without concrete payment' would better reflect documented facts while maintaining the claim."]
+    "question": "The Section 17 application states 'response has been limited despite medical emergency explanations.' Does this phrasing accurately reflect the borrower's cooperation level shown in the recovery timeline? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The phrasing may be too harsh. The recovery timeline shows the borrower answered calls, shared medical bills, and requested restructuring. 'Response has been cooperative but without concrete payment' would better reflect documented facts while maintaining the claim."
+    ]
   },
   {
-    "question": "The Statement of Claim refers to a Loan Agreement dated 10th January 2023. Does Annexure C-4 confirm this date?",
-    "golden_answers": ["According to the List of Documents, Annexure C-4 is labeled 'Loan Agreement with Arbitration Clause dated 10-01-2023.' This confirms consistency between the SOC narrative and the annexed document, strengthening evidentiary coherence."]
+    "question": "The Statement of Claim refers to a Loan Agreement dated 10th January 2023. Does Annexure C-4 confirm this date? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "According to the List of Documents, Annexure C-4 is labeled 'Loan Agreement with Arbitration Clause dated 10-01-2023.' This confirms consistency between the SOC narrative and the annexed document, strengthening evidentiary coherence."
+    ]
   },
   {
-    "question": "The Email reminder on 25-11-2023 is listed as 'Replied - shared medical bills, requested EMI restructuring.' Should this email exchange be annexed to the SOC?",
-    "golden_answers": ["Yes, annexing this email exchange would strengthen the recovery timeline documentation. It demonstrates the borrower's proactive communication and request for restructuring, which may be relevant if the borrower later contests the lender's good faith or procedural fairness."]
+    "question": "The Email reminder on 25-11-2023 is listed as 'Replied - shared medical bills, requested EMI restructuring.' Should this email exchange be annexed to the SOC? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, annexing this email exchange would strengthen the recovery timeline documentation. It demonstrates the borrower's proactive communication and request for restructuring, which may be relevant if the borrower later contests the lender's good faith or procedural fairness."
+    ]
   },
   {
-    "question": "The Arbitrator appointed is Justice (Retd.) S.K. Gupta. Does the case file indicate whether this appointment was by mutual agreement or court order under Section 11?",
-    "golden_answers": ["The case file does not explicitly state the appointment method. However, Annexure C-2 is listed as 'Order under Section 11 appointing Sole Arbitrator dated 25-02-2024,' indicating court appointment after the borrower failed to respond to the Section 21 Notice."]
+    "question": "The Arbitrator appointed is Justice (Retd.) S.K. Gupta. Does the case file indicate whether this appointment was by mutual agreement or court order under Section 11? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The case file does not explicitly state the appointment method. However, Annexure C-2 is listed as 'Order under Section 11 appointing Sole Arbitrator dated 25-02-2024,' indicating court appointment after the borrower failed to respond to the Section 21 Notice."
+    ]
   },
   {
-    "question": "The processing fee is listed as ₹2,250 (3% of loan amount). If the loan amount is ₹75,000, does 3% equal ₹2,250?",
-    "golden_answers": ["Yes, 3% of ₹75,000 = ₹2,250. The processing fee calculation is correct and aligns with the stated loan amount and percentage."]
+    "question": "The processing fee is listed as ₹2,250 (3% of loan amount). If the loan amount is ₹75,000, does 3% equal ₹2,250? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, 3% of ₹75,000 = ₹2,250. The processing fee calculation is correct and aligns with the stated loan amount and percentage."
+    ]
   },
   {
-    "question": "The Execution Petition proposes attaching 40% of the borrower's net salary from Infosys. Is this within legal limits?",
-    "golden_answers": ["The legality depends on applicable state laws and nature of debt. Generally, salary attachment of up to 50% is permissible for certain debts. However, 40% is a reasonable figure that balances recovery needs with the judgment debtor's subsistence requirements."]
+    "question": "The Execution Petition proposes attaching 40% of the borrower's net salary from Infosys. Is this within legal limits? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The legality depends on applicable state laws and nature of debt. Generally, salary attachment of up to 50% is permissible for certain debts. However, 40% is a reasonable figure that balances recovery needs with the judgment debtor's subsistence requirements."
+    ]
   },
   {
-    "question": "The seat of arbitration is listed as Noida in the Section 17 application. Does this match the borrower's residence and loan agreement jurisdiction?",
-    "golden_answers": ["Yes, the borrower resides at Flat No. 402, Green Valley Apartments, Sector 18, Noida, Uttar Pradesh. Setting the seat at Noida is appropriate as it aligns with the borrower's residence and likely the contractual jurisdiction specified in Clause 18."]
+    "question": "The seat of arbitration is listed as Noida in the Section 17 application. Does this match the borrower's residence and loan agreement jurisdiction? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, the borrower resides at Flat No. 402, Green Valley Apartments, Sector 18, Noida, Uttar Pradesh. Setting the seat at Noida is appropriate as it aligns with the borrower's residence and likely the contractual jurisdiction specified in Clause 18."
+    ]
   },
   {
-    "question": "The recovery timeline shows a call on 20-01-2024 where the borrower 'mentioned returning to work, promised payment by month-end.' Did the borrower make any payment by month-end January 2024?",
-    "golden_answers": ["No, the EMI payment history shows no payments after October 2023. The December 2023 EMI remained unpaid, and no January 2024 payment is recorded. This broken promise may strengthen claims of non-cooperation despite initial engagement."]
+    "question": "The recovery timeline shows a call on 20-01-2024 where the borrower 'mentioned returning to work, promised payment by month-end.' Did the borrower make any payment by month-end January 2024? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "No, the EMI payment history shows no payments after October 2023. The December 2023 EMI remained unpaid, and no January 2024 payment is recorded. This broken promise may strengthen claims of non-cooperation despite initial engagement."
+    ]
   },
   {
-    "question": "The notice dated 15th January 2024 offers an alternative: 'if you wish to propose a restructuring plan, please approach us within 7 days.' Was any response received within this timeframe?",
-    "golden_answers": ["The case file does not indicate any response within the 7-day window. The next documented action is the Section 21 Notice on 5 February 2024, suggesting no restructuring proposal was submitted despite the opportunity provided."]
+    "question": "The notice dated 15th January 2024 offers an alternative: 'if you wish to propose a restructuring plan, please approach us within 7 days.' Was any response received within this timeframe? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The case file does not indicate any response within the 7-day window. The next documented action is the Section 21 Notice on 5 February 2024, suggesting no restructuring proposal was submitted despite the opportunity provided."
+    ]
   },
   {
-    "question": "The SOC states the borrower 'failed to regularize payments despite opportunities provided.' How many documented opportunities were given before legal action?",
-    "golden_answers": ["The recovery timeline shows at least 8 documented interactions from 7 November 2023 to 20 January 2024, including phone calls, SMS, emails, and follow-ups. The Loan Recall Notice provided a further 15-day window. This demonstrates substantial opportunities before arbitration invocation."]
+    "question": "The SOC states the borrower 'failed to regularize payments despite opportunities provided.' How many documented opportunities were given before legal action? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The recovery timeline shows at least 8 documented interactions from 7 November 2023 to 20 January 2024, including phone calls, SMS, emails, and follow-ups. The Loan Recall Notice provided a further 15-day window. This demonstrates substantial opportunities before arbitration invocation."
+    ]
   },
   {
-    "question": "The Affidavit of Evidence is sworn by Amit Verma, Senior Manager - Credit Operations. Does the List of Documents include an authorization letter for Amit Verma to represent the company?",
-    "golden_answers": ["Yes, Annexure C-18 is listed as 'Authorization Letter for Authorized Representative dated 01-03-2024.' This establishes Amit Verma's authority to swear the affidavit and represent Phoenix Finance Ltd. in the arbitration proceedings."]
+    "question": "The Affidavit of Evidence is sworn by Amit Verma, Senior Manager - Credit Operations. Does the List of Documents include an authorization letter for Amit Verma to represent the company? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, Annexure C-18 is listed as 'Authorization Letter for Authorized Representative dated 01-03-2024.' This establishes Amit Verma's authority to swear the affidavit and represent Phoenix Finance Ltd. in the arbitration proceedings."
+    ]
   },
   {
-    "question": "The Statement of Claim describes the borrower as 'aged 28 years, Software Engineer at Infosys Technologies Ltd.' Should current employment status be verified before filing?",
-    "golden_answers": ["Yes, employment verification is critical for salary attachment in execution. Since medical emergency caused the default, there's risk the borrower took extended leave or resigned. Updating employment status ensures execution strategies remain viable."]
+    "question": "The Statement of Claim describes the borrower as 'aged 28 years, Software Engineer at Infosys Technologies Ltd.' Should current employment status be verified before filing? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, employment verification is critical for salary attachment in execution. Since medical emergency caused the default, there's risk the borrower took extended leave or resigned. Updating employment status ensures execution strategies remain viable."
+    ]
   },
   {
-    "question": "The interest rate is stated as 15.5% p.a. (Reducing Balance) in the loan details. Does the Statement of Account calculation use reducing balance or flat rate?",
-    "golden_answers": ["The case file does not explicitly show the calculation methodology. However, given the loan agreement specifies 'Reducing Balance,' the Statement of Account should use this method. Any deviation would be a material discrepancy requiring correction."]
+    "question": "The interest rate is stated as 15.5% p.a. (Reducing Balance) in the loan details. Does the Statement of Account calculation use reducing balance or flat rate? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The case file does not explicitly show the calculation methodology. However, given the loan agreement specifies 'Reducing Balance,' the Statement of Account should use this method. Any deviation would be a material discrepancy requiring correction."
+    ]
   },
   {
-    "question": "The Loan Recall Notice lists Vehicle as 'Honda Activa 125' but does not provide registration number. Should the notice be amended to include vehicle identification details?",
-    "golden_answers": ["Yes, including the registration number would precisely identify the secured asset and strengthen any subsequent repossession or attachment orders. Vague asset identification may complicate enforcement and provide grounds for procedural challenges."]
+    "question": "The Loan Recall Notice lists Vehicle as 'Honda Activa 125' but does not provide registration number. Should the notice be amended to include vehicle identification details? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, including the registration number would precisely identify the secured asset and strengthen any subsequent repossession or attachment orders. Vague asset identification may complicate enforcement and provide grounds for procedural challenges."
+    ]
   },
   {
-    "question": "The Section 21 Notice is sent via 'SPEED POST AD & EMAIL.' Does sending via both modes strengthen service claims under Section 3?",
-    "golden_answers": ["Yes, dual-mode service strengthens the claim of proper notice. Email provides immediate delivery, while Speed Post offers tracking and formal proof. This belt-and-suspenders approach reduces risk of service challenges under Section 3."]
+    "question": "The Section 21 Notice is sent via 'SPEED POST AD & EMAIL.' Does sending via both modes strengthen service claims under Section 3? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, dual-mode service strengthens the claim of proper notice. Email provides immediate delivery, while Speed Post offers tracking and formal proof. This belt-and-suspenders approach reduces risk of service challenges under Section 3."
+    ]
   },
   {
-    "question": "The borrower's PAN is listed as BCDPS5678E. Should PAN be included in the Section 21 Notice for positive identification?",
-    "golden_answers": ["Including PAN in the notice ensures positive identification of the borrower and prevents any claim of mistaken identity. While the full address provides identification, adding PAN strengthens documentation, especially if multiple persons have similar names at the address."]
+    "question": "The borrower's PAN is listed as BCDPS5678E. Should PAN be included in the Section 21 Notice for positive identification? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Including PAN in the notice ensures positive identification of the borrower and prevents any claim of mistaken identity. While the full address provides identification, adding PAN strengthens documentation, especially if multiple persons have similar names at the address."
+    ]
   },
   {
-    "question": "The penal interest is calculated as ₹2,150. What is the applicable penal interest rate, and is it disclosed in the Loan Agreement?",
-    "golden_answers": ["The case file states penal charges are ₹2,150 but does not disclose the penal interest rate in the excerpts provided. The rate should be specified in the Loan Agreement (presumably Annexure C-4) and referenced in notices to ensure transparency and enforceability."]
+    "question": "The penal interest is calculated as ₹2,150. What is the applicable penal interest rate, and is it disclosed in the Loan Agreement? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The case file states penal charges are ₹2,150 but does not disclose the penal interest rate in the excerpts provided. The rate should be specified in the Loan Agreement (presumably Annexure C-4) and referenced in notices to ensure transparency and enforceability."
+    ]
   },
   {
-    "question": "The Award states 'Alternatively: In case of non-payment, the hypothecated vehicle (Honda Activa 125) may be liquidated.' Does this provide clear enforcement guidance?",
-    "golden_answers": ["The alternative relief is permissible but lacks procedural detail. Clarifying whether this requires separate application for possession or can be executed directly under the award would improve enforceability. Specific timelines and process would strengthen the direction."]
+    "question": "The Award states 'Alternatively: In case of non-payment, the hypothecated vehicle (Honda Activa 125) may be liquidated.' Does this provide clear enforcement guidance? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The alternative relief is permissible but lacks procedural detail. Clarifying whether this requires separate application for possession or can be executed directly under the award would improve enforceability. Specific timelines and process would strengthen the direction."
+    ]
   },
   {
-    "question": "The recovery timeline shows 'Soft reminder SMS' sent on 02-01-2024. Is there proof of delivery?",
-    "golden_answers": ["The timeline indicates 'Delivered' for this SMS, suggesting delivery confirmation was received. However, SMS delivery reports should be preserved and potentially annexed as Annexure C-15 to support claims of proper communication attempts."]
+    "question": "The recovery timeline shows 'Soft reminder SMS' sent on 02-01-2024. Is there proof of delivery? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The timeline indicates 'Delivered' for this SMS, suggesting delivery confirmation was received. However, SMS delivery reports should be preserved and potentially annexed as Annexure C-15 to support claims of proper communication attempts."
+    ]
   },
   {
-    "question": "The total EMIs paid are stated as 9 full EMIs. From February 2023 to October 2023 is 9 months. Does this timeline match?",
-    "golden_answers": ["Yes, the timeline is correct. First EMI was due 5 February 2023, and payments continued through October 2023 (due 5 October 2023), which equals 9 monthly payments. The November 2023 EMI bounced, confirming the 9-EMI payment history."]
+    "question": "The total EMIs paid are stated as 9 full EMIs. From February 2023 to October 2023 is 9 months. Does this timeline match? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, the timeline is correct. First EMI was due 5 February 2023, and payments continued through October 2023 (due 5 October 2023), which equals 9 monthly payments. The November 2023 EMI bounced, confirming the 9-EMI payment history."
+    ]
   },
   {
-    "question": "The Section 9 petition was filed on 25th February 2024, before appointing an arbitrator. Is this timing correct for interim relief?",
-    "golden_answers": ["The timing appears problematic. Section 9 applications can be filed before arbitral tribunal constitution, but Annexure C-2 shows the arbitrator was appointed on 25 February 2024, the same date as the Section 9 petition filing. The sequencing should be verified for procedural correctness."]
+    "question": "The Section 9 petition was filed on 25th February 2024, before appointing an arbitrator. Is this timing correct for interim relief? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The timing appears problematic. Section 9 applications can be filed before arbitral tribunal constitution, but Annexure C-2 shows the arbitrator was appointed on 25 February 2024, the same date as the Section 9 petition filing. The sequencing should be verified for procedural correctness."
+    ]
   },
   {
-    "question": "The Evidence Affidavit states the borrower 'provided medical bills and requested EMI restructuring' but also that she 'failed to regularize the account.' Is this contradictory?",
-    "golden_answers": ["No, it's not contradictory. The borrower engaged by sharing documentation and requesting restructuring, but did not execute any agreed plan or resume payments. The affidavit accurately captures both cooperation in communication and ultimate failure to perform repayment obligations."]
+    "question": "The Evidence Affidavit states the borrower 'provided medical bills and requested EMI restructuring' but also that she 'failed to regularize the account.' Is this contradictory? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "No, it's not contradictory. The borrower engaged by sharing documentation and requesting restructuring, but did not execute any agreed plan or resume payments. The affidavit accurately captures both cooperation in communication and ultimate failure to perform repayment obligations."
+    ]
   },
   {
-    "question": "The List of Documents shows 'Soft Reminder Call Logs & Recordings' as Annexure C-17. Are call recordings admissible in arbitration?",
-    "golden_answers": ["Call recordings are generally admissible if obtained with proper consent and comply with privacy laws. The Loan Agreement likely includes consent for recording collection calls. Ensuring proper authentication and compliance with data protection regulations is essential for admissibility."]
+    "question": "The List of Documents shows 'Soft Reminder Call Logs & Recordings' as Annexure C-17. Are call recordings admissible in arbitration? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Call recordings are generally admissible if obtained with proper consent and comply with privacy laws. The Loan Agreement likely includes consent for recording collection calls. Ensuring proper authentication and compliance with data protection regulations is essential for admissibility."
+    ]
   },
   {
-    "question": "The Loan Recall Notice states the account was 'classified as Non-Performing Asset (NPA) as per RBI guidelines.' From which date was it classified as NPA?",
-    "golden_answers": ["RBI guidelines typically classify an account as NPA when it remains overdue for 90 days. The November 2023 EMI bounced on 5 November 2023, so NPA classification would occur around early February 2024. The notice does not specify the exact NPA classification date, which should be added for precision."]
+    "question": "The Loan Recall Notice states the account was 'classified as Non-Performing Asset (NPA) as per RBI guidelines.' From which date was it classified as NPA? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "RBI guidelines typically classify an account as NPA when it remains overdue for 90 days. The November 2023 EMI bounced on 5 November 2023, so NPA classification would occur around early February 2024. The notice does not specify the exact NPA classification date, which should be added for precision."
+    ]
   },
   {
-    "question": "The borrower's medical emergency is described as 'appendicitis surgery requiring hospitalization.' Does the case file indicate the duration of hospitalization?",
-    "golden_answers": ["The recovery timeline mentions the borrower was 'in hospital' on 5 December 2023 when her mother received a call. However, specific admission and discharge dates are not provided. Including these dates would strengthen the timeline and contextualize the default period more accurately."]
+    "question": "The borrower's medical emergency is described as 'appendicitis surgery requiring hospitalization.' Does the case file indicate the duration of hospitalization? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The recovery timeline mentions the borrower was 'in hospital' on 5 December 2023 when her mother received a call. However, specific admission and discharge dates are not provided. Including these dates would strengthen the timeline and contextualize the default period more accurately."
+    ]
   },
   {
-    "question": "The Section 17 application requests the arbitrator to 'Direct the Respondent to hand over physical possession of the vehicle to the Claimant or deposit RC with Tribunal.' Is this relief within Section 17 powers?",
-    "golden_answers": ["Section 17 grants arbitral tribunals power to order interim measures similar to courts. Directing RC deposit is within these powers as a preservation measure. However, ordering physical possession transfer before final award may be seen as prejudging the dispute and should be carefully worded."]
+    "question": "The Section 17 application requests the arbitrator to 'Direct the Respondent to hand over physical possession of the vehicle to the Claimant or deposit RC with Tribunal.' Is this relief within Section 17 powers? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Section 17 grants arbitral tribunals power to order interim measures similar to courts. Directing RC deposit is within these powers as a preservation measure. However, ordering physical possession transfer before final award may be seen as prejudging the dispute and should be carefully worded."
+    ]
   },
   {
-    "question": "The Statement of Account shows 'Principal Recovered: ₹20,458' from 9 EMIs of ₹2,678 each. Is this principal allocation accurate for a reducing balance loan?",
-    "golden_answers": ["For a reducing balance loan at 15.5% p.a., early EMIs have higher interest components. Principal of ₹20,458 from total payments of ₹24,102 means ₹3,644 went to interest. This appears reasonable but should be verified against the loan's amortization schedule for accuracy."]
+    "question": "The Statement of Account shows 'Principal Recovered: ₹20,458' from 9 EMIs of ₹2,678 each. Is this principal allocation accurate for a reducing balance loan? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "For a reducing balance loan at 15.5% p.a., early EMIs have higher interest components. Principal of ₹20,458 from total payments of ₹24,102 means ₹3,644 went to interest. This appears reasonable but should be verified against the loan's amortization schedule for accuracy."
+    ]
   },
   {
-    "question": "The Execution Petition proposes three modes of execution: Vehicle attachment/sale, Salary attachment from Infosys (40%), and Bank account attachment. Should all three be pursued simultaneously?",
-    "golden_answers": ["Pursuing multiple modes simultaneously is permissible and strategic. Vehicle liquidation may not cover full dues, salary attachment ensures ongoing recovery, and bank attachment can catch lump sum deposits. However, the court may prioritize less intrusive methods or allow the judgment debtor to choose."]
+    "question": "The Execution Petition proposes three modes of execution: Vehicle attachment/sale, Salary attachment from Infosys (40%), and Bank account attachment. Should all three be pursued simultaneously? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Pursuing multiple modes simultaneously is permissible and strategic. Vehicle liquidation may not cover full dues, salary attachment ensures ongoing recovery, and bank attachment can catch lump sum deposits. However, the court may prioritize less intrusive methods or allow the judgment debtor to choose."
+    ]
   },
   {
-    "question": "The arbitrator's fees are ₹40,000, advocate fees ₹25,000, and administrative expenses ₹8,000, totaling ₹73,000. Are these costs proportionate to a claim of ₹64,926?",
-    "golden_answers": ["The costs exceed the principal claim, which is unusual. Arbitration costs should generally be proportionate to the dispute value. While arbitrator and advocate fees are reasonable individually, awarding ₹73,000 in costs on a ₹64,926 claim may be challenged as disproportionate or punitive."]
+    "question": "The arbitrator's fees are ₹40,000, advocate fees ₹25,000, and administrative expenses ₹8,000, totaling ₹73,000. Are these costs proportionate to a claim of ₹64,926? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The costs exceed the principal claim, which is unusual. Arbitration costs should generally be proportionate to the dispute value. While arbitrator and advocate fees are reasonable individually, awarding ₹73,000 in costs on a ₹64,926 claim may be challenged as disproportionate or punitive."
+    ]
   },
   {
-    "question": "The EMI payment history ends at December 2023 as 'Unpaid' with remark 'Medical emergency cited.' Should the table extend to show subsequent months to demonstrate continued default?",
-    "golden_answers": ["Yes, extending the table through at least February 2024 or beyond would demonstrate the duration and pattern of default. This visual representation strengthens the narrative of persistent non-payment despite multiple opportunities and would support urgency claims in petitions."]
+    "question": "The EMI payment history ends at December 2023 as 'Unpaid' with remark 'Medical emergency cited.' Should the table extend to show subsequent months to demonstrate continued default? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, extending the table through at least February 2024 or beyond would demonstrate the duration and pattern of default. This visual representation strengthens the narrative of persistent non-payment despite multiple opportunities and would support urgency claims in petitions."
+    ]
   },
   {
-    "question": "The Loan Agreement date is 10th January 2023, and disbursal is 18th January 2023. If the vehicle was delivered on the disbursal date, how was hypothecation perfected?",
-    "golden_answers": ["The case file states the vehicle was 'hypothecated in favor of our company by way of endorsement on the Registration Certificate.' This would typically occur at or shortly after vehicle delivery. The RC endorsement details and date should be documented in Annexure C-13 to confirm security perfection."]
+    "question": "The Loan Agreement date is 10th January 2023, and disbursal is 18th January 2023. If the vehicle was delivered on the disbursal date, how was hypothecation perfected? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The case file states the vehicle was 'hypothecated in favor of our company by way of endorsement on the Registration Certificate.' This would typically occur at or shortly after vehicle delivery. The RC endorsement details and date should be documented in Annexure C-13 to confirm security perfection."
+    ]
   },
   {
-    "question": "The notice offers the borrower 7 days to propose restructuring as an alternative to the 15-day full payment demand. Is providing two different deadlines confusing?",
-    "golden_answers": ["Yes, having two separate deadlines (7 days for restructuring, 15 days for payment) may create confusion about which timeline governs. A clearer approach would be to set a single deadline for either payment or restructuring proposal, reducing ambiguity and potential disputes over response timeliness."]
+    "question": "The notice offers the borrower 7 days to propose restructuring as an alternative to the 15-day full payment demand. Is providing two different deadlines confusing? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, having two separate deadlines (7 days for restructuring, 15 days for payment) may create confusion about which timeline governs. A clearer approach would be to set a single deadline for either payment or restructuring proposal, reducing ambiguity and potential disputes over response timeliness."
+    ]
   },
   {
-    "question": "The Affidavit of Urgency states 'the vehicle is the only security available to the Applicant for recovery.' Is this accurate for a hypothecated vehicle loan?",
-    "golden_answers": ["Yes, this is accurate. In a hypothecated two-wheeler loan, the vehicle itself is typically the sole security. Unlike other loans with multiple securities or guarantors, the vehicle represents the primary tangible asset for recovery, justifying the urgency claim for protective measures."]
+    "question": "The Affidavit of Urgency states 'the vehicle is the only security available to the Applicant for recovery.' Is this accurate for a hypothecated vehicle loan? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, this is accurate. In a hypothecated two-wheeler loan, the vehicle itself is typically the sole security. Unlike other loans with multiple securities or guarantors, the vehicle represents the primary tangible asset for recovery, justifying the urgency claim for protective measures."
+    ]
   },
   {
-    "question": "The case status is listed as 'Soft Reminder Stage,' yet Section 9 and Section 21 notices have been issued. Should the status be updated to 'Legal Stage' or 'Arbitration Initiated'?",
-    "golden_answers": ["Yes, the status should be updated. Once Section 21 notice is issued and arbitration invoked, the case has moved beyond soft reminders into formal legal proceedings. Accurate status classification is important for internal tracking, regulatory reporting, and portfolio management."]
+    "question": "The case status is listed as 'Soft Reminder Stage,' yet Section 9 and Section 21 notices have been issued. Should the status be updated to 'Legal Stage' or 'Arbitration Initiated'? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, the status should be updated. Once Section 21 notice is issued and arbitration invoked, the case has moved beyond soft reminders into formal legal proceedings. Accurate status classification is important for internal tracking, regulatory reporting, and portfolio management."
+    ]
   },
   {
-    "question": "The Section 21 Notice states Phoenix Finance Ltd. 'remains open to discussing settlement options even at this stage.' If the borrower proposes settlement after receiving this notice, does this waive arbitration?",
-    "golden_answers": ["No, proposing settlement after Section 21 notice does not automatically waive arbitration. The parties can engage in settlement discussions parallel to arbitration proceedings. If settlement is reached, arbitration can be withdrawn by mutual consent. The language keeps doors open without compromising legal position."]
+    "question": "The Section 21 Notice states Phoenix Finance Ltd. 'remains open to discussing settlement options even at this stage.' If the borrower proposes settlement after receiving this notice, does this waive arbitration? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "No, proposing settlement after Section 21 notice does not automatically waive arbitration. The parties can engage in settlement discussions parallel to arbitration proceedings. If settlement is reached, arbitration can be withdrawn by mutual consent. The language keeps doors open without compromising legal position."
+    ]
   },
   {
-    "question": "The borrower's alternate phone number is +91-9876543211. Was this number used in recovery attempts shown in the timeline?",
-    "golden_answers": ["The recovery timeline does not specifically mention attempts on the alternate number. Best practice would be to attempt contact on all listed numbers. If only the primary number was tried, this could be raised as inadequate recovery effort. Documentation should clarify both numbers were attempted."]
+    "question": "The borrower's alternate phone number is +91-9876543211. Was this number used in recovery attempts shown in the timeline? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The recovery timeline does not specifically mention attempts on the alternate number. Best practice would be to attempt contact on all listed numbers. If only the primary number was tried, this could be raised as inadequate recovery effort. Documentation should clarify both numbers were attempted."
+    ]
   },
   {
-    "question": "The Statement of Claim includes 'Annexure C-8: Medical bills (if provided by borrower).' The conditional 'if provided' suggests uncertainty. Should definite annexures be listed?",
-    "golden_answers": ["Yes, annexure listings should be definite. The Evidence Affidavit confirms medical bills were provided, and the List of Documents shows Annexure C-16 as medical bills (8 pages). The conditional phrasing in the SOC should be removed and replaced with definite reference to C-16 for consistency."]
+    "question": "The Statement of Claim includes 'Annexure C-8: Medical bills (if provided by borrower).' The conditional 'if provided' suggests uncertainty. Should definite annexures be listed? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, annexure listings should be definite. The Evidence Affidavit confirms medical bills were provided, and the List of Documents shows Annexure C-16 as medical bills (8 pages). The conditional phrasing in the SOC should be removed and replaced with definite reference to C-16 for consistency."
+    ]
   },
   {
-    "question": "The recovery timeline shows email sent on 10-01-2024 with 'No response.' How long should the lender wait for email responses before escalating?",
-    "golden_answers": ["While no statutory timeline exists for email responses, 7-10 days is reasonable for civil matters. The lender sent the email on 10 January 2024 and issued the Recall Notice on 15 January 2024 (5 days later). A slightly longer gap might strengthen claims of adequate opportunity, though 5 days is defensible given prior attempts."]
+    "question": "The recovery timeline shows email sent on 10-01-2024 with 'No response.' How long should the lender wait for email responses before escalating? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "While no statutory timeline exists for email responses, 7-10 days is reasonable for civil matters. The lender sent the email on 10 January 2024 and issued the Recall Notice on 15 January 2024 (5 days later). A slightly longer gap might strengthen claims of adequate opportunity, though 5 days is defensible given prior attempts."
+    ]
   },
   {
-    "question": "The Loan Account Number is PFL-TWL-231001. Does this numbering suggest this is the first two-wheeler loan of 2023?",
-    "golden_answers": ["The suffix '1001' may indicate this is the first loan in a series, possibly the 1,001st overall or first in a specific category for 2023. The exact interpretation depends on the company's internal numbering system. Consistency in using this number across all documents is essential for proper identification."]
+    "question": "The Loan Account Number is PFL-TWL-231001. Does this numbering suggest this is the first two-wheeler loan of 2023? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The suffix '1001' may indicate this is the first loan in a series, possibly the 1,001st overall or first in a specific category for 2023. The exact interpretation depends on the company's internal numbering system. Consistency in using this number across all documents is essential for proper identification."
+    ]
   },
   {
-    "question": "The Award states future interest will accrue '@15.5% per annum from the date of award till actual payment/realization.' Should the date be specified as '26 November 2024' instead of 'date of award'?",
-    "golden_answers": ["The Statement of Account is calculated as on 26 November 2024, but the award would be passed later. Using 'date of award' is correct for calculating post-award interest. However, for interest up to the award date, it should accrue from 26 November 2024 (last calculation date) to award date at the contractual rate."]
+    "question": "The Award states future interest will accrue '@15.5% per annum from the date of award till actual payment/realization.' Should the date be specified as '26 November 2024' instead of 'date of award'? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The Statement of Account is calculated as on 26 November 2024, but the award would be passed later. Using 'date of award' is correct for calculating post-award interest. However, for interest up to the award date, it should accrue from 26 November 2024 (last calculation date) to award date at the contractual rate."
+    ]
   },
   {
-    "question": "The borrower requested 'EMI restructuring' per the recovery timeline. What restructuring options are typically available for medical emergency cases?",
-    "golden_answers": ["Common restructuring options include temporary EMI reduction, moratorium period (payment holiday), tenure extension to lower EMI, or one-time settlement at reduced principal. The lender's willingness to consider restructuring should be balanced against NPA classification requirements and recovery timelines under RBI guidelines."]
+    "question": "The borrower requested 'EMI restructuring' per the recovery timeline. What restructuring options are typically available for medical emergency cases? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Common restructuring options include temporary EMI reduction, moratorium period (payment holiday), tenure extension to lower EMI, or one-time settlement at reduced principal. The lender's willingness to consider restructuring should be balanced against NPA classification requirements and recovery timelines under RBI guidelines."
+    ]
   },
   {
-    "question": "The Section 9 petition does not mention the borrower's medical emergency or cooperative attitude. Should these facts be included to present balanced context?",
-    "golden_answers": ["Including these facts provides balanced context but may weaken urgency claims. A strategic middle ground would be to acknowledge the medical emergency briefly while emphasizing that despite extended opportunities and cooperative attitude, concrete repayment has not materialized, thus necessitating protective measures."]
+    "question": "The Section 9 petition does not mention the borrower's medical emergency or cooperative attitude. Should these facts be included to present balanced context? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Including these facts provides balanced context but may weaken urgency claims. A strategic middle ground would be to acknowledge the medical emergency briefly while emphasizing that despite extended opportunities and cooperative attitude, concrete repayment has not materialized, thus necessitating protective measures."
+    ]
   },
   {
-    "question": "The Evidence Affidavit states medical emergency was 'appendicitis surgery requiring hospitalization.' Does this match the medical bills in Annexure C-16?",
-    "golden_answers": ["This should be verified. The affidavit's specific mention of appendicitis suggests the deponent reviewed the medical bills. However, if the bills show different treatment, this would be a critical discrepancy. Medical bills should support the narrative stated in the affidavit for evidentiary consistency."]
+    "question": "The Evidence Affidavit states medical emergency was 'appendicitis surgery requiring hospitalization.' Does this match the medical bills in Annexure C-16? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "This should be verified. The affidavit's specific mention of appendicitis suggests the deponent reviewed the medical bills. However, if the bills show different treatment, this would be a critical discrepancy. Medical bills should support the narrative stated in the affidavit for evidentiary consistency."
+    ]
   },
   {
-    "question": "The Execution Petition shows 'Future Interest (calculated)' with [Amount] placeholder. Should this be calculated to a specific date before filing?",
-    "golden_answers": ["Yes, the future interest should be calculated to the petition filing date to provide a precise decretal amount. Leaving it as a placeholder creates ambiguity in execution. Calculate interest from the award date to execution petition date, and specify that interest continues to accrue till realization."]
+    "question": "The Execution Petition shows 'Future Interest (calculated)' with [Amount] placeholder. Should this be calculated to a specific date before filing? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, the future interest should be calculated to the petition filing date to provide a precise decretal amount. Leaving it as a placeholder creates ambiguity in execution. Calculate interest from the award date to execution petition date, and specify that interest continues to accrue till realization."
+    ]
   },
   {
-    "question": "The List of Documents shows total pages as 82. Is this reasonable for a soft reminder stage case?",
-    "golden_answers": ["82 pages is substantial but not excessive for an arbitration case. The annexures include loan documentation (15-20 pages), bank statements (10 pages), medical bills (8 pages), recovery logs (6-8 pages), KYC (5 pages), and company certificates (5 pages). The volume reflects thorough documentation rather than over-filing."]
+    "question": "The List of Documents shows total pages as 82. Is this reasonable for a soft reminder stage case? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "82 pages is substantial but not excessive for an arbitration case. The annexures include loan documentation (15-20 pages), bank statements (10 pages), medical bills (8 pages), recovery logs (6-8 pages), KYC (5 pages), and company certificates (5 pages). The volume reflects thorough documentation rather than over-filing."
+    ]
   },
   {
-    "question": "The recovery timeline shows the borrower 'promised payment by month-end' on 20-01-2024. Should promises made during collection calls be documented in writing?",
-    "golden_answers": ["Yes, obtaining written confirmation of payment promises strengthens enforcement and establishes clear commitments. Follow-up emails summarizing call discussions and requesting confirmation creates contemporaneous written evidence. This practice also demonstrates professionalism and reduces later disputes about what was promised."]
+    "question": "The recovery timeline shows the borrower 'promised payment by month-end' on 20-01-2024. Should promises made during collection calls be documented in writing? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, obtaining written confirmation of payment promises strengthens enforcement and establishes clear commitments. Follow-up emails summarizing call discussions and requesting confirmation creates contemporaneous written evidence. This practice also demonstrates professionalism and reduces later disputes about what was promised."
+    ]
   },
   {
-    "question": "The Notice format includes 'Company Registration: L65999DL2010PLC123456' in the Recall Notice. Is this level of detail necessary?",
-    "golden_answers": ["Including company registration details enhances notice authenticity and enables the borrower to verify the sender's legitimacy. While not legally mandatory, it reduces risk of the borrower claiming confusion about notice source and demonstrates transparency, particularly helpful if service is later challenged."]
+    "question": "The Notice format includes 'Company Registration: L65999DL2010PLC123456' in the Recall Notice. Is this level of detail necessary? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Including company registration details enhances notice authenticity and enables the borrower to verify the sender's legitimacy. While not legally mandatory, it reduces risk of the borrower claiming confusion about notice source and demonstrates transparency, particularly helpful if service is later challenged."
+    ]
   },
   {
-    "question": "The Loan Recall Notice threatens 'criminal proceedings for cheating and criminal breach of trust under IPC.' Is this appropriate in a civil loan default case?",
-    "golden_answers": ["This warning is generally inadvisable unless specific elements of fraud exist. Simple loan default is a civil matter. Threatening criminal action without fraud can appear coercive and may violate RBI guidelines on fair practices. The notice should focus on civil remedies unless there's evidence of intentional deception at loan origination."]
+    "question": "The Loan Recall Notice threatens 'criminal proceedings for cheating and criminal breach of trust under IPC.' Is this appropriate in a civil loan default case? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "This warning is generally inadvisable unless specific elements of fraud exist. Simple loan default is a civil matter. Threatening criminal action without fraud can appear coercive and may violate RBI guidelines on fair practices. The notice should focus on civil remedies unless there's evidence of intentional deception at loan origination."
+    ]
   },
   {
-    "question": "The SOC states arbitration seat is Noida, consistent with Clause 18. Should the SOC quote Clause 18 verbatim?",
-    "golden_answers": ["Quoting Clause 18 verbatim would strengthen the jurisdictional foundation by showing exact contractual language. This eliminates any argument that the claimant is mischaracterizing the arbitration agreement. Including the full clause as part of the SOC or as an inset improves clarity and reduces disputes."]
+    "question": "The SOC states arbitration seat is Noida, consistent with Clause 18. Should the SOC quote Clause 18 verbatim? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Quoting Clause 18 verbatim would strengthen the jurisdictional foundation by showing exact contractual language. This eliminates any argument that the claimant is mischaracterizing the arbitration agreement. Including the full clause as part of the SOC or as an inset improves clarity and reduces disputes."
+    ]
   },
   {
-    "question": "The DPD is stated as 56 days as on 26-11-2024, but November 2023 EMI bounced on 5-11-2023. If this 56-day figure is wrong, what should it be?",
-    "golden_answers": ["From 5 November 2023 to 26 November 2024 is 387 days, not 56 days. This appears to be a data entry error, possibly calculating from a different reference date. The correct DPD of 387 days should be used, as this materially affects NPA classification, severity assessment, and urgency justification."]
+    "question": "The DPD is stated as 56 days as on 26-11-2024, but November 2023 EMI bounced on 5-11-2023. If this 56-day figure is wrong, what should it be? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "From 5 November 2023 to 26 November 2024 is 387 days, not 56 days. This appears to be a data entry error, possibly calculating from a different reference date. The correct DPD of 387 days should be used, as this materially affects NPA classification, severity assessment, and urgency justification."
+    ]
   },
   {
-    "question": "The Award provides 30 days for payment. If the award date is not specified in the extract, how is the 30-day deadline determined?",
-    "golden_answers": ["The 30-day period runs from the award date, which would be specified in the complete award. The extract shows '[To be determined based on case progression]' for the award date. Once the actual award is passed and dated, the 30-day deadline is calculated from that specific date, which must be clearly communicated to the respondent."]
+    "question": "The Award provides 30 days for payment. If the award date is not specified in the extract, how is the 30-day deadline determined? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The 30-day period runs from the award date, which would be specified in the complete award. The extract shows '[To be determined based on case progression]' for the award date. Once the actual award is passed and dated, the 30-day deadline is calculated from that specific date, which must be clearly communicated to the respondent."
+    ]
   },
   {
-    "question": "The Evidence Affidavit states Amit Verma has been with Phoenix Finance Ltd. for 8 years. Does this establish his credibility as a witness?",
-    "golden_answers": ["Yes, stating tenure establishes the witness's experience and familiarity with company processes, lending weight to his testimony. Eight years of experience in credit operations suggests he has handled numerous similar cases and understands loan documentation, strengthening the reliability of his evidence regarding this specific file."]
+    "question": "The Evidence Affidavit states Amit Verma has been with Phoenix Finance Ltd. for 8 years. Does this establish his credibility as a witness? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, stating tenure establishes the witness's experience and familiarity with company processes, lending weight to his testimony. Eight years of experience in credit operations suggests he has handled numerous similar cases and understands loan documentation, strengthening the reliability of his evidence regarding this specific file."
+    ]
   },
   {
-    "question": "The Section 9 petition seeks to 'restrain the Respondent from selling, transferring, alienating, encumbering, or in any manner dealing with the vehicle.' Does 'encumbering' include using the vehicle for daily work commute?",
-    "golden_answers": ["'Encumbering' typically means creating a financial charge or lien, not ordinary use. The borrower using the vehicle for commute would not constitute encumbering. However, if the prayer aims to prevent use, explicit language is needed. Most courts allow normal use while prohibiting sale or creation of competing interests, as the borrower is still the owner."]
+    "question": "The Section 9 petition seeks to 'restrain the Respondent from selling, transferring, alienating, encumbering, or in any manner dealing with the vehicle.' Does 'encumbering' include using the vehicle for daily work commute? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "'Encumbering' typically means creating a financial charge or lien, not ordinary use. The borrower using the vehicle for commute would not constitute encumbering. However, if the prayer aims to prevent use, explicit language is needed. Most courts allow normal use while prohibiting sale or creation of competing interests, as the borrower is still the owner."
+    ]
   },
   {
-    "question": "The Recall Notice provides two options: pay full amount in 15 days or propose restructuring in 7 days. If the borrower proposes restructuring on day 10, is this timely?",
-    "golden_answers": ["The notice creates ambiguity by setting two different deadlines. A reasonable interpretation is that any response (payment or proposal) within the longer 15-day window should be considered. However, this ambiguity could be exploited. Future notices should clarify whether the 7-day deadline is advisory or mandatory."]
+    "question": "The Recall Notice provides two options: pay full amount in 15 days or propose restructuring in 7 days. If the borrower proposes restructuring on day 10, is this timely? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The notice creates ambiguity by setting two different deadlines. A reasonable interpretation is that any response (payment or proposal) within the longer 15-day window should be considered. However, this ambiguity could be exploited. Future notices should clarify whether the 7-day deadline is advisory or mandatory."
+    ]
   },
   {
-    "question": "The List of Documents includes 'Postal Receipts & Speed Post Tracking' as Annexure C-9. Does this establish deemed service under Section 3?",
-    "golden_answers": ["Speed Post receipts and tracking provide strong evidence of dispatch but not necessarily receipt. Section 3 allows for deemed service if sent to the last known address by reliable means. The postal receipts support deemed service claims, but actual delivery confirmation (acknowledgment due card) would strengthen the proof of service."]
+    "question": "The List of Documents includes 'Postal Receipts & Speed Post Tracking' as Annexure C-9. Does this establish deemed service under Section 3? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Speed Post receipts and tracking provide strong evidence of dispatch but not necessarily receipt. Section 3 allows for deemed service if sent to the last known address by reliable means. The postal receipts support deemed service claims, but actual delivery confirmation (acknowledgment due card) would strengthen the proof of service."
+    ]
   },
   {
-    "question": "The Loan Agreement specifies 36-month tenure with last EMI due 5th January 2026. If the loan was disbursed 18th January 2023 and first EMI was 5th February 2023, does this add up to 36 months?",
-    "golden_answers": ["First EMI on 5 February 2023 to last EMI on 5 January 2026 spans 35 months, not 36. If the agreement specifies 36 EMIs, the last EMI should be due 5 February 2026. This is a minor discrepancy but should be verified and corrected to avoid confusion in calculating outstanding tenure and amounts."]
+    "question": "The Loan Agreement specifies 36-month tenure with last EMI due 5th January 2026. If the loan was disbursed 18th January 2023 and first EMI was 5th February 2023, does this add up to 36 months? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "First EMI on 5 February 2023 to last EMI on 5 January 2026 spans 35 months, not 36. If the agreement specifies 36 EMIs, the last EMI should be due 5 February 2026. This is a minor discrepancy but should be verified and corrected to avoid confusion in calculating outstanding tenure and amounts."
+    ]
   },
   {
-    "question": "The Affidavit of Urgency by Priya Mehta states she undertakes to compensate the Respondent for any loss if interim protection is found unwarranted. What is the scope of this undertaking?",
-    "golden_answers": ["This undertaking is a standard requirement for interim relief under Order XXXIX Rule 3 CPC (applied to arbitration). It obligates the applicant to compensate the respondent for losses caused by wrongly granted relief. Scope includes direct financial losses due to attachment, but typically excludes speculative or consequential damages."]
+    "question": "The Affidavit of Urgency by Priya Mehta states she undertakes to compensate the Respondent for any loss if interim protection is found unwarranted. What is the scope of this undertaking? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "This undertaking is a standard requirement for interim relief under Order XXXIX Rule 3 CPC (applied to arbitration). It obligates the applicant to compensate the respondent for losses caused by wrongly granted relief. Scope includes direct financial losses due to attachment, but typically excludes speculative or consequential damages."
+    ]
   },
   {
-    "question": "The case file states the loan type is 'Two-Wheeler Loan' for 'Honda Activa 125.' In one place the SOC describes it as 'two-wheeler vehicle,' elsewhere as 'Honda Activa 125.' Should terminology be standardized?",
-    "golden_answers": ["Yes, standardizing terminology improves document professionalism and reduces confusion. The first reference should use full description 'Honda Activa 125' with subsequent references as 'the vehicle' or 'the two-wheeler.' Consistency in asset description is particularly important for execution and attachment proceedings."]
+    "question": "The case file states the loan type is 'Two-Wheeler Loan' for 'Honda Activa 125.' In one place the SOC describes it as 'two-wheeler vehicle,' elsewhere as 'Honda Activa 125.' Should terminology be standardized? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, standardizing terminology improves document professionalism and reduces confusion. The first reference should use full description 'Honda Activa 125' with subsequent references as 'the vehicle' or 'the two-wheeler.' Consistency in asset description is particularly important for execution and attachment proceedings."
+    ]
   },
   {
-    "question": "The borrower is employed at Infosys Technologies Ltd. with ₹45,000 monthly salary. Should the lender verify continued employment before filing the Execution Petition?",
-    "golden_answers": ["Absolutely. Employment status should be verified immediately before filing execution. If the borrower left Infosys due to medical issues or otherwise, salary attachment prayers become futile. Current employer verification (possibly through HR contact or formal inquiry) ensures execution strategies are viable and costs are not wasted."]
+    "question": "The borrower is employed at Infosys Technologies Ltd. with ₹45,000 monthly salary. Should the lender verify continued employment before filing the Execution Petition? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Absolutely. Employment status should be verified immediately before filing execution. If the borrower left Infosys due to medical issues or otherwise, salary attachment prayers become futile. Current employer verification (possibly through HR contact or formal inquiry) ensures execution strategies are viable and costs are not wasted."
+    ]
   },
   {
-    "question": "The medical emergency occurred in November 2023, leading to default. It's now November 2024. Should the lender consider that sufficient time has passed for recovery?",
-    "golden_answers": ["Yes, one year post-medical emergency is substantial recovery time. While the lender showed initial compassion, 12 months is reasonable for the borrower to resume work and restart payments, especially with confirmed new employment. This timeline supports proceeding with legal recovery while maintaining claims of having provided adequate opportunity."]
+    "question": "The medical emergency occurred in November 2023, leading to default. It's now November 2024. Should the lender consider that sufficient time has passed for recovery? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, one year post-medical emergency is substantial recovery time. While the lender showed initial compassion, 12 months is reasonable for the borrower to resume work and restart payments, especially with confirmed new employment. This timeline supports proceeding with legal recovery while maintaining claims of having provided adequate opportunity."
+    ]
   },
   {
-    "question": "The Notice dated 15th January 2024 is addressed to 'Priya Sharma' but signed by 'Priya Mehta.' Could this create confusion?",
-    "golden_answers": ["While both are named Priya, confusion is unlikely as the borrower is clearly identified by full address, PAN, and account number. Priya Mehta signs in her official capacity as VP-Legal with designation clearly stated. However, awareness of the name similarity is prudent to avoid any procedural challenges."]
+    "question": "The Notice dated 15th January 2024 is addressed to 'Priya Sharma' but signed by 'Priya Mehta.' Could this create confusion? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "While both are named Priya, confusion is unlikely as the borrower is clearly identified by full address, PAN, and account number. Priya Mehta signs in her official capacity as VP-Legal with designation clearly stated. However, awareness of the name similarity is prudent to avoid any procedural challenges."
+    ]
   },
   {
-    "question": "The Annexure listing shows C-16 as 'Medical Bills provided by Respondent (November 2023) - 8 pages.' Should these bills be independently verified by the lender?",
-    "golden_answers": ["Independent verification (contacting the hospital or verifying bill authenticity) strengthens the lender's due diligence. However, for soft default cases, accepting bills at face value while reserving the right to verify may be sufficient. Verification becomes more important if the borrower claims fabricated documentation or if fraud is suspected."]
+    "question": "The Annexure listing shows C-16 as 'Medical Bills provided by Respondent (November 2023) - 8 pages.' Should these bills be independently verified by the lender? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Independent verification (contacting the hospital or verifying bill authenticity) strengthens the lender's due diligence. However, for soft default cases, accepting bills at face value while reserving the right to verify may be sufficient. Verification becomes more important if the borrower claims fabricated documentation or if fraud is suspected."
+    ]
   },
   {
-    "question": "The total outstanding includes 'Legal Notice Charges: ₹0/-' at the CRM stage, but ₹5,000 is added by the time of SOC filing. Should this discrepancy be explained?",
-    "golden_answers": ["No discrepancy exists. The CRM data (as on 26 November 2024) shows ₹0 legal charges because formal legal action hasn't yet occurred. By SOC filing, legal costs have been incurred (notice drafting, counsel fees, filing). The progression from ₹0 to ₹5,000 reflects timing differences and actual cost accumulation, which is proper."]
+    "question": "The total outstanding includes 'Legal Notice Charges: ₹0/-' at the CRM stage, but ₹5,000 is added by the time of SOC filing. Should this discrepancy be explained? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "No discrepancy exists. The CRM data (as on 26 November 2024) shows ₹0 legal charges because formal legal action hasn't yet occurred. By SOC filing, legal costs have been incurred (notice drafting, counsel fees, filing). The progression from ₹0 to ₹5,000 reflects timing differences and actual cost accumulation, which is proper."
+    ]
   },
   {
-    "question": "The Section 17 application is titled 'BEFORE THE SOLE ARBITRATOR' but references Arbitration Reference No. ARB/NOI/2024/1001. Is this reference number assigned before or after arbitrator appointment?",
-    "golden_answers": ["Arbitration reference numbers are typically assigned upon case registration, which may occur at the time of Section 11 application (for court appointment) or upon tribunal constitution. The reference number ARB/NOI/2024/1001 appears systematically assigned, suggesting an institutional or court registry system that allocates numbers at initiation rather than post-appointment."]
+    "question": "The Section 17 application is titled 'BEFORE THE SOLE ARBITRATOR' but references Arbitration Reference No. ARB/NOI/2024/1001. Is this reference number assigned before or after arbitrator appointment? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Arbitration reference numbers are typically assigned upon case registration, which may occur at the time of Section 11 application (for court appointment) or upon tribunal constitution. The reference number ARB/NOI/2024/1001 appears systematically assigned, suggesting an institutional or court registry system that allocates numbers at initiation rather than post-appointment."
+    ]
   },
   {
-    "question": "The Evidence Affidavit mentions the borrower 'remained in communication' throughout. Does this create risk that the tribunal may view the lender as too aggressive in pursuing arbitration?",
-    "golden_answers": ["There is slight risk that continued communication may be seen as indicating willingness to negotiate rather than necessity for arbitration. However, the affidavit balances this by noting that despite communication, no concrete payment occurred. The key is to frame communication as evidence of patience and opportunities provided, not as ongoing productive negotiation."]
+    "question": "The Evidence Affidavit mentions the borrower 'remained in communication' throughout. Does this create risk that the tribunal may view the lender as too aggressive in pursuing arbitration? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "There is slight risk that continued communication may be seen as indicating willingness to negotiate rather than necessity for arbitration. However, the affidavit balances this by noting that despite communication, no concrete payment occurred. The key is to frame communication as evidence of patience and opportunities provided, not as ongoing productive negotiation."
+    ]
   },
   {
-    "question": "The Execution Petition references 'Infosys Employment Verification' as Annexure E-5. What details should this verification include?",
-    "golden_answers": ["Employment verification should include current designation, date of joining, monthly gross salary, deductions, net salary, and confirmation of active employment status. It should be on company letterhead, signed by authorized HR personnel, and dated close to execution filing. This ensures salary attachment orders can be effectively executed by the employer."]
+    "question": "The Execution Petition references 'Infosys Employment Verification' as Annexure E-5. What details should this verification include? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Employment verification should include current designation, date of joining, monthly gross salary, deductions, net salary, and confirmation of active employment status. It should be on company letterhead, signed by authorized HR personnel, and dated close to execution filing. This ensures salary attachment orders can be effectively executed by the employer."
+    ]
   },
   {
-    "question": "The Award shows arbitrator fees of ₹40,000 for Justice (Retd.) S.K. Gupta. Is this within the Fourth Schedule limits of the Arbitration Act?",
-    "golden_answers": ["The Fourth Schedule specifies fee ranges based on claim value. For claims up to ₹5 lakh, the maximum arbitrator fee is ₹45,000. The claim here is ₹64,926, well under ₹5 lakh, and the fee of ₹40,000 is within prescribed limits, making it legally compliant and unlikely to be challenged."]
+    "question": "The Award shows arbitrator fees of ₹40,000 for Justice (Retd.) S.K. Gupta. Is this within the Fourth Schedule limits of the Arbitration Act? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The Fourth Schedule specifies fee ranges based on claim value. For claims up to ₹5 lakh, the maximum arbitrator fee is ₹45,000. The claim here is ₹64,926, well under ₹5 lakh, and the fee of ₹40,000 is within prescribed limits, making it legally compliant and unlikely to be challenged."
+    ]
   },
   {
-    "question": "The Section 21 Notice states the disputes include 'Recovery of outstanding loan amount of ₹64,926/- along with future interest.' Should future interest be quantified?",
-    "golden_answers": ["Future interest need not be precisely quantified at the notice stage as it continues to accrue. However, specifying the rate (15.5% p.a.) and basis (reducing balance) provides clarity on how future interest will be calculated, reducing later disputes and setting clear expectations for the borrower."]
+    "question": "The Section 21 Notice states the disputes include 'Recovery of outstanding loan amount of ₹64,926/- along with future interest.' Should future interest be quantified? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Future interest need not be precisely quantified at the notice stage as it continues to accrue. However, specifying the rate (15.5% p.a.) and basis (reducing balance) provides clarity on how future interest will be calculated, reducing later disputes and setting clear expectations for the borrower."
+    ]
   },
   {
-    "question": "The Arbitration Reference shows 'ARB/NOI/2024/1001.' The 'NOI' likely stands for Noida. Is this consistent with the stated seat of arbitration?",
-    "golden_answers": ["Yes, ARB/NOI/2024/1001 appears to be a systematic reference where NOI represents Noida (the seat), 2024 is the year, and 1001 is the case number. This is consistent with the stated seat of arbitration as Noida and suggests an organized filing system for tracking arbitration cases by location and year."]
+    "question": "The Arbitration Reference shows 'ARB/NOI/2024/1001.' The 'NOI' likely stands for Noida. Is this consistent with the stated seat of arbitration? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, ARB/NOI/2024/1001 appears to be a systematic reference where NOI represents Noida (the seat), 2024 is the year, and 1001 is the case number. This is consistent with the stated seat of arbitration as Noida and suggests an organized filing system for tracking arbitration cases by location and year."
+    ]
   },
   {
-    "question": "The recovery timeline shows increasing urgency from soft reminders to field visits would typically occur. Why did this case jump directly from soft reminders to recall notice and Section 21?",
-    "golden_answers": ["The case likely accelerated due to prolonged default (56 days or more accurately 387 days), combined with genuine medical emergency that nonetheless did not result in restructuring finalization. Once the borrower rejoined work but failed to propose concrete repayment, the lender reasonably escalated to legal proceedings. Field visits may have been deemed unnecessary given maintained communication and documented medical situation."]
+    "question": "The recovery timeline shows increasing urgency from soft reminders to field visits would typically occur. Why did this case jump directly from soft reminders to recall notice and Section 21? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The case likely accelerated due to prolonged default (56 days or more accurately 387 days), combined with genuine medical emergency that nonetheless did not result in restructuring finalization. Once the borrower rejoined work but failed to propose concrete repayment, the lender reasonably escalated to legal proceedings. Field visits may have been deemed unnecessary given maintained communication and documented medical situation."
+    ]
   },
   {
-    "question": "The List of Documents shows 'Soft Reminder Call Logs & Recordings' at C-17 (3 pages). For 8+ calls shown in the timeline, is 3 pages sufficient documentation?",
-    "golden_answers": ["Three pages could include summary call logs rather than full transcripts. Typical call log format shows date, time, number called, duration, outcome summary in tabular form. Multiple calls can fit on 3 pages this way. Full recordings would take more space but may not all be annexed, only representative samples. The adequacy depends on the level of detail captured."]
+    "question": "The List of Documents shows 'Soft Reminder Call Logs & Recordings' at C-17 (3 pages). For 8+ calls shown in the timeline, is 3 pages sufficient documentation? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Three pages could include summary call logs rather than full transcripts. Typical call log format shows date, time, number called, duration, outcome summary in tabular form. Multiple calls can fit on 3 pages this way. Full recordings would take more space but may not all be annexed, only representative samples. The adequacy depends on the level of detail captured."
+    ]
   },
   {
-    "question": "The borrower's email is anjali.desai92@gmail.com in case_003 but priya.sharma1995@gmail.com in case_001. Wait, we're discussing case_001. The email for Priya Sharma is priya.sharma1995@gmail.com. Does the '1995' suggest birth year?",
-    "golden_answers": ["The '1995' in the email priya.sharma1995@gmail.com likely indicates birth year, which would make the borrower 28-29 years old, consistent with the stated age of 28 years. This is a common email naming convention. While not directly relevant to legal proceedings, it confirms the consistency of the borrower's personal information across the file."]
+    "question": "The borrower's email is anjali.desai92@gmail.com in case_003 but priya.sharma1995@gmail.com in case_001. Wait, we're discussing case_001. The email for Priya Sharma is priya.sharma1995@gmail.com. Does the '1995' suggest birth year? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "The '1995' in the email priya.sharma1995@gmail.com likely indicates birth year, which would make the borrower 28-29 years old, consistent with the stated age of 28 years. This is a common email naming convention. While not directly relevant to legal proceedings, it confirms the consistency of the borrower's personal information across the file."
+    ]
   },
   {
-    "question": "The Award states total amount payable is ₹1,37,926 (₹64,926 + ₹73,000 costs). The Award also provides for future interest. Should the execution petition calculate future interest to a specific date?",
-    "golden_answers": ["Yes, the execution petition should calculate all amounts to its filing date to present a current decretal amount. From the award date to execution filing date, interest accrues on the principal ₹64,926 at 15.5% p.a. This gives the judgment debtor clear notice of current liability and the court precise amounts to enforce."]
+    "question": "The Award states total amount payable is ₹1,37,926 (₹64,926 + ₹73,000 costs). The Award also provides for future interest. Should the execution petition calculate future interest to a specific date? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "Yes, the execution petition should calculate all amounts to its filing date to present a current decretal amount. From the award date to execution filing date, interest accrues on the principal ₹64,926 at 15.5% p.a. This gives the judgment debtor clear notice of current liability and the court precise amounts to enforce."
+    ]
   },
   {
-    "question": "The borrower provided medical bills per Annexure C-16 (8 pages). Should the lender engage medical experts to verify the bills' authenticity?",
-    "golden_answers": ["For a ₹64,926 claim, engaging medical experts would be disproportionate and cost-prohibitive. Accepting the bills at face value is reasonable, especially since the medical emergency is not disputed as the default cause. The lender's position is that medical hardship explains but doesn't excuse the debt, making bill verification unnecessary for claim success."]
+    "question": "The borrower provided medical bills per Annexure C-16 (8 pages). Should the lender engage medical experts to verify the bills' authenticity? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "For a ₹64,926 claim, engaging medical experts would be disproportionate and cost-prohibitive. Accepting the bills at face value is reasonable, especially since the medical emergency is not disputed as the default cause. The lender's position is that medical hardship explains but doesn't excuse the debt, making bill verification unnecessary for claim success."
+    ]
   },
   {
-    "question": "The Section 9 petition seeks to 'Direct the Respondent to deposit the Registration Certificate (RC) with this Hon'ble Court.' If granted, how does this prevent vehicle disposal?",
-    "golden_answers": ["RC deposit prevents legal transfer of vehicle ownership, as the RC is required for ownership transfer registration at the RTO. Without the RC in her possession, the borrower cannot complete a sale to a third party. However, it doesn't prevent physical possession transfer, so additional prayers for restraint orders supplement this measure."]
+    "question": "The Section 9 petition seeks to 'Direct the Respondent to deposit the Registration Certificate (RC) with this Hon'ble Court.' If granted, how does this prevent vehicle disposal? <case_id:case_001, folder_id:ARB/2024/1001>",
+    "golden_answers": [
+      "RC deposit prevents legal transfer of vehicle ownership, as the RC is required for ownership transfer registration at the RTO. Without the RC in her possession, the borrower cannot complete a sale to a third party. However, it doesn't prevent physical possession transfer, so additional prayers for restraint orders supplement this measure."
+    ]
   }
 ]

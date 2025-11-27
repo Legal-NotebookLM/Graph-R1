@@ -1,0 +1,344 @@
+[
+  {
+    "question": "What is the loan account number for Rajni Devi's gold loan with Phoenix Finance Ltd.? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The loan account number is PFL-GL-231018. This is a Gold Loan with 145 grams of gold pledged, sanctioned on 8th December 2023 with a loan amount of ₹5,50,000/-."
+    ]
+  },
+  {
+    "question": "What fraud allegations have been raised against Rajni Devi? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Rajni Devi allegedly overstated her income by 500% - declaring ₹30,000/month (husband's business ₹25,000 + tailoring ₹5,000) when actual income is only ₹5,000-6,000/month. She also submitted forged business documents, fake ITR with forged CA signature, and concealed existing loans totaling ₹4.3 lakhs."
+    ]
+  },
+  {
+    "question": "What is the total outstanding amount claimed against Rajni Devi as on 26-11-2024? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The total outstanding amount is ₹6,07,142/- as on 26-11-2024, comprising: Principal outstanding ₹5,06,458/-, Interest outstanding ₹67,234/-, Penal interest & charges ₹28,450/-, and Legal notice charges ₹5,000/-."
+    ]
+  },
+  {
+    "question": "What is the amount of gold pledged and its estimated value? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "145 grams of gold was pledged against the loan. The Evidence Affidavit mentions the pledged gold is valued at ₹5,80,000/- which is available for liquidation to recover the outstanding dues."
+    ]
+  },
+  {
+    "question": "Who is the appointed arbitrator in this case? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Justice (Retd.) Mahesh Gupta was appointed as the Sole Arbitrator on 15th August 2024 following the Section 11 petition filed on 25th June 2024."
+    ]
+  },
+  {
+    "question": "How many EMIs did Rajni Devi pay before defaulting? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "According to the case file, Rajni Devi paid only 1 full EMI totaling ₹49,217/- in January 2024. The Evidence Affidavit mentions 'only 2 EMIs' which is inconsistent - this discrepancy should be verified."
+    ]
+  },
+  {
+    "question": "What is the Days Past Due (DPD) for this loan account? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Days Past Due (DPD) is 294 days as on 26-11-2024. The default commenced from February 2024 when the first EMI bounced due to insufficient funds."
+    ]
+  },
+  {
+    "question": "What forged documents were discovered during investigation? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Investigation revealed: (1) Forged ITR documents with fake CA signature; (2) Fake business income proof - husband's shop doesn't exist; (3) Fake rent agreement for business premises; (4) Bank statements showing inflated deposits."
+    ]
+  },
+  {
+    "question": "What is the interest rate on this gold loan? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The interest rate is 12.5% p.a. on a reducing balance basis. This is a relatively lower rate typical for gold loans due to the secured nature with pledged gold."
+    ]
+  },
+  {
+    "question": "What criminal action has been initiated in this case? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "A police complaint was filed on 10th June 2024 and an FIR was registered at the local police station. The case may attract IPC Section 420 (Cheating) charges for fraudulent misrepresentation."
+    ]
+  },
+  {
+    "question": "What was discovered during the village visit on 10-03-2024? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "During the village visit on 10-03-2024, the borrower's husband was met. He claimed no loan was taken and that the gold was pledged without his knowledge, suggesting potential family dispute or coordinated evasion."
+    ]
+  },
+  {
+    "question": "What is the discrepancy in address mentioned in the Loan Recall Notice? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Loan Recall Notice incorrectly states the address as 'Village Motihari, Bihar' but the borrower's actual address is 'Village Khurja Mohalla, Post Khadar, District Bijnor, Uttar Pradesh - 246731.' This is a significant error requiring correction."
+    ]
+  },
+  {
+    "question": "What Arbitration Reference Number is assigned to this case? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Arbitration Reference Number is ARB/MOT/2024/1018 as mentioned in the Statement of Claim. However, 'MOT' (Motihari) is incorrect as the correct location is Bijnor, UP."
+    ]
+  },
+  {
+    "question": "What is the EMI amount per month for this gold loan? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The EMI amount is ₹49,217/- per month for the 12-month tenure. This high EMI reflects the short tenure and substantial loan amount of ₹5,50,000/-."
+    ]
+  },
+  {
+    "question": "What multiple loans were discovered through investigation? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Field investigation and CIBIL check revealed: 3 other gold loans from different NBFCs totaling ₹2.5 lakhs, and 2 personal loans totaling ₹1.8 lakhs - making total undisclosed debt ₹4.3 lakhs versus declared NIL."
+    ]
+  },
+  {
+    "question": "What is the generated Case ID for this matter? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The generated Case ID is PFL/GL/2023/01018. This is Phoenix Finance Ltd.'s internal reference number for tracking this Gold Loan recovery case against Rajni Devi."
+    ]
+  },
+  {
+    "question": "What processing fee was charged on this loan? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The processing fee charged was ₹16,500/- which represents 3% of the loan amount (₹5,50,000/-). This is a standard processing fee percentage for gold loans."
+    ]
+  },
+  {
+    "question": "What was the borrower's behavior during the second village visit on 15-03-2024? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "During the second visit on 15-03-2024, the borrower (Rajni Devi) was met but was extremely evasive, giving vague answers about loan usage. This behavior increased suspicion of fraud."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 17 Application regarding the case? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Section 17 Application incorrectly references 'Kishore Patel' as respondent and 'Surat' as arbitration seat with 'fake gold pledged (gold-plated brass)'. This is a completely different fraud case template. The correct details should be Rajni Devi/Bijnor/genuine gold pledged."
+    ]
+  },
+  {
+    "question": "When was the Arbitral Award passed? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Arbitral Award was passed on 25th October 2024 by Justice (Retd.) Mahesh Gupta after conducting ex-parte proceedings as the borrower did not appear on 25th September 2024."
+    ]
+  },
+  {
+    "question": "What is the default reason officially recorded? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The official default reason is: 'Fraud - overstated income by 500%, forged documents, multiple undisclosed loans.' This classification indicates criminal misrepresentation for loan procurement."
+    ]
+  },
+  {
+    "question": "What is the current case status? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The current status is: 'Award passed, gold pledged to be auctioned for recovery, criminal case ongoing.' The case has both civil recovery and criminal prosecution tracks."
+    ]
+  },
+  {
+    "question": "What is the borrower's PAN and Aadhaar number? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The borrower's PAN is XYZDE0123Y and Aadhaar is XXXX-XXXX-8901 (masked format). These KYC details are maintained in CRM records for loan account PFL-GL-231018."
+    ]
+  },
+  {
+    "question": "What phone numbers are on record for the borrower? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The phone numbers on record are: Primary +91-9758123456 and Alternate +91-9758123457. The phone was switched off during the call attempt on 20-02-2024."
+    ]
+  },
+  {
+    "question": "What is the repayment tenure for this gold loan? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The repayment tenure is 12 months from January 2024 to December 2024. The first EMI was due on 5th January 2024 and the last EMI was scheduled for 5th December 2024."
+    ]
+  },
+  {
+    "question": "What costs are awarded in the Arbitral Award? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Arbitral Award grants costs of ₹1,10,000/- making total ₹7,17,142/- plus interest at 12.5% p.a. till realization. The award also authorizes gold liquidation for recovery."
+    ]
+  },
+  {
+    "question": "What is the date of sanction and disbursal for this loan? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The date of sanction is 8th December 2023 and the date of disbursal is 12th December 2023 - a 4-day gap which is standard for gold loans after pledge verification."
+    ]
+  },
+  {
+    "question": "What email address is on record for the borrower? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The borrower's email address is rajnidevi1975@gmail.com as per CRM records. Email reminders on 28-02-2024 received no response."
+    ]
+  },
+  {
+    "question": "What evidence supports the income overstatement allegation? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Evidence includes: (1) Agriculture records verification on 10-04-2024 showing only 1 acre vs claimed 10 acres (900% overstatement); (2) Husband's shop doesn't exist; (3) Neighbors confirming actual income is ₹5-6,000/month; (4) CIBIL showing undisclosed loans."
+    ]
+  },
+  {
+    "question": "What is the borrower's age and gender? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The borrower Rajni Devi is 48 years old and female. She is self-employed in Agriculture & Animal Husbandry with declared monthly income of ₹20,000/- (stated differently in different sections)."
+    ]
+  },
+  {
+    "question": "What Exhibits are listed in the Statement of Claim? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Exhibits C-1 to C-9 include: Loan Application showing ₹30,000 income claim, Forged ITR with fake CA signature, Forged Business Proof (non-existent shop), Field Investigation Report, Village Inquiry Report, CIBIL Report showing undisclosed loans, Statement of Account, Police Complaint/FIR, and Gold Pledge Documents."
+    ]
+  },
+  {
+    "question": "What Section 9 relief is sought in this case? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Section 9 Petition prays for: Confirming lawful possession of pledged gold (145 grams), restraining borrower from interfering, authorizing immediate gold auction, and allowing criminal proceedings for fraud."
+    ]
+  },
+  {
+    "question": "What landholding discrepancy was discovered? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Investigation on 10-04-2024 revealed the borrower's actual landholding is only 1 acre versus the claimed 10 acres in the loan application - a 900% overstatement of agricultural land."
+    ]
+  },
+  {
+    "question": "What is unique about gold loan fraud recovery? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Unique aspects: (1) Pledged gold provides direct security unlike unsecured loans; (2) Gold liquidation can recover substantial portion of dues; (3) Criminal fraud charges add pressure; (4) Borrower may attempt false complaints or forcible recovery; (5) Police protection may be needed during auction."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 6 Statement of Claim? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Section 6 SOC incorrectly references 'Kishore Patel' as respondent and 'Surat' as location with 'Gold Loan ₹7,00,000' and 'fake gold (gold-plated brass)'. This is a completely different case template. The correct case involves Rajni Devi, Bijnor, ₹5,50,000 with genuine gold pledged."
+    ]
+  },
+  {
+    "question": "What is the principal amount recovered from EMI payments? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The principal recovered is ₹43,542/- from total EMI payment of ₹49,217/- (1 EMI). The remaining ₹5,675/- was applied towards interest recovery."
+    ]
+  },
+  {
+    "question": "Review the case - is the gold pledged genuine or fake? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "In THIS case (Rajni Devi), the gold pledged is GENUINE - 145 grams valued at ₹5,80,000. The template error in Section 5-10 references a different case (Kishore Patel, Surat) involving FAKE gold-plated brass. This distinction is critical for recovery strategy."
+    ]
+  },
+  {
+    "question": "What urgency grounds are cited in the Affidavit of Urgency? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Affidavit of Urgency cites: Egregious fraud case, gold worth ₹7+ lakhs in custody, borrower may resort to desperate measures including false complaints or forcible recovery attempts, police complaint filed, and immediate legal protection of lawful possession is critical."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice date is recorded? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Section 21 Notice was issued on 25th January 2024 (as per Section 2) or 20th May 2024 (as per recovery timeline). This discrepancy should be verified. The notice invokes arbitration for breach and fraud."
+    ]
+  },
+  {
+    "question": "What case folder number is shown in the header? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The case folder number is ARB/2024/1018 as shown in the header. However, some documents reference ARB/MOT/2024/1018 (Motihari) and ARB/SUR/2024/1018 (Surat) - template errors from other cases."
+    ]
+  },
+  {
+    "question": "What is the value coverage of gold against outstanding? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The pledged gold (145 grams) is valued at ₹5,80,000/- against outstanding of ₹6,07,142/-. This provides approximately 95% coverage, making recovery through gold liquidation highly viable with only marginal shortfall."
+    ]
+  },
+  {
+    "question": "Draft a list of documents incorrectly belonging to other cases in this file. <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Documents from wrong cases: (1) Section 5 - Kishore Patel/Surat/Fake Gold; (2) Section 6 SOC - Kishore Patel/₹7,00,000; (3) Section 7 Evidence - Kishore Patel/gold-plated brass; (4) Section 8 List - Surat/Fake Gold exhibits; (5) Section 9 Award - Kishore Patel/₹13,94,199; (6) Section 10 Execution - Surat/Criminal Fraud."
+    ]
+  },
+  {
+    "question": "What is the Loan Recall Notice date in Section 2? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Loan Recall Notice in Section 2 is dated 5th January 2024 and specifically mentions the fraud allegations including ₹30,000 declared income vs ₹5,000-6,000 actual (500% overstatement), forged business documents, and multiple undisclosed loans."
+    ]
+  },
+  {
+    "question": "What pincode is recorded for the borrower's address? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The pincode of the borrower's address in Village Khurja Mohalla, District Bijnor, Uttar Pradesh is 246731. The incorrect reference to Motihari, Bihar in some documents should be corrected."
+    ]
+  },
+  {
+    "question": "What criminal provisions are applicable to this fraud? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Applicable provisions: IPC Section 420 (Cheating and dishonestly inducing delivery of property), IPC Section 468 (Forgery for purpose of cheating), IPC Section 471 (Using forged document as genuine). The FIR has been registered and criminal proceedings may run concurrently with civil recovery."
+    ]
+  },
+  {
+    "question": "What is the interest outstanding amount? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The interest outstanding is ₹67,234/- as on 26-11-2024. This is in addition to principal outstanding of ₹5,06,458/- and penal charges of ₹28,450/-."
+    ]
+  },
+  {
+    "question": "What first EMI and last EMI due dates are recorded? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The first EMI due date is 5th January 2024 and the last EMI due date is 5th December 2024. The loan has a 12-month tenure but the borrower defaulted after just 1 EMI payment."
+    ]
+  },
+  {
+    "question": "Calculate the outstanding as percentage of original loan. <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The outstanding amount of ₹6,07,142/- represents approximately 110% of the original loan of ₹5,50,000/-. The relatively modest increase (compared to other cases) reflects the shorter default period for a 12-month tenure loan."
+    ]
+  },
+  {
+    "question": "What village inquiry finding was recorded on 25-03-2024? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The local inquiry on 25-03-2024 revealed that the borrower has multiple gold loans from different lenders, confirming the pattern of serial borrowing using fraudulent documentation."
+    ]
+  },
+  {
+    "question": "What is the Evidence Affidavit discrepancy regarding loan details? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Evidence Affidavit by Amit Verma states the loan amount as ₹5,00,000/- and disbursement date as 5th January 2023, but the actual loan is ₹5,50,000/- disbursed on 12th December 2023. These factual errors need correction."
+    ]
+  },
+  {
+    "question": "What recovery action is authorized in the Arbitral Award? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Arbitral Award (for Rajni Devi case in Section 4) authorizes: Payment of ₹6,07,142/- within 30 days, interest at 12.5% p.a., costs of ₹1,10,000/-, and gold liquidation (145 grams) for recovery. Criminal proceedings may be initiated for fraud."
+    ]
+  },
+  {
+    "question": "Draft corrections needed for the Statement of Claim (Section 3). <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Section 3 SOC is largely correct but should verify: (1) Declared income amount (₹22,000 in CRM vs ₹30,000 in SOC); (2) Claim amount matches latest outstanding; (3) All exhibits C-1 to C-9 are properly annexed. The detailed fraud statements appear accurate."
+    ]
+  },
+  {
+    "question": "What is the declared monthly income discrepancy in CRM data? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "There is inconsistency in declared income: CRM shows ₹20,000/month, Statement of Claim mentions ₹30,000/month, and Loan Recall Notice states ₹30,000/month. The investigation found actual income is only ₹5,000-6,000/month regardless of declared figure."
+    ]
+  },
+  {
+    "question": "What execution mode is available given the pledged gold? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Primary execution mode is gold liquidation: 145 grams pledged gold valued at ₹5,80,000 can be auctioned per RBI guidelines for gold loan recovery. This provides direct recovery without complex court enforcement, covering approximately 95% of the ₹6,07,142 outstanding."
+    ]
+  },
+  {
+    "question": "What is the advocate representing Phoenix Finance Ltd.? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Advocate Ramesh Khanna represents Phoenix Finance Ltd. His name appears on the Section 9 Petition dated 30th January 2024 and Statement of Claim."
+    ]
+  },
+  {
+    "question": "What Affidavit of Urgency verification date is recorded? <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta was verified on 30th January 2024. It emphasizes the egregious fraud nature and need to protect the Company's lawful possession of pledged gold."
+    ]
+  },
+  {
+    "question": "Draft a practical gold auction process for this case. <case_id:case_018, folder_id:ARB/2024/1018>",
+    "golden_answers": [
+      "Gold auction process: (1) Obtain final court/arbitration authorization; (2) Issue 30-day notice to borrower per RBI guidelines; (3) Arrange authorized auctioneer; (4) Conduct public auction with minimum reserve price; (5) Apply proceeds to outstanding (₹5,80,000 value vs ₹6,07,142 due); (6) Pursue balance ₹27,142 through other means; (7) Document entire process for legal compliance."
+    ]
+  }
+]

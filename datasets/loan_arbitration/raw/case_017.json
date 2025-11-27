@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What is the loan account number for Amit Patel's two-wheeler loan with Phoenix Finance Ltd.? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The loan account number is PFL-TWL-231017. This is a Two-Wheeler Loan for a Bajaj CT 100 sanctioned on 15th November 2023 with a loan amount of ₹48,000/-."
+    ]
+  },
+  {
+    "question": "What incident caused the default in Amit Patel's loan? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "A major accident damaged the financed bike beyond repair. The borrower was hospitalized, incurred medical expenses, and the bike had only third-party insurance with no own damage cover. The bike was eventually sold for ₹5,000/- as scrap."
+    ]
+  },
+  {
+    "question": "What is the total outstanding amount on Amit Patel's loan as on 26-11-2024? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The total outstanding amount is ₹76,181/- as on 26-11-2024, comprising: Principal outstanding ₹43,964/-, Interest outstanding ₹18,567/-, Penal interest & charges ₹8,650/-, and Legal notice charges ₹5,000/-."
+    ]
+  },
+  {
+    "question": "How many EMIs did Amit Patel pay before defaulting? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "Amit Patel paid only 2 EMIs totaling ₹4,756/- (December 2023 and January 2024). The first bounce occurred in February 2024 due to insufficient funds following the accident and hospitalization."
+    ]
+  },
+  {
+    "question": "What is the Days Past Due (DPD) for this loan account? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Days Past Due (DPD) is 294 days as on 26-11-2024. The default commenced from February 2024 when the first EMI bounced following the borrower's accident and hospitalization."
+    ]
+  },
+  {
+    "question": "What is the borrower's employment type? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The borrower is a Gig Worker working as a Swiggy Delivery Partner with monthly income of ₹25,000/-. The bike was essential for his delivery work, and its destruction has severely impacted his earning capacity."
+    ]
+  },
+  {
+    "question": "What was the insurance coverage on the financed vehicle? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The bike had only third-party insurance with no own damage cover, as confirmed during the insurance inquiry on 15-04-2024. This means there is no insurance claim available for the accident damage."
+    ]
+  },
+  {
+    "question": "What happened to the damaged bike? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The bike was sold for ₹5,000/- as scrap, as confirmed by the borrower during the call on 20-05-2024. He also mentioned moving from Pune to Ahmedabad after the accident."
+    ]
+  },
+  {
+    "question": "What is the interest rate on this two-wheeler loan? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The interest rate is 18.0% p.a. on a reducing balance basis. This was the contracted rate at the time of sanction on 15th November 2023 for the 24-month tenure loan."
+    ]
+  },
+  {
+    "question": "What was discovered during the PG visit on 10-04-2024? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "During the PG visit on 10-04-2024, the recovery team met the borrower and saw the damaged bike in the parking area. The bike was extensively damaged with the front totally crushed, confirming the severity of the accident."
+    ]
+  },
+  {
+    "question": "What is the tracking number for the Loan Recall Notice? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Loan Recall Notice dated 10th June 2024 was issued with total outstanding of ₹76,181/-. The notice was sent to both Pune and Ahmedabad addresses as the borrower had relocated."
+    ]
+  },
+  {
+    "question": "What is the borrower's residential address as per loan records? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The original residential address is Room No. 12, PG Accommodation, Near Railway Station, Pune, Maharashtra - 411001. However, the borrower has since relocated to Ahmedabad."
+    ]
+  },
+  {
+    "question": "What response did the borrower provide on 15-07-2024? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "On 15-07-2024, the borrower sent an SMS expressing his inability to pay due to financial difficulties following the accident, loss of the bike, and job disruption."
+    ]
+  },
+  {
+    "question": "Who is the appointed arbitrator in this case? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "Justice (Retd.) Neha Agarwal was appointed as the Sole Arbitrator on 20th September 2024 following the Section 11 petition filed on 5th August 2024."
+    ]
+  },
+  {
+    "question": "What is the generated Case ID for this matter? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The generated Case ID is PFL/TWL/2023/01017. This is Phoenix Finance Ltd.'s internal reference number for tracking this Two-Wheeler Loan recovery case against Amit Patel."
+    ]
+  },
+  {
+    "question": "What is the EMI amount per month for this loan? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The EMI amount is ₹2,378/- per month for the 24-month tenure. This was calculated based on the loan amount of ₹48,000/- at an interest rate of 18.0% p.a. on reducing balance."
+    ]
+  },
+  {
+    "question": "What processing fee was charged on this loan? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The processing fee charged was ₹1,440/- which represents 3% of the loan amount (₹48,000/-). This is a standard processing fee percentage for two-wheeler loans."
+    ]
+  },
+  {
+    "question": "What principal amount has been recovered from EMI payments? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The principal recovered is ₹4,036/- from total EMI payments of ₹4,756/- (2 EMIs of ₹2,378/-). The remaining ₹720/- was applied towards interest recovery."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 9 Petition regarding the accident type? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Section 9 Petition incorrectly references 'fire accident' and mentions 'Vehicle lost in fire accident. FIR filed.' However, the actual case involves a road accident, not fire. This is a significant factual error requiring correction."
+    ]
+  },
+  {
+    "question": "What is the default reason officially recorded? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The official default reason is: 'Major accident resulting in bike damage beyond repair, medical expenses, job loss.' This classification indicates genuine hardship default due to unforeseen circumstances."
+    ]
+  },
+  {
+    "question": "What is the current case status? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The current status is: 'Arbitration process initiated, borrower unable to pay, asset destroyed.' The primary security (vehicle) is no longer available for recovery."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice date is recorded? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Section 21 Notice was issued on 25th June 2024. The notice states that asset loss does not absolve repayment obligation despite the accident destroying the financed vehicle."
+    ]
+  },
+  {
+    "question": "What is the borrower's PAN and Aadhaar number? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The borrower's PAN is UVWPA9012X and Aadhaar is XXXX-XXXX-7890 (masked format). These KYC details are maintained in CRM records for loan account PFL-TWL-231017."
+    ]
+  },
+  {
+    "question": "What phone numbers are on record for the borrower? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The phone numbers on record are: Primary +91-9923456789 and Alternate +91-9923456790. The borrower has been reachable but unable to make payments due to financial constraints."
+    ]
+  },
+  {
+    "question": "What is the repayment tenure for this loan? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The repayment tenure is 24 months from December 2023 to November 2025. The first EMI was due on 5th December 2023 and the last EMI was scheduled for 5th November 2025."
+    ]
+  },
+  {
+    "question": "What costs are awarded in the Arbitral Award extract? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Arbitral Award extract mentions costs of ₹70,000/-. The award also authorizes 'Alternative recovery channels' since the primary security (vehicle) has been destroyed."
+    ]
+  },
+  {
+    "question": "What is the date of sanction and disbursal for this loan? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The date of sanction is 15th November 2023 and the date of disbursal is 22nd November 2023 - a 7-day gap which is standard for two-wheeler loans."
+    ]
+  },
+  {
+    "question": "What email address is on record for the borrower? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The borrower's email address is amit.patel99@gmail.com as per CRM records. Email communication has been used for recovery notices and reminders."
+    ]
+  },
+  {
+    "question": "What bike repair estimate was shared by the borrower? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The borrower replied to the email reminder on 05-03-2024 stating the bike repair estimate was ₹18,000/- and he cannot afford it. This led to the decision to sell the bike as scrap."
+    ]
+  },
+  {
+    "question": "What urgency grounds are cited in the Affidavit of Urgency? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta cites: Vehicle destroyed, primary security lost, genuine accident but repayment obligation remains, critical to identify and protect alternative assets before borrower disperses remaining resources."
+    ]
+  },
+  {
+    "question": "What is the Arbitration Reference Number for this case? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Arbitration Reference Number is ARB/2024/1017 as mentioned in the Section 17 Application and Statement of Claim documents."
+    ]
+  },
+  {
+    "question": "What Section 9 petition filing date is recorded? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Section 9 Petition is dated 10th June 2024. However, the petition incorrectly references 'fire accident' instead of the actual road accident."
+    ]
+  },
+  {
+    "question": "What medical details were shared during the call on 08-02-2024? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "During the reminder call on 08-02-2024, the customer mentioned the bike accident and that he was hospitalized. This was the first notification of the accident affecting his loan repayment ability."
+    ]
+  },
+  {
+    "question": "What is the first EMI and last EMI due date? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The first EMI due date is 5th December 2023 and the last EMI due date is 5th November 2025. The loan has a 24-month tenure but the borrower defaulted after just 2 EMIs due to the accident."
+    ]
+  },
+  {
+    "question": "Calculate the outstanding as percentage of original loan. <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The outstanding amount of ₹76,181/- represents approximately 159% of the original loan of ₹48,000/-. This significant increase reflects accumulated interest, penalties, and legal charges over the 294-day default period with no payments."
+    ]
+  },
+  {
+    "question": "What relocation information was provided on 05-05-2024? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "During the follow-up visit on 05-05-2024, the borrower mentioned he is leaving Pune and going back to his village. He subsequently relocated to Ahmedabad as confirmed on 20-05-2024."
+    ]
+  },
+  {
+    "question": "What is the borrower's age and gender? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The borrower Amit Patel is 24 years old and male. He works as a Gig Worker (Swiggy Delivery Partner) and the bike was essential for his livelihood."
+    ]
+  },
+  {
+    "question": "What Section 17 relief is sought in this case? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Section 17 Application seeks: Direction for full asset disclosure, identification of alternate recovery channels, insurance claim adjustment if applicable, and salary attachment if the borrower finds employment."
+    ]
+  },
+  {
+    "question": "What is the case folder number? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The case folder number is ARB/2024/1017 as shown in the header. This matches the Arbitration Reference Number used in legal documents."
+    ]
+  },
+  {
+    "question": "What Statement of Claim filing date is recorded? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Statement of Claim was filed on 10th October 2024 before Justice (Retd.) Neha Agarwal with claim amount of ₹76,181/- and alternative relief for attachment of other assets."
+    ]
+  },
+  {
+    "question": "What unique recovery challenge exists in this case? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The primary recovery challenge is that the financed asset (Bajaj CT 100) has been destroyed in the accident and sold as scrap for only ₹5,000/-. The borrower has no significant assets, works as a gig worker, and has relocated. Recovery must rely on alternative channels like future salary."
+    ]
+  },
+  {
+    "question": "What List of Documents should be included for this accident case? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "Annexures C-1 to C-14 (64 pages) should include: Loan Agreement, Fire Accident Report (should be Road Accident Report), Police FIR if filed, Insurance Documents showing only third-party cover, Vehicle Original Purchase Documents, Loan Terms with insurance clause, Bank Statements, and KYC."
+    ]
+  },
+  {
+    "question": "What is the interest recovered from EMI payments? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The interest recovered is ₹720/- from total EMI payments of ₹4,756/- (2 EMIs of ₹2,378/-). The principal recovered is ₹4,036/-."
+    ]
+  },
+  {
+    "question": "What execution mode is suggested in the Section 36 Execution Petition? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Execution Petition suggests: (A) Insurance Proceeds adjustment from vehicle insurance claim if available (unlikely given only third-party cover); (B) Salary attachment from current employment; (C) Alternative assets discovery and attachment."
+    ]
+  },
+  {
+    "question": "Review if any FIR was filed for the accident. <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The case file mentions FIR in the Section 9 Petition context (incorrectly for 'fire accident'), but there is no clear confirmation of a road accident FIR. The List of Documents mentions 'Police FIR' but the actual filing needs verification."
+    ]
+  },
+  {
+    "question": "What is the pincode of the borrower's original address? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The pincode of the borrower's original PG accommodation address near Railway Station, Pune is 411001. The borrower has since relocated to Ahmedabad."
+    ]
+  },
+  {
+    "question": "What is unique about this gig worker borrower's situation? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "Unique aspects: (1) Gig worker dependent on vehicle for income; (2) Bike destruction = livelihood loss; (3) No comprehensive insurance, only third-party; (4) Low income (₹25,000/month) with no significant assets; (5) Mobile workforce, relocated from Pune to Ahmedabad; (6) Young (24 years) with limited financial stability."
+    ]
+  },
+  {
+    "question": "What penal interest and charges are outstanding? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The penal interest and charges amount to ₹8,650/- as on 26-11-2024. Additionally, legal notice charges of ₹5,000/- have been added, reflecting the progression to formal legal proceedings."
+    ]
+  },
+  {
+    "question": "What arbitration documents have been filed? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "Documents filed: (1) Loan Recall Notice - 10th June 2024; (2) Section 21 Notice - 25th June 2024; (3) Section 11 Petition - 5th August 2024; (4) Arbitrator appointed - 20th September 2024; (5) Statement of Claim - 10th October 2024; (6) Notice to borrower at Ahmedabad - 15th November 2024."
+    ]
+  },
+  {
+    "question": "What hospital bills were shared during recovery process? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "During the follow-up call on 20-02-2024, the borrower shared hospital bills related to his injuries from the accident. This documentation supports the genuine nature of the hardship claim."
+    ]
+  },
+  {
+    "question": "What declaration is sought in the Statement of Claim? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Statement of Claim seeks: 'Declaration that loan obligation survives vehicle destruction.' This establishes that the borrower remains liable for the loan despite the financed asset being destroyed in the accident."
+    ]
+  },
+  {
+    "question": "What is the scrap value received for the damaged bike? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The damaged bike was sold for ₹5,000/- as scrap as confirmed by the borrower on 20-05-2024. This is only about 10% of the original loan amount of ₹48,000/-, leaving significant outstanding."
+    ]
+  },
+  {
+    "question": "Draft corrections needed for the Section 9 Petition. <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "Corrections needed: (1) Change 'fire accident' to 'road accident' throughout; (2) Remove 'Vehicle lost in fire accident' and replace with 'Vehicle damaged beyond repair in road accident'; (3) Verify FIR reference - road accident FIR if filed; (4) Remove references to 'fire incident investigation'."
+    ]
+  },
+  {
+    "question": "What Arbitral Award relief includes insurance consideration? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Arbitral Award extract includes 'Insurance claim adjustment (if applicable)' as one of the reliefs. However, since the bike had only third-party insurance with no own damage cover, this relief is unlikely to yield any recovery."
+    ]
+  },
+  {
+    "question": "What is the Affidavit of Urgency verification date? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta was verified on 10th June 2024. It emphasizes that primary security is lost and alternative assets must be identified before the borrower disperses remaining resources."
+    ]
+  },
+  {
+    "question": "What recovery prospects exist in this case? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "Limited recovery prospects: (1) No vehicle for attachment (destroyed and sold as scrap); (2) Borrower is gig worker with fluctuating income; (3) Relocated to different city (Ahmedabad); (4) No own-damage insurance proceeds; (5) Best option is salary attachment if borrower finds stable employment; (6) One-time settlement at reduced amount may be practical."
+    ]
+  },
+  {
+    "question": "What evidence of accident damage was observed? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "During the PG visit on 10-04-2024, the recovery team directly observed the damaged bike in the parking area. The report notes 'Bike extensively damaged, front totally crushed' confirming the severity of the accident."
+    ]
+  },
+  {
+    "question": "What amount should have been covered by comprehensive insurance? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "Had the borrower maintained comprehensive insurance (own damage cover), the bike's insured value (approximately ₹40,000-45,000 for a Bajaj CT 100) would have covered most of the outstanding loan. The third-party only policy left no coverage for own vehicle damage."
+    ]
+  },
+  {
+    "question": "What Section 17 Application filing date is recorded? <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "The Section 17 Application is dated 25th June 2024. It seeks interim measures including asset disclosure, alternate recovery channel identification, and potential salary attachment."
+    ]
+  },
+  {
+    "question": "Draft a practical settlement approach for this accident case. <case_id:case_017, folder_id:ARB/2024/1017>",
+    "golden_answers": [
+      "Practical approach: (1) Accept partial loss given destroyed asset; (2) Propose 40-50% one-time settlement (₹30,000-40,000); (3) Allow extended payment plan matching gig income; (4) Waive penal charges given genuine hardship; (5) Consider write-off of balance as bad debt if borrower remains unable to pay; (6) Close case rather than incur additional legal costs."
+    ]
+  }
+]

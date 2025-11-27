@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What is the loan account number for Harpreet Singh's two-wheeler loan with Phoenix Finance Ltd.? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The loan account number is PFL-TWL-241021. This is a Two-Wheeler Loan for a Bajaj Platina sanctioned on 12th March 2024 with a loan amount of ₹55,000/- for a 24-month tenure."
+    ]
+  },
+  {
+    "question": "What is the total outstanding amount claimed against Harpreet Singh as on 26-11-2024? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The total outstanding amount is ₹83,742/- as on 26-11-2024, comprising: Principal outstanding ₹53,058/-, Interest outstanding ₹16,234/-, Penal interest & charges ₹9,450/-, and Legal notice charges ₹5,000/-."
+    ]
+  },
+  {
+    "question": "What fraud evidence was discovered during document verification for Harpreet Singh's loan? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "Multiple fraud indicators were found: PAN GHIJK7890L is invalid and does not exist in IT database, Aadhaar number belongs to a different person (Rajesh Kumar from Amritsar), salary slips claiming employment with Wipro are forged as Wipro HR confirmed no such employee exists, and business registration certificate for 'Harpreet Enterprises' is fabricated as District Industries Centre confirmed no such registration."
+    ]
+  },
+  {
+    "question": "What is the FIR number and police station for the fraud case registered against Harpreet Singh? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The FIR number is 234/2024 registered at Ludhiana City Police Station on 5th September 2024. The FIR includes charges under IPC Sections 420 (Cheating), 467 (Forgery), and 471 (Using forged documents)."
+    ]
+  },
+  {
+    "question": "How many EMIs did Harpreet Singh pay before defaulting? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "Harpreet Singh paid only 1 full EMI of ₹2,721/- in April 2024. The May 2024 EMI bounced due to insufficient funds, and from June 2024 onwards all EMIs remained unpaid as the fraud case was discovered."
+    ]
+  },
+  {
+    "question": "What is the Days Past Due (DPD) for this loan account? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Days Past Due (DPD) is 204 days as on 26-11-2024. The default commenced from May 2024 when the first EMI bounced, and the fraud was discovered shortly thereafter."
+    ]
+  },
+  {
+    "question": "Who is the appointed arbitrator in this fraud case? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "Justice (Retd.) Amarjit Kaur was appointed as the Sole Arbitrator on 10th October 2024 following the Section 11 petition filed on 20th September 2024. The appointment was expedited due to the fraud nature of the case."
+    ]
+  },
+  {
+    "question": "What was the outcome of the Arbitral Award in this fraud case? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Arbitral Award dated 20th November 2024 was passed on the same day as an emergency award. It awarded ₹83,742/- plus future interest at 18.5% p.a., costs of ₹85,000/- (enhanced due to fraud), making total ₹1,68,742/- plus future interest. The award also authorized vehicle attachment if traced and mandated criminal prosecution."
+    ]
+  },
+  {
+    "question": "What is the borrower's residential address as per CRM records? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The residential address is Village Dosanjh Kalan, Post Office Raikot, District Ludhiana, Punjab - 141109. However, field visits on 10-06-2024 and 15-06-2024 found this address could not be located, and villagers confirmed they never heard of 'Singh Transport Services'."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice date is recorded for invoking arbitration? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Section 21 Notice invoking arbitration under the Arbitration and Conciliation Act, 1996 was issued on 5th September 2024 via Email and publication, as the physical address could not be verified due to fraud."
+    ]
+  },
+  {
+    "question": "What is the generated Case ID for this fraud matter? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The generated Case ID is PFL/TWL/2024/01021. This is Phoenix Finance Ltd.'s internal reference number for tracking this Two-Wheeler Loan fraud case against Harpreet Singh."
+    ]
+  },
+  {
+    "question": "What is the EMI amount per month for this loan? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The EMI amount is ₹2,721/- per month for the 24-month tenure. This was calculated based on the loan amount of ₹55,000/- at an interest rate of 17.0% p.a. on reducing balance."
+    ]
+  },
+  {
+    "question": "What processing fee was charged on this loan? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The processing fee charged was ₹1,650/- which represents 3% of the loan amount (₹55,000/-). This is a standard processing fee percentage for two-wheeler loans."
+    ]
+  },
+  {
+    "question": "What principal amount has been recovered from EMI payments? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The principal recovered is ₹1,942/- from the single EMI payment of ₹2,721/- made in April 2024. The remaining ₹779/- was applied towards interest recovery."
+    ]
+  },
+  {
+    "question": "What was discovered during the village visit on 10-06-2024? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "During the village visit on 10-06-2024, the field team was unable to locate the address mentioned in the loan application. This raised initial suspicion about the authenticity of the borrower's identity and address."
+    ]
+  },
+  {
+    "question": "What employer verification was conducted and what was the result? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "On 20-07-2024, the company called the transport company mentioned in salary slips. The verification revealed that no such company exists, confirming that the salary slips submitted were completely forged."
+    ]
+  },
+  {
+    "question": "What is the Arbitration Reference Number for this case? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Arbitration Reference Number is ARB/LDH/2024/1021 as mentioned in the Statement of Claim and Arbitral Award documents. The seat of arbitration is Ludhiana."
+    ]
+  },
+  {
+    "question": "What Section 9 petition filing date is recorded? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Section 9 Petition was filed on 25th September 2024 before the Hon'ble District Judge, Ludhiana seeking urgent interim measures including vehicle seizure through police, lookout notice, and restraining any third-party purchaser."
+    ]
+  },
+  {
+    "question": "What is the interest rate on this two-wheeler loan? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The interest rate is 17.0% p.a. on a reducing balance basis. This was the contracted rate at the time of sanction on 12th March 2024 for the 24-month tenure loan."
+    ]
+  },
+  {
+    "question": "What urgency grounds are cited in the Affidavit of Urgency for this fraud case? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta cites extreme urgency due to identity fraud - borrower used completely fake documents and absconded immediately after loan disbursal. The vehicle is the only traceable asset, and immediate court protection is needed to prevent vehicle being sold to innocent third party. Both criminal and civil recovery depend on vehicle attachment."
+    ]
+  },
+  {
+    "question": "What is the borrower's business name and type as per loan application? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The borrower claimed to operate 'Singh Transport Services' as a self-employed transport contractor with monthly income of ₹48,000/-. However, field verification on 15-06-2024 confirmed that villagers never heard of this business, and the business registration certificate was later found to be fabricated."
+    ]
+  },
+  {
+    "question": "What is the date of sanction and disbursal for this loan? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The date of sanction is 12th March 2024 and the date of disbursal is 18th March 2024 - a 6-day gap which is standard for two-wheeler loan processing. The borrower absconded immediately after receiving the loan."
+    ]
+  },
+  {
+    "question": "What email address is on record for the borrower? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The borrower's email address is harpreet.singh80@gmail.com as per CRM records. However, given the fraud nature of the case, this email may also be fake or unverified."
+    ]
+  },
+  {
+    "question": "What is the borrower's age and gender? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The borrower Harpreet Singh is claimed to be 43 years old and male. However, given the identity fraud discovered, these details may be false as the Aadhaar number belongs to a different person."
+    ]
+  },
+  {
+    "question": "What vehicle was financed under this two-wheeler loan? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The loan financed a Bajaj Platina two-wheeler. The vehicle registration details are not clearly mentioned in the case file, which is problematic for a fraud case where vehicle tracing is critical for recovery."
+    ]
+  },
+  {
+    "question": "What Section 17 relief is sought in this fraud case? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Section 17 Application seeks urgent vehicle seizure, police assistance for vehicle impounding, prevention of transfer to third parties, and expedited criminal and civil proceedings. Given the fraud nature, the relief is more aggressive than standard cases."
+    ]
+  },
+  {
+    "question": "What is the first EMI and last EMI due date? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The first EMI due date is 5th April 2024 and the last EMI due date is 5th March 2026. The loan has a 24-month tenure but the borrower defaulted after just 1 EMI payment."
+    ]
+  },
+  {
+    "question": "Calculate the outstanding as percentage of original loan. <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The outstanding amount of ₹83,742/- represents approximately 152% of the original loan of ₹55,000/-. This reflects accumulated interest, penalties, and legal charges over the 204-day default period, plus enhanced charges due to fraud."
+    ]
+  },
+  {
+    "question": "What execution mode is available in this fraud case? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Execution Petition seeks: (A) POLICE COORDINATION for identity tracing and criminal investigation; (B) VEHICLE immediate seizure if traced (only traceable asset); (C) Forensic investigation of bank accounts and digital footprint; (D) Preventive custody if identity is traced. The execution is more complex due to identity fraud."
+    ]
+  },
+  {
+    "question": "What is unique about this identity fraud case? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "Unique aspects: (1) Complete identity fraud - Aadhaar belongs to different person, PAN invalid; (2) All employment documents forged; (3) Business registration fabricated; (4) Borrower absconded immediately after loan; (5) FIR registered for criminal fraud; (6) Emergency arbitral award passed same day; (7) Real identity unknown; (8) Vehicle is only traceable asset; (9) Both criminal and civil proceedings ongoing."
+    ]
+  },
+  {
+    "question": "What is the case folder number? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The case folder number is ARB/2024/1021 as shown in the header. This matches the Arbitration Reference Number ARB/LDH/2024/1021 used in legal documents."
+    ]
+  },
+  {
+    "question": "What Statement of Claim filing date is recorded? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Statement of Claim is dated 25th October 2024 as per the legal documents. It was filed with detailed fraud allegations including identity fraud, employment fraud, and business fraud evidence."
+    ]
+  },
+  {
+    "question": "Why did ex-parte proceedings occur? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "Ex-parte proceedings occurred because the borrower is absconding and untraceable. Despite service via publication and email, the borrower did not appear for the hearing and did not file any Statement of Defense. The Award was passed on 20th November 2024 in favor of Phoenix Finance."
+    ]
+  },
+  {
+    "question": "What List of Documents should be included for this fraud case? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "Annexures C-1 to C-22 (102 pages) should include: Loan Agreement, Fake Documents Submitted (PAN, Aadhaar, Employment), Police FIR (Identity Fraud), Forensic Analysis Reports, Investigation Records, Vehicle Tracking Data, CIBIL Report, Bank Statements, Real Identity Investigation (ongoing), and all verification reports showing fraud."
+    ]
+  },
+  {
+    "question": "What discrepancy exists regarding the borrower's real identity? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The case file shows the borrower as 'Harpreet Singh' but the Aadhaar number XXXX-XXXX-1234 actually belongs to Rajesh Kumar from Amritsar. The PAN GHIJK7890L is invalid and does not exist. The real identity of the person who took the loan is unknown, making this a complete identity fraud case."
+    ]
+  },
+  {
+    "question": "What is the interest recovered from EMI payments? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The interest recovered is ₹779/- from the single EMI payment of ₹2,721/- made in April 2024. The principal recovered is ₹1,942/-."
+    ]
+  },
+  {
+    "question": "What is the pincode of the borrower's claimed address? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The pincode of the claimed address in Village Dosanjh Kalan, Post Office Raikot, District Ludhiana is 141109. However, field visits confirmed this address could not be located, indicating it may be fake."
+    ]
+  },
+  {
+    "question": "What penal interest and charges are outstanding? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The penal interest and charges amount to ₹9,450/- as on 26-11-2024. Additionally, legal notice charges of ₹5,000/- have been added. The enhanced charges reflect the fraud nature of the case."
+    ]
+  },
+  {
+    "question": "What Execution Petition filing date is recorded? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Execution Petition is being prepared and should be filed by 30-11-2024 as mentioned in the current status. The petition will include the Arbitral Award dated 20th November 2024 and seek police coordination for identity tracing and vehicle recovery."
+    ]
+  },
+  {
+    "question": "What is the Affidavit of Urgency verification date? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta was verified on 25th September 2024, same date as the Section 9 Petition filing. The urgency is extreme due to identity fraud and risk of vehicle being sold to innocent third party."
+    ]
+  },
+  {
+    "question": "What vehicle registration details are missing from the case file? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The case file does not clearly mention the vehicle registration number for the Bajaj Platina financed under this loan. This is a critical omission for a fraud case where vehicle tracing is the primary recovery mode. The registration details should be verified and added to the case file."
+    ]
+  },
+  {
+    "question": "What recovery timeline is documented from loan disbursal to Award? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "Timeline: Loan disbursed 18-03-2024 → First EMI paid 05-04-2024 → May EMI bounced 05-05-2024 → Village visit 10-06-2024 (address not found) → Document review 25-06-2024 (PAN failed) → Aadhaar verification 05-07-2024 (invalid) → Salary slip verification 20-07-2024 (company doesn't exist) → Police complaint 05-08-2024 → Loan Recall Notice 20-08-2024 → Section 21 Notice 05-09-2024 → Section 11 petition 20-09-2024 → Arbitrator appointed 10-10-2024 → SOC filed 25-10-2024 → Ex-parte 15-11-2024 → Award 20-11-2024 (same day)."
+    ]
+  },
+  {
+    "question": "What costs are awarded in the Arbitral Award? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Arbitral Award grants costs of ₹85,000/- (enhanced due to fraud and urgency) in addition to the principal and interest amounts. Total Award including costs is ₹1,68,742/- plus future interest at 18.5% p.a."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice discrepancy exists in the timeline? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The recovery timeline shows Section 21 Notice issued on 5th September 2024, but Section 2 of legal documents shows it dated 25th August 2024. These date inconsistencies should be reconciled against actual postal receipts and email records."
+    ]
+  },
+  {
+    "question": "What is unique about the emergency arbitral award in this case? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Arbitral Award was passed on the same day (20th November 2024) as an emergency award due to the extreme fraud nature. The arbitrator Justice (Retd.) Amarjit Kaur expedited the proceedings, awarded enhanced costs of ₹85,000/-, authorized vehicle attachment if traced, and mandated that the award be shared with police for criminal prosecution."
+    ]
+  },
+  {
+    "question": "Draft a summary of fraud evidence discovered in this case. <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "Fraud evidence summary: (1) Identity Fraud - Aadhaar XXXX-XXXX-1234 belongs to Rajesh Kumar (Amritsar), not Harpreet Singh; (2) PAN GHIJK7890L invalid, does not exist in IT database; (3) Employment Fraud - Salary slips claiming Wipro employment are forged, Wipro HR confirmed no such employee; (4) Business Fraud - Business Registration Certificate for 'Harpreet Enterprises' fabricated, District Industries Centre confirmed no registration; (5) Address Fraud - Village address cannot be located, villagers never heard of business; (6) Immediate absconding after loan disbursal; (7) FIR registered under IPC 420, 467, 471."
+    ]
+  },
+  {
+    "question": "What execution order should be sought from court for this fraud case? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "Execution order should seek: (1) Police coordination for identity tracing and criminal investigation; (2) Immediate vehicle seizure if traced (only traceable asset); (3) Forensic investigation of bank accounts and digital footprint; (4) Lookout circular to prevent escape; (5) Preventive custody if identity traced; (6) Coordination with criminal proceedings; (7) Costs of execution and investigation from judgment debtor."
+    ]
+  },
+  {
+    "question": "What is the Evidence Affidavit verification date? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Evidence Affidavit by Amit Verma is verified on 25th October 2024. The affidavit confirms extreme identity fraud case, all documents fake (PAN, Aadhaar, employment), loan ₹55,000/- disbursed, immediate absconding, police FIR filed, forensic investigation confirms fraud, and outstanding ₹83,742/-."
+    ]
+  },
+  {
+    "question": "Review if the status in header matches current case stage. <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The header shows status as 'Award Passed' which is correct. The Award was passed on 20-11-2024, criminal case is ongoing, borrower is absconding, vehicle tracing is in progress, and execution petition is being prepared for filing by 30-11-2024. The case is in post-award execution preparation stage."
+    ]
+  },
+  {
+    "question": "What criminal prosecution coordination is mentioned in the Arbitral Award? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Arbitral Award specifically states 'This Award to be shared with police for criminal prosecution' and 'CRIMINAL PROCEEDINGS MANDATORY.' This ensures coordination between civil recovery through arbitration and criminal prosecution through the FIR registered at Ludhiana City Police Station."
+    ]
+  },
+  {
+    "question": "What vehicle attachment authorization is provided in the Award? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The Arbitral Award authorizes the Claimant to attach and sell the vehicle (Bajaj Platina) if traced. However, the vehicle registration number is not clearly mentioned in the case file, which should be corrected to enable proper vehicle tracing and attachment."
+    ]
+  },
+  {
+    "question": "What phone numbers are on record for the borrower? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The phone numbers on record are: Primary +91-9815234567 and Alternate +91-9815234568. However, given the fraud nature, these numbers may be disconnected or belong to someone else. The phone was not reachable during follow-up calls in May 2024."
+    ]
+  },
+  {
+    "question": "What is the repayment tenure for this loan? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The repayment tenure is 24 months from April 2024 to March 2026. The first EMI was due on 5th April 2024 and the last EMI was scheduled for 5th March 2026. However, the borrower defaulted after just 1 EMI payment."
+    ]
+  },
+  {
+    "question": "What advocate represents Phoenix Finance Ltd. in this case? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "Advocate Ramesh Khanna represents Phoenix Finance Ltd. His name appears on the Section 9 Petition dated 25th September 2024 and other legal documents filed in this fraud case."
+    ]
+  },
+  {
+    "question": "What is the current status of vehicle tracing? <case_id:case_021, folder_id:ARB/2024/1021>",
+    "golden_answers": [
+      "The current status shows 'Vehicle tracing in progress' with police coordination ongoing. However, the vehicle registration number is not clearly mentioned in the case file, which should be added to enable effective tracing. The vehicle is the only traceable asset for recovery in this fraud case."
+    ]
+  }
+]

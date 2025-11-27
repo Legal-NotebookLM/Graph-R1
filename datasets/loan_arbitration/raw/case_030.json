@@ -1,0 +1,368 @@
+[
+  {
+    "question": "What is the loan account number for Seema Rao's consumer durable loan with Phoenix Finance Ltd.? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The loan account number is PFL-CDL-241030. This is a Consumer Durable Loan for a Premium Electronics Package sanctioned on 20th December 2023 with a loan amount of ₹3,50,000/- for a 24-month tenure."
+    ]
+  },
+  {
+    "question": "What is the total outstanding amount claimed against Seema Rao as on 26-11-2024? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The total outstanding amount is ₹3,16,851/- as on 26-11-2024, comprising: Principal outstanding ₹2,52,434/-, Interest outstanding ₹42,567/-, Penal interest & charges ₹16,850/-, and Legal notice charges ₹5,000/-."
+    ]
+  },
+  {
+    "question": "What is the reason for default in Seema Rao's case? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The default reason is: 'Relocation abroad to Singapore, avoiding payment despite high salary.' The borrower was transferred to Google Singapore office effective July 2024, and despite her high salary (₹95,000/month in India, likely higher in Singapore), she has been making excuses and avoiding payment."
+    ]
+  },
+  {
+    "question": "What is the borrower's employment details as per CRM records? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "Seema Rao is employed at Google India Pvt. Ltd. as Marketing Manager with a monthly salary of ₹95,000/-. However, she was transferred to Google Singapore office effective July 2024, and her LinkedIn profile shows she is now working at Google APAC in Singapore, indicating international relocation with likely higher salary."
+    ]
+  },
+  {
+    "question": "How many EMIs did Seema Rao pay before defaulting? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "Seema Rao paid 6 full EMIs totaling ₹1,01,718/- (January 2024 to June 2024). The first bounce occurred in July 2024 due to insufficient funds, coinciding with her relocation to Singapore, and from August 2024 onwards all EMIs remained unpaid."
+    ]
+  },
+  {
+    "question": "What is the Days Past Due (DPD) for this loan account? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Days Past Due (DPD) is 144 days as on 26-11-2024. The default commenced from July 2024 when the first EMI bounced, and continued after the relocation to Singapore, with the borrower making excuses despite high salary."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 9 Petition regarding loan amount? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Section 9 Petition mentions 'Consumer Durable Loan ₹3,00,000/-' but the actual loan is ₹3,50,000/-. This is an error that must be corrected - the petition should reference the correct loan amount of ₹3,50,000/- throughout."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Section 17 Application regarding loan type? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Section 17 Application mentions 'Personal Loan' but the actual loan is a 'Consumer Durable Loan' for Premium Electronics Package. This is a critical error that must be corrected - the application should reference the consumer durable loan and the financed assets."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Statement of Claim? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Statement of Claim Part I & II mentions 'Personal Loan' and 'Google employee relocating internationally (Singapore)' which is correct, but it should specify 'Consumer Durable Loan' and mention the Premium Electronics Package assets that may be at risk of being shipped abroad or sold."
+    ]
+  },
+  {
+    "question": "What discrepancy exists in the Evidence Affidavit? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Evidence Affidavit mentions 'Personal Loan' but the actual loan is a 'Consumer Durable Loan' for Premium Electronics Package. The affidavit should correctly reference the loan type and mention the assets (premium electronics) that may be shipped abroad or sold before departure."
+    ]
+  },
+  {
+    "question": "What is the borrower's residential address? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The original residential address is Flat No. 9C, Hiranandani Gardens, Powai, Mumbai, Maharashtra - 400076. However, during the residence visit on 10-09-2024, the flat was found given on rent to new tenants, confirming permanent relocation to Singapore."
+    ]
+  },
+  {
+    "question": "What is the generated Case ID for this matter? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The generated Case ID is PFL/CDL/2024/01030. This is Phoenix Finance Ltd.'s internal reference number for tracking this Consumer Durable Loan recovery case against Seema Rao."
+    ]
+  },
+  {
+    "question": "What is the EMI amount per month for this loan? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The EMI amount is ₹16,953/- per month for the 24-month tenure. This was calculated based on the loan amount of ₹3,50,000/- at an interest rate of 14.5% p.a. on reducing balance. The borrower maintained excellent payment history for 6 months before defaulting after relocation."
+    ]
+  },
+  {
+    "question": "What processing fee was charged on this loan? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The processing fee charged was ₹10,500/- which represents 3% of the loan amount (₹3,50,000/-). This is a standard processing fee percentage for consumer durable loans."
+    ]
+  },
+  {
+    "question": "What principal amount has been recovered from EMI payments? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The principal recovered is ₹97,566/- from total EMI payments of ₹1,01,718/- (6 EMIs of ₹16,953/-). The remaining ₹4,152/- was applied towards interest recovery."
+    ]
+  },
+  {
+    "question": "What was discovered during the residence visit on 10-09-2024? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "During the residence visit on 10-09-2024, the flat in Hiranandani Gardens, Powai was found given on rent to new tenants. This confirmed permanent relocation to Singapore, as the borrower had moved out and rented the property, indicating no intention to return."
+    ]
+  },
+  {
+    "question": "What employer verification was conducted on 20-09-2024? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "On 20-09-2024, employer verification with Google India HR confirmed that the borrower was transferred to Singapore office effective July 2024. This verified the international relocation and provided the official confirmation of the job transfer."
+    ]
+  },
+  {
+    "question": "What was discovered during the LinkedIn check on 20-10-2024? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "During the LinkedIn check on 20-10-2024, the borrower's profile showed Singapore location and that she is working at Google APAC. This social media verification confirmed the international relocation and current employment status in Singapore."
+    ]
+  },
+  {
+    "question": "What was the borrower's response on 20-11-2024? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "On 20-11-2024, the borrower responded to the Loan Recall Notice via email, mentioning that Singapore dollar expenses are high and promising payment in December. However, this was an excuse given her high salary, and no concrete payment plan was provided."
+    ]
+  },
+  {
+    "question": "What was the outcome of the follow-up on 25-11-2024? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "On 25-11-2024, during follow-up on the promise made on 20-11-2024, no concrete payment plan was provided by the borrower. This showed evasive behavior despite the earlier promise, indicating the borrower was making excuses rather than genuinely intending to pay."
+    ]
+  },
+  {
+    "question": "What is the interest rate on this consumer durable loan? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The interest rate is 14.5% p.a. on a reducing balance basis. This was the contracted rate at the time of sanction on 20th December 2023 for the 24-month tenure loan."
+    ]
+  },
+  {
+    "question": "What is the date of sanction and disbursal for this loan? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The date of sanction is 20th December 2023 and the date of disbursal is 28th December 2023 - an 8-day gap which is standard for consumer durable loan processing. The borrower maintained excellent payment history for 6 months before relocating to Singapore."
+    ]
+  },
+  {
+    "question": "What email address is on record for the borrower? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The borrower's email address is seema.rao90@gmail.com as per CRM records. The borrower has been responsive to email communications, replying on 20-11-2024 with excuses about Singapore expenses, though no concrete payment plan was provided."
+    ]
+  },
+  {
+    "question": "What is the borrower's age and gender? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The borrower Seema Rao is 33 years old and female. She is employed at Google India Pvt. Ltd. (now Google Singapore) as Marketing Manager with monthly salary of ₹95,000/- in India, likely higher in Singapore."
+    ]
+  },
+  {
+    "question": "What items were financed under this consumer durable loan? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The loan financed a Premium Electronics Package as mentioned in the loan type. The total loan amount of ₹3,50,000/- was sanctioned for these consumer durable items. However, the specific list of electronics is not detailed in the case file, which should be added for proper asset tracking and potential attachment if needed."
+    ]
+  },
+  {
+    "question": "What is the first EMI and last EMI due date? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The first EMI due date is 5th January 2024 and the last EMI due date is 5th December 2025. The loan has a 24-month tenure, and the borrower maintained regular payments for 6 months before relocating to Singapore and defaulting."
+    ]
+  },
+  {
+    "question": "What is the current case status? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The current status is: 'Recall Notice issued, borrower making excuses despite excellent payment history and good salary, evasive behavior.' The Loan Recall Notice was issued on 15-11-2024, and the borrower's response on 20-11-2024 made excuses without providing a concrete payment plan."
+    ]
+  },
+  {
+    "question": "What interaction occurred on 08-07-2024? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "On 08-07-2024, during a reminder call, the borrower was out of the country. This was the first indication of international travel, though the full extent of permanent relocation to Singapore was not yet known."
+    ]
+  },
+  {
+    "question": "What was discovered on 05-08-2024? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "On 05-08-2024, an email reminder was sent, and the auto-reply indicated 'Out of office - relocated to Singapore office.' This provided the first clear indication of permanent relocation to Singapore, not just temporary travel."
+    ]
+  },
+  {
+    "question": "What was the outcome of the email to office ID on 05-10-2024? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "On 05-10-2024, an email was sent to the borrower's office ID, and the auto-reply provided Singapore office details. This confirmed the official transfer to Google Singapore office and provided contact information for the new location."
+    ]
+  },
+  {
+    "question": "What formal demand letter was sent on 05-11-2024? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "On 05-11-2024, a formal demand letter was sent via Email to both personal and office email IDs. This was the first formal demand before issuing the Loan Recall Notice, showing progression in the recovery process."
+    ]
+  },
+  {
+    "question": "What is the Loan Recall Notice date? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Loan Recall Notice is dated 15th November 2024 sent via Email and international courier to Singapore. The notice states that despite high salary with Google Singapore, the borrower has defaulted, and the excellent payment history makes this default inexcusable. Payment is required within 15 days."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice date is mentioned? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Section 21 Notice is dated 5th December 2024 (future date from case file perspective) invoking arbitration. The notice states that international employment does not absolve obligations, and the borrower must propose an arbitrator within 15 days."
+    ]
+  },
+  {
+    "question": "What Section 9 relief is contemplated in this international relocation case? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Section 9 Petition contemplates attaching financed assets before international relocation, authorizing salary attachment from Google Singapore (through Indian office), and freezing domestic bank accounts. However, the petition mentions wrong loan amount (₹3,00,000 vs ₹3,50,000) which must be corrected."
+    ]
+  },
+  {
+    "question": "What urgency grounds are cited in the Affidavit of Urgency? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta cites that this is a high-salary professional relocating internationally. Assets may be shipped or sold before departure. Google employment provides a recovery channel via Indian office salary attachment. Immediate measures are critical before complete international move."
+    ]
+  },
+  {
+    "question": "What is unique about this international relocation case? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "Unique aspects: (1) International relocation to Singapore; (2) High-salary professional (₹95,000/month, likely higher in Singapore); (3) Excellent payment history for 6 months before default; (4) Google employee with stable high-income employment; (5) Assets (premium electronics) at risk of being shipped abroad or sold; (6) Borrower making excuses despite financial capacity; (7) Evasive behavior despite high salary; (8) International recovery complexity; (9) Salary attachment through Google India office viable; (10) Domestic bank accounts can be frozen; (11) Flat given on rent confirming permanent relocation."
+    ]
+  },
+  {
+    "question": "What is the borrower's PAN and Aadhaar number? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The borrower's PAN is GHIRO5678K and Aadhaar is XXXX-XXXX-0123 (masked format). These KYC details are maintained in CRM records for loan account PFL-CDL-241030."
+    ]
+  },
+  {
+    "question": "What phone numbers are on record for the borrower? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The phone numbers on record are: Primary +91-9820456789 and Alternate +91-9820456790. However, on 08-07-2024 the borrower was out of country, on 20-07-2024 international roaming was active, and on 20-08-2024 the phone was not reachable, consistent with international relocation."
+    ]
+  },
+  {
+    "question": "What is the repayment tenure for this loan? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The repayment tenure is 24 months from January 2024 to December 2025. The first EMI was due on 5th January 2024 and the last EMI is scheduled for 5th December 2025. The borrower maintained regular payments for 6 months before relocating to Singapore."
+    ]
+  },
+  {
+    "question": "Calculate the outstanding as percentage of original loan. <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The outstanding amount of ₹3,16,851/- represents approximately 90.5% of the original loan of ₹3,50,000/-. This reflects that significant principal has been recovered (₹97,566/-) but accumulated interest, penalties, and legal charges over the 144-day default period have increased the total outstanding."
+    ]
+  },
+  {
+    "question": "What is the interest recovered from EMI payments? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The interest recovered is ₹4,152/- from total EMI payments of ₹1,01,718/- (6 EMIs of ₹16,953/-). The principal recovered is ₹97,566/-."
+    ]
+  },
+  {
+    "question": "What is the pincode of the borrower's original address? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The pincode of the borrower's original address in Hiranandani Gardens, Powai, Mumbai is 400076. However, the borrower has permanently relocated to Singapore, and the flat is now rented to new tenants."
+    ]
+  },
+  {
+    "question": "What penal interest and charges are outstanding? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The penal interest and charges amount to ₹16,850/- as on 26-11-2024. Additionally, legal notice charges of ₹5,000/- have been added, reflecting the progression to formal legal proceedings with the Loan Recall Notice and preparation for Section 21 Notice."
+    ]
+  },
+  {
+    "question": "What is the case folder number? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The case folder number is ARB/2024/1030 as shown in the header. This matches the Arbitration Reference Number ARB/2024/1030 used in legal documents."
+    ]
+  },
+  {
+    "question": "What is the Arbitration Reference Number mentioned? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Arbitration Reference Number is ARB/2024/1030 as mentioned in the Section 17 Application and Statement of Claim documents. The Section 21 Notice is dated 5th December 2024 (future), indicating arbitration is being prepared but not yet invoked."
+    ]
+  },
+  {
+    "question": "What recovery timeline is documented from first default to current status? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "Timeline: First default July 2024 (bounce) → Soft reminder 07-07-2024 → Out of country 08-07-2024 → International roaming active 20-07-2024 → Email auto-reply 'relocated to Singapore' 05-08-2024 → Not reachable 20-08-2024 → Residence visit found flat rented 10-09-2024 → Employer verified transfer to Singapore 20-09-2024 → Email to office ID got Singapore details 05-10-2024 → LinkedIn check confirmed Singapore 20-10-2024 → Formal demand letter 05-11-2024 → Loan Recall Notice 15-11-2024 → Borrower's response with excuses 20-11-2024 → No concrete plan 25-11-2024 → Final warning 26-11-2024 → Case in recall notice stage as of 26-11-2024."
+    ]
+  },
+  {
+    "question": "What execution mode is contemplated for this international relocation case? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Execution Petition contemplates: (A) PRIMARY: SALARY ATTACHMENT (40-50%) from Google India office; (B) Asset seizure before international shipping; (C) Google HR coordination for garnishment order; (D) Singapore move tracking. The execution focuses on salary attachment through Google India office as the primary recovery channel, with asset protection as backup."
+    ]
+  },
+  {
+    "question": "What advocate represents Phoenix Finance Ltd.? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "Advocate Ramesh Khanna represents Phoenix Finance Ltd. His name appears on the Section 9 Petition dated 25th November 2024 and other legal documents for this international relocation case."
+    ]
+  },
+  {
+    "question": "Review if the status in header matches current case stage. <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The header shows status as 'Recall Notice Issued' which is correct. The Loan Recall Notice was issued on 15-11-2024, and the borrower's response on 20-11-2024 made excuses without providing a concrete payment plan. The Section 21 Notice is dated 5th December 2024 (future), indicating the case is transitioning to legal recovery stage."
+    ]
+  },
+  {
+    "question": "What List of Documents should be included for this case? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "Annexures C-1 to C-15 (72 pages) should include: Loan Agreement, Google Employment Proof & High Salary Slips (India and Singapore), Singapore Relocation Proof (Visa, Contract, Transfer Orders), Asset Inventory (Premium Electronics Package), Communication Records showing evasive behavior, Bank Statements (India & intended transfers), and KYC documents."
+    ]
+  },
+  {
+    "question": "What is the Evidence Affidavit verification date? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Evidence Affidavit by Amit Verma is verified on 30th November 2024. However, the affidavit incorrectly mentions 'Personal Loan' but should reference 'Consumer Durable Loan' and mention the premium electronics assets that may be shipped abroad or sold."
+    ]
+  },
+  {
+    "question": "What is the Statement of Claim filing date? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Statement of Claim is dated 30th November 2024 as per the legal documents. However, the Statement of Claim should specify 'Consumer Durable Loan' instead of 'Personal Loan' and mention the Premium Electronics Package assets at risk."
+    ]
+  },
+  {
+    "question": "What discrepancies exist across multiple documents regarding loan type? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "Multiple discrepancies: (1) Section 9 Petition mentions wrong loan amount (₹3,00,000 vs ₹3,50,000); (2) Section 17 Application mentions 'Personal Loan' but actual is 'Consumer Durable Loan'; (3) Statement of Claim mentions 'Personal Loan' but should be 'Consumer Durable Loan'; (4) Evidence Affidavit mentions 'Personal Loan' but should be 'Consumer Durable Loan'. All documents should correctly reference the Consumer Durable Loan and Premium Electronics Package assets."
+    ]
+  },
+  {
+    "question": "What is the Section 9 Petition filing date? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Section 9 Petition is dated 25th November 2024 before the Hon'ble District Judge, Mumbai. The petition seeks to attach financed assets before international relocation, authorize salary attachment from Google Singapore (through Indian office), and freeze domestic bank accounts. However, the loan amount should be corrected to ₹3,50,000/-."
+    ]
+  },
+  {
+    "question": "What is the borrower's employer name and designation? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The borrower is employed at Google India Pvt. Ltd. (now Google Singapore) as Marketing Manager with a monthly salary of ₹95,000/- in India. She was transferred to Google Singapore office effective July 2024, and her LinkedIn profile shows she is working at Google APAC in Singapore, likely with higher salary in Singapore dollars."
+    ]
+  },
+  {
+    "question": "What is the total amount of EMIs paid? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The total EMIs paid is ₹1,01,718/- representing 6 full EMIs of ₹16,953/- each (January 2024 to June 2024). This shows excellent payment history before the relocation to Singapore, making the subsequent default and evasive behavior particularly inexcusable given the borrower's high salary."
+    ]
+  },
+  {
+    "question": "What specific premium electronics were financed under this loan? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The case file mentions 'Premium Electronics Package' as the loan type but does not provide a detailed list of specific electronics financed under the ₹3,50,000/- loan. This information should be added to the case file for proper asset tracking, especially given the risk of assets being shipped abroad or sold before international relocation."
+    ]
+  },
+  {
+    "question": "What is the Arbitral Award extract showing? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The Arbitral Award extract shows: (A) Breach noted with international relocation; (B) Pay outstanding amount within 30 days; (C) Interest @ 20% p.a. (enhanced rate for international evasion); (D) Costs: ₹95,000/-; (E) Salary attachment (40-50%) from Google India office authorized. The award recognizes the international relocation and authorizes salary attachment through the Indian office as the primary recovery channel."
+    ]
+  },
+  {
+    "question": "What is unique about salary attachment from Google India office for Singapore employee? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "Unique aspects: (1) Google India office can coordinate salary attachment even though employee is in Singapore; (2) High salary (₹95,000/month India, likely higher in Singapore) ensures substantial recovery; (3) 40-50% attachment percentage is viable given high income; (4) Google as multinational will comply with Indian court orders; (5) Indian office maintains payroll connection; (6) Garnishment order can be served to Google India HR; (7) This provides recovery channel despite international relocation; (8) More effective than trying to attach Singapore salary directly."
+    ]
+  },
+  {
+    "question": "What is the borrower's excuse for non-payment? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "The borrower's excuse for non-payment, as mentioned in her email response on 20-11-2024, is that 'Singapore dollar expenses are high.' However, this is an excuse given her high salary (₹95,000/month in India, likely significantly higher in Singapore), excellent payment history for 6 months, and the fact that she promised payment in December but provided no concrete payment plan on follow-up."
+    ]
+  },
+  {
+    "question": "What is the final warning sent on 26-11-2024? <case_id:case_030, folder_id:ARB/2024/1030>",
+    "golden_answers": [
+      "On 26-11-2024, a final warning email was sent warning of arbitration proceedings if payment is not received by 30th November 2024. This shows progression from soft reminders to formal demand to final warning, with arbitration being prepared as the next step if the borrower continues to evade payment."
+    ]
+  }
+]

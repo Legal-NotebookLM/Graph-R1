@@ -1,250 +1,374 @@
 [
   {
-    "question": "The Section 17 application mentions 'Bakery' equipment (ovens, mixers) but this case involves 'Kavita Beauty Parlour' with salon equipment. Is this content from a different case?",
-    "golden_answers": ["Yes, this is clearly content from a different case. The Section 17 application for a bakery business was mistakenly included in Kavita Menon's beauty parlour case file. This section should be removed and replaced with the correct application referencing salon equipment (chairs, mirrors, dryers, etc.)."]
+    "question": "The Section 17 application mentions 'Bakery' equipment (ovens, mixers) but this case involves 'Kavita Beauty Parlour' with salon equipment. Is this content from a different case? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Yes, this is clearly content from a different case. The Section 17 application for a bakery business was mistakenly included in Kavita Menon's beauty parlour case file. This section should be removed and replaced with the correct application referencing salon equipment (chairs, mirrors, dryers, etc.)."
+    ]
   },
   {
-    "question": "The borrower Kavita Menon operated 'Kavita Beauty Parlour' which closed permanently. The field visit on 10-09-2023 found 'Space for Rent' board. How does confirmed business closure affect recovery?",
-    "golden_answers": ["Business closure significantly impacts recovery: (1) No ongoing business income for attachment, (2) Salon equipment may have been sold or dispersed, (3) Only personal assets of the borrower remain as recovery sources, (4) The underlying income-generating capacity no longer exists. Recovery must focus on any remaining salon equipment, personal assets, or negotiated settlement."]
+    "question": "The borrower Kavita Menon operated 'Kavita Beauty Parlour' which closed permanently. The field visit on 10-09-2023 found 'Space for Rent' board. How does confirmed business closure affect recovery? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Business closure significantly impacts recovery: (1) No ongoing business income for attachment, (2) Salon equipment may have been sold or dispersed, (3) Only personal assets of the borrower remain as recovery sources, (4) The underlying income-generating capacity no longer exists. Recovery must focus on any remaining salon equipment, personal assets, or negotiated settlement."
+    ]
   },
   {
-    "question": "The loan was for 'Salon Equipment & Renovation' totaling ₹4,50,000. If the salon closed, what happened to the financed equipment?",
-    "golden_answers": ["The equipment's fate is uncertain: (1) Still at premises (if lease continues), (2) Moved to borrower's residence, (3) Sold to another salon, (4) Disposed/abandoned. The lender should trace equipment urgently—salon chairs, mirrors, wash basins, dryers, styling stations have resale value. Field verification at both the closed shop and borrower's residence is essential."]
+    "question": "The loan was for 'Salon Equipment & Renovation' totaling ₹4,50,000. If the salon closed, what happened to the financed equipment? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "The equipment's fate is uncertain: (1) Still at premises (if lease continues), (2) Moved to borrower's residence, (3) Sold to another salon, (4) Disposed/abandoned. The lender should trace equipment urgently—salon chairs, mirrors, wash basins, dryers, styling stations have resale value. Field verification at both the closed shop and borrower's residence is essential."
+    ]
   },
   {
-    "question": "The Arbitral Award was passed ex-parte on 20-08-2024. The Award authorizes attachment of 'salon equipment (if traceable).' What does 'if traceable' imply?",
-    "golden_answers": ["'If traceable' indicates uncertainty about equipment location and existence. This conditional language suggests the tribunal recognized that: (1) The salon is closed, (2) Equipment may have been sold or removed, (3) Liquidation depends on actually locating assets. The award wisely doesn't assume equipment availability but authorizes seizure if found."]
+    "question": "The Arbitral Award was passed ex-parte on 20-08-2024. The Award authorizes attachment of 'salon equipment (if traceable).' What does 'if traceable' imply? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "'If traceable' indicates uncertainty about equipment location and existence. This conditional language suggests the tribunal recognized that: (1) The salon is closed, (2) Equipment may have been sold or removed, (3) Liquidation depends on actually locating assets. The award wisely doesn't assume equipment availability but authorizes seizure if found."
+    ]
   },
   {
-    "question": "The total outstanding is ₹5,37,863 on an original loan of ₹4,50,000. This represents 20% increase. Is this proportionate for an 18-month default?",
-    "golden_answers": ["The 20% increase includes: Interest Outstanding (₹95,678), Penal Charges (₹38,450), and Legal Charges (₹5,000) on Principal Outstanding of ₹3,98,735. At 19% p.a. interest rate, 18 months of accrual plus penalties is roughly in this range. The percentage appears proportionate for the default duration and rate."]
+    "question": "The total outstanding is ₹5,37,863 on an original loan of ₹4,50,000. This represents 20% increase. Is this proportionate for an 18-month default? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "The 20% increase includes: Interest Outstanding (₹95,678), Penal Charges (₹38,450), and Legal Charges (₹5,000) on Principal Outstanding of ₹3,98,735. At 19% p.a. interest rate, 18 months of accrual plus penalties is roughly in this range. The percentage appears proportionate for the default duration and rate."
+    ]
   },
   {
-    "question": "The recovery timeline shows the borrower mentioned 'business slowdown post-pandemic' on 08-07-2023. How does pandemic impact affect business loan recovery?",
-    "golden_answers": ["Pandemic impact is a recognized hardship: (1) Beauty/personal service sectors were severely affected, (2) Many such businesses couldn't survive extended closures, (3) Courts and tribunals often show sympathy for pandemic-related failures, (4) However, the debt obligation remains. This context may justify reduced costs or flexible settlement but doesn't eliminate liability."]
+    "question": "The recovery timeline shows the borrower mentioned 'business slowdown post-pandemic' on 08-07-2023. How does pandemic impact affect business loan recovery? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Pandemic impact is a recognized hardship: (1) Beauty/personal service sectors were severely affected, (2) Many such businesses couldn't survive extended closures, (3) Courts and tribunals often show sympathy for pandemic-related failures, (4) However, the debt obligation remains. This context may justify reduced costs or flexible settlement but doesn't eliminate liability."
+    ]
   },
   {
-    "question": "The DPD is 509 days as on 26-11-2024. If the July 2023 EMI bounced on 05-07-2023, does this calculation match?",
-    "golden_answers": ["From 5 July 2023 to 26 November 2024 is approximately 510 days, closely matching the stated 509 DPD. This nearly 17-month default period for a business that closed just 5 months after loan disbursement indicates severe business failure rather than willful default."]
+    "question": "The DPD is 509 days as on 26-11-2024. If the July 2023 EMI bounced on 05-07-2023, does this calculation match? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "From 5 July 2023 to 26 November 2024 is approximately 510 days, closely matching the stated 509 DPD. This nearly 17-month default period for a business that closed just 5 months after loan disbursement indicates severe business failure rather than willful default."
+    ]
   },
   {
-    "question": "The borrower's monthly income is listed as ₹65,000 from the beauty parlour. Now that the business is closed, what is her likely current income?",
-    "golden_answers": ["With business closed, income is likely zero or minimal from that source. She may have: (1) Found employment elsewhere, (2) Started small-scale home-based services, (3) Depends on spouse's income mentioned as 'husband's job also affected,' (4) Has no regular income. Recovery capacity is severely compromised without active business income."]
+    "question": "The borrower's monthly income is listed as ₹65,000 from the beauty parlour. Now that the business is closed, what is her likely current income? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "With business closed, income is likely zero or minimal from that source. She may have: (1) Found employment elsewhere, (2) Started small-scale home-based services, (3) Depends on spouse's income mentioned as 'husband's job also affected,' (4) Has no regular income. Recovery capacity is severely compromised without active business income."
+    ]
   },
   {
-    "question": "The Award totals ₹6,52,863 (₹5,37,863 outstanding + ₹1,15,000 costs). For a ₹4,50,000 business loan, are costs of ₹1,15,000 reasonable?",
-    "golden_answers": ["Costs of ₹1,15,000 (Arbitrator ₹60,000, Advocate ₹40,000, Admin ₹15,000) represent 26% of outstanding and 25.5% of original loan. This is on the higher end but within Fourth Schedule limits for claims in this range. For a contested case requiring multiple hearings, these costs are defensible though burdensome for a failed business owner."]
+    "question": "The Award totals ₹6,52,863 (₹5,37,863 outstanding + ₹1,15,000 costs). For a ₹4,50,000 business loan, are costs of ₹1,15,000 reasonable? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Costs of ₹1,15,000 (Arbitrator ₹60,000, Advocate ₹40,000, Admin ₹15,000) represent 26% of outstanding and 25.5% of original loan. This is on the higher end but within Fourth Schedule limits for claims in this range. For a contested case requiring multiple hearings, these costs are defensible though burdensome for a failed business owner."
+    ]
   },
   {
-    "question": "The field visit on 15-09-2023 met the borrower at home where she 'mentioned financial crisis, medical issues.' Should medical documentation be requested?",
-    "golden_answers": ["Requesting medical documentation could validate the hardship claim and inform settlement. However, extensive documentation may be inappropriate for a failed business case. The combination of business closure, husband's job issues, and medical concerns paints a picture of genuine multi-factor distress. Accepting the narrative while focusing on realistic recovery is pragmatic."]
+    "question": "The field visit on 15-09-2023 met the borrower at home where she 'mentioned financial crisis, medical issues.' Should medical documentation be requested? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Requesting medical documentation could validate the hardship claim and inform settlement. However, extensive documentation may be inappropriate for a failed business case. The combination of business closure, husband's job issues, and medical concerns paints a picture of genuine multi-factor distress. Accepting the narrative while focusing on realistic recovery is pragmatic."
+    ]
   },
   {
-    "question": "The Section 9 petition was filed on 25-11-2023 requesting restraint on selling salon equipment. Given the salon closed in September, was this petition timely?",
-    "golden_answers": ["The petition was filed approximately 2 months after confirmed business closure (September). This delay created risk that equipment was already sold or removed. Earlier Section 9 filing (immediately upon learning of closure risk in August) would have been more protective. The delay may have resulted in equipment dispersal."]
+    "question": "The Section 9 petition was filed on 25-11-2023 requesting restraint on selling salon equipment. Given the salon closed in September, was this petition timely? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "The petition was filed approximately 2 months after confirmed business closure (September). This delay created risk that equipment was already sold or removed. Earlier Section 9 filing (immediately upon learning of closure risk in August) would have been more protective. The delay may have resulted in equipment dispersal."
+    ]
   },
   {
-    "question": "The Arbitrator is Justice (Retd.) Prakash Rao with seat in Bangalore. Does Bangalore jurisdiction match the borrower's location?",
-    "golden_answers": ["Yes, the borrower Kavita Menon resides at Jayanagar 4th Block, Bangalore, Karnataka. The arbitration seat in Bangalore is appropriate and convenient for the borrower. This aligns with the contractual arbitration clause (Clause 18) and provides proper jurisdictional basis."]
+    "question": "The Arbitrator is Justice (Retd.) Prakash Rao with seat in Bangalore. Does Bangalore jurisdiction match the borrower's location? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Yes, the borrower Kavita Menon resides at Jayanagar 4th Block, Bangalore, Karnataka. The arbitration seat in Bangalore is appropriate and convenient for the borrower. This aligns with the contractual arbitration clause (Clause 18) and provides proper jurisdictional basis."
+    ]
   },
   {
-    "question": "The Statement of Claim references 'Bakery business closed' with 'ovens, mixers' but the actual case is a beauty parlour with salon equipment. What corrections are needed?",
-    "golden_answers": ["Complete correction needed: Remove all bakery/oven/mixer references. Insert: 'Kavita Beauty Parlour closed' with equipment including 'salon chairs, styling stations, wash basins, hair dryers, mirrors, and renovation fixtures.' The SOC must accurately describe the actual business and financed assets for valid enforcement."]
+    "question": "The Statement of Claim references 'Bakery business closed' with 'ovens, mixers' but the actual case is a beauty parlour with salon equipment. What corrections are needed? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Complete correction needed: Remove all bakery/oven/mixer references. Insert: 'Kavita Beauty Parlour closed' with equipment including 'salon chairs, styling stations, wash basins, hair dryers, mirrors, and renovation fixtures.' The SOC must accurately describe the actual business and financed assets for valid enforcement."
+    ]
   },
   {
-    "question": "The loan was for 'Salon Equipment & Renovation.' If renovation was to leased premises, can those improvements be recovered?",
-    "golden_answers": ["Renovations to leased premises typically become landlord's property unless removable. Salon renovations (built-in counters, plumbing for wash basins, electrical work) are usually fixtures that cannot be removed. Movable equipment (chairs, dryers, mirrors) can be recovered. The non-recoverable renovation portion represents a loss the lender must absorb."]
+    "question": "The loan was for 'Salon Equipment & Renovation.' If renovation was to leased premises, can those improvements be recovered? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Renovations to leased premises typically become landlord's property unless removable. Salon renovations (built-in counters, plumbing for wash basins, electrical work) are usually fixtures that cannot be removed. Movable equipment (chairs, dryers, mirrors) can be recovered. The non-recoverable renovation portion represents a loss the lender must absorb."
+    ]
   },
   {
-    "question": "The recovery timeline shows 'business closure' was confirmed in field visits. Should the lender have accelerated legal action upon learning of closure?",
-    "golden_answers": ["Yes, business closure should trigger immediate legal escalation: (1) Section 9 for asset protection, (2) Equipment tracing and valuation, (3) Demand notice for loan recall, (4) Quicker arbitration initiation. The standard recovery timeline (soft reminders for months) is inappropriate when the underlying income-generating asset has ceased to exist."]
+    "question": "The recovery timeline shows 'business closure' was confirmed in field visits. Should the lender have accelerated legal action upon learning of closure? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Yes, business closure should trigger immediate legal escalation: (1) Section 9 for asset protection, (2) Equipment tracing and valuation, (3) Demand notice for loan recall, (4) Quicker arbitration initiation. The standard recovery timeline (soft reminders for months) is inappropriate when the underlying income-generating asset has ceased to exist."
+    ]
   },
   {
-    "question": "The Award states future interest at 19% p.a. from 26-11-2024. If the Award was passed on 20-08-2024, why does interest start from November?",
-    "golden_answers": ["This is an inconsistency. If the Award was passed on 20 August 2024, post-award interest should accrue from 20 August or from the 30-day payment deadline (19 September 2024). Starting from 26 November 2024 is incorrect—that date appears to be from the Statement of Account reference, not the Award date. This should be corrected."]
+    "question": "The Award states future interest at 19% p.a. from 26-11-2024. If the Award was passed on 20-08-2024, why does interest start from November? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "This is an inconsistency. If the Award was passed on 20 August 2024, post-award interest should accrue from 20 August or from the 30-day payment deadline (19 September 2024). Starting from 26 November 2024 is incorrect—that date appears to be from the Statement of Account reference, not the Award date. This should be corrected."
+    ]
   },
   {
-    "question": "The borrower paid 5 EMIs (February-June 2023) totaling ₹58,390 before defaulting. The salon closed in August-September 2023. What was the gap between last payment and closure?",
-    "golden_answers": ["The last paid EMI was June 2023 (due 5 June). The salon closed around August-September 2023. This 2-3 month gap suggests the borrower stopped payments when business became unsustainable but before official closure. The pattern indicates genuine business failure rather than fraud—payments continued while business operated."]
+    "question": "The borrower paid 5 EMIs (February-June 2023) totaling ₹58,390 before defaulting. The salon closed in August-September 2023. What was the gap between last payment and closure? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "The last paid EMI was June 2023 (due 5 June). The salon closed around August-September 2023. This 2-3 month gap suggests the borrower stopped payments when business became unsustainable but before official closure. The pattern indicates genuine business failure rather than fraud—payments continued while business operated."
+    ]
   },
   {
-    "question": "The case shows Principal Recovered as ₹51,265 from ₹58,390 paid. This means ₹7,125 went to interest. Is this allocation correct for a 19% p.a. loan?",
-    "golden_answers": ["For a 60-month loan at 19% p.a., early EMIs should have approximately 70-75% principal component. The ₹51,265 principal (87.8%) from ₹58,390 seems high—typically more would go to interest initially. This should be verified against the amortization schedule. The figures may be accurate for a specific structure but warrant validation."]
+    "question": "The case shows Principal Recovered as ₹51,265 from ₹58,390 paid. This means ₹7,125 went to interest. Is this allocation correct for a 19% p.a. loan? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "For a 60-month loan at 19% p.a., early EMIs should have approximately 70-75% principal component. The ₹51,265 principal (87.8%) from ₹58,390 seems high—typically more would go to interest initially. This should be verified against the amortization schedule. The figures may be accurate for a specific structure but warrant validation."
+    ]
   },
   {
-    "question": "The Execution Petition mentions 'attachment and auction of business equipment.' What is the typical recovery percentage from used salon equipment?",
-    "golden_answers": ["Used salon equipment typically recovers 20-40% of original value: (1) Specialized items (styling chairs, wash stations) have limited market, (2) Technology items (steamers, equipment) depreciate quickly, (3) General items (mirrors, furniture) have better resale. If ₹3-4 lakh was spent on equipment/renovation, expect ₹60,000-1,20,000 recovery, leaving substantial shortfall."]
+    "question": "The Execution Petition mentions 'attachment and auction of business equipment.' What is the typical recovery percentage from used salon equipment? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Used salon equipment typically recovers 20-40% of original value: (1) Specialized items (styling chairs, wash stations) have limited market, (2) Technology items (steamers, equipment) depreciate quickly, (3) General items (mirrors, furniture) have better resale. If ₹3-4 lakh was spent on equipment/renovation, expect ₹60,000-1,20,000 recovery, leaving substantial shortfall."
+    ]
   },
   {
-    "question": "The borrower's husband's job is mentioned as 'also affected.' Should the husband's financial situation be investigated for recovery purposes?",
-    "golden_answers": ["The husband is not liable unless he was a co-borrower or guarantor. His financial situation is relevant only for: (1) Understanding household income for settlement discussions, (2) Identifying shared assets that might be in wife's name, (3) Assessing realistic payment capacity. Direct recovery from the husband is not legally possible without his contractual involvement."]
+    "question": "The borrower's husband's job is mentioned as 'also affected.' Should the husband's financial situation be investigated for recovery purposes? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "The husband is not liable unless he was a co-borrower or guarantor. His financial situation is relevant only for: (1) Understanding household income for settlement discussions, (2) Identifying shared assets that might be in wife's name, (3) Assessing realistic payment capacity. Direct recovery from the husband is not legally possible without his contractual involvement."
+    ]
   },
   {
-    "question": "The loan tenure was 60 months with EMI of ₹11,678. Five EMIs were paid. If regularly paid, 55 EMIs remained. What would the total repayment have been?",
-    "golden_answers": ["Total if regularly paid: 60 EMIs × ₹11,678 = ₹7,00,680. She paid ₹58,390 (5 EMIs) before default. The remaining 55 EMIs would have totaled ₹6,42,290. The early default means the loan barely started being repaid, maximizing the outstanding principal and making recovery particularly challenging."]
+    "question": "The loan tenure was 60 months with EMI of ₹11,678. Five EMIs were paid. If regularly paid, 55 EMIs remained. What would the total repayment have been? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Total if regularly paid: 60 EMIs × ₹11,678 = ₹7,00,680. She paid ₹58,390 (5 EMIs) before default. The remaining 55 EMIs would have totaled ₹6,42,290. The early default means the loan barely started being repaid, maximizing the outstanding principal and making recovery particularly challenging."
+    ]
   },
   {
-    "question": "The Award's alternative relief mentions 'any assets of the Respondent including salon equipment.' What other assets might a beauty parlour owner have?",
-    "golden_answers": ["Potential assets include: (1) Movable salon equipment (chairs, dryers, mirrors), (2) Inventory (products, supplies), (3) Personal jewelry (common savings method), (4) Bank accounts and FDs, (5) Any vehicles, (6) Real estate if owned, (7) Professional equipment purchased outside the loan. Asset discovery proceedings may be needed to identify hidden assets."]
+    "question": "The Award's alternative relief mentions 'any assets of the Respondent including salon equipment.' What other assets might a beauty parlour owner have? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Potential assets include: (1) Movable salon equipment (chairs, dryers, mirrors), (2) Inventory (products, supplies), (3) Personal jewelry (common savings method), (4) Bank accounts and FDs, (5) Any vehicles, (6) Real estate if owned, (7) Professional equipment purchased outside the loan. Asset discovery proceedings may be needed to identify hidden assets."
+    ]
   },
   {
-    "question": "The Affidavit of Urgency states 'equipment lying idle' and 'high risk of unauthorized sale.' Given the salon closed months ago, has the risk materialized?",
-    "golden_answers": ["The extended time since closure (filed November 2023 for September 2023 closure) means the risk likely materialized. Equipment sitting in a closed shop for 2+ months with unpaid rent would typically be: (1) Removed by landlord, (2) Sold by borrower to pay other debts, (3) Stored elsewhere, (4) Abandoned. Current equipment status is unknown and likely unfavorable."]
+    "question": "The Affidavit of Urgency states 'equipment lying idle' and 'high risk of unauthorized sale.' Given the salon closed months ago, has the risk materialized? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "The extended time since closure (filed November 2023 for September 2023 closure) means the risk likely materialized. Equipment sitting in a closed shop for 2+ months with unpaid rent would typically be: (1) Removed by landlord, (2) Sold by borrower to pay other debts, (3) Stored elsewhere, (4) Abandoned. Current equipment status is unknown and likely unfavorable."
+    ]
   },
   {
-    "question": "The case shows ₹38,450 penal interest on approximately ₹3,98,735 principal over 17 months. What is the implied penal rate?",
-    "golden_answers": ["₹38,450 on ₹3,98,735 over 17 months implies approximately 0.57% per month or about 6.8% per year in penal charges. This is surprisingly low—typical penal rates are 2-3% per month. Either the calculation is conservative, the penal rate is capped in the agreement, or the figures need verification."]
+    "question": "The case shows ₹38,450 penal interest on approximately ₹3,98,735 principal over 17 months. What is the implied penal rate? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "₹38,450 on ₹3,98,735 over 17 months implies approximately 0.57% per month or about 6.8% per year in penal charges. This is surprisingly low—typical penal rates are 2-3% per month. Either the calculation is conservative, the penal rate is capped in the agreement, or the figures need verification."
+    ]
   },
   {
-    "question": "The Recall Notice was issued on 15-11-2023, and Section 21 Notice on 10-12-2023. The Award was passed on 20-08-2024. What was the total timeline from recall to award?",
-    "golden_answers": ["From Recall Notice (15 November 2023) to Award (20 August 2024) is approximately 9 months. This includes: recall period (15 days), Section 21 period (15+ days), Section 11 petition and appointment (~2-3 months), SOC filing and service, ex-parte proceedings. Nine months is reasonable for an ex-parte arbitration proceeding."]
+    "question": "The Recall Notice was issued on 15-11-2023, and Section 21 Notice on 10-12-2023. The Award was passed on 20-08-2024. What was the total timeline from recall to award? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "From Recall Notice (15 November 2023) to Award (20 August 2024) is approximately 9 months. This includes: recall period (15 days), Section 21 period (15+ days), Section 11 petition and appointment (~2-3 months), SOC filing and service, ex-parte proceedings. Nine months is reasonable for an ex-parte arbitration proceeding."
+    ]
   },
   {
-    "question": "The case status is 'Award Passed' but the file doesn't indicate if execution has been filed. Should execution be immediate?",
-    "golden_answers": ["Execution should be filed promptly after the 30-day voluntary payment period expires. Given: (1) Confirmed business closure, (2) Financial distress, (3) Potential asset dispersal, timely execution is important. However, pre-execution investigation to locate equipment and assess enforcement costs is advisable before incurring execution expenses on potentially uncollectable assets."]
+    "question": "The case status is 'Award Passed' but the file doesn't indicate if execution has been filed. Should execution be immediate? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Execution should be filed promptly after the 30-day voluntary payment period expires. Given: (1) Confirmed business closure, (2) Financial distress, (3) Potential asset dispersal, timely execution is important. However, pre-execution investigation to locate equipment and assess enforcement costs is advisable before incurring execution expenses on potentially uncollectable assets."
+    ]
   },
   {
-    "question": "The processing fee was ₹13,500 (3% of ₹4,50,000). For a business loan, is 3% processing fee standard?",
-    "golden_answers": ["Yes, 3% processing fee is standard for NBFC business loans. Some lenders charge 2-4% depending on risk assessment. The ₹13,500 would have been deducted from disbursal, meaning the borrower received ₹4,36,500. The processing fee is not recoverable in default—it compensates the lender for origination costs already incurred."]
+    "question": "The processing fee was ₹13,500 (3% of ₹4,50,000). For a business loan, is 3% processing fee standard? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Yes, 3% processing fee is standard for NBFC business loans. Some lenders charge 2-4% depending on risk assessment. The ₹13,500 would have been deducted from disbursal, meaning the borrower received ₹4,36,500. The processing fee is not recoverable in default—it compensates the lender for origination costs already incurred."
+    ]
   },
   {
-    "question": "The business was 'Kavita Beauty Parlour' operated by the borrower herself. Is this a proprietorship that limits liability?",
-    "golden_answers": ["A proprietorship (sole proprietor) does NOT limit liability—the proprietor is personally liable for all business debts. Unlike a company or LLP, there's no separate legal entity. Kavita Menon is personally liable for the loan regardless of business closure. All her personal assets are available for recovery, not just business assets."]
+    "question": "The business was 'Kavita Beauty Parlour' operated by the borrower herself. Is this a proprietorship that limits liability? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "A proprietorship (sole proprietor) does NOT limit liability—the proprietor is personally liable for all business debts. Unlike a company or LLP, there's no separate legal entity. Kavita Menon is personally liable for the loan regardless of business closure. All her personal assets are available for recovery, not just business assets."
+    ]
   },
   {
-    "question": "The field visit found 'family in severe crisis' on 05-10-2023. Should the lender pursue aggressive execution against a family in crisis?",
-    "golden_answers": ["While legal rights exist, aggressive execution against a genuinely distressed family raises ethical considerations. Practical approach: (1) Assess realistic recovery potential, (2) Offer reasonable settlement, (3) Consider write-off if costs exceed recovery, (4) Avoid causing disproportionate harm for minimal recovery. Enforcement should be proportionate to achievable outcomes."]
+    "question": "The field visit found 'family in severe crisis' on 05-10-2023. Should the lender pursue aggressive execution against a family in crisis? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "While legal rights exist, aggressive execution against a genuinely distressed family raises ethical considerations. Practical approach: (1) Assess realistic recovery potential, (2) Offer reasonable settlement, (3) Consider write-off if costs exceed recovery, (4) Avoid causing disproportionate harm for minimal recovery. Enforcement should be proportionate to achievable outcomes."
+    ]
   },
   {
-    "question": "The Award grants 30 days for payment. If the borrower's business has closed and family is in crisis, is 30-day lump-sum payment realistic?",
-    "golden_answers": ["No, ₹6,52,863 lump-sum payment in 30 days is unrealistic for someone whose business has closed. The borrower would need to: sell assets, borrow from family, or liquidate savings—if any exist. The 30-day period is standard but may simply trigger execution proceedings rather than actual payment in this case."]
+    "question": "The Award grants 30 days for payment. If the borrower's business has closed and family is in crisis, is 30-day lump-sum payment realistic? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "No, ₹6,52,863 lump-sum payment in 30 days is unrealistic for someone whose business has closed. The borrower would need to: sell assets, borrow from family, or liquidate savings—if any exist. The 30-day period is standard but may simply trigger execution proceedings rather than actual payment in this case."
+    ]
   },
   {
-    "question": "The Evidence Affidavit references 'bakery' with 'ovens, mixers.' For Kavita Menon's case, what should the correct asset description be?",
-    "golden_answers": ["Correct description: 'Kavita Beauty Parlour' with financed assets including 'salon styling chairs, wash basins with plumbing, wall-mounted mirrors, hair dryers, steamers, spa equipment, reception furniture, and interior renovation including flooring, lighting, and partition work.' Specific make/model details from purchase invoices should be referenced."]
+    "question": "The Evidence Affidavit references 'bakery' with 'ovens, mixers.' For Kavita Menon's case, what should the correct asset description be? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Correct description: 'Kavita Beauty Parlour' with financed assets including 'salon styling chairs, wash basins with plumbing, wall-mounted mirrors, hair dryers, steamers, spa equipment, reception furniture, and interior renovation including flooring, lighting, and partition work.' Specific make/model details from purchase invoices should be referenced."
+    ]
   },
   {
-    "question": "The loan interest rate is 19% p.a. reducing balance. Is this rate appropriate for a business loan?",
-    "golden_answers": ["Yes, 19% p.a. is typical for NBFC business loans to small enterprises. Bank business loans range 10-14%, while NBFCs charge 15-24% depending on risk profile. For an unsecured or equipment-secured small business loan, 19% is within market range, though on the higher end reflecting the risk NBFCs bear with such borrowers."]
+    "question": "The loan interest rate is 19% p.a. reducing balance. Is this rate appropriate for a business loan? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Yes, 19% p.a. is typical for NBFC business loans to small enterprises. Bank business loans range 10-14%, while NBFCs charge 15-24% depending on risk profile. For an unsecured or equipment-secured small business loan, 19% is within market range, though on the higher end reflecting the risk NBFCs bear with such borrowers."
+    ]
   },
   {
-    "question": "The Section 9 petition requests 'Preserve business premises access.' If the premises are leased and the lease has ended, can access be preserved?",
-    "golden_answers": ["If the lease has ended or the landlord has repossessed for unpaid rent, preserving access is not possible. The lender has no rights over leased premises. The petition should focus on: (1) Locating equipment wherever it now is, (2) Restraining the borrower from disposing of equipment, (3) Requiring disclosure of equipment location. Premises access is secondary to equipment tracing."]
+    "question": "The Section 9 petition requests 'Preserve business premises access.' If the premises are leased and the lease has ended, can access be preserved? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "If the lease has ended or the landlord has repossessed for unpaid rent, preserving access is not possible. The lender has no rights over leased premises. The petition should focus on: (1) Locating equipment wherever it now is, (2) Restraining the borrower from disposing of equipment, (3) Requiring disclosure of equipment location. Premises access is secondary to equipment tracing."
+    ]
   },
   {
-    "question": "The recovery timeline shows 'Phone switched off' on 20-08-2023 during soft reminder phase. Should this have triggered escalation?",
-    "golden_answers": ["Phone becoming unreachable combined with business slowdown mentions should have prompted field visit escalation. The phone going silent in August, the same month the salon likely closed, was a warning sign. Earlier physical verification might have enabled equipment protection before dispersal. The soft reminder protocol wasn't suited to this rapidly deteriorating situation."]
+    "question": "The recovery timeline shows 'Phone switched off' on 20-08-2023 during soft reminder phase. Should this have triggered escalation? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Phone becoming unreachable combined with business slowdown mentions should have prompted field visit escalation. The phone going silent in August, the same month the salon likely closed, was a warning sign. Earlier physical verification might have enabled equipment protection before dispersal. The soft reminder protocol wasn't suited to this rapidly deteriorating situation."
+    ]
   },
   {
-    "question": "The borrower's age is 44 years. What does this demographic suggest about recovery prospects?",
-    "golden_answers": ["Age 44 suggests: (1) Mid-career with established skills (beauty services), (2) Potentially able to restart smaller home-based salon, (3) Limited years to high earning potential, (4) Possible family responsibilities affecting finances, (5) May have some accumulated assets from earlier career. Recovery prospects exist if she can resume work in some capacity."]
+    "question": "The borrower's age is 44 years. What does this demographic suggest about recovery prospects? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Age 44 suggests: (1) Mid-career with established skills (beauty services), (2) Potentially able to restart smaller home-based salon, (3) Limited years to high earning potential, (4) Possible family responsibilities affecting finances, (5) May have some accumulated assets from earlier career. Recovery prospects exist if she can resume work in some capacity."
+    ]
   },
   {
-    "question": "The case shows 'ex-parte proceedings' on 15-06-2024 and Award on 20-08-2024. What happens in ex-parte arbitration?",
-    "golden_answers": ["Ex-parte arbitration involves: (1) Confirming respondent was properly served and failed to participate, (2) Claimant presenting evidence without cross-examination, (3) Tribunal evaluating claim on merits based on submitted documents, (4) Award based solely on claimant's case. The borrower's non-participation doesn't prevent valid award but loses opportunity to contest or present defenses."]
+    "question": "The case shows 'ex-parte proceedings' on 15-06-2024 and Award on 20-08-2024. What happens in ex-parte arbitration? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Ex-parte arbitration involves: (1) Confirming respondent was properly served and failed to participate, (2) Claimant presenting evidence without cross-examination, (3) Tribunal evaluating claim on merits based on submitted documents, (4) Award based solely on claimant's case. The borrower's non-participation doesn't prevent valid award but loses opportunity to contest or present defenses."
+    ]
   },
   {
-    "question": "The Award authorizes 'attachment of salon equipment if traceable.' What are equipment tracing methods?",
-    "golden_answers": ["Tracing methods include: (1) Field visit to closed premises, (2) Inquiry with landlord/neighbors, (3) Check borrower's residence, (4) Social media review for equipment sale posts, (5) Industry contacts (other salons that might have purchased used equipment), (6) Interrogation order requiring borrower to disclose equipment location, (7) Online marketplace search for listed equipment."]
+    "question": "The Award authorizes 'attachment of salon equipment if traceable.' What are equipment tracing methods? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Tracing methods include: (1) Field visit to closed premises, (2) Inquiry with landlord/neighbors, (3) Check borrower's residence, (4) Social media review for equipment sale posts, (5) Industry contacts (other salons that might have purchased used equipment), (6) Interrogation order requiring borrower to disclose equipment location, (7) Online marketplace search for listed equipment."
+    ]
   },
   {
-    "question": "The Execution Petition references 'attachment and sale of consumer durables' but this is a business loan for salon equipment. Is this terminology correct?",
-    "golden_answers": ["No, 'consumer durables' is incorrect terminology for business equipment. The correct reference should be 'commercial/business equipment' or 'salon equipment and fixtures.' Consumer durables typically refer to household items (TV, refrigerator). Using wrong terminology may create confusion in execution and should be corrected."]
+    "question": "The Execution Petition references 'attachment and sale of consumer durables' but this is a business loan for salon equipment. Is this terminology correct? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "No, 'consumer durables' is incorrect terminology for business equipment. The correct reference should be 'commercial/business equipment' or 'salon equipment and fixtures.' Consumer durables typically refer to household items (TV, refrigerator). Using wrong terminology may create confusion in execution and should be corrected."
+    ]
   },
   {
-    "question": "The Award's total payable is ₹6,52,863. If the salon equipment is worth ₹1,00,000-1,50,000 at best, what is the expected recovery shortfall?",
-    "golden_answers": ["Expected shortfall: ₹6,52,863 - ₹1,00,000 to ₹1,50,000 = approximately ₹5,00,000-5,50,000. This substantial shortfall (77-85% of award) means equipment liquidation alone is grossly insufficient. Additional recovery requires: personal asset attachment, negotiated settlement accepting partial recovery, or write-off of unrecoverable portion."]
+    "question": "The Award's total payable is ₹6,52,863. If the salon equipment is worth ₹1,00,000-1,50,000 at best, what is the expected recovery shortfall? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Expected shortfall: ₹6,52,863 - ₹1,00,000 to ₹1,50,000 = approximately ₹5,00,000-5,50,000. This substantial shortfall (77-85% of award) means equipment liquidation alone is grossly insufficient. Additional recovery requires: personal asset attachment, negotiated settlement accepting partial recovery, or write-off of unrecoverable portion."
+    ]
   },
   {
-    "question": "The case shows Principal Outstanding of ₹3,98,735. If ₹51,265 was recovered from 5 EMIs on a ₹4,50,000 loan, does this add up?",
-    "golden_answers": ["Yes: ₹4,50,000 (disbursed) - ₹51,265 (principal recovered) = ₹3,98,735 (principal outstanding). The calculation is mathematically correct and consistent with the loan principal reduction through 5 EMI payments."]
+    "question": "The case shows Principal Outstanding of ₹3,98,735. If ₹51,265 was recovered from 5 EMIs on a ₹4,50,000 loan, does this add up? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Yes: ₹4,50,000 (disbursed) - ₹51,265 (principal recovered) = ₹3,98,735 (principal outstanding). The calculation is mathematically correct and consistent with the loan principal reduction through 5 EMI payments."
+    ]
   },
   {
-    "question": "The recovery timeline notes 'confirmed business closure, mentioned financial crisis, medical issues' on 15-09-2023. Should these multiple hardships be documented for potential settlement?",
-    "golden_answers": ["Yes, documenting multiple concurrent hardships supports: (1) Understanding borrower's genuine incapacity (not willful default), (2) Settlement negotiation context, (3) Possible cost reduction argument, (4) Explanation if write-off is eventually needed. The combination of business failure, spouse's job impact, and health issues paints a comprehensive hardship picture."]
+    "question": "The recovery timeline notes 'confirmed business closure, mentioned financial crisis, medical issues' on 15-09-2023. Should these multiple hardships be documented for potential settlement? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Yes, documenting multiple concurrent hardships supports: (1) Understanding borrower's genuine incapacity (not willful default), (2) Settlement negotiation context, (3) Possible cost reduction argument, (4) Explanation if write-off is eventually needed. The combination of business failure, spouse's job impact, and health issues paints a comprehensive hardship picture."
+    ]
   },
   {
-    "question": "The Section 11 petition was filed on 20-01-2024 and arbitrator appointed on 05-03-2024. This 44-day gap is efficient. What factors expedited appointment?",
-    "golden_answers": ["Expediting factors likely include: (1) Clear, uncontested arbitration clause, (2) No response from respondent to Section 21 (simplifying appointment), (3) Efficient court processing, (4) Available arbitrator on panel. The straightforward nature of the case (documented loan default with no defense) facilitated quick appointment."]
+    "question": "The Section 11 petition was filed on 20-01-2024 and arbitrator appointed on 05-03-2024. This 44-day gap is efficient. What factors expedited appointment? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Expediting factors likely include: (1) Clear, uncontested arbitration clause, (2) No response from respondent to Section 21 (simplifying appointment), (3) Efficient court processing, (4) Available arbitrator on panel. The straightforward nature of the case (documented loan default with no defense) facilitated quick appointment."
+    ]
   },
   {
-    "question": "The borrower's email is kavita.menon1979@gmail.com. If '1979' indicates birth year, does this match the stated age of 44?",
-    "golden_answers": ["If '1979' is birth year, she would be 44-45 years old in 2024, matching the stated age of 44 years. This internal consistency validates the borrower's identity information in the CRM data."]
+    "question": "The borrower's email is kavita.menon1979@gmail.com. If '1979' indicates birth year, does this match the stated age of 44? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "If '1979' is birth year, she would be 44-45 years old in 2024, matching the stated age of 44 years. This internal consistency validates the borrower's identity information in the CRM data."
+    ]
   },
   {
-    "question": "The case involves a 'Beauty Parlour' closed due to 'post-pandemic' slowdown. What support schemes existed for such businesses?",
-    "golden_answers": ["Post-pandemic support included: (1) ECLGS (Emergency Credit Line Guarantee Scheme), (2) MSME loan restructuring, (3) Moratorium periods, (4) Interest subvention schemes. If the borrower didn't access these (possibly due to NBFC loan not qualifying or lack of awareness), restructuring might have prevented closure. However, these are post-facto observations not affecting current recovery."]
+    "question": "The case involves a 'Beauty Parlour' closed due to 'post-pandemic' slowdown. What support schemes existed for such businesses? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Post-pandemic support included: (1) ECLGS (Emergency Credit Line Guarantee Scheme), (2) MSME loan restructuring, (3) Moratorium periods, (4) Interest subvention schemes. If the borrower didn't access these (possibly due to NBFC loan not qualifying or lack of awareness), restructuring might have prevented closure. However, these are post-facto observations not affecting current recovery."
+    ]
   },
   {
-    "question": "The Award references Arbitration Ref. ARB/BLR/2024/1007. The 'BLR' indicates Bangalore. Is this format consistent with other case references?",
-    "golden_answers": ["Yes, ARB/BLR/2024/1007 follows the pattern: ARB (Arbitration), BLR (Bangalore seat), 2024 (year), 1007 (case number). This systematic formatting helps track cases and indicates this is the 1007th arbitration reference in Bangalore for 2024."]
+    "question": "The Award references Arbitration Ref. ARB/BLR/2024/1007. The 'BLR' indicates Bangalore. Is this format consistent with other case references? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Yes, ARB/BLR/2024/1007 follows the pattern: ARB (Arbitration), BLR (Bangalore seat), 2024 (year), 1007 (case number). This systematic formatting helps track cases and indicates this is the 1007th arbitration reference in Bangalore for 2024."
+    ]
   },
   {
-    "question": "The Statement of Claim was filed on 25-04-2024, nearly 4 months after arbitrator appointment (05-03-2024). Is this delay concerning?",
-    "golden_answers": ["The 51-day gap between appointment and SOC filing is within acceptable range (typically 30-60 days). The gap allows for: document compilation, advocate coordination, amount recalculation, and formal tribunal constitution. No institutional rules were likely violated, and the borrower wasn't prejudiced given eventual ex-parte proceedings."]
+    "question": "The Statement of Claim was filed on 25-04-2024, nearly 4 months after arbitrator appointment (05-03-2024). Is this delay concerning? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "The 51-day gap between appointment and SOC filing is within acceptable range (typically 30-60 days). The gap allows for: document compilation, advocate coordination, amount recalculation, and formal tribunal constitution. No institutional rules were likely violated, and the borrower wasn't prejudiced given eventual ex-parte proceedings."
+    ]
   },
   {
-    "question": "The case shows Interest Outstanding of ₹95,678 on Principal Outstanding of ₹3,98,735. At 19% p.a. for 17 months, is this accurate?",
-    "golden_answers": ["Let's verify: ₹3,98,735 × 19% × (17/12) = approximately ₹1,07,358 in simple interest. The stated ₹95,678 is somewhat lower, possibly due to: (1) Some months had partial principal before full default, (2) Reducing balance calculation on declining amount, (3) Interest accruing from different base dates. The figure is in the reasonable range but should be verified."]
+    "question": "The case shows Interest Outstanding of ₹95,678 on Principal Outstanding of ₹3,98,735. At 19% p.a. for 17 months, is this accurate? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Let's verify: ₹3,98,735 × 19% × (17/12) = approximately ₹1,07,358 in simple interest. The stated ₹95,678 is somewhat lower, possibly due to: (1) Some months had partial principal before full default, (2) Reducing balance calculation on declining amount, (3) Interest accruing from different base dates. The figure is in the reasonable range but should be verified."
+    ]
   },
   {
-    "question": "The execution may involve 'Business premises attachment (if owned).' The borrower operated from leased premises. What if she rented, not owned?",
-    "golden_answers": ["If premises are rented, they cannot be attached—only owned property is attachable. The lender would have no claim over leased premises. Focus shifts to: (1) Equipment wherever located, (2) Borrower's residence if owned, (3) Other personal assets. Rental status should be verified before premises attachment is pursued."]
+    "question": "The execution may involve 'Business premises attachment (if owned).' The borrower operated from leased premises. What if she rented, not owned? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "If premises are rented, they cannot be attached—only owned property is attachable. The lender would have no claim over leased premises. Focus shifts to: (1) Equipment wherever located, (2) Borrower's residence if owned, (3) Other personal assets. Rental status should be verified before premises attachment is pursued."
+    ]
   },
   {
-    "question": "The Award was passed ex-parte. Can the borrower still challenge it under Section 34?",
-    "golden_answers": ["Yes, the borrower can file Section 34 application within 3 months of receiving the award (extendable by 30 days). Grounds might include: (1) Improper service/notice, (2) Inability to present case (if valid reasons existed), (3) Award contrary to public policy, (4) Procedural irregularity. However, given documented service attempts and non-response, such challenge faces high burden of proof."]
+    "question": "The Award was passed ex-parte. Can the borrower still challenge it under Section 34? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Yes, the borrower can file Section 34 application within 3 months of receiving the award (extendable by 30 days). Grounds might include: (1) Improper service/notice, (2) Inability to present case (if valid reasons existed), (3) Award contrary to public policy, (4) Procedural irregularity. However, given documented service attempts and non-response, such challenge faces high burden of proof."
+    ]
   },
   {
-    "question": "The field visit on 05-10-2023 noted 'husband's job also affected.' Should the lender investigate whether the husband has recoverable assets?",
-    "golden_answers": ["The husband's assets cannot be directly attached for the wife's debt unless: (1) He is a co-borrower (not indicated), (2) Assets are jointly held, (3) He received benefit of the loan (possible if family business). Investigation may reveal jointly held property or accounts. However, pursuing the husband specifically requires legal basis beyond mere marriage."]
+    "question": "The field visit on 05-10-2023 noted 'husband's job also affected.' Should the lender investigate whether the husband has recoverable assets? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "The husband's assets cannot be directly attached for the wife's debt unless: (1) He is a co-borrower (not indicated), (2) Assets are jointly held, (3) He received benefit of the loan (possible if family business). Investigation may reveal jointly held property or accounts. However, pursuing the husband specifically requires legal basis beyond mere marriage."
+    ]
   },
   {
-    "question": "The Execution Petition mentions 'inventory liquidation.' What salon inventory might still exist?",
-    "golden_answers": ["Possible remaining inventory: (1) Hair products (shampoos, conditioners, treatments), (2) Spa products (creams, oils), (3) Cosmetics, (4) Tools (scissors, combs, brushes), (5) Consumables (towels, capes). However, inventory has short shelf life, may have been used/sold, and has low resale value. Realistically, significant inventory recovery is unlikely after 15+ months of closure."]
+    "question": "The Execution Petition mentions 'inventory liquidation.' What salon inventory might still exist? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Possible remaining inventory: (1) Hair products (shampoos, conditioners, treatments), (2) Spa products (creams, oils), (3) Cosmetics, (4) Tools (scissors, combs, brushes), (5) Consumables (towels, capes). However, inventory has short shelf life, may have been used/sold, and has low resale value. Realistically, significant inventory recovery is unlikely after 15+ months of closure."
+    ]
   },
   {
-    "question": "The loan disbursement was on 12-01-2023, and business closed by August-September 2023. The business operated for only 7-8 months after loan. What does this indicate?",
-    "golden_answers": ["Very short business survival (7-8 months post-loan) indicates: (1) Business was already struggling when loan was taken, (2) Loan may have been attempt to revive failing business, (3) Post-pandemic recovery didn't materialize as hoped, (4) Or new business couldn't establish customer base. This isn't necessarily fraud—many pandemic-affected businesses failed despite rescue attempts."]
+    "question": "The loan disbursement was on 12-01-2023, and business closed by August-September 2023. The business operated for only 7-8 months after loan. What does this indicate? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Very short business survival (7-8 months post-loan) indicates: (1) Business was already struggling when loan was taken, (2) Loan may have been attempt to revive failing business, (3) Post-pandemic recovery didn't materialize as hoped, (4) Or new business couldn't establish customer base. This isn't necessarily fraud—many pandemic-affected businesses failed despite rescue attempts."
+    ]
   },
   {
-    "question": "The default reason states 'Business closure due to sustained losses and market conditions.' Is this a valid defense to loan repayment?",
-    "golden_answers": ["No, business failure is not a legal defense to loan repayment. The loan contract creates personal liability regardless of business success. However, it provides: (1) Context for understanding the default, (2) Basis for compassionate treatment, (3) Explanation for settlement discussions. The obligation to repay exists even if the funded business fails."]
+    "question": "The default reason states 'Business closure due to sustained losses and market conditions.' Is this a valid defense to loan repayment? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "No, business failure is not a legal defense to loan repayment. The loan contract creates personal liability regardless of business success. However, it provides: (1) Context for understanding the default, (2) Basis for compassionate treatment, (3) Explanation for settlement discussions. The obligation to repay exists even if the funded business fails."
+    ]
   },
   {
-    "question": "The case shows ₹5,000 legal notice charges added to the outstanding. Should this be documented with invoices?",
-    "golden_answers": ["Yes, legal charges should be itemized and documented: (1) Recall Notice drafting: ₹X, (2) Section 21 Notice: ₹X, (3) Courier/Speed Post: ₹X, (4) Legal consultation: ₹X. While ₹5,000 is reasonable, documentation prevents disputes and demonstrates transparency. The borrower might otherwise challenge arbitrary charges."]
+    "question": "The case shows ₹5,000 legal notice charges added to the outstanding. Should this be documented with invoices? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Yes, legal charges should be itemized and documented: (1) Recall Notice drafting: ₹X, (2) Section 21 Notice: ₹X, (3) Courier/Speed Post: ₹X, (4) Legal consultation: ₹X. While ₹5,000 is reasonable, documentation prevents disputes and demonstrates transparency. The borrower might otherwise challenge arbitrary charges."
+    ]
   },
   {
-    "question": "The Section 9 petition requests 'Allow asset marking and valuation.' What does 'asset marking' involve?",
-    "golden_answers": ["Asset marking involves: (1) Physical inspection of equipment, (2) Photographing and documenting each item, (3) Recording make, model, serial numbers, (4) Applying identification stickers/tags indicating legal claim, (5) Creating inventory list signed by borrower/witness, (6) Valuation by authorized appraiser. This creates formal record for subsequent attachment and prevents unauthorized disposal."]
+    "question": "The Section 9 petition requests 'Allow asset marking and valuation.' What does 'asset marking' involve? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Asset marking involves: (1) Physical inspection of equipment, (2) Photographing and documenting each item, (3) Recording make, model, serial numbers, (4) Applying identification stickers/tags indicating legal claim, (5) Creating inventory list signed by borrower/witness, (6) Valuation by authorized appraiser. This creates formal record for subsequent attachment and prevents unauthorized disposal."
+    ]
   },
   {
-    "question": "The borrower's PAN is STUPS9012M. Should PAN-linked asset search be conducted before execution?",
-    "golden_answers": ["Yes, PAN-linked search can reveal: (1) Bank accounts, (2) Fixed deposits, (3) Mutual fund investments, (4) Property transactions, (5) Other loans (indicating overall debt burden). For a business owner aged 44, there may be accumulated savings or investments. This search should precede execution to identify all attachable assets."]
+    "question": "The borrower's PAN is STUPS9012M. Should PAN-linked asset search be conducted before execution? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Yes, PAN-linked search can reveal: (1) Bank accounts, (2) Fixed deposits, (3) Mutual fund investments, (4) Property transactions, (5) Other loans (indicating overall debt burden). For a business owner aged 44, there may be accumulated savings or investments. This search should precede execution to identify all attachable assets."
+    ]
   },
   {
-    "question": "The Award costs include 'Administrative expenses: ₹15,000.' What do administrative expenses in arbitration cover?",
-    "golden_answers": ["Administrative expenses typically include: (1) Hearing venue charges, (2) Stenographer/transcription costs, (3) Communication and courier expenses, (4) Document copying and binding, (5) Filing and registration fees, (6) Secretarial support, (7) Miscellaneous disbursements. For a 4-5 month arbitration, ₹15,000 administrative costs are reasonable."]
+    "question": "The Award costs include 'Administrative expenses: ₹15,000.' What do administrative expenses in arbitration cover? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Administrative expenses typically include: (1) Hearing venue charges, (2) Stenographer/transcription costs, (3) Communication and courier expenses, (4) Document copying and binding, (5) Filing and registration fees, (6) Secretarial support, (7) Miscellaneous disbursements. For a 4-5 month arbitration, ₹15,000 administrative costs are reasonable."
+    ]
   },
   {
-    "question": "The recovery timeline shows the last interaction before legal action was 'Phone switched off' on 20-08-2023. How should unresponsive borrowers be handled?",
-    "golden_answers": ["When borrowers become unresponsive: (1) Immediate field visit to verify status, (2) Employer/business verification, (3) Alternate contact attempts, (4) Written notice to registered address, (5) Legal escalation if pattern confirms evasion vs. genuine communication breakdown. The key is distinguishing between 'can't pay and hiding' vs. 'can't pay and overwhelmed'—different situations warrant different approaches."]
+    "question": "The recovery timeline shows the last interaction before legal action was 'Phone switched off' on 20-08-2023. How should unresponsive borrowers be handled? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "When borrowers become unresponsive: (1) Immediate field visit to verify status, (2) Employer/business verification, (3) Alternate contact attempts, (4) Written notice to registered address, (5) Legal escalation if pattern confirms evasion vs. genuine communication breakdown. The key is distinguishing between 'can't pay and hiding' vs. 'can't pay and overwhelmed'—different situations warrant different approaches."
+    ]
   },
   {
-    "question": "The Award mentions the claimant can 'attach and sell any assets.' Does this include assets essential for basic livelihood?",
-    "golden_answers": ["CPC exempts certain assets from attachment: (1) Necessary wearing apparel, (2) Tools of artisans, (3) Books of account, (4) One month's provisions, (5) Agricultural implements, (6) Stipend/wages to certain extent. A few personal items are protected. However, business equipment, luxury items, and substantial assets are attachable. Courts balance recovery rights with basic subsistence protection."]
+    "question": "The Award mentions the claimant can 'attach and sell any assets.' Does this include assets essential for basic livelihood? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "CPC exempts certain assets from attachment: (1) Necessary wearing apparel, (2) Tools of artisans, (3) Books of account, (4) One month's provisions, (5) Agricultural implements, (6) Stipend/wages to certain extent. A few personal items are protected. However, business equipment, luxury items, and substantial assets are attachable. Courts balance recovery rights with basic subsistence protection."
+    ]
   },
   {
-    "question": "The case file shows multiple mixed content (bakery references, different borrowers). What quality control failed?",
-    "golden_answers": ["Quality failures include: (1) Template-based document generation without proper customization, (2) Copy-paste errors from similar cases, (3) Lack of document review before filing, (4) No case-specific checklist verification, (5) Inadequate training on document preparation. Systematic quality controls—file naming conventions, mandatory review checklists, document headers—would prevent such mixing."]
+    "question": "The case file shows multiple mixed content (bakery references, different borrowers). What quality control failed? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Quality failures include: (1) Template-based document generation without proper customization, (2) Copy-paste errors from similar cases, (3) Lack of document review before filing, (4) No case-specific checklist verification, (5) Inadequate training on document preparation. Systematic quality controls—file naming conventions, mandatory review checklists, document headers—would prevent such mixing."
+    ]
   },
   {
-    "question": "The EMI amount was ₹11,678/month. The borrower's stated income was ₹65,000/month. The EMI-to-income ratio was 18%. Is this sustainable?",
-    "golden_answers": ["An 18% EMI ratio is well within sustainable limits (typically 30-40% maximum for total EMIs). This suggests the loan was appropriately sized for stated income. The default occurred not due to over-leveraging but due to income disappearance when the business closed. The original underwriting appears sound; the business failure was the problem."]
+    "question": "The EMI amount was ₹11,678/month. The borrower's stated income was ₹65,000/month. The EMI-to-income ratio was 18%. Is this sustainable? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "An 18% EMI ratio is well within sustainable limits (typically 30-40% maximum for total EMIs). This suggests the loan was appropriately sized for stated income. The default occurred not due to over-leveraging but due to income disappearance when the business closed. The original underwriting appears sound; the business failure was the problem."
+    ]
   },
   {
-    "question": "The Award directs payment of ₹6,52,863 within 30 days. If the borrower cannot pay, what are her options?",
-    "golden_answers": ["Options include: (1) Propose installment arrangement to the claimant, (2) Offer settlement at reduced amount, (3) Voluntarily surrender assets for partial satisfaction, (4) Apply under Section 34 to challenge award (if grounds exist), (5) Negotiate with family for support, (6) Accept execution and cooperate with attachment. Ignoring the award leads to forced execution with additional costs."]
+    "question": "The Award directs payment of ₹6,52,863 within 30 days. If the borrower cannot pay, what are her options? <case_id:case_007, folder_id:ARB/2024/1007>",
+    "golden_answers": [
+      "Options include: (1) Propose installment arrangement to the claimant, (2) Offer settlement at reduced amount, (3) Voluntarily surrender assets for partial satisfaction, (4) Apply under Section 34 to challenge award (if grounds exist), (5) Negotiate with family for support, (6) Accept execution and cooperate with attachment. Ignoring the award leads to forced execution with additional costs."
+    ]
   }
 ]

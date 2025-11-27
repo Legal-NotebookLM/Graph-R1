@@ -1,0 +1,416 @@
+[
+  {
+    "question": "What is the loan account number for Pooja Nair's consumer durable loan with Phoenix Finance Ltd.? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The loan account number is PFL-CDL-231014. This is a Consumer Durable Loan for a Laptop, Mobile, and Tablet package sanctioned on 20th August 2023 with a loan amount of ₹1,25,000/-."
+    ]
+  },
+  {
+    "question": "What is the reason for default in Pooja Nair's case? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The default is due to job loss from company-wide layoffs at Accenture. The borrower received a layoff notice in October 2024 with last working day on 31st October 2024. She has been actively job hunting and mentioned a potential interview with Google."
+    ]
+  },
+  {
+    "question": "How many EMIs did Pooja Nair pay before defaulting? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "Pooja Nair paid 13 full EMIs totaling ₹78,507/- from September 2023 to September 2024. The first bounce occurred in October 2024 due to insufficient funds following the layoff notice."
+    ]
+  },
+  {
+    "question": "What is the total outstanding amount on Pooja Nair's loan as on 26-11-2024? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The total outstanding amount is ₹52,289/- as on 26-11-2024, comprising: Principal outstanding ₹48,105/-, Interest outstanding ₹3,234/-, and Penal interest & charges ₹950/-. Legal notice charges are ₹0/- at this stage."
+    ]
+  },
+  {
+    "question": "What is the Days Past Due (DPD) for this loan account? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Days Past Due (DPD) is 56 days as on 26-11-2024. This is relatively low as the default is recent, starting from October 2024 due to job loss."
+    ]
+  },
+  {
+    "question": "What was Pooja Nair's employment details before the layoff? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "Pooja Nair was employed at Accenture Solutions Pvt. Ltd. as a Business Analyst with a monthly salary of ₹58,000/-. Her last working day was 31st October 2024 following company-wide layoffs."
+    ]
+  },
+  {
+    "question": "What is the borrower's excellent payment track record before the job loss? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The borrower maintained excellent payment track record with 13 consecutive on-time EMI payments from September 2023 to September 2024. All payments of ₹6,039/- were made punctually before the first bounce in October 2024."
+    ]
+  },
+  {
+    "question": "What is the current status of the borrower's job search? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "According to the WhatsApp message on 20-11-2024, the borrower mentioned an interview with Google and is waiting for an offer. She is hopeful of joining a new company by December 2024 and promised to pay once employed."
+    ]
+  },
+  {
+    "question": "What is the case status mentioned in the file header? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The case status is 'Soft Reminder Stage.' This is the early stage of recovery where the borrower is being contacted through SMS, calls, emails, and WhatsApp before escalating to field visits or legal action."
+    ]
+  },
+  {
+    "question": "What is the interest rate on this consumer durable loan? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The interest rate is 15.5% p.a. on a reducing balance basis. This was the contracted rate at the time of sanction on 20th August 2023 for the 24-month tenure loan."
+    ]
+  },
+  {
+    "question": "What is the EMI amount per month for this loan? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The EMI amount is ₹6,039/- per month for the 24-month tenure. This was calculated based on the loan amount of ₹1,25,000/- at an interest rate of 15.5% p.a. on reducing balance."
+    ]
+  },
+  {
+    "question": "What evidence did the borrower share regarding the layoff? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "On 25-10-2024, the borrower shared the layoff letter via email in response to the reminder and requested 2 months time to arrange payment. This documentation confirms the genuine nature of the job loss."
+    ]
+  },
+  {
+    "question": "What is the tracking number for the Loan Recall Notice? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Loan Recall Notice dated 20th October 2024 was sent via Speed Post AD with Tracking Number EE114234567IN to the borrower's address in Koramangala, Bangalore."
+    ]
+  },
+  {
+    "question": "What is the borrower's residential address? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The residential address is Flat No. 801, Prestige Apartments, Koramangala, Bangalore, Karnataka - 560034. The borrower has been responsive at this address despite the job loss."
+    ]
+  },
+  {
+    "question": "What date was the Section 21 Notice issued? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Section 21 Notice invoking arbitration was issued on 10th November 2024, approximately 20 days after the Loan Recall Notice. The notice asks the borrower to propose an arbitrator within 15 days."
+    ]
+  },
+  {
+    "question": "What distinguishes this case from intentional evasion cases? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "This case is distinguished by: (1) Excellent 13-month payment track record; (2) Genuine documented job loss; (3) Borrower's cooperation and responsiveness; (4) Active job search with Google interview mentioned; (5) Proactive communication about financial difficulties."
+    ]
+  },
+  {
+    "question": "What is the generated Case ID for this matter? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The generated Case ID is PFL/CDL/2023/01014. This is Phoenix Finance Ltd.'s internal reference number for tracking this Consumer Durable Loan recovery case against Pooja Nair."
+    ]
+  },
+  {
+    "question": "What processing fee was charged on this loan? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The processing fee charged was ₹3,750/- which represents 3% of the loan amount (₹1,25,000/-). This is a standard processing fee percentage for consumer durable loans."
+    ]
+  },
+  {
+    "question": "What principal amount has been recovered from the EMI payments? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The principal recovered is ₹76,895/- from total EMI payments of ₹78,507/- (13 EMIs of ₹6,039/-). The remaining ₹1,612/- was applied towards interest recovery."
+    ]
+  },
+  {
+    "question": "What is the borrower's PAN and Aadhaar number? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The borrower's PAN is MNOPN6789U and Aadhaar is XXXX-XXXX-4567 (masked format). These KYC details are maintained in CRM records for loan account PFL-CDL-231014."
+    ]
+  },
+  {
+    "question": "What is the repayment tenure for this loan? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The repayment tenure is 24 months from September 2023 to August 2025. The first EMI was due on 5th September 2023 and the last EMI was scheduled for 5th August 2025."
+    ]
+  },
+  {
+    "question": "What relief is sought in the Section 9 Petition? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Section 9 Petition (incorrectly filed in Pune) prays for: Restraining from relocating without disclosure, directing asset disclosure, and allowing flexible repayment upon employment. The focus is on preventing loss of contact during job search."
+    ]
+  },
+  {
+    "question": "What error exists in the Section 9 Petition regarding court jurisdiction? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Section 9 Petition is filed before 'Hon'ble District Judge, Pune' but the borrower resides in Bangalore, Karnataka. The correct jurisdiction should be Bangalore for proper legal proceedings."
+    ]
+  },
+  {
+    "question": "What phone numbers are on record for the borrower? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The phone numbers on record are: Primary +91-9880123456 and Alternate +91-9880123457. The borrower has been reachable and responsive on these numbers throughout the recovery process."
+    ]
+  },
+  {
+    "question": "What is the email address of the borrower? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The borrower's email address is pooja.nair97@gmail.com as per CRM records. Email communication has been effective with the borrower responding with documentation."
+    ]
+  },
+  {
+    "question": "What urgency grounds are cited in the Affidavit of Urgency? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta cites: Genuine job loss but risk of relocation, job search may lead to interstate move, and early protection ensures recovery channel remains intact when borrower secures employment."
+    ]
+  },
+  {
+    "question": "What is the Arbitration Reference Number for this case? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Arbitration Reference Number is ARB/2024/1014 as mentioned in the Section 17 Application and Statement of Claim documents."
+    ]
+  },
+  {
+    "question": "What conditional relief is mentioned in the Arbitral Award extract? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Arbitral Award extract mentions 'Conditional: Salary attachment upon re-employment.' This recognizes the borrower's current unemployment and sets up recovery mechanism for when she secures new employment."
+    ]
+  },
+  {
+    "question": "What costs are awarded in the Arbitral Award extract? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Arbitral Award extract mentions costs of ₹60,000/-. This is in addition to the outstanding amount and interest till realization."
+    ]
+  },
+  {
+    "question": "What is the date of sanction and disbursal for this loan? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The date of sanction is 20th August 2023 and the date of disbursal is 25th August 2023 - a 5-day gap which is standard for consumer durable loans."
+    ]
+  },
+  {
+    "question": "What was the borrower's last working day at Accenture? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The borrower's last working day at Accenture was 31st October 2024 as confirmed during the follow-up call on 15-10-2024. This information was also documented in the layoff letter shared on 25-10-2024."
+    ]
+  },
+  {
+    "question": "What is the default reason officially recorded? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The official default reason is: 'Job loss due to company-wide layoffs at Accenture.' This classification indicates a genuine hardship default rather than willful non-payment."
+    ]
+  },
+  {
+    "question": "What is the age and gender of the borrower? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The borrower Pooja Nair is 26 years old and female. She was employed at Accenture as a Business Analyst earning ₹58,000/- per month before the layoff."
+    ]
+  },
+  {
+    "question": "What remaining principal is outstanding on the loan? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The principal outstanding is ₹48,105/- as on 26-11-2024. Against the original loan of ₹1,25,000/-, ₹76,895/- has been recovered through 13 EMI payments, leaving this balance."
+    ]
+  },
+  {
+    "question": "Calculate the percentage of loan already repaid by the borrower. <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The borrower has repaid approximately 61.5% of the principal (₹76,895 of ₹1,25,000). With total EMI payments of ₹78,507/-, she has demonstrated strong repayment commitment before the job loss."
+    ]
+  },
+  {
+    "question": "What communication mode was used on 20-11-2024? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "On 20-11-2024, a WhatsApp message was sent to the borrower. She replied mentioning her interview with Google and that she is waiting for an offer, indicating active job search."
+    ]
+  },
+  {
+    "question": "What is the Section 9 petition filing date? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Section 9 Petition is dated 25th November 2024. However, the petition is incorrectly filed in Pune instead of Bangalore jurisdiction where the borrower resides."
+    ]
+  },
+  {
+    "question": "Review the List of Documents and identify what should be included for this job loss case. <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "Annexures C-1 to C-12 (58 pages) should include: Loan Agreement, Termination/Layoff Letter, Job Search Records, Communication showing cooperation, Bank Statements, and KYC documents. The layoff letter is key evidence in this case."
+    ]
+  },
+  {
+    "question": "What is the pincode of the borrower's address? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The pincode of the borrower's address in Koramangala, Bangalore is 560034. The borrower has been responsive at this address throughout the recovery process."
+    ]
+  },
+  {
+    "question": "What is unique about the penal charges in this case? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The penal interest and charges are only ₹950/- which is relatively low. Additionally, legal notice charges are ₹0/- at this stage, reflecting the early stage of default (only 56 DPD) and the company's measured approach given the borrower's cooperation."
+    ]
+  },
+  {
+    "question": "What execution mode is suggested in the Section 36 Execution Petition? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Execution Petition suggests: (A) Conditional Salary Attachment upon securing new employment; (B) Employment monitoring with regular disclosure required; (C) Asset discovery ongoing. The conditional approach recognizes current unemployment."
+    ]
+  },
+  {
+    "question": "What Section 17 relief is sought in this case? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Section 17 Application seeks: Direction to disclose new employment, authorization for preemptive salary attachment, and restraint from leaving jurisdiction without notice. The focus is on maintaining recovery channels during job transition."
+    ]
+  },
+  {
+    "question": "What items were financed under this consumer durable loan? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The loan financed a package of consumer durables including a Laptop, Mobile, and Tablet. The total loan amount of ₹1,25,000/- was sanctioned for these electronic items on 20th August 2023."
+    ]
+  },
+  {
+    "question": "What was the first bounce date and reason? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The first EMI bounce occurred on 05-10-2024 due to insufficient funds. This coincided with the borrower receiving her layoff notice from Accenture, which affected her ability to maintain sufficient bank balance."
+    ]
+  },
+  {
+    "question": "Draft a summary of the borrower's cooperative behavior in this case. <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "Cooperation indicators: (1) Disclosed layoff immediately on 08-10-2024; (2) Confirmed last working day on 15-10-2024; (3) Shared layoff letter on 25-10-2024; (4) Replied to WhatsApp with job update on 20-11-2024; (5) Promised to pay once employed on 25-11-2024; (6) Mentioned Google interview showing active job search."
+    ]
+  },
+  {
+    "question": "What is the case folder number? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The case folder number is ARB/2024/1014 as shown in the header. This matches the Arbitration Reference Number used in the legal documents."
+    ]
+  },
+  {
+    "question": "What recovery phase is the case currently in? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The case is currently in Phase 1: Soft Reminders (Oct 2024 - Present). Activities include SMS, phone calls, email reminders, WhatsApp messages, and follow-up emails. No field visits or legal action has been initiated yet."
+    ]
+  },
+  {
+    "question": "What is the interest outstanding amount? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The interest outstanding is ₹3,234/- as on 26-11-2024. This is relatively low given the short default period of 56 days and reflects recent default after 13 months of regular payments."
+    ]
+  },
+  {
+    "question": "Calculate the outstanding as percentage of original loan. <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The outstanding amount of ₹52,289/- represents approximately 42% of the original loan of ₹1,25,000/-. The majority (58%) has been repaid through 13 EMI payments before the job loss."
+    ]
+  },
+  {
+    "question": "What tele-verification finding was recorded on 05-11-2024? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "During the tele-verification on 05-11-2024, the customer mentioned she is attending interviews and is hopeful of joining a new company by December. This indicated active job search efforts."
+    ]
+  },
+  {
+    "question": "What is the first EMI and last EMI due date? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The first EMI due date is 5th September 2023 and the last EMI due date is 5th August 2025. The loan has a 24-month tenure with 11 EMIs remaining as of the default date."
+    ]
+  },
+  {
+    "question": "How should this case be handled differently from intentional evasion cases? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "This case should be handled with: (1) Compassionate approach given documented job loss; (2) Flexible timelines aligned with job search; (3) Conditional recovery mechanisms upon re-employment; (4) Avoidance of aggressive legal action given cooperation; (5) Potential restructuring or moratorium consideration."
+    ]
+  },
+  {
+    "question": "What template errors exist in the Section 9 Petition? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Section 9 Petition has errors: (1) Filed in Pune instead of Bangalore jurisdiction; (2) References 'Personal Loan' instead of 'Consumer Durable Loan'; (3) Uses generic 'Borrower Name' instead of 'Pooja Nair'. These require correction before court submission."
+    ]
+  },
+  {
+    "question": "What is the Loan Recall Notice date? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Loan Recall Notice was issued on 20th October 2024, tracking number EE114234567IN. The notice acknowledges the borrower's excellent payment track record and job loss while requiring payment or a concrete repayment plan within 15 days."
+    ]
+  },
+  {
+    "question": "Who is the advocate representing Phoenix Finance Ltd.? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "Advocate Ramesh Khanna represents Phoenix Finance Ltd. His name appears on the Section 9 Petition, Statement of Claim, and other legal documents filed in this case."
+    ]
+  },
+  {
+    "question": "What is the Evidence Affidavit verification date? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Evidence Affidavit by Amit Verma is verified on 30th November 2024. The affidavit affirms the genuine job loss, interstate relocation risk, cooperation of borrower, and outstanding amount."
+    ]
+  },
+  {
+    "question": "Calculate remaining tenure and EMIs at the time of default. <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "At the time of default (October 2024), 11 EMIs remained out of 24. The borrower had paid 13 EMIs from September 2023 to September 2024, leaving 11 months of tenure (October 2024 to August 2025)."
+    ]
+  },
+  {
+    "question": "What recovery option is most viable in this case? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The most viable recovery option is conditional salary attachment upon re-employment, as the borrower: (1) Has demonstrated payment capacity with prior ₹58,000/- salary; (2) Is actively job hunting; (3) Has interview with major company (Google); (4) Has been cooperative throughout. Waiting for re-employment is more practical than aggressive collection."
+    ]
+  },
+  {
+    "question": "What SMS was sent on 15-11-2024? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "On 15-11-2024, an SMS reminder was sent to the borrower. The outcome shows 'Delivered' indicating the message reached the borrower. This was part of the ongoing soft reminder phase."
+    ]
+  },
+  {
+    "question": "What is the date of the Statement of Claim filing? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Statement of Claim is dated 30th November 2024 as per Section 6 of the legal documents. It was filed by Advocate Ramesh Khanna on behalf of Phoenix Finance Ltd."
+    ]
+  },
+  {
+    "question": "Draft recommended actions for this job loss case. <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "Recommended actions: (1) Pause escalation pending job confirmation; (2) Allow 60-90 day moratorium for job search; (3) Request monthly job search updates; (4) Prepare conditional salary attachment order; (5) Consider EMI restructuring upon re-employment; (6) Maintain positive borrower relationship given prior track record."
+    ]
+  },
+  {
+    "question": "What email follow-up was sent on 25-11-2024? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "On 25-11-2024, an email follow-up was sent to the borrower. She replied promising to pay once employed, showing continued cooperation and acknowledgment of the loan obligation despite current financial difficulties."
+    ]
+  },
+  {
+    "question": "What is the Section 17 Application filing date? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Section 17 Application is dated 10th December 2024. It seeks interim measures including direction for new employment disclosure, preemptive salary attachment authorization, and restraint from leaving jurisdiction without notice."
+    ]
+  },
+  {
+    "question": "What is the first bounce alert date and mode? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The first bounce alert was sent on 07-10-2024 via SMS and was delivered. This was followed by a reminder call on 08-10-2024 where the customer mentioned receiving the layoff notice."
+    ]
+  },
+  {
+    "question": "What distinguishes the penal structure in this case? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The penal structure is notably lenient: Penal interest & charges are only ₹950/- and Legal notice charges are ₹0/-. This reflects the early stage of default (56 DPD), recent job loss circumstances, and possibly a compassionate approach by the lender."
+    ]
+  },
+  {
+    "question": "What is the Affidavit of Urgency verification date? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta was verified on 25th November 2024. It cites the genuine job loss but highlights the risk of relocation during job search and the need for early protection of recovery channels."
+    ]
+  },
+  {
+    "question": "Review if the outstanding amount justifies aggressive legal action. <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "With outstanding of only ₹52,289/- and a cooperative borrower actively seeking employment, aggressive legal action may not be cost-effective. Legal costs (arbitration, court fees, advocate fees) could approach or exceed the outstanding. Waiting for re-employment and negotiated settlement is more practical."
+    ]
+  },
+  {
+    "question": "What is the interest recovered from EMI payments? <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "The interest recovered is ₹1,612/- from total EMI payments of ₹78,507/- (13 EMIs of ₹6,039/-). The principal recovered is ₹76,895/-, reflecting that in reducing balance method, later EMIs have higher principal component."
+    ]
+  },
+  {
+    "question": "Draft a comparison of this case with typical NPA cases. <case_id:case_014, folder_id:ARB/2024/1014>",
+    "golden_answers": [
+      "Comparison: (1) DPD 56 days vs typical NPA 90+ days; (2) Prior track record excellent vs mixed in typical cases; (3) Reason documented job loss vs often unclear; (4) Borrower cooperative vs often evasive; (5) Outstanding 42% of loan vs often 100%+; (6) Active job search vs often no recovery path. This case has higher recovery probability with patient approach."
+    ]
+  }
+]

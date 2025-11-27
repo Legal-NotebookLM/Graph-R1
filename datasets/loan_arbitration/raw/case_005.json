@@ -1,282 +1,422 @@
 [
   {
-    "question": "The Section 17 application references 'Anita Kumari' in Jodhpur, but the case is about Meena Kumari in Meerut. Is this content from a different case?",
-    "golden_answers": ["Yes, this is clearly content from a different case. The Section 17 application for Anita Kumari in Jodhpur was mistakenly included in Meena Kumari's Meerut case file. This section should be removed and replaced with the correct application for Meena Kumari, if one exists."]
+    "question": "The Section 17 application references 'Anita Kumari' in Jodhpur, but the case is about Meena Kumari in Meerut. Is this content from a different case? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, this is clearly content from a different case. The Section 17 application for Anita Kumari in Jodhpur was mistakenly included in Meena Kumari's Meerut case file. This section should be removed and replaced with the correct application for Meena Kumari, if one exists."
+    ]
   },
   {
-    "question": "The case involves a Consumer Durable Loan for 'Washing Machine & Refrigerator' totaling ₹55,000. The Award authorizes possession of these consumer durables. What is their likely current market value after 2 years?",
-    "golden_answers": ["Used consumer durables depreciate significantly: washing machines retain 40-50% value, refrigerators 50-60% after 2 years. A ₹55,000 combined purchase might have current resale value of ₹25,000-₹32,000. This is substantially less than the ₹80,621 outstanding, meaning asset liquidation alone cannot recover the full claim."]
+    "question": "The case involves a Consumer Durable Loan for 'Washing Machine & Refrigerator' totaling ₹55,000. The Award authorizes possession of these consumer durables. What is their likely current market value after 2 years? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Used consumer durables depreciate significantly: washing machines retain 40-50% value, refrigerators 50-60% after 2 years. A ₹55,000 combined purchase might have current resale value of ₹25,000-₹32,000. This is substantially less than the ₹80,621 outstanding, meaning asset liquidation alone cannot recover the full claim."
+    ]
   },
   {
-    "question": "The borrower Meena Kumari operates a 'Village Tailoring Shop' with monthly income of ₹18,000. The EMI is ₹2,685. Is this EMI-to-income ratio sustainable?",
-    "golden_answers": ["The EMI of ₹2,685 represents approximately 15% of the ₹18,000 monthly income. This is within acceptable limits (typically 30-40% for total EMIs). However, for a village tailor with variable income and no fixed salary, even 15% can be burdensome during low-business months. The default suggests actual income variability exceeded projections."]
+    "question": "The borrower Meena Kumari operates a 'Village Tailoring Shop' with monthly income of ₹18,000. The EMI is ₹2,685. Is this EMI-to-income ratio sustainable? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The EMI of ₹2,685 represents approximately 15% of the ₹18,000 monthly income. This is within acceptable limits (typically 30-40% for total EMIs). However, for a village tailor with variable income and no fixed salary, even 15% can be burdensome during low-business months. The default suggests actual income variability exceeded projections."
+    ]
   },
   {
-    "question": "The field visit on 05-09-2023 met the borrower's husband who mentioned 'wife's illness' and 'daughter's marriage expenses.' Should these personal circumstances affect recovery strategy?",
-    "golden_answers": ["While these circumstances explain the default, they don't excuse the debt. Recovery strategy should acknowledge genuine hardship while pursuing realistic recovery: offering extended repayment periods, reduced settlement amounts, or compassionate cost reduction. Asset liquidation should be last resort given the sympathetic circumstances."]
+    "question": "The field visit on 05-09-2023 met the borrower's husband who mentioned 'wife's illness' and 'daughter's marriage expenses.' Should these personal circumstances affect recovery strategy? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "While these circumstances explain the default, they don't excuse the debt. Recovery strategy should acknowledge genuine hardship while pursuing realistic recovery: offering extended repayment periods, reduced settlement amounts, or compassionate cost reduction. Asset liquidation should be last resort given the sympathetic circumstances."
+    ]
   },
   {
-    "question": "The Arbitral Award was passed on 15th October 2024 by Justice (Retd.) Ramesh Kumar. The Execution Petition was filed on 10th November 2024, only 26 days later. Is this timeline appropriate?",
-    "golden_answers": ["The Award grants 30 days for payment. Filing execution on day 26 is technically premature—the borrower had until 14 November 2024 to pay voluntarily. The execution petition should be filed only after the 30-day period expires. However, if the petition was filed with execution to commence after deadline, the timing can be adjusted."]
+    "question": "The Arbitral Award was passed on 15th October 2024 by Justice (Retd.) Ramesh Kumar. The Execution Petition was filed on 10th November 2024, only 26 days later. Is this timeline appropriate? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The Award grants 30 days for payment. Filing execution on day 26 is technically premature—the borrower had until 14 November 2024 to pay voluntarily. The execution petition should be filed only after the 30-day period expires. However, if the petition was filed with execution to commence after deadline, the timing can be adjusted."
+    ]
   },
   {
-    "question": "The DPD is 539 days as on 26-11-2024. If the June 2023 EMI bounced on 05-06-2023, does this DPD calculation match?",
-    "golden_answers": ["From 5 June 2023 to 26 November 2024 is approximately 540 days, matching the stated 539 DPD. This extensive 18-month default period, combined with the borrower's rural location and low income, makes full recovery challenging. The lengthy default justifies legal escalation."]
+    "question": "The DPD is 539 days as on 26-11-2024. If the June 2023 EMI bounced on 05-06-2023, does this DPD calculation match? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "From 5 June 2023 to 26 November 2024 is approximately 540 days, matching the stated 539 DPD. This extensive 18-month default period, combined with the borrower's rural location and low income, makes full recovery challenging. The lengthy default justifies legal escalation."
+    ]
   },
   {
-    "question": "The Award states total costs of ₹63,000 (Arbitrator ₹35,000, Advocate ₹20,000, Admin ₹8,000) on an ₹80,621 claim. Is this proportionate?",
-    "golden_answers": ["Costs of ₹63,000 on ₹80,621 claim (78% of principal) are high but potentially justified for a contested rural case requiring village field visits and extended proceedings. However, the borrower's financial distress suggests awarding full costs may be unenforceable. Compassionate cost reduction to ₹40,000-₹45,000 might be more realistic."]
+    "question": "The Award states total costs of ₹63,000 (Arbitrator ₹35,000, Advocate ₹20,000, Admin ₹8,000) on an ₹80,621 claim. Is this proportionate? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Costs of ₹63,000 on ₹80,621 claim (78% of principal) are high but potentially justified for a contested rural case requiring village field visits and extended proceedings. However, the borrower's financial distress suggests awarding full costs may be unenforceable. Compassionate cost reduction to ₹40,000-₹45,000 might be more realistic."
+    ]
   },
   {
-    "question": "The field visit on 15-08-2023 found the house locked with neighbors saying 'family went to Haridwar for treatment.' Should this pilgrimage/medical trip be verified?",
-    "golden_answers": ["For recovery purposes, detailed verification isn't necessary—the family's absence is documented. However, follow-up visits confirmed the wife's illness, validating the treatment claim. The Haridwar reference (pilgrimage site often visited for health prayers) aligns with Indian cultural practices during illness. The circumstance appears genuine."]
+    "question": "The field visit on 15-08-2023 found the house locked with neighbors saying 'family went to Haridwar for treatment.' Should this pilgrimage/medical trip be verified? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "For recovery purposes, detailed verification isn't necessary—the family's absence is documented. However, follow-up visits confirmed the wife's illness, validating the treatment claim. The Haridwar reference (pilgrimage site often visited for health prayers) aligns with Indian cultural practices during illness. The circumstance appears genuine."
+    ]
   },
   {
-    "question": "The Section 9 petition mentions 'Consumer Durable Loan of ₹75,000' but the CRM shows ₹55,000. Which is correct?",
-    "golden_answers": ["The CRM figure of ₹55,000 is the correct sanctioned amount. The ₹75,000 figure in the Section 9 petition appears to be an error or content from a different case. All legal documents should reference the accurate loan amount of ₹55,000 to avoid factual inconsistencies."]
+    "question": "The Section 9 petition mentions 'Consumer Durable Loan of ₹75,000' but the CRM shows ₹55,000. Which is correct? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The CRM figure of ₹55,000 is the correct sanctioned amount. The ₹75,000 figure in the Section 9 petition appears to be an error or content from a different case. All legal documents should reference the accurate loan amount of ₹55,000 to avoid factual inconsistencies."
+    ]
   },
   {
-    "question": "The borrower's husband 'promised to pay after 2 months' on 05-09-2023. Did payment materialize, and does this promise constitute acknowledgment?",
-    "golden_answers": ["The EMI history shows no payment after the initial 3 EMIs, so the promise was not kept. However, the husband's promise constitutes acknowledgment of the debt, extending the limitation period. This acknowledgment should be documented with date, speaker, and witness (field officer), supporting the legal claim."]
+    "question": "The borrower's husband 'promised to pay after 2 months' on 05-09-2023. Did payment materialize, and does this promise constitute acknowledgment? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The EMI history shows no payment after the initial 3 EMIs, so the promise was not kept. However, the husband's promise constitutes acknowledgment of the debt, extending the limitation period. This acknowledgment should be documented with date, speaker, and witness (field officer), supporting the legal claim."
+    ]
   },
   {
-    "question": "The Award authorizes the Claimant to 'take possession of the consumer durables for liquidation.' What is the procedure for possessing household appliances from a rural residence?",
-    "golden_answers": ["The procedure involves: (1) Serving notice of intended possession, (2) Obtaining local court assistance if resistance expected, (3) Engaging authorized recovery agents with court order copy, (4) Creating inventory with photographs at time of possession, (5) Storing items safely pending auction. For rural areas, involving local authorities ensures smoother execution."]
+    "question": "The Award authorizes the Claimant to 'take possession of the consumer durables for liquidation.' What is the procedure for possessing household appliances from a rural residence? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The procedure involves: (1) Serving notice of intended possession, (2) Obtaining local court assistance if resistance expected, (3) Engaging authorized recovery agents with court order copy, (4) Creating inventory with photographs at time of possession, (5) Storing items safely pending auction. For rural areas, involving local authorities ensures smoother execution."
+    ]
   },
   {
-    "question": "The case status is 'Award Passed - Execution Stage' and the execution petition was filed on 10-11-2024. What are the likely next steps?",
-    "golden_answers": ["Next steps include: (1) Court registration of execution petition, (2) Issue of execution notice to judgment debtor, (3) Warrant for attachment if no payment, (4) Asset attachment (washing machine, refrigerator), (5) Public auction of attached assets, (6) Application of sale proceeds to decree, (7) Further execution for balance if shortfall exists."]
+    "question": "The case status is 'Award Passed - Execution Stage' and the execution petition was filed on 10-11-2024. What are the likely next steps? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Next steps include: (1) Court registration of execution petition, (2) Issue of execution notice to judgment debtor, (3) Warrant for attachment if no payment, (4) Asset attachment (washing machine, refrigerator), (5) Public auction of attached assets, (6) Application of sale proceeds to decree, (7) Further execution for balance if shortfall exists."
+    ]
   },
   {
-    "question": "The Loan Agreement date is 12th February 2023, disbursal is 18th February 2023. The first EMI was due 5th March 2023. Is this timeline standard?",
-    "golden_answers": ["Yes, the timeline is standard: 6 days between sanction and disbursal, 15 days from disbursal to first EMI. Consumer durable loans are typically disbursed quickly as the goods are already selected/delivered. The 15-day gap allows the borrower to receive and verify goods before payment begins."]
+    "question": "The Loan Agreement date is 12th February 2023, disbursal is 18th February 2023. The first EMI was due 5th March 2023. Is this timeline standard? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, the timeline is standard: 6 days between sanction and disbursal, 15 days from disbursal to first EMI. Consumer durable loans are typically disbursed quickly as the goods are already selected/delivered. The 15-day gap allows the borrower to receive and verify goods before payment begins."
+    ]
   },
   {
-    "question": "The Ex-parte proceedings were conducted because the 'Respondent failed to appear.' Given the borrower's documented illness and rural location, should extra efforts have been made to enable participation?",
-    "golden_answers": ["Arguably yes. Given documented illness, the tribunal could have: (1) Offered video/phone participation, (2) Extended response deadlines, (3) Appointed legal aid assistance. However, multiple notices were served and the borrower chose not to respond. While sympathetic circumstances exist, the borrower must act on opportunities provided."]
+    "question": "The Ex-parte proceedings were conducted because the 'Respondent failed to appear.' Given the borrower's documented illness and rural location, should extra efforts have been made to enable participation? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Arguably yes. Given documented illness, the tribunal could have: (1) Offered video/phone participation, (2) Extended response deadlines, (3) Appointed legal aid assistance. However, multiple notices were served and the borrower chose not to respond. While sympathetic circumstances exist, the borrower must act on opportunities provided."
+    ]
   },
   {
-    "question": "The total outstanding includes Principal ₹47,737, Interest ₹18,234, Penal ₹9,650, and Legal ₹5,000 totaling ₹80,621. Should interest components be calculated on reducing balance?",
-    "golden_answers": ["Yes, the 17.5% interest should be calculated on reducing principal balance. The ₹18,234 interest on ~₹47,737 principal over 18 months appears consistent with reducing balance methodology. The calculation should be verified against the loan amortization schedule to ensure accuracy, but the figures appear reasonable."]
+    "question": "The total outstanding includes Principal ₹47,737, Interest ₹18,234, Penal ₹9,650, and Legal ₹5,000 totaling ₹80,621. Should interest components be calculated on reducing balance? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, the 17.5% interest should be calculated on reducing principal balance. The ₹18,234 interest on ~₹47,737 principal over 18 months appears consistent with reducing balance methodology. The calculation should be verified against the loan amortization schedule to ensure accuracy, but the figures appear reasonable."
+    ]
   },
   {
-    "question": "The recovery timeline shows a follow-up call on 25-09-2023 where the husband mentioned 'further delays due to medical expenses.' Should medical expense documentation be requested?",
-    "golden_answers": ["Requesting medical documentation could validate the hardship claim and inform settlement discussions. However, for a ₹55,000 loan, extensive verification may be disproportionate. The husband's consistent explanation across multiple interactions and the family's absence for treatment provide sufficient circumstantial evidence of genuine medical hardship."]
+    "question": "The recovery timeline shows a follow-up call on 25-09-2023 where the husband mentioned 'further delays due to medical expenses.' Should medical expense documentation be requested? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Requesting medical documentation could validate the hardship claim and inform settlement discussions. However, for a ₹55,000 loan, extensive verification may be disproportionate. The husband's consistent explanation across multiple interactions and the family's absence for treatment provide sufficient circumstantial evidence of genuine medical hardship."
+    ]
   },
   {
-    "question": "The Award directs future interest at 17.5% p.a. from 26-11-2024 till payment. However, the Statement of Account is 'as on 26-11-2024' which appears to be a future date relative to the 15-10-2024 award. Is this an error?",
-    "golden_answers": ["Yes, this is inconsistent. If the Award was passed on 15 October 2024, the outstanding cannot be calculated 'as on 26 November 2024.' The calculation date should be at or before the award date. Interest from award date to payment is future interest. The dates need reconciliation to avoid confusion during execution."]
+    "question": "The Award directs future interest at 17.5% p.a. from 26-11-2024 till payment. However, the Statement of Account is 'as on 26-11-2024' which appears to be a future date relative to the 15-10-2024 award. Is this an error? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, this is inconsistent. If the Award was passed on 15 October 2024, the outstanding cannot be calculated 'as on 26 November 2024.' The calculation date should be at or before the award date. Interest from award date to payment is future interest. The dates need reconciliation to avoid confusion during execution."
+    ]
   },
   {
-    "question": "The Section 9 petition mentions 'risk of financed assets being sold or damaged.' For a washing machine and refrigerator, what damage risks exist?",
-    "golden_answers": ["Damage risks include: deterioration from lack of maintenance, power fluctuation damage, physical damage from moves, selling to scrap dealers, or deliberate damage to reduce recovery value. For consumer durables, wear and tear over time naturally reduces value. Protection orders help preserve whatever value remains."]
+    "question": "The Section 9 petition mentions 'risk of financed assets being sold or damaged.' For a washing machine and refrigerator, what damage risks exist? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Damage risks include: deterioration from lack of maintenance, power fluctuation damage, physical damage from moves, selling to scrap dealers, or deliberate damage to reduce recovery value. For consumer durables, wear and tear over time naturally reduces value. Protection orders help preserve whatever value remains."
+    ]
   },
   {
-    "question": "The Affidavit of Urgency notes 'Village location makes enforcement difficult.' What specific challenges exist for rural enforcement?",
-    "golden_answers": ["Rural enforcement challenges include: (1) Distance from courts requiring travel, (2) Limited local legal infrastructure, (3) Community support for local residents against 'outsiders,' (4) Difficulty locating addresses in unstructured village layouts, (5) Seasonal accessibility issues, (6) Lower asset liquidity in local markets, (7) Language/cultural barriers for urban recovery teams."]
+    "question": "The Affidavit of Urgency notes 'Village location makes enforcement difficult.' What specific challenges exist for rural enforcement? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Rural enforcement challenges include: (1) Distance from courts requiring travel, (2) Limited local legal infrastructure, (3) Community support for local residents against 'outsiders,' (4) Difficulty locating addresses in unstructured village layouts, (5) Seasonal accessibility issues, (6) Lower asset liquidity in local markets, (7) Language/cultural barriers for urban recovery teams."
+    ]
   },
   {
-    "question": "The borrower's address is 'Village Rampur, Post Office Khairpur, District Meerut.' Is this address sufficiently specific for legal service?",
-    "golden_answers": ["The address may need enhancement. Village addresses should include: house number or landmark, village name, post office, tehsil/block, district, and PIN code (250002). Adding a local landmark or prominent neighbor's reference improves service reliability. Incomplete addresses in rural areas risk notice non-delivery and service challenges."]
+    "question": "The borrower's address is 'Village Rampur, Post Office Khairpur, District Meerut.' Is this address sufficiently specific for legal service? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The address may need enhancement. Village addresses should include: house number or landmark, village name, post office, tehsil/block, district, and PIN code (250002). Adding a local landmark or prominent neighbor's reference improves service reliability. Incomplete addresses in rural areas risk notice non-delivery and service challenges."
+    ]
   },
   {
-    "question": "The default reason combines 'wife's prolonged illness' and 'daughter's marriage expenses.' Should these be separated for documentation purposes?",
-    "golden_answers": ["Yes, separating them provides clarity: (1) Primary reason: wife's illness affecting business operation (the tailor herself is ill), (2) Contributing factor: daughter's marriage expenses (one-time financial burden). This distinction helps in settlement discussions—illness suggests ongoing hardship while marriage is a past expense. Different factors warrant different recovery approaches."]
+    "question": "The default reason combines 'wife's prolonged illness' and 'daughter's marriage expenses.' Should these be separated for documentation purposes? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, separating them provides clarity: (1) Primary reason: wife's illness affecting business operation (the tailor herself is ill), (2) Contributing factor: daughter's marriage expenses (one-time financial burden). This distinction helps in settlement discussions—illness suggests ongoing hardship while marriage is a past expense. Different factors warrant different recovery approaches."
+    ]
   },
   {
-    "question": "The Evidence Affidavit in the mixed content mentions 'Anita Kumari, aged 35 years, Rural Jodhpur' but this case involves 'Meena Kumari, aged 39 years, Meerut.' What needs correction?",
-    "golden_answers": ["All references to Anita Kumari, Jodhpur, or different ages must be removed. The correct details are: Meena Kumari, aged 39 years, Village Rampur, Meerut, Uttar Pradesh. Every document section should reference only this borrower's details for consistency and legal accuracy."]
+    "question": "The Evidence Affidavit in the mixed content mentions 'Anita Kumari, aged 35 years, Rural Jodhpur' but this case involves 'Meena Kumari, aged 39 years, Meerut.' What needs correction? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "All references to Anita Kumari, Jodhpur, or different ages must be removed. The correct details are: Meena Kumari, aged 39 years, Village Rampur, Meerut, Uttar Pradesh. Every document section should reference only this borrower's details for consistency and legal accuracy."
+    ]
   },
   {
-    "question": "The Execution Petition seeks 'attachment and sale of consumer durables (washing machine and refrigerator).' What is the typical auction process?",
-    "golden_answers": ["Auction process involves: (1) Attachment order from court, (2) Physical seizure and storage, (3) Public notice of auction, (4) Valuation by court-appointed valuer, (5) Public auction with minimum reserve price, (6) Sale to highest bidder, (7) Application of proceeds to decree with accounting. For consumer durables, auction recovery is often minimal due to depreciation."]
+    "question": "The Execution Petition seeks 'attachment and sale of consumer durables (washing machine and refrigerator).' What is the typical auction process? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Auction process involves: (1) Attachment order from court, (2) Physical seizure and storage, (3) Public notice of auction, (4) Valuation by court-appointed valuer, (5) Public auction with minimum reserve price, (6) Sale to highest bidder, (7) Application of proceeds to decree with accounting. For consumer durables, auction recovery is often minimal due to depreciation."
+    ]
   },
   {
-    "question": "The case shows only 3 EMIs were paid before default. At ₹2,685/month, the borrower paid ₹8,055 on a ₹55,000 loan. What was the principal reduction?",
-    "golden_answers": ["The stated principal recovery is ₹7,263 from ₹8,055 in payments, with ₹792 going to interest. This means approximately 90% of early EMIs went to principal, which is unusually high—typically 70-75% for 17.5% loans. This should be verified against the amortization schedule, though the figures might reflect the short tenure (24 months) increasing principal component."]
+    "question": "The case shows only 3 EMIs were paid before default. At ₹2,685/month, the borrower paid ₹8,055 on a ₹55,000 loan. What was the principal reduction? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The stated principal recovery is ₹7,263 from ₹8,055 in payments, with ₹792 going to interest. This means approximately 90% of early EMIs went to principal, which is unusually high—typically 70-75% for 17.5% loans. This should be verified against the amortization schedule, though the figures might reflect the short tenure (24 months) increasing principal component."
+    ]
   },
   {
-    "question": "The Award passed on 15-10-2024 was served on 25-10-2024 per the Execution Petition. Is the 10-day service timeline reasonable?",
-    "golden_answers": ["Yes, 10 days for award service to a rural address is reasonable. Speed Post to village addresses may take 5-7 days. Accounting for preparation and dispatch, 10-day service is efficient. The petition correctly calculates the 30-day payment period from service (25 October), expiring 24 November, making the 10 November filing date premature by 14 days."]
+    "question": "The Award passed on 15-10-2024 was served on 25-10-2024 per the Execution Petition. Is the 10-day service timeline reasonable? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, 10 days for award service to a rural address is reasonable. Speed Post to village addresses may take 5-7 days. Accounting for preparation and dispatch, 10-day service is efficient. The petition correctly calculates the 30-day payment period from service (25 October), expiring 24 November, making the 10 November filing date premature by 14 days."
+    ]
   },
   {
-    "question": "The arbitrator's fees are ₹35,000 for an ₹80,621 claim. Under the Fourth Schedule, what is the appropriate fee range?",
-    "golden_answers": ["For claims up to ₹5 lakh, the Fourth Schedule suggests fees in the ₹45,000-₹50,000 range. The ₹35,000 fee for an ~₹80,000 claim is actually conservative, likely reflecting: (1) Ex-parte proceedings being simpler, (2) Compassionate reduction given borrower's circumstances, or (3) Lower rates for rural seat cases. This fee is reasonable and unlikely to be challenged."]
+    "question": "The arbitrator's fees are ₹35,000 for an ₹80,621 claim. Under the Fourth Schedule, what is the appropriate fee range? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "For claims up to ₹5 lakh, the Fourth Schedule suggests fees in the ₹45,000-₹50,000 range. The ₹35,000 fee for an ~₹80,000 claim is actually conservative, likely reflecting: (1) Ex-parte proceedings being simpler, (2) Compassionate reduction given borrower's circumstances, or (3) Lower rates for rural seat cases. This fee is reasonable and unlikely to be challenged."
+    ]
   },
   {
-    "question": "The Section 17 application mentions 'TV, Fridge, Washing Machine' as financed assets, but the case involves only 'Washing Machine & Refrigerator.' Is this inconsistent?",
-    "golden_answers": ["Yes, this inconsistency likely indicates content mixing from a different case that included TV. The correct financed assets for Meena Kumari are 'Washing Machine & Refrigerator' per the CRM data. Any references to TV should be removed to maintain factual accuracy."]
+    "question": "The Section 17 application mentions 'TV, Fridge, Washing Machine' as financed assets, but the case involves only 'Washing Machine & Refrigerator.' Is this inconsistent? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, this inconsistency likely indicates content mixing from a different case that included TV. The correct financed assets for Meena Kumari are 'Washing Machine & Refrigerator' per the CRM data. Any references to TV should be removed to maintain factual accuracy."
+    ]
   },
   {
-    "question": "The borrower operates a 'Village Tailoring Shop.' If she's ill, who operates the business?",
-    "golden_answers": ["The case mentions husband handling interactions during recovery visits, suggesting he may be assisting with or running the shop during her illness. Business continuity during the owner's illness is crucial for income generation. Understanding the current operational status helps assess realistic repayment capacity and negotiate accordingly."]
+    "question": "The borrower operates a 'Village Tailoring Shop.' If she's ill, who operates the business? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The case mentions husband handling interactions during recovery visits, suggesting he may be assisting with or running the shop during her illness. Business continuity during the owner's illness is crucial for income generation. Understanding the current operational status helps assess realistic repayment capacity and negotiate accordingly."
+    ]
   },
   {
-    "question": "The Loan Recall Notice dated 15-10-2023 and Section 21 Notice dated 10-11-2023 have only 26 days gap. Is this sufficient response time?",
-    "golden_answers": ["The Recall Notice gives 15 days for payment/response, expiring around 30 October. The Section 21 Notice on 10 November provides 11 days buffer after the deadline. This is adequate—the borrower had 15 days to respond to recall plus additional time before arbitration invocation. The timeline is procedurally sound."]
+    "question": "The Loan Recall Notice dated 15-10-2023 and Section 21 Notice dated 10-11-2023 have only 26 days gap. Is this sufficient response time? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The Recall Notice gives 15 days for payment/response, expiring around 30 October. The Section 21 Notice on 10 November provides 11 days buffer after the deadline. This is adequate—the borrower had 15 days to respond to recall plus additional time before arbitration invocation. The timeline is procedurally sound."
+    ]
   },
   {
-    "question": "The case shows arbitrator appointment on 05-03-2024 via Section 11 petition filed on 15-01-2024. What was the appointment timeline?",
-    "golden_answers": ["The 49-day gap from Section 11 petition (15 January) to appointment (5 March) is reasonable for court-appointed arbitrators. This indicates the court processed the petition efficiently. The timeline suggests no significant objections or complications in the appointment process."]
+    "question": "The case shows arbitrator appointment on 05-03-2024 via Section 11 petition filed on 15-01-2024. What was the appointment timeline? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The 49-day gap from Section 11 petition (15 January) to appointment (5 March) is reasonable for court-appointed arbitrators. This indicates the court processed the petition efficiently. The timeline suggests no significant objections or complications in the appointment process."
+    ]
   },
   {
-    "question": "The Statement of Claim was filed on 20-04-2024, and ex-parte proceedings occurred on 25-07-2024. What happened in the intervening 3 months?",
-    "golden_answers": ["During this period: (1) SOC was served on the borrower (15-30 days), (2) Time given to file Statement of Defense (30-45 days), (3) When no defense filed, application to proceed ex-parte, (4) Notice of ex-parte hearing, (5) Scheduling of the ex-parte date. The 3-month gap reflects procedural steps and reasonable opportunities for the respondent to participate."]
+    "question": "The Statement of Claim was filed on 20-04-2024, and ex-parte proceedings occurred on 25-07-2024. What happened in the intervening 3 months? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "During this period: (1) SOC was served on the borrower (15-30 days), (2) Time given to file Statement of Defense (30-45 days), (3) When no defense filed, application to proceed ex-parte, (4) Notice of ex-parte hearing, (5) Scheduling of the ex-parte date. The 3-month gap reflects procedural steps and reasonable opportunities for the respondent to participate."
+    ]
   },
   {
-    "question": "The case shows the borrower is a 'Tailor' with business in the village. What assets might a village tailor own that could be attached?",
-    "golden_answers": ["Potential attachable assets include: (1) Sewing machines (manual/electric), (2) Shop premises if owned, (3) Raw materials and finished goods inventory, (4) Household goods beyond exemptions, (5) Any bank accounts, (6) Gold/jewelry (common savings in rural India), (7) The financed washing machine and refrigerator. However, basic livelihood tools may be exempt from attachment."]
+    "question": "The case shows the borrower is a 'Tailor' with business in the village. What assets might a village tailor own that could be attached? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Potential attachable assets include: (1) Sewing machines (manual/electric), (2) Shop premises if owned, (3) Raw materials and finished goods inventory, (4) Household goods beyond exemptions, (5) Any bank accounts, (6) Gold/jewelry (common savings in rural India), (7) The financed washing machine and refrigerator. However, basic livelihood tools may be exempt from attachment."
+    ]
   },
   {
-    "question": "The Award authorizes asset liquidation 'if payment not made within 30 days.' What is the typical auction recovery percentage for consumer durables?",
-    "golden_answers": ["Auction recovery for used consumer durables is typically 20-40% of original value, sometimes lower. A 2-year-old washing machine and refrigerator purchased for ₹55,000 might fetch ₹15,000-₹22,000 at auction. Against ₹80,621 outstanding, this represents only 19-27% recovery, leaving substantial shortfall requiring other execution modes."]
+    "question": "The Award authorizes asset liquidation 'if payment not made within 30 days.' What is the typical auction recovery percentage for consumer durables? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Auction recovery for used consumer durables is typically 20-40% of original value, sometimes lower. A 2-year-old washing machine and refrigerator purchased for ₹55,000 might fetch ₹15,000-₹22,000 at auction. Against ₹80,621 outstanding, this represents only 19-27% recovery, leaving substantial shortfall requiring other execution modes."
+    ]
   },
   {
-    "question": "The recovery timeline shows 'Via Speed Post & Hand Delivery' for the Loan Recall Notice. Why use both methods?",
-    "golden_answers": ["Dual delivery methods strengthen service proof: Speed Post provides official postal receipt and tracking, while hand delivery ensures actual receipt with acknowledgment. For rural addresses where Speed Post delivery can be unreliable, hand delivery through field officers ensures the notice reaches the borrower. Combined service leaves no room for 'non-receipt' claims."]
+    "question": "The recovery timeline shows 'Via Speed Post & Hand Delivery' for the Loan Recall Notice. Why use both methods? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Dual delivery methods strengthen service proof: Speed Post provides official postal receipt and tracking, while hand delivery ensures actual receipt with acknowledgment. For rural addresses where Speed Post delivery can be unreliable, hand delivery through field officers ensures the notice reaches the borrower. Combined service leaves no room for 'non-receipt' claims."
+    ]
   },
   {
-    "question": "The case status mentions 'execution planning underway.' What factors should be considered in execution planning for a rural borrower?",
-    "golden_answers": ["Factors include: (1) Cost-benefit analysis—execution costs vs. likely recovery, (2) Asset location and accessibility, (3) Need for local court transfer if borrower moved, (4) Local auction markets for consumer durables, (5) Community dynamics that may affect seizure, (6) Alternative recovery modes (if husband is employed elsewhere), (7) Settlement possibilities before costly execution."]
+    "question": "The case status mentions 'execution planning underway.' What factors should be considered in execution planning for a rural borrower? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Factors include: (1) Cost-benefit analysis—execution costs vs. likely recovery, (2) Asset location and accessibility, (3) Need for local court transfer if borrower moved, (4) Local auction markets for consumer durables, (5) Community dynamics that may affect seizure, (6) Alternative recovery modes (if husband is employed elsewhere), (7) Settlement possibilities before costly execution."
+    ]
   },
   {
-    "question": "The Affidavit of Urgency states assets 'may be disposed of to meet medical costs.' Is this a realistic concern?",
-    "golden_answers": ["Yes, families in medical crises often sell household assets to fund treatment. Washing machines and refrigerators, while not high-value, could be quickly sold locally for immediate cash. The urgency claim is legitimate—without protection orders, the borrower might prioritize medical needs over loan obligations, disposing assets before the lender can act."]
+    "question": "The Affidavit of Urgency states assets 'may be disposed of to meet medical costs.' Is this a realistic concern? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, families in medical crises often sell household assets to fund treatment. Washing machines and refrigerators, while not high-value, could be quickly sold locally for immediate cash. The urgency claim is legitimate—without protection orders, the borrower might prioritize medical needs over loan obligations, disposing assets before the lender can act."
+    ]
   },
   {
-    "question": "The loan was for 24 months with last EMI due 05-02-2025. Given the award date of 15-10-2024, the loan would have matured in 4 months anyway. Should this affect recovery approach?",
-    "golden_answers": ["Yes, the approaching maturity is relevant. If the borrower had paid regularly, only 5 months would remain. This suggests discussing a final settlement: acknowledge 3 EMIs paid plus some interest, waive penalties, and negotiate a reduced lump-sum settlement reflecting what would have been paid. This may yield faster recovery than prolonged execution."]
+    "question": "The loan was for 24 months with last EMI due 05-02-2025. Given the award date of 15-10-2024, the loan would have matured in 4 months anyway. Should this affect recovery approach? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, the approaching maturity is relevant. If the borrower had paid regularly, only 5 months would remain. This suggests discussing a final settlement: acknowledge 3 EMIs paid plus some interest, waive penalties, and negotiate a reduced lump-sum settlement reflecting what would have been paid. This may yield faster recovery than prolonged execution."
+    ]
   },
   {
-    "question": "The case mentions the 'daughter's marriage expenses' as a contributing factor. In Indian context, how significant are marriage expenses for village families?",
-    "golden_answers": ["Marriage expenses can be financially devastating for rural families—often requiring 1-3 years of savings or causing debt. Expenses include: venue, catering, jewelry, trousseau, gifts, and often some dowry pressure despite illegality. A village tailor earning ₹18,000/month might face marriage costs of ₹1-3 lakhs, explaining why loan repayment became secondary."]
+    "question": "The case mentions the 'daughter's marriage expenses' as a contributing factor. In Indian context, how significant are marriage expenses for village families? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Marriage expenses can be financially devastating for rural families—often requiring 1-3 years of savings or causing debt. Expenses include: venue, catering, jewelry, trousseau, gifts, and often some dowry pressure despite illegality. A village tailor earning ₹18,000/month might face marriage costs of ₹1-3 lakhs, explaining why loan repayment became secondary."
+    ]
   },
   {
-    "question": "The Award notes 'compassionate reduction' in the alternate case content with costs of ₹60,000. For Meena Kumari's genuinely distressed situation, should costs be similarly reduced?",
-    "golden_answers": ["Yes, genuine medical emergency and marriage expenses warrant compassionate treatment. While the debt remains due, reducing costs from the standard calculation acknowledges hardship. Reducing arbitrator fees, waiving some penal interest, or suggesting payment in installments demonstrates fairness and may actually improve recovery prospects through cooperation."]
+    "question": "The Award notes 'compassionate reduction' in the alternate case content with costs of ₹60,000. For Meena Kumari's genuinely distressed situation, should costs be similarly reduced? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, genuine medical emergency and marriage expenses warrant compassionate treatment. While the debt remains due, reducing costs from the standard calculation acknowledges hardship. Reducing arbitrator fees, waiving some penal interest, or suggesting payment in installments demonstrates fairness and may actually improve recovery prospects through cooperation."
+    ]
   },
   {
-    "question": "The PAN is MNOPS4567K. Should the Execution Petition seek attachment of any investments linked to this PAN?",
-    "golden_answers": ["Yes, PAN-linked search can reveal bank accounts, fixed deposits, or small savings (though unlikely for a village tailor). Including this prayer ensures comprehensive execution. However, given the borrower's profile, significant financial assets are unlikely. The primary focus should remain on tangible assets and any future income sources."]
+    "question": "The PAN is MNOPS4567K. Should the Execution Petition seek attachment of any investments linked to this PAN? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, PAN-linked search can reveal bank accounts, fixed deposits, or small savings (though unlikely for a village tailor). Including this prayer ensures comprehensive execution. However, given the borrower's profile, significant financial assets are unlikely. The primary focus should remain on tangible assets and any future income sources."
+    ]
   },
   {
-    "question": "The Section 9 petition was filed on 15-12-2023, but the case shows 'Hand Delivery' of Recall Notice in October 2023. Why the 2-month gap before Section 9?",
-    "golden_answers": ["The gap reflects: (1) 15-day recall notice period, (2) Section 21 Notice period, (3) Assessment of whether settlement might occur, (4) Preparation of Section 9 petition. Given the borrower's genuine hardship, the lender likely explored settlement before seeking interim measures. The gap shows measured escalation rather than aggressive litigation."]
+    "question": "The Section 9 petition was filed on 15-12-2023, but the case shows 'Hand Delivery' of Recall Notice in October 2023. Why the 2-month gap before Section 9? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The gap reflects: (1) 15-day recall notice period, (2) Section 21 Notice period, (3) Assessment of whether settlement might occur, (4) Preparation of Section 9 petition. Given the borrower's genuine hardship, the lender likely explored settlement before seeking interim measures. The gap shows measured escalation rather than aggressive litigation."
+    ]
   },
   {
-    "question": "The Execution Petition mentions 'rural location: Field attachment assistance requested.' What does this mean?",
-    "golden_answers": ["This requests court bailiff/process server deployment for rural attachment, potentially with police assistance. Rural areas may require: (1) Translation/local language support, (2) Knowledge of village layout, (3) Community liaison to prevent resistance, (4) Vehicle for transporting attached goods. Courts can direct district administration to assist in such cases."]
+    "question": "The Execution Petition mentions 'rural location: Field attachment assistance requested.' What does this mean? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "This requests court bailiff/process server deployment for rural attachment, potentially with police assistance. Rural areas may require: (1) Translation/local language support, (2) Knowledge of village layout, (3) Community liaison to prevent resistance, (4) Vehicle for transporting attached goods. Courts can direct district administration to assist in such cases."
+    ]
   },
   {
-    "question": "The borrower's monthly income is ₹18,000. The Award directs payment of ₹1,43,621 (₹80,621 + ₹63,000 costs). How many months of income does this represent?",
-    "golden_answers": ["₹1,43,621 divided by ₹18,000 = approximately 8 months of gross income. Even if the entire income went to debt repayment (impossible given living expenses), it would take 8+ months. This underscores the impracticality of the decree for a subsistence-level borrower and suggests installment arrangements or settlement are more realistic than lump-sum recovery."]
+    "question": "The borrower's monthly income is ₹18,000. The Award directs payment of ₹1,43,621 (₹80,621 + ₹63,000 costs). How many months of income does this represent? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "₹1,43,621 divided by ₹18,000 = approximately 8 months of gross income. Even if the entire income went to debt repayment (impossible given living expenses), it would take 8+ months. This underscores the impracticality of the decree for a subsistence-level borrower and suggests installment arrangements or settlement are more realistic than lump-sum recovery."
+    ]
   },
   {
-    "question": "The case shows 'business closure' was cited by field visits. Does the Village Tailoring Shop closure affect execution strategy?",
-    "golden_answers": ["Business closure significantly impacts execution: (1) No business income to attach, (2) Business equipment may have been sold, (3) Family now depends on husband's income (if any), (4) Asset base is reduced. Execution should verify current employment status and focus on household assets if the business is indeed closed."]
+    "question": "The case shows 'business closure' was cited by field visits. Does the Village Tailoring Shop closure affect execution strategy? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Business closure significantly impacts execution: (1) No business income to attach, (2) Business equipment may have been sold, (3) Family now depends on husband's income (if any), (4) Asset base is reduced. Execution should verify current employment status and focus on household assets if the business is indeed closed."
+    ]
   },
   {
-    "question": "The recovery timeline's last entry shows 'Execution Petition filed' on 10-11-2024. What immediate actions should the execution court take?",
-    "golden_answers": ["Immediate actions include: (1) Register and number the execution petition, (2) Issue notice to judgment debtor of execution commencement, (3) Verify no Section 34 application was filed to set aside award, (4) Issue warrant for attachment of identified assets, (5) Appoint commissioner/bailiff for rural execution if required. These initiate the formal execution process."]
+    "question": "The recovery timeline's last entry shows 'Execution Petition filed' on 10-11-2024. What immediate actions should the execution court take? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Immediate actions include: (1) Register and number the execution petition, (2) Issue notice to judgment debtor of execution commencement, (3) Verify no Section 34 application was filed to set aside award, (4) Issue warrant for attachment of identified assets, (5) Appoint commissioner/bailiff for rural execution if required. These initiate the formal execution process."
+    ]
   },
   {
-    "question": "The case references 'Kavita Beauty Parlour' and 'bakery' equipment in mixed sections, but this case involves a tailoring shop. What equipment should be referenced?",
-    "golden_answers": ["For Meena Kumari's case, relevant equipment includes: sewing machines, cutting tables, fabric storage, measuring tools, and shop fixtures. The beauty parlour and bakery references are from different cases. Any execution documents should identify only assets relevant to this borrower's tailoring business and household goods."]
+    "question": "The case references 'Kavita Beauty Parlour' and 'bakery' equipment in mixed sections, but this case involves a tailoring shop. What equipment should be referenced? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "For Meena Kumari's case, relevant equipment includes: sewing machines, cutting tables, fabric storage, measuring tools, and shop fixtures. The beauty parlour and bakery references are from different cases. Any execution documents should identify only assets relevant to this borrower's tailoring business and household goods."
+    ]
   },
   {
-    "question": "The alternate Award content mentions 'Asset liquidation (TV, Fridge, Washing Machine) - rural enforcement considered.' For Meena Kumari, what specific assets should the Award authorize?",
-    "golden_answers": ["For Meena Kumari, the Award should specifically authorize: 'Washing Machine and Refrigerator purchased through Consumer Durable Loan dated 12 February 2023, Invoice numbers [X] and [Y], currently located at Village Rampur, Meerut.' Precise identification prevents confusion and ensures valid attachment of the correct items."]
+    "question": "The alternate Award content mentions 'Asset liquidation (TV, Fridge, Washing Machine) - rural enforcement considered.' For Meena Kumari, what specific assets should the Award authorize? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "For Meena Kumari, the Award should specifically authorize: 'Washing Machine and Refrigerator purchased through Consumer Durable Loan dated 12 February 2023, Invoice numbers [X] and [Y], currently located at Village Rampur, Meerut.' Precise identification prevents confusion and ensures valid attachment of the correct items."
+    ]
   },
   {
-    "question": "The Statement of Account shows ₹792 interest recovered from ₹8,055 paid. This is only 9.8% interest component. Is this accurate for a 17.5% p.a. loan?",
-    "golden_answers": ["For a 24-month loan at 17.5%, early EMIs should have approximately 15-20% interest component. The 9.8% figure (₹792 from ₹8,055) seems low. This may indicate: calculation error, different rate application, or the statement showing cumulative averages. The interest recovery calculation should be verified against the amortization schedule."]
+    "question": "The Statement of Account shows ₹792 interest recovered from ₹8,055 paid. This is only 9.8% interest component. Is this accurate for a 17.5% p.a. loan? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "For a 24-month loan at 17.5%, early EMIs should have approximately 15-20% interest component. The 9.8% figure (₹792 from ₹8,055) seems low. This may indicate: calculation error, different rate application, or the statement showing cumulative averages. The interest recovery calculation should be verified against the amortization schedule."
+    ]
   },
   {
-    "question": "The Award states 'total payable ₹1,43,621 plus future interest.' For execution purposes, should a specific date and amount be calculated?",
-    "golden_answers": ["Yes, the Execution Petition should calculate the total as of filing date: ₹80,621 (principal) + ₹63,000 (costs) + interest from award date (15-10-2024) to filing date at 17.5% p.a. This gives a precise decretal amount for the court to enforce. Leaving it open-ended creates calculation disputes during execution."]
+    "question": "The Award states 'total payable ₹1,43,621 plus future interest.' For execution purposes, should a specific date and amount be calculated? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, the Execution Petition should calculate the total as of filing date: ₹80,621 (principal) + ₹63,000 (costs) + interest from award date (15-10-2024) to filing date at 17.5% p.a. This gives a precise decretal amount for the court to enforce. Leaving it open-ended creates calculation disputes during execution."
+    ]
   },
   {
-    "question": "The field visit on 15-08-2023 noted 'House locked.' Should breaking and entering be considered for attachment?",
-    "golden_answers": ["Breaking and entering is never permissible for civil execution. If the premises are locked, options include: (1) Posting notice on the door, (2) Waiting for occupant return, (3) Obtaining court order for access in presence of witnesses, (4) Having local authorities facilitate entry. Any forced entry without court order could invite criminal complaints."]
+    "question": "The field visit on 15-08-2023 noted 'House locked.' Should breaking and entering be considered for attachment? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Breaking and entering is never permissible for civil execution. If the premises are locked, options include: (1) Posting notice on the door, (2) Waiting for occupant return, (3) Obtaining court order for access in presence of witnesses, (4) Having local authorities facilitate entry. Any forced entry without court order could invite criminal complaints."
+    ]
   },
   {
-    "question": "The case shows extensive genuine hardship—illness, marriage expenses, rural poverty. Should the lender consider writing off this case?",
-    "golden_answers": ["Write-off is a business decision based on: recovery cost vs. likely recovery, borrower's genuine capacity, and portfolio management. For this case, execution costs might exceed recoverable amounts. A practical approach: negotiate a deeply reduced one-time settlement (₹30,000-40,000), accept installments over 12-24 months, or write off with credit bureau reporting. Pursuing full ₹1,43,621 may be futile."]
+    "question": "The case shows extensive genuine hardship—illness, marriage expenses, rural poverty. Should the lender consider writing off this case? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Write-off is a business decision based on: recovery cost vs. likely recovery, borrower's genuine capacity, and portfolio management. For this case, execution costs might exceed recoverable amounts. A practical approach: negotiate a deeply reduced one-time settlement (₹30,000-40,000), accept installments over 12-24 months, or write off with credit bureau reporting. Pursuing full ₹1,43,621 may be futile."
+    ]
   },
   {
-    "question": "The Notice threatens 'approach your employer' but the borrower is self-employed (tailor). Is this threat appropriate?",
-    "golden_answers": ["No, threatening employer approach for a self-employed person is inappropriate and factually incorrect. The borrower has no employer—she is her own employer running a tailoring shop. The notice should be tailored to the borrower's situation. Generic templates with inapplicable threats reduce credibility and may suggest lack of due diligence."]
+    "question": "The Notice threatens 'approach your employer' but the borrower is self-employed (tailor). Is this threat appropriate? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "No, threatening employer approach for a self-employed person is inappropriate and factually incorrect. The borrower has no employer—she is her own employer running a tailoring shop. The notice should be tailored to the borrower's situation. Generic templates with inapplicable threats reduce credibility and may suggest lack of due diligence."
+    ]
   },
   {
-    "question": "The Arbitral Award was passed ex-parte. Can the borrower challenge this award under Section 34?",
-    "golden_answers": ["Yes, the borrower can file Section 34 application within 3 months (extendable by 30 days) to set aside the award. Grounds might include: improper notice, inability to present case due to illness, or procedural irregularity. However, given documented service and opportunities provided, such challenge would face high evidentiary burden to succeed."]
+    "question": "The Arbitral Award was passed ex-parte. Can the borrower challenge this award under Section 34? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, the borrower can file Section 34 application within 3 months (extendable by 30 days) to set aside the award. Grounds might include: improper notice, inability to present case due to illness, or procedural irregularity. However, given documented service and opportunities provided, such challenge would face high evidentiary burden to succeed."
+    ]
   },
   {
-    "question": "The case shows 'Execution Petition filed' but the 30-day payment period may not have expired. What happens if the petition was premature?",
-    "golden_answers": ["If filed before the 30-day deadline, the court may: (1) Hold proceedings in abeyance until deadline expires, (2) Require amended petition with correct dates, or (3) The respondent may raise premature filing as objection. The lender should verify and, if necessary, re-file after the correct date or amend to reflect proper timeline."]
+    "question": "The case shows 'Execution Petition filed' but the 30-day payment period may not have expired. What happens if the petition was premature? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "If filed before the 30-day deadline, the court may: (1) Hold proceedings in abeyance until deadline expires, (2) Require amended petition with correct dates, or (3) The respondent may raise premature filing as objection. The lender should verify and, if necessary, re-file after the correct date or amend to reflect proper timeline."
+    ]
   },
   {
-    "question": "The borrower made 3 EMIs totaling ₹8,055 before defaulting for 18 months. What is her total financial exposure now?",
-    "golden_answers": ["She borrowed ₹55,000, paid ₹8,055, but now owes ₹1,43,621 (including costs). Her net position is negative ₹1,35,566 despite making payments. This illustrates how defaults spiral: original ₹55,000 became ₹1,43,621 through 18 months of interest, penalties, and legal costs—highlighting the importance of early intervention or restructuring."]
+    "question": "The borrower made 3 EMIs totaling ₹8,055 before defaulting for 18 months. What is her total financial exposure now? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "She borrowed ₹55,000, paid ₹8,055, but now owes ₹1,43,621 (including costs). Her net position is negative ₹1,35,566 despite making payments. This illustrates how defaults spiral: original ₹55,000 became ₹1,43,621 through 18 months of interest, penalties, and legal costs—highlighting the importance of early intervention or restructuring."
+    ]
   },
   {
-    "question": "The Award interest rate is 17.5% p.a., same as the contract rate. Should post-award interest be at the same rate or different?",
-    "golden_answers": ["The Award correctly applies the contractual rate of 17.5% p.a. for future interest. Courts typically award contractual rates for pre-award interest and may apply lower rates (like statutory 9-12%) for post-award interest. However, arbitrators often continue contractual rates. The 17.5% post-award rate is within the arbitrator's discretion and matches the agreement."]
+    "question": "The Award interest rate is 17.5% p.a., same as the contract rate. Should post-award interest be at the same rate or different? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The Award correctly applies the contractual rate of 17.5% p.a. for future interest. Courts typically award contractual rates for pre-award interest and may apply lower rates (like statutory 9-12%) for post-award interest. However, arbitrators often continue contractual rates. The 17.5% post-award rate is within the arbitrator's discretion and matches the agreement."
+    ]
   },
   {
-    "question": "The case shows services were verified at 'District Meerut.' Should execution proceedings be in Meerut or can they be transferred?",
-    "golden_answers": ["Under CPC Order 21 Rule 3, decrees can be transferred for execution to the court where the judgment debtor resides or where assets are located. Since the borrower resides in Meerut, Meerut District Court is the appropriate execution court. The arbitral award can be executed as a civil court decree under Section 36 of the Arbitration Act."]
+    "question": "The case shows services were verified at 'District Meerut.' Should execution proceedings be in Meerut or can they be transferred? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Under CPC Order 21 Rule 3, decrees can be transferred for execution to the court where the judgment debtor resides or where assets are located. Since the borrower resides in Meerut, Meerut District Court is the appropriate execution court. The arbitral award can be executed as a civil court decree under Section 36 of the Arbitration Act."
+    ]
   },
   {
-    "question": "The List of Documents shows 64-72 pages across different referenced sections. Is this documentation sufficient for an ex-parte award?",
-    "golden_answers": ["For ex-parte proceedings, documentation must be comprehensive since the respondent won't contest facts. 64-72 pages should include: Loan Agreement, disbursal proof, payment records, default evidence, notices with service proof, field visit reports, and affidavits. This appears sufficient. The tribunal relies entirely on submitted documents, so completeness is critical."]
+    "question": "The List of Documents shows 64-72 pages across different referenced sections. Is this documentation sufficient for an ex-parte award? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "For ex-parte proceedings, documentation must be comprehensive since the respondent won't contest facts. 64-72 pages should include: Loan Agreement, disbursal proof, payment records, default evidence, notices with service proof, field visit reports, and affidavits. This appears sufficient. The tribunal relies entirely on submitted documents, so completeness is critical."
+    ]
   },
   {
-    "question": "The Execution Petition mentions 'Compassionate payment plan consideration.' How does compassion factor into execution proceedings?",
-    "golden_answers": ["While execution courts focus on enforcing decrees, they can: (1) Allow installment payment arrangements, (2) Grant time for voluntary compliance, (3) Exempt subsistence items from attachment, (4) Consider proportionality in attachment. The decree holder expressing openness to compassionate terms may facilitate court cooperation in structuring realistic recovery rather than aggressive but futile enforcement."]
+    "question": "The Execution Petition mentions 'Compassionate payment plan consideration.' How does compassion factor into execution proceedings? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "While execution courts focus on enforcing decrees, they can: (1) Allow installment payment arrangements, (2) Grant time for voluntary compliance, (3) Exempt subsistence items from attachment, (4) Consider proportionality in attachment. The decree holder expressing openness to compassionate terms may facilitate court cooperation in structuring realistic recovery rather than aggressive but futile enforcement."
+    ]
   },
   {
-    "question": "The borrower's Aadhaar ends in XXXX-XXXX-3421. Should full Aadhaar be provided for execution?",
-    "golden_answers": ["For execution, the court may require full identification to verify the judgment debtor's identity, especially if assets are to be attached. However, Aadhaar privacy rules limit disclosure. The court can request verification through UIDAI if needed. Generally, masked Aadhaar plus other identification (PAN, address) is sufficient for execution purposes."]
+    "question": "The borrower's Aadhaar ends in XXXX-XXXX-3421. Should full Aadhaar be provided for execution? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "For execution, the court may require full identification to verify the judgment debtor's identity, especially if assets are to be attached. However, Aadhaar privacy rules limit disclosure. The court can request verification through UIDAI if needed. Generally, masked Aadhaar plus other identification (PAN, address) is sufficient for execution purposes."
+    ]
   },
   {
-    "question": "The case involves a 39-year-old woman with an ill wife (herself) and daughter's marriage. What does this demographic suggest for recovery?",
-    "golden_answers": ["Demographics suggest: (1) Primary earner who is now ill and unable to work, (2) Family life-stage requiring significant expenses, (3) Limited remaining earning years, (4) Possible dependence on husband's income or adult children. Recovery potential is severely limited. Execution should be balanced against humanitarian considerations and realistic expectations."]
+    "question": "The case involves a 39-year-old woman with an ill wife (herself) and daughter's marriage. What does this demographic suggest for recovery? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Demographics suggest: (1) Primary earner who is now ill and unable to work, (2) Family life-stage requiring significant expenses, (3) Limited remaining earning years, (4) Possible dependence on husband's income or adult children. Recovery potential is severely limited. Execution should be balanced against humanitarian considerations and realistic expectations."
+    ]
   },
   {
-    "question": "The Notice was served 'Via Speed Post & Hand Delivery' on 15-10-2023, and the borrower did not respond. Does silence constitute acceptance of claims?",
-    "golden_answers": ["Silence doesn't constitute acceptance, but it does constitute non-denial. The borrower's failure to respond or contest the claims in arbitration means those facts are treated as admitted for purposes of the proceeding. This allows ex-parte award based on claimant's evidence without needing to prove each element against active denial."]
+    "question": "The Notice was served 'Via Speed Post & Hand Delivery' on 15-10-2023, and the borrower did not respond. Does silence constitute acceptance of claims? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Silence doesn't constitute acceptance, but it does constitute non-denial. The borrower's failure to respond or contest the claims in arbitration means those facts are treated as admitted for purposes of the proceeding. This allows ex-parte award based on claimant's evidence without needing to prove each element against active denial."
+    ]
   },
   {
-    "question": "The mixed content references multiple arbitration reference numbers and locations. What is the correct arbitration reference for Meena Kumari's case?",
-    "golden_answers": ["The correct reference for Meena Kumari should be ARB/MEER/2024/1005 (Meerut-based) with Justice (Retd.) Ramesh Kumar as arbitrator. References to ARB/JDH (Jodhpur) or different arbitrators are from other cases. All documents should consistently use the Meerut reference and correct arbitrator name."]
+    "question": "The mixed content references multiple arbitration reference numbers and locations. What is the correct arbitration reference for Meena Kumari's case? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "The correct reference for Meena Kumari should be ARB/MEER/2024/1005 (Meerut-based) with Justice (Retd.) Ramesh Kumar as arbitrator. References to ARB/JDH (Jodhpur) or different arbitrators are from other cases. All documents should consistently use the Meerut reference and correct arbitrator name."
+    ]
   },
   {
-    "question": "The Execution Petition requests 'attachment and sale of consumer durables.' If the washing machine is broken or non-functional, can it still be attached?",
-    "golden_answers": ["Yes, non-functional items can be attached but their auction value will be minimal (scrap value or parts). If significantly damaged, the court may require valuation before attachment to assess cost-benefit. Attaching broken appliances may cost more in storage and auction fees than the recovery. Practical assessment should precede attachment decisions."]
+    "question": "The Execution Petition requests 'attachment and sale of consumer durables.' If the washing machine is broken or non-functional, can it still be attached? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, non-functional items can be attached but their auction value will be minimal (scrap value or parts). If significantly damaged, the court may require valuation before attachment to assess cost-benefit. Attaching broken appliances may cost more in storage and auction fees than the recovery. Practical assessment should precede attachment decisions."
+    ]
   },
   {
-    "question": "The recovery timeline shows the husband interacting on behalf of the ill wife. Can execution notices be served on the husband?",
-    "golden_answers": ["Service on family members present at the address is valid under CPC Order V Rule 17 if the judgment debtor is not available. The husband receiving notices on behalf of his ill wife constitutes proper service. However, the decree is against Meena Kumari personally—the husband cannot be made to pay unless he is a guarantor (he isn't)."]
+    "question": "The recovery timeline shows the husband interacting on behalf of the ill wife. Can execution notices be served on the husband? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Service on family members present at the address is valid under CPC Order V Rule 17 if the judgment debtor is not available. The husband receiving notices on behalf of his ill wife constitutes proper service. However, the decree is against Meena Kumari personally—the husband cannot be made to pay unless he is a guarantor (he isn't)."
+    ]
   },
   {
-    "question": "The Award was passed on 15-10-2024. The Execution Petition mentions no Section 34 application was filed. How long can the borrower still file Section 34?",
-    "golden_answers": ["Section 34 allows 3 months from award receipt to challenge, extendable by another 30 days in exceptional circumstances. If the award was served on 25 October 2024, the basic deadline is 25 January 2025, extendable to 25 February 2025. The execution filed on 10 November 2024 is concurrent with the running Section 34 period—execution can proceed but may be stayed if Section 34 is filed."]
+    "question": "The Award was passed on 15-10-2024. The Execution Petition mentions no Section 34 application was filed. How long can the borrower still file Section 34? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Section 34 allows 3 months from award receipt to challenge, extendable by another 30 days in exceptional circumstances. If the award was served on 25 October 2024, the basic deadline is 25 January 2025, extendable to 25 February 2025. The execution filed on 10 November 2024 is concurrent with the running Section 34 period—execution can proceed but may be stayed if Section 34 is filed."
+    ]
   },
   {
-    "question": "The case shows ₹9,650 penal interest accumulated over 18 months on approximately ₹47,737 outstanding. What penal rate does this imply?",
-    "golden_answers": ["₹9,650 on ₹47,737 over 18 months implies roughly 1.1% per month or about 13.4% per year in penal charges. This is moderate—standard penal rates are 2-3% per month. The relatively low penal rate may reflect: company policy, compassionate reduction, or specific loan agreement terms. This rate is unlikely to be challenged as excessive."]
+    "question": "The case shows ₹9,650 penal interest accumulated over 18 months on approximately ₹47,737 outstanding. What penal rate does this imply? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "₹9,650 on ₹47,737 over 18 months implies roughly 1.1% per month or about 13.4% per year in penal charges. This is moderate—standard penal rates are 2-3% per month. The relatively low penal rate may reflect: company policy, compassionate reduction, or specific loan agreement terms. This rate is unlikely to be challenged as excessive."
+    ]
   },
   {
-    "question": "The borrower's income of ₹18,000/month from tailoring likely varies seasonally. Should execution consider seasonal income patterns?",
-    "golden_answers": ["Yes, tailoring income varies: higher during wedding/festival seasons (October-February, April-May), lower in off-seasons. Execution timing during high-income months improves recovery prospects. Alternatively, an installment arrangement timed with high-earning periods could facilitate payment. Understanding income seasonality helps structure realistic recovery."]
+    "question": "The borrower's income of ₹18,000/month from tailoring likely varies seasonally. Should execution consider seasonal income patterns? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, tailoring income varies: higher during wedding/festival seasons (October-February, April-May), lower in off-seasons. Execution timing during high-income months improves recovery prospects. Alternatively, an installment arrangement timed with high-earning periods could facilitate payment. Understanding income seasonality helps structure realistic recovery."
+    ]
   },
   {
-    "question": "The total costs in the Award are ₹63,000. If the borrower had responded and negotiated settlement early, approximately how much could have been saved?",
-    "golden_answers": ["Early settlement could have avoided: (1) Arbitrator fees ₹35,000, (2) Advocate fees ₹20,000, (3) Admin costs ₹8,000, (4) Plus reduced penal interest and legal notice charges. Total savings could be ₹50,000-60,000. The ₹80,621 principal might have been settled for ₹60,000-70,000 with early engagement, versus now facing ₹1,43,621. This illustrates the cost of avoiding communication."]
+    "question": "The total costs in the Award are ₹63,000. If the borrower had responded and negotiated settlement early, approximately how much could have been saved? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Early settlement could have avoided: (1) Arbitrator fees ₹35,000, (2) Advocate fees ₹20,000, (3) Admin costs ₹8,000, (4) Plus reduced penal interest and legal notice charges. Total savings could be ₹50,000-60,000. The ₹80,621 principal might have been settled for ₹60,000-70,000 with early engagement, versus now facing ₹1,43,621. This illustrates the cost of avoiding communication."
+    ]
   },
   {
-    "question": "The Execution Petition filed on 10-11-2024 is during Diwali season. Should timing of rural execution consider festival seasons?",
-    "golden_answers": ["Yes, festival timing matters: (1) Rural families may have limited cash after festival expenses, (2) Courts have reduced working days during festivals, (3) Attachment during festivals may cause community resistance, (4) Conversely, post-Diwali may see higher business income for tailors (winter wedding season). Strategic timing improves both logistics and recovery prospects."]
+    "question": "The Execution Petition filed on 10-11-2024 is during Diwali season. Should timing of rural execution consider festival seasons? <case_id:case_005, folder_id:ARB/2024/1005>",
+    "golden_answers": [
+      "Yes, festival timing matters: (1) Rural families may have limited cash after festival expenses, (2) Courts have reduced working days during festivals, (3) Attachment during festivals may cause community resistance, (4) Conversely, post-Diwali may see higher business income for tailors (winter wedding season). Strategic timing improves both logistics and recovery prospects."
+    ]
   }
 ]

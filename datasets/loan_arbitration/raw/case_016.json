@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What is the loan account number for Neha Kapoor's personal loan with Phoenix Finance Ltd.? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The loan account number is PFL-PL-231016. This is a Personal Loan sanctioned on 5th October 2023 with a loan amount of ₹4,00,000/- for a 60-month tenure."
+    ]
+  },
+  {
+    "question": "What is the total outstanding amount claimed against Neha Kapoor as on 26-11-2024? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The total outstanding amount is ₹5,15,354/- as on 26-11-2024, comprising: Principal outstanding ₹3,75,048/-, Interest outstanding ₹98,456/-, Penal interest & charges ₹36,850/-, and Legal notice charges ₹5,000/-."
+    ]
+  },
+  {
+    "question": "What is the reason for default in Neha Kapoor's case? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The default is due to international relocation to London, UK. The borrower was permanently transferred to Ernst & Young's London office effective February 2024, after which she stopped making loan payments despite earning in pounds."
+    ]
+  },
+  {
+    "question": "What is the borrower's employment status as confirmed by EY HR? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "Employer verification with Ernst & Young HR on 20-04-2024 confirmed the borrower's permanent transfer to the London office effective February 2024. She was previously employed as Senior Consultant with monthly salary of ₹68,000/-."
+    ]
+  },
+  {
+    "question": "How many EMIs did Neha Kapoor pay before defaulting? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "Neha Kapoor paid only 3 full EMIs totaling ₹31,104/- (November 2023 to January 2024). The first bounce occurred in February 2024 due to insufficient funds, coinciding with her London transfer."
+    ]
+  },
+  {
+    "question": "What is the Days Past Due (DPD) for this loan account? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Days Past Due (DPD) is 294 days as on 26-11-2024. The default commenced from February 2024 when the first EMI bounced following the borrower's international relocation."
+    ]
+  },
+  {
+    "question": "What response did the borrower provide on 15-07-2024? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "On 15-07-2024, the borrower responded via email citing currency conversion issues and promising to arrange payment. However, no payment was received thereafter, with excuses given during follow-up on 05-08-2024."
+    ]
+  },
+  {
+    "question": "What is the discrepancy in the Section 17 Application regarding loan amount? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Section 17 Application incorrectly states 'Personal Loan ₹9,50,000/-' but the actual loan amount is ₹4,00,000/-. Similarly, the outstanding is stated as ₹10,04,832/- instead of the correct ₹5,15,354/-. These are significant errors requiring correction."
+    ]
+  },
+  {
+    "question": "What is the interest rate on this personal loan? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The interest rate is 18.5% p.a. on a reducing balance basis. This was the contracted rate at the time of sanction on 5th October 2023 for the 60-month tenure personal loan."
+    ]
+  },
+  {
+    "question": "What information did the borrower's father provide on 20-05-2024? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "During the call to the alternate number on 20-05-2024, the father answered and confirmed that his daughter is in London and earning in pounds. This provided additional confirmation of the international relocation."
+    ]
+  },
+  {
+    "question": "What is the tracking number and date of the Loan Recall Notice? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Loan Recall Notice was issued on 25th June 2024 via Email and courier to the London address. No specific Speed Post tracking number is mentioned for this notice which was primarily email-based due to international location."
+    ]
+  },
+  {
+    "question": "What is the borrower's residential address as per loan records? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The residential address on record is B-67, Green Park Extension, New Delhi - 110016. However, the flat was found locked during the residence visit on 10-04-2024, with society office confirming the tenant moved abroad."
+    ]
+  },
+  {
+    "question": "What Section 21 Notice date is recorded in the file? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Section 21 Notice invoking arbitration was issued on 15th July 2024. The notice warns of arbitration proceedings and credit bureau reporting if payment is not made."
+    ]
+  },
+  {
+    "question": "What is the generated Case ID for this matter? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The generated Case ID is PFL/PL/2023/01016. This is Phoenix Finance Ltd.'s internal reference number for tracking this Personal Loan recovery case against Neha Kapoor."
+    ]
+  },
+  {
+    "question": "What is the EMI amount per month for this loan? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The EMI amount is ₹10,368/- per month for the 60-month tenure. This was calculated based on the loan amount of ₹4,00,000/- at an interest rate of 18.5% p.a. on reducing balance."
+    ]
+  },
+  {
+    "question": "What processing fee was charged on this loan? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The processing fee charged was ₹12,000/- which represents 3% of the loan amount (₹4,00,000/-). This is a standard processing fee percentage for personal loans."
+    ]
+  },
+  {
+    "question": "What was found during the residence visit on 10-04-2024? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "During the residence visit on 10-04-2024, the flat was found locked. The society office confirmed that the tenant had moved abroad, confirming the international relocation."
+    ]
+  },
+  {
+    "question": "What is the principal amount recovered from EMI payments? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The principal recovered is ₹24,952/- from total EMI payments of ₹31,104/- (3 EMIs of ₹10,368/-). The remaining ₹6,152/- was applied towards interest recovery."
+    ]
+  },
+  {
+    "question": "What Section 9 relief is sought in this case? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Section 9 Petition prays for: Restraining from transferring funds abroad, directing disclosure of foreign bank accounts, freezing domestic assets, and allowing international enforcement mechanisms."
+    ]
+  },
+  {
+    "question": "What is the borrower's PAN and Aadhaar number? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The borrower's PAN is STUKA8901W and Aadhaar is XXXX-XXXX-6789 (masked format). These KYC details are maintained in CRM records for loan account PFL-PL-231016."
+    ]
+  },
+  {
+    "question": "What is the default reason officially recorded? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The official default reason is: 'Relocation abroad - left country without settling loan, avoiding payment.' This classification indicates willful default through international evasion by a financially capable borrower."
+    ]
+  },
+  {
+    "question": "What is the current case status? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The current status is: 'Recall Notice issued, borrower making excuses, legal action being planned.' The case is in the advanced stages of Phase 3 legal recovery with arbitration proceedings imminent."
+    ]
+  },
+  {
+    "question": "What punitive interest rate is awarded in the Arbitral Award extract? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Arbitral Award extract mentions interest at 22% p.a., described as 'punitive for international evasion.' This is significantly higher than the contractual rate of 18.5% p.a. to penalize deliberate avoidance."
+    ]
+  },
+  {
+    "question": "What is the phone number status during recovery calls? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The phone numbers +91-9871345678 and +91-9871345679 were on international roaming during calls. The call attempt on 20-02-2024 reached international roaming and the borrower was not reachable."
+    ]
+  },
+  {
+    "question": "What email auto-reply was received on 05-03-2024? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The email reminder on 05-03-2024 received an 'out of office' auto-reply indicating the borrower had relocated to the London office. This was early confirmation of the international transfer."
+    ]
+  },
+  {
+    "question": "What is the repayment tenure for this loan? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The repayment tenure is 60 months from November 2023 to October 2028. The first EMI was due on 5th November 2023 and the last EMI was scheduled for 5th October 2028."
+    ]
+  },
+  {
+    "question": "What costs are mentioned in the Arbitral Award extract? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Arbitral Award extract mentions costs of ₹1,25,000/- with total award amount of ₹11,29,832/- plus interest. The high costs reflect the complexity of international evasion case."
+    ]
+  },
+  {
+    "question": "What is the date of sanction and disbursal for this loan? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The date of sanction is 5th October 2023 and the date of disbursal is 10th October 2023 - a 5-day gap which is standard for personal loans."
+    ]
+  },
+  {
+    "question": "What is the pincode of the borrower's address? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The pincode of the borrower's address in Green Park Extension, New Delhi is 110016. This address is now vacant as the borrower relocated to London."
+    ]
+  },
+  {
+    "question": "What formal demand letter was sent and when? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "A formal demand letter was sent via Email to all known addresses on 10-06-2024. This was followed by the Loan Recall Notice on 25-06-2024 via Email and courier to the London address."
+    ]
+  },
+  {
+    "question": "What is the borrower's age and gender? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The borrower Neha Kapoor is 32 years old and female. She was employed at Ernst & Young LLP as Senior Consultant with monthly salary of ₹68,000/- before her London transfer."
+    ]
+  },
+  {
+    "question": "What email address is on record for the borrower? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The borrower's email address is neha.kapoor91@gmail.com as per CRM records. Email has been the primary communication mode given the international location."
+    ]
+  },
+  {
+    "question": "What urgency grounds are cited in the Affidavit of Urgency? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta cites: International relocation making recovery extremely difficult, high-earning professional deliberately evading, fund transfer to London accounts imminent, and immediate domestic asset freeze critical before funds leave India."
+    ]
+  },
+  {
+    "question": "What Arbitration Reference Number is mentioned in the file? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Arbitration Reference Number is ARB/2024/1016 as mentioned in the Section 17 Application and Statement of Claim documents."
+    ]
+  },
+  {
+    "question": "What Section 9 petition filing date is recorded? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Section 9 Petition was filed on 1st August 2024 before the Hon'ble District Judge, New Delhi by Advocate Ramesh Khanna seeking interim measures including domestic asset freeze."
+    ]
+  },
+  {
+    "question": "What London office contact was found during email attempt on 05-05-2024? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The email to the office ID on 05-05-2024 received an auto-reply with London office contact details, confirming the borrower's transfer to the UK office of Ernst & Young."
+    ]
+  },
+  {
+    "question": "What is the first EMI and last EMI due date? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The first EMI due date is 5th November 2023 and the last EMI due date is 5th October 2028. The loan has a 60-month tenure but the borrower defaulted after just 3 EMIs."
+    ]
+  },
+  {
+    "question": "Calculate the outstanding as percentage of original loan. <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The outstanding amount of ₹5,15,354/- represents approximately 129% of the original loan of ₹4,00,000/-. This reflects accumulated interest and penalties over the 294-day default period."
+    ]
+  },
+  {
+    "question": "What execution mode is mentioned in the Arbitral Award? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Arbitral Award extract includes 'FREEZE ALL DOMESTIC ASSETS IMMEDIATELY' as a key execution direction, recognizing the urgency of preventing fund transfers to the UK."
+    ]
+  },
+  {
+    "question": "What international enforcement mechanism is sought? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Execution Petition seeks 'Cooperation with UK authorities (if reciprocal agreements exist)' for international recovery. However, India and UK have limited reciprocal enforcement mechanisms for such awards."
+    ]
+  },
+  {
+    "question": "What Section 17 relief is sought in this case? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Section 17 Application seeks: Freezing all domestic bank accounts, restraining from transferring funds abroad, directing full disclosure of assets, and expedited proceedings given international evasion."
+    ]
+  },
+  {
+    "question": "What is the case folder number? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The case folder number is ARB/2024/1016 as shown in the header. This matches the Arbitration Reference Number used in legal documents."
+    ]
+  },
+  {
+    "question": "What evidence of international relocation is documented? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "Evidence includes: (1) EY HR confirmation of permanent London transfer effective Feb 2024; (2) Email auto-replies showing London office; (3) Father confirming daughter in London earning pounds; (4) Flat locked with society confirming abroad move; (5) International roaming on phone calls."
+    ]
+  },
+  {
+    "question": "What List of Documents is mentioned for this case? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "Annexures C-1 to C-17 (82 pages) should include: Loan Agreement, Passport Copies, London Relocation Proof (Visa, Employment Contract), Bank Account Details (UK & India), Asset Disclosure Forms, Communication Records, Bank Statements, and KYC."
+    ]
+  },
+  {
+    "question": "What final Recall Notice was sent and when? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Final Recall Notice was sent on 25-08-2024 via Email warning of arbitration proceedings. This followed the initial Recall Notice on 25-06-2024 with no concrete action from the borrower."
+    ]
+  },
+  {
+    "question": "What is the interest recovered from EMI payments? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The interest recovered is ₹6,152/- from total EMI payments of ₹31,104/- (3 EMIs of ₹10,368/-). The principal recovered is ₹24,952/-."
+    ]
+  },
+  {
+    "question": "What internal review decision was made on 15-09-2024? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The internal review on 15-09-2024 noted 'No concrete action' from the borrower despite multiple promises, leading to the decision to prepare for arbitration proceedings."
+    ]
+  },
+  {
+    "question": "Draft the challenges in enforcing an award against a UK-based borrower. <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "Challenges: (1) No direct reciprocal enforcement treaty between India and UK; (2) Award must be recognized as foreign judgment in UK courts; (3) UK assets require separate discovery proceedings; (4) Currency conversion and transfer restrictions; (5) High cost of international legal proceedings; (6) Domestic assets may be limited or already transferred."
+    ]
+  },
+  {
+    "question": "What is the penal interest and charges amount? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The penal interest and charges amount to ₹36,850/- as on 26-11-2024. This relatively high amount reflects the deliberate evasion by a financially capable borrower."
+    ]
+  },
+  {
+    "question": "What Execution Petition modes are sought? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Execution Petition seeks: (A) URGENT DOMESTIC ASSET FREEZE of all Indian bank accounts; (B) Property search and attachment of any Indian property; (C) International recovery with UK authorities; (D) Prevention of fund transfers abroad."
+    ]
+  },
+  {
+    "question": "What is unique about this international relocation case? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "Unique aspects: (1) Planned permanent transfer, not temporary assignment; (2) High-earning professional with capacity to pay; (3) Earnings in GBP yet avoiding INR loan; (4) Making excuses (currency conversion) rather than denying obligation; (5) Father in India aware of situation; (6) Domestic assets still in India potentially."
+    ]
+  },
+  {
+    "question": "What error exists in the Section 6 Statement of Claim? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "Section 6 SOC has errors: (1) Loan amount stated as ₹9,50,000/- instead of ₹4,00,000/-; (2) Outstanding stated as ₹10,04,832/- instead of ₹5,15,354/-; (3) Principal outstanding stated as ₹8,84,256/- which is incorrect. These are significant material errors."
+    ]
+  },
+  {
+    "question": "What follow-up action was taken on 05-08-2024? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "On 05-08-2024, follow-up was conducted via Email and Call regarding the borrower's promise to arrange payment. However, no payment was received and excuses were given, indicating deliberate avoidance."
+    ]
+  },
+  {
+    "question": "Review the recovery timeline from first default to current stage. <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "Timeline: First default Feb 2024 → Soft reminders Feb-Mar 2024 → Field visits Apr-May 2024 (confirmed abroad) → Formal demand Jun 2024 → Recall Notice Jun 2024 → Section 21 Jul 2024 → Section 9 Aug 2024 → Final notice Aug 2024 → Preparing arbitration Sep 2024."
+    ]
+  },
+  {
+    "question": "What recovery options are available for Indian assets? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "Available options: (1) Freeze Indian bank accounts through court order; (2) Attach any Indian property in borrower's name; (3) Issue Look Out Circular (LOC) for immigration alert; (4) Report to credit bureaus affecting Indian credit score; (5) Pursue guarantors or co-applicants if any; (6) Father as potential contact for resolution."
+    ]
+  },
+  {
+    "question": "What is the Statement of Claim filing date as per correct timeline? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Statement of Claim is dated 5th August 2024 as per Section 6. It was filed by Advocate Ramesh Khanna on behalf of Phoenix Finance Ltd., though it contains amount errors that need correction."
+    ]
+  },
+  {
+    "question": "What is the Affidavit of Urgency verification date? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Affidavit of Urgency by Priya Mehta was verified on 1st August 2024, the same date as the Section 9 Petition filing. It emphasizes the urgency of domestic asset freeze before funds leave India."
+    ]
+  },
+  {
+    "question": "Calculate potential recovery if father acts as intermediary. <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "If the father (who confirmed daughter's UK earnings) acts as intermediary: (1) Outstanding of ₹5,15,354/- could be settled in full given daughter's GBP income; (2) One-time transfer from UK account feasible; (3) Family pressure may motivate payment; (4) Avoids expensive international legal proceedings."
+    ]
+  },
+  {
+    "question": "Draft corrections needed for the Statement of Claim amounts. <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "Corrections needed: (1) Principal Outstanding: Change from ₹8,84,256/- to ₹3,75,048/-; (2) Interest & Charges: Change from ₹1,15,576/- to ₹98,456/- + ₹36,850/-; (3) Total: Change from ₹10,04,832/- to ₹5,15,354/-; (4) Loan amount in header: Change from ₹9,50,000/- to ₹4,00,000/-."
+    ]
+  },
+  {
+    "question": "What Evidence Affidavit error exists regarding loan amount? <case_id:case_016, folder_id:ARB/2024/1016>",
+    "golden_answers": [
+      "The Evidence Affidavit by Amit Verma incorrectly states 'Personal Loan ₹9,50,000/-' and 'Outstanding ₹10,04,832/-'. The correct figures are ₹4,00,000/- loan amount and ₹5,15,354/- outstanding. These material errors need correction."
+    ]
+  }
+]
