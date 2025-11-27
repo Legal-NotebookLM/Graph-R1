@@ -41,21 +41,21 @@ def extract_knowledge(rag, unique_contexts):
         
 def embed_knowledge(data_source):
     corpus = []
-    with open(f"expr/{data_source}/kv_store_text_chunks.json") as f:
+    with open(f"expr/{data_source}/kv_store_text_chunks.json", encoding='utf-8') as f:
         texts = json.load(f)
         for item in texts:
             corpus.append(texts[item]['content'])
 
     corpus_entity = []
     corpus_entity_des = []
-    with open(f"expr/{data_source}/kv_store_entities.json") as f:
+    with open(f"expr/{data_source}/kv_store_entities.json", encoding='utf-8') as f:
         entities = json.load(f)
         for item in entities:
             corpus_entity.append(entities[item]['entity_name'])
             corpus_entity_des.append(entities[item]['content'])
             
     corpus_hyperedge = []
-    with open(f"expr/{data_source}/kv_store_hyperedges.json") as f:
+    with open(f"expr/{data_source}/kv_store_hyperedges.json", encoding='utf-8') as f:
         hyperedges = json.load(f)
         for item in hyperedges:
             corpus_hyperedge.append(hyperedges[item]['content'])
@@ -120,7 +120,7 @@ if __name__ == "__main__":
     data_source = args.data_source
     
     unique_contexts = []
-    with open(f"datasets/{data_source}/corpus.jsonl") as f:
+    with open(f"datasets/{data_source}/corpus.jsonl", encoding='utf-8') as f:
         for line in f:
             data = json.loads(line)
             unique_contexts.append(data["contents"])

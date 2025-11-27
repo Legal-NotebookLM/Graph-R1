@@ -6,11 +6,8 @@ import re
 import struct
 from functools import lru_cache
 from typing import List, Dict, Callable, Any, Union, Optional
-import aioboto3
 import aiohttp
 import numpy as np
-import ollama
-import torch
 from openai import (
     AsyncOpenAI,
     APIConnectionError,
@@ -25,7 +22,28 @@ from tenacity import (
     wait_exponential,
     retry_if_exception_type,
 )
-from transformers import AutoTokenizer, AutoModelForCausalLM
+
+# Optional imports - only needed for specific backends
+try:
+    import aioboto3
+except ImportError:
+    aioboto3 = None
+
+try:
+    import ollama
+except ImportError:
+    ollama = None
+
+try:
+    import torch
+except ImportError:
+    torch = None
+
+try:
+    from transformers import AutoTokenizer, AutoModelForCausalLM
+except ImportError:
+    AutoTokenizer = None
+    AutoModelForCausalLM = None
 
 from .utils import (
     wrap_embedding_func_with_attrs,
@@ -167,6 +185,8 @@ async def bedrock_complete_if_cache(
     aws_session_token=None,
     **kwargs,
 ) -> str:
+    if aioboto3 is None:
+        raise ImportError("aioboto3 is required for AWS Bedrock. Install it with: pip install aioboto3")
     os.environ["AWS_ACCESS_KEY_ID"] = os.environ.get(
         "AWS_ACCESS_KEY_ID", aws_access_key_id
     )
@@ -222,6 +242,8 @@ async def bedrock_complete_if_cache(
 
 @lru_cache(maxsize=1)
 def initialize_hf_model(model_name):
+    if AutoTokenizer is None or AutoModelForCausalLM is None:
+        raise ImportError("transformers is required for local HuggingFace models. Install it with: pip install transformers torch")
     hf_tokenizer = AutoTokenizer.from_pretrained(
         model_name, device_map="auto", trust_remote_code=True
     )
@@ -313,6 +335,8 @@ async def ollama_model_if_cache(
     history_messages=[],
     **kwargs,
 ) -> Union[str, AsyncIterator[str]]:
+    if ollama is None:
+        raise ImportError("ollama is required for local Ollama models. Install it with: pip install ollama")
     stream = True if kwargs.get("stream") else False
     kwargs.pop("max_tokens", None)
     # kwargs.pop("response_format", None) # allow json
@@ -934,6 +958,8 @@ async def bedrock_embedding(
     aws_secret_access_key=None,
     aws_session_token=None,
 ) -> np.ndarray:
+    if aioboto3 is None:
+        raise ImportError("aioboto3 is required for AWS Bedrock embeddings. Install it with: pip install aioboto3")
     os.environ["AWS_ACCESS_KEY_ID"] = os.environ.get(
         "AWS_ACCESS_KEY_ID", aws_access_key_id
     )
@@ -994,6 +1020,8 @@ async def bedrock_embedding(
 
 
 async def hf_embedding(texts: list[str], tokenizer, embed_model) -> np.ndarray:
+    if torch is None:
+        raise ImportError("torch is required for HuggingFace embeddings. Install it with: pip install torch")
     device = next(embed_model.parameters()).device
     input_ids = tokenizer(
         texts, return_tensors="pt", padding=True, truncation=True
@@ -1011,6 +1039,8 @@ async def ollama_embedding(texts: list[str], embed_model, **kwargs) -> np.ndarra
     """
     Deprecated in favor of `embed`.
     """
+    if ollama is None:
+        raise ImportError("ollama is required for Ollama embeddings. Install it with: pip install ollama")
     embed_text = []
     ollama_client = ollama.Client(**kwargs)
     for text in texts:
@@ -1021,6 +1051,8 @@ async def ollama_embedding(texts: list[str], embed_model, **kwargs) -> np.ndarra
 
 
 async def ollama_embed(texts: list[str], embed_model, **kwargs) -> np.ndarray:
+    if ollama is None:
+        raise ImportError("ollama is required for Ollama embeddings. Install it with: pip install ollama")
     ollama_client = ollama.Client(**kwargs)
     data = ollama_client.embed(model=embed_model, input=texts)
     return data["embeddings"]

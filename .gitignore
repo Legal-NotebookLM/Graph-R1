@@ -180,8 +180,8 @@ new_datasets/
 *openai_api_key.txt
 *.log
 graphrag/HyperGraphRAG/expr/*
-expr/*
+# expr/*
 datasets2/*
 expr2/*
 Readme.md
-expr_results/*
+# expr_results/*

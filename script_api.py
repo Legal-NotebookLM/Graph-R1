@@ -26,7 +26,7 @@ model = FlagAutoModel.from_finetuned(
 print(f"[DEBUG] LOADING EMBEDDINGS")
 index_entity = faiss.read_index(f"expr/{data_source}/index_entity.bin")
 corpus_entity = []
-with open(f"expr/{data_source}/kv_store_entities.json") as f:
+with open(f"expr/{data_source}/kv_store_entities.json", encoding='utf-8') as f:
     entities = json.load(f)
     for item in entities:
         corpus_entity.append(entities[item]['entity_name'])
@@ -36,7 +36,7 @@ print("[DEBUG] EMBEDDINGS LOADED")
 print(f"[DEBUG] LOADING EMBEDDINGS")
 index_hyperedge = faiss.read_index(f"expr/{data_source}/index_hyperedge.bin")
 corpus_hyperedge = []
-with open(f"expr/{data_source}/kv_store_hyperedges.json") as f:
+with open(f"expr/{data_source}/kv_store_hyperedges.json", encoding='utf-8') as f:
     hyperedges = json.load(f)
     for item in hyperedges:
         corpus_hyperedge.append(hyperedges[item]['content'])

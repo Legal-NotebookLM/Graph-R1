@@ -1,57 +1,48 @@
-# requirements.txt records the full set of dependencies for development
-accelerate
-codetiming
-datasets
-dill
-flash-attn
-hydra-core
-liger-kernel
-math-verify[antlr4_9_3]
-numpy
-pandas
-peft
-pyarrow>=15.0.0
-pybind11
-pylatexenc
-ray[default]
-tensordict<0.6
-torchdata
-transformers
-vllm<=0.6.3
-wandb
+# Minimal requirements for Graph-R1 Knowledge Graph Building Only
+# (No training or inference dependencies)
 
-FlagEmbedding
-faiss-cpu
-accelerate
-aioboto3
+# Core graph building dependencies
+networkx>=3.0
+nano-vectordb
+numpy>=1.21.0
+tiktoken
+
+# Progress bars
+tqdm
+
+# Async HTTP (for OpenAI API calls)
 aiohttp
 
-# database packages
-graspologic
-hnswlib
-nano-vectordb
-neo4j
-networkx
-ollama
-openai
-oracledb
-pymilvus
-pymongo
-pymysql
-pyvis
-# lmdeploy[all]
-sqlalchemy
+# Retry logic
 tenacity
 
+# Embeddings and Vector Search (for script_build.py)
+FlagEmbedding
+faiss-cpu
 
-# LLM packages
-tiktoken
-transformers
-xxhash
-jsonlines
-nltk
-PyPDF2
-fastapi
-uvicorn
-spacy
+# LLM for Entity Extraction (default uses OpenAI)
+# If you want to use OpenAI API for entity extraction:
+openai
 
+# Optional: Only needed if using AWS Bedrock (not needed for OpenAI default)
+# aioboto3
+
+# Optional: Only needed if using local HuggingFace models (not needed for OpenAI default)
+# transformers
+# torch
+
+# Optional: Only needed if using Ollama local models (not needed for OpenAI default)
+# ollama
+
+# Optional: Database backends (only if you need them)
+# neo4j                    # For Neo4j graph storage
+# pymongo                  # For MongoDB KV storage
+# oracledb                 # For Oracle storage
+# pymilvus                 # For Milvus vector storage
+# chromadb                 # For ChromaDB vector storage
+# pymysql                  # For TiDB storage
+# sqlalchemy               # For SQL databases
+
+# Optional: Additional utilities
+# graspologic              # For graph algorithms (node2vec)
+# pyvis                    # For graph visualization
