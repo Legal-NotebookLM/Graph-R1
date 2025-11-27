@@ -174,7 +174,7 @@ cython_debug/
 outputs/
 checkpoints/
 wandb/
-datasets/
+# datasets/
 new_datasets/
 
 *openai_api_key.txt

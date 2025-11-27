@@ -1,0 +1,334 @@
+[
+  {
+    "question": "The Section 21 Notice dated 10th March 2024 refers to the borrower as 'Ramesh Kumar' but the CRM data shows the borrower's name as 'Ramesh Patel.' Is this a critical error?",
+    "golden_answers": ["Yes, this is a critical error that could invalidate service and create identity confusion. All legal documents must use the exact name as per the Loan Agreement and KYC documents. The notice should be corrected to 'Ramesh Patel' and re-issued if not already served."]
+  },
+  {
+    "question": "The Loan Recall Notice states the loan amount as ₹70,000, but the CRM data shows sanctioned amount as ₹68,000. Should this be corrected?",
+    "golden_answers": ["Yes, the loan amount must match the sanctioned amount of ₹68,000 as per the Loan Agreement dated 5 February 2023. Stating ₹70,000 is factually incorrect and may give the borrower grounds to challenge the notice's validity. This should be corrected immediately."]
+  },
+  {
+    "question": "The borrower Ramesh Patel operates 'Patel General Store' and is self-employed. The Execution Petition proposes salary attachment, but he's not salaried. How should execution be modified?",
+    "golden_answers": ["The execution strategy should focus on business income attachment rather than salary. Options include daily sales attachment from Patel General Store, vehicle attachment (TVS Jupiter), or bank account garnishment. Salary attachment is inapplicable for self-employed borrowers."]
+  },
+  {
+    "question": "The field visit on 15-12-2023 found the borrower at his shop and he mentioned crop failure affecting sales, requesting 3 months time. Was this promise documented in writing?",
+    "golden_answers": ["The case file does not indicate written documentation of this promise. Best practice requires obtaining written acknowledgment of promises during field visits. Without written confirmation, relying on verbal promises weakens enforcement and makes proving the borrower's acknowledgment difficult."]
+  },
+  {
+    "question": "The EMI payment history shows 6 full EMIs and 1 partial payment of ₹1,000. Does this match the stated total of ₹15,610?",
+    "golden_answers": ["No, there is a discrepancy. The case shows '8 EMIs regularly paid' in one section and only 6 full + 1 partial (₹1,000) in payment history. If EMI is ₹2,435, then 6 EMIs = ₹14,610 + ₹1,000 = ₹15,610, which matches. However, the narrative conflicts and should be reconciled."]
+  },
+  {
+    "question": "The DPD is stated as 417 days as on 26-11-2024. If the September 2023 EMI bounced on 05-09-2023, does this DPD calculation make sense?",
+    "golden_answers": ["Yes, from 5 September 2023 to 26 November 2024 is approximately 448 days, which is close to 417 days stated. The slight difference may be due to calculation from different reference dates or methodology. However, precise calculation should be verified for consistency."]
+  },
+  {
+    "question": "The case status is 'Field Visit Stage' yet Section 9, Section 17, Section 21 notices and even an Arbitral Award are included. Should the status be updated?",
+    "golden_answers": ["Absolutely. The status should be 'Award Passed - Execution Stage' since an arbitral award has been passed and execution petition filed. Maintaining 'Field Visit Stage' status is materially incorrect and creates confusion about the actual case progression."]
+  },
+  {
+    "question": "The Statement of Claim shows Principal Outstanding as ₹49,548 but earlier it's stated as ₹55,116. Which is correct?",
+    "golden_answers": ["The CRM data shows Principal Outstanding as ₹55,116 as on 26-11-2024. The SOC shows ₹49,548, which appears to be a different case's data that got mixed in. This is a critical error requiring immediate correction to reflect accurate outstanding amounts."]
+  },
+  {
+    "question": "The field visit report notes that agricultural crisis in the rural area caused business slowdown. Should the arbitral award consider this mitigating factor in determining costs?",
+    "golden_answers": ["Yes, genuine business hardship due to agricultural crisis can be considered as a mitigating factor. The arbitrator may reduce costs or provide flexible payment terms while maintaining the principal and interest liability. This demonstrates proportionality and fairness in the award."]
+  },
+  {
+    "question": "The Loan Recall Notice dated 15th February 2024 is addressed to 'Village Khadda, Raebareli' but the CRM shows address as 'Shop No. 15, Gandhi Market Complex, Village Khera Kalan, Sonipat.' Is this the same borrower?",
+    "golden_answers": ["No, these are completely different locations (Raebareli, UP vs Sonipat, Haryana). This appears to be a data mixing error where content from different cases was combined. The notice must be addressed to the correct CRM address: Shop No. 15, Gandhi Market Complex, Village Khera Kalan, Sonipat."]
+  },
+  {
+    "question": "The case shows the borrower made a partial payment of ₹1,000 on 08-10-2023 as promised. Does this constitute acknowledgment of debt for limitation purposes?",
+    "golden_answers": ["Yes, the partial payment of ₹1,000 constitutes acknowledgment of the debt under Section 18 of the Limitation Act. This payment restarts the limitation period from the date of payment, strengthening the lender's position against any limitation defense."]
+  },
+  {
+    "question": "The vehicle financed is 'TVS Jupiter.' The Section 9 petition and other documents should include the registration number. What registration number is shown?",
+    "golden_answers": ["The case file does not provide the registration number for the TVS Jupiter. This is a critical omission that must be corrected. All documents seeking vehicle attachment or restraint must include the precise registration number for effective enforcement and identification."]
+  },
+  {
+    "question": "The borrower's monthly income is stated as ₹38,000. If his business is struggling with 60% sales decline, should this income figure be updated?",
+    "golden_answers": ["Yes, if business revenue has declined 60% as documented in field visit reports, the current income is likely much lower than ₹38,000. Updated income assessment is important for realistic settlement negotiations, execution strategy, and determining the borrower's actual repayment capacity."]
+  },
+  {
+    "question": "The Section 17 application mentions a different case with respondent 'Deepak Singh' in Bangalore. Should this be removed from Ramesh Patel's case file?",
+    "golden_answers": ["Yes, this is clearly content from a different case (Deepak Singh in Bangalore) that was mistakenly included in Ramesh Patel's file (Sonipat). This entire section should be removed and replaced with case-specific Section 17 application, if one exists."]
+  },
+  {
+    "question": "The Evidence Affidavit states the borrower 'made regular payments for 8 months' but the EMI table shows only 6 full payments and 1 partial. Which is correct?",
+    "golden_answers": ["The EMI table is the definitive record. It shows 6 full EMIs (March-August 2023) and 1 partial (October 2023), totaling effectively 6.4 EMIs, not 8. The affidavit should be corrected to state '6 full EMIs' to match documented payment history and avoid credibility issues."]
+  },
+  {
+    "question": "The field visit on 05-01-2024 found the borrower's wife mentioned family stressed but not evading. Should this cooperative attitude be highlighted in settlement discussions?",
+    "golden_answers": ["Yes, the borrower's cooperative attitude and transparent communication about financial struggles should be emphasized. This differentiates the case from willful default scenarios and supports settlement negotiations with potentially flexible terms rather than aggressive execution."]
+  },
+  {
+    "question": "The Loan Agreement date is stated as '5th February 2023' in most places but 'relevant date' in the Recall Notice. Should this vague reference be corrected?",
+    "golden_answers": ["Yes, 'relevant date' is unacceptably vague in a legal notice. The specific date '5th February 2023' must be stated to avoid ambiguity and ensure the borrower can verify the agreement referenced. This also prevents arguments about which agreement is being enforced."]
+  },
+  {
+    "question": "The arbitrator appointed is Justice (Retd.) P.K. Sharma. Does the case file indicate the date of appointment under Section 11?",
+    "golden_answers": ["The case file does not provide the specific date of arbitrator appointment under Section 11. This date is important for tracking procedural timelines, calculating periods for filing SOC, and ensuring compliance with statutory timelines under the Arbitration Act."]
+  },
+  {
+    "question": "The Arbitral Award shows costs of ₹68,000 (Arbitrator ₹38,000 + Advocate ₹22,000 + Admin ₹8,000) on a claim of ₹64,926. Is this proportionate?",
+    "golden_answers": ["No, costs of ₹68,000 on a claim of ₹64,926 are disproportionately high, exceeding the principal claim by 5%. While arbitrator fees within the Fourth Schedule are acceptable, the total costs appear excessive and may be challenged as punitive rather than compensatory."]
+  },
+  {
+    "question": "The recovery timeline shows the borrower mentioned crop season issues affecting sales. Should agricultural data from the region be obtained to support or verify this claim?",
+    "golden_answers": ["Obtaining agricultural data would strengthen the lender's due diligence and provide context for settlement discussions. If crop failure is documented, it supports flexible recovery terms. If not substantiated, it may indicate the borrower's excuse lacks merit. Either way, verification aids informed decision-making."]
+  },
+  {
+    "question": "The Section 21 Notice is dated 10th March 2024, but the Loan Recall Notice was issued on 15th February 2024. Was sufficient time given for response?",
+    "golden_answers": ["Yes, 23 days elapsed between the Recall Notice (15 February 2024) and Section 21 Notice (10 March 2024). The Recall Notice typically requires 15 days for payment. This timeline is adequate and demonstrates reasonable opportunity before arbitration invocation."]
+  },
+  {
+    "question": "The borrower's brother was managing the shop on 15-03-2024 when field officer visited. Should the brother be added as a contact person or guarantor?",
+    "golden_answers": ["The brother can be added as a contact person for communication purposes, but cannot be made a guarantor retroactively without his written consent. If the brother is involved in business operations, maintaining contact may aid recovery discussions, but legal liability remains with the named borrower."]
+  },
+  {
+    "question": "The Execution Petition proposes 'Business income attachment' for Patel General Store. What legal mechanism enables business income attachment for self-employed borrowers?",
+    "golden_answers": ["Business income can be attached through orders to the judgment debtor to deposit a portion of daily/weekly sales with the court, or by appointing a court receiver to oversee business operations and remit proceeds toward the decree. This is governed by Order 21 Rule 48 CPC for attachment of interest in partnership or business."]
+  },
+  {
+    "question": "The case shows the vehicle is at borrower's premises during field visits. Should the lender seek court permission for immediate physical repossession?",
+    "golden_answers": ["Immediate physical repossession without court order may violate SARFAESI limitations (which typically don't apply to two-wheelers below ₹1 lakh security value). Better approach is to obtain Section 9 or Section 17 interim order restraining disposal, followed by court-supervised possession if payment isn't received, ensuring legal compliance."]
+  },
+  {
+    "question": "The CRM data shows PAN as DEFPS3456G. Should PAN verification be documented before award execution?",
+    "golden_answers": ["Yes, PAN verification ensures accurate identity and helps locate bank accounts during execution. PAN-linked bank account search can reveal hidden assets. Documenting PAN verification also prevents identity-related execution challenges and aids enforcement through banking channels."]
+  },
+  {
+    "question": "The field visit report mentions 'agricultural crisis in area - low crop yields affecting rural purchasing power.' How does this macroeconomic factor affect recovery strategy?",
+    "golden_answers": ["Macroeconomic hardship affecting an entire region suggests systemic rather than borrower-specific issues. Recovery strategy should balance enforcement with realistic collection expectations. Options include extended repayment periods, reduced settlement amounts, or prioritizing borrowers with better recovery prospects while pursuing minimum viable recovery here."]
+  },
+  {
+    "question": "The List of Documents shows only 62 total pages for the case. Is this sufficient documentation for an arbitration proceeding?",
+    "golden_answers": ["62 pages is relatively light but can be sufficient if it includes all key documents: Loan Agreement, Disbursal Memo, Payment Records, Field Visit Reports, Notices, KYC, and Bank Statements. The adequacy depends on complexity; for a straightforward default case with field documentation, 62 pages may be adequate."]
+  },
+  {
+    "question": "The Statement of Account calculation shows penal interest of ₹3,250. What is the penal interest rate, and is it specified in the Loan Agreement?",
+    "golden_answers": ["The case file does not disclose the penal interest rate. Standard practice is 2-3% per month on overdue amounts. The rate must be specified in Clause 7 or a similar provision of the Loan Agreement. Without contractual basis, charging penal interest may be challenged as arbitrary."]
+  },
+  {
+    "question": "The borrower's wife explained 'two children's education expenses' as a contributing factor to financial stress. Should education costs be considered in settlement discussions?",
+    "golden_answers": ["Education expenses can be acknowledged as genuine financial burden without excusing the debt. In settlement discussions, structuring a payment plan that accounts for family expenses while ensuring recovery demonstrates compassionate lending. However, the contractual obligation to repay remains regardless of personal expenses."]
+  },
+  {
+    "question": "The Section 9 petition seeks to 'Direct deposit of Registration Certificate with Court.' If granted, how long can the court hold the RC?",
+    "golden_answers": ["The court can hold the RC until the arbitral proceedings conclude or until further orders. The duration is typically tied to the pendency of the main dispute. If the award is passed in favor of the lender, RC possession facilitates vehicle transfer for liquidation. If disputes continue, the court retains custody."]
+  },
+  {
+    "question": "The alternating content shows references to different cases (Deepak Singh in Bangalore, different loan amounts). Should the case file be cleaned to remove all non-relevant content?",
+    "golden_answers": ["Absolutely. Mixed case content creates serious confusion and risks filing wrong documents in proceedings. The file should contain only Ramesh Patel's information. All references to Deepak Singh, Bangalore, or different loan amounts must be removed and replaced with case-specific content."]
+  },
+  {
+    "question": "The Loan Agreement was executed on 5th February 2023, and disbursal occurred on 12th February 2023. The SOC states disbursal on 10-02-2023. Which is correct?",
+    "golden_answers": ["The CRM data states disbursal on 12 February 2023. If the SOC states 10 February 2023, this is a factual error requiring correction. Disbursal date is a key fact often referenced in calculating interest, default dates, and limitation periods. Accuracy is essential."]
+  },
+  {
+    "question": "The Arbitral Award shows the alternative relief as 'TVS Jupiter liquidation.' What is the estimated current market value of a used TVS Jupiter from February 2023?",
+    "golden_answers": ["A TVS Jupiter purchased in February 2023 for ₹68,000 would have a current used value of approximately ₹40,000-₹45,000 depending on condition and kilometers. This will not cover the outstanding ₹64,926, meaning vehicle liquidation alone is insufficient for full recovery, necessitating supplementary execution modes."]
+  },
+  {
+    "question": "The Recall Notice states the account was classified as NPA per RBI guidelines. From which specific date was it classified as NPA?",
+    "golden_answers": ["Under RBI guidelines, an account is classified as NPA when overdue for 90 days. The September 2023 EMI bounced on 5 September 2023, so NPA classification would occur around 5 December 2023. The notice should specify this date for transparency and regulatory compliance."]
+  },
+  {
+    "question": "The borrower runs a retail shop in a rural area affected by agricultural crisis. Should the lender engage with local authorities or agricultural departments to verify crop failure claims?",
+    "golden_answers": ["While verification adds diligence, it may be disproportionate for a ₹68,000 loan. If multiple borrowers in the same region cite similar reasons, aggregated verification may be worthwhile. For an individual case, accepting field visit observations and local knowledge is typically sufficient unless fraud is suspected."]
+  },
+  {
+    "question": "The recovery timeline shows the borrower was 'cooperative but cashflow severely constrained.' Does cooperation affect the decision to proceed with ex-parte arbitration?",
+    "golden_answers": ["Cooperation suggests potential for settlement and may justify offering additional settlement opportunities before ex-parte proceedings. However, cooperation without payment doesn't satisfy the debt. If the borrower remains cooperative, conducting arbitration on-notice with possible in-person settlement discussions may be more productive than ex-parte proceedings."]
+  },
+  {
+    "question": "The field visit on 25-11-2023 noted a token payment of ₹1,000 was received as promised. Does this indicate the borrower's intent to honor the debt?",
+    "golden_answers": ["Yes, making the promised token payment demonstrates good faith and intent to honor the debt. This positive indicator supports offering restructuring or settlement options. It also establishes acknowledgment of liability, which is useful if litigation extends and limitation periods become relevant."]
+  },
+  {
+    "question": "The Execution Petition proposes bank account attachment. How does the lender identify the borrower's bank accounts?",
+    "golden_answers": ["Bank accounts can be identified through KYC documents, salary/business bank statements submitted during loan application, PAN-based account search (available to courts/enforcement agencies), and information disclosed in interrogation proceedings. The execution court can issue notices to banks seeking account details using the borrower's PAN."]
+  },
+  {
+    "question": "The EMI amount is ₹2,435 per month, and the borrower operates a shop with monthly revenue of ₹15,000-₹20,000 (down from ₹50,000). Can he realistically afford the EMI?",
+    "golden_answers": ["With current revenue of ₹15,000-₹20,000 and home expenses of ₹12,000, the borrower has ₹3,000-₹8,000 surplus, theoretically sufficient for the ₹2,435 EMI. However, with business fluctuations and other obligations, affordability is marginal. This supports restructuring to a lower EMI of ₹1,500-₹2,000 over extended tenure."]
+  },
+  {
+    "question": "The Section 11 petition was filed for arbitrator appointment. Does the case file indicate the grounds on which the court was approached?",
+    "golden_answers": ["Section 11 petitions are typically filed when parties cannot mutually agree on an arbitrator after Section 21 notice. The case file indicates the borrower did not respond to the Section 21 notice, which is the standard ground for approaching the court under Section 11(6) for unilateral appointment."]
+  },
+  {
+    "question": "The statement 'agricultural crisis rendering shop customers unable to buy goods' is documented in field visit reports. Should supporting documentation like government drought declarations be annexed?",
+    "golden_answers": ["Annexing government drought/crop failure notifications would strengthen the documentation and provide objective evidence of the crisis. However, for a low-value loan, field observations and borrower's explanation may be sufficient. If many borrowers cite this reason, obtaining official documentation once and referencing across cases is efficient."]
+  },
+  {
+    "question": "The case shows the borrower's shop was 'partially operating' on 15-03-2024 with his brother managing it. Should the brother be served with execution notices?",
+    "golden_answers": ["The brother should not be served with execution notices unless he is a co-borrower or guarantor. However, he can be informed as a contact person. If the business is a partnership and the brother is a partner, execution against partnership property may include serving notice to all partners."]
+  },
+  {
+    "question": "The Award directs payment within 30 days. If the borrower is facing genuine hardship, can the court executing the award modify the payment timeline?",
+    "golden_answers": ["Under Section 36, the court executes the award as a decree but cannot modify its substantive terms like payment timeline. However, the borrower can apply under Section 34 to set aside or modify the award, or seek consent from the lender for a payment plan during execution. The court's role is enforcement, not modification."]
+  },
+  {
+    "question": "The borrower's alternate contact is listed as a separate phone number. Were both numbers attempted during the recovery timeline?",
+    "golden_answers": ["The recovery timeline shows calls to the main number and at least one alternate contact (on 10-12-2023 when 'Person claimed wrong number'). Best practice requires attempting all listed numbers. Documenting attempts on all contact points strengthens claims of diligent recovery efforts."]
+  },
+  {
+    "question": "The field visit mentions unseasonal rains damaged local crops. Is this verifiable through meteorological data?",
+    "golden_answers": ["Yes, unseasonal rain patterns can be verified through India Meteorological Department (IMD) data, district agriculture office reports, or news articles from the period. Verification adds objectivity to the borrower's claims, though for recovery decisions, field observations are generally adequate without formal meteorological documentation."]
+  },
+  {
+    "question": "The Statement of Claim mentions restructuring was discussed. Were any written restructuring proposals exchanged?",
+    "golden_answers": ["The case file mentions restructuring discussions in field visits but does not indicate formal written proposals. Best practice requires written proposals detailing revised EMI amounts, tenure, and terms. Without written records, any restructuring claims or negotiations lack documentary support and may lead to disputes."]
+  },
+  {
+    "question": "The processing fee is ₹2,040 (3% of ₹68,000). Is this included in the outstanding amount claimed?",
+    "golden_answers": ["Processing fees are typically deducted upfront from the disbursed amount, not added to outstanding dues. The outstanding calculation shows only principal, interest, penal charges, and legal costs. The processing fee of ₹2,040 would have been collected at loan origination and is not part of the recovery claim."]
+  },
+  {
+    "question": "The Loan Recall Notice gives 15 days to pay or propose restructuring. If the borrower proposes restructuring on day 14, what happens?",
+    "golden_answers": ["If a restructuring proposal is submitted within the deadline, good faith requires the lender to evaluate it before proceeding legally. However, the lender is not bound to accept any proposal. If the proposal is unrealistic or unacceptable, the lender may proceed with arbitration while documenting that an opportunity was given and the proposal was inadequate."]
+  },
+  {
+    "question": "The Arbitrator's fee is ₹38,000. For a claim of ₹64,926, is this within the Fourth Schedule limits?",
+    "golden_answers": ["Under the Fourth Schedule for claims up to ₹5 lakh, arbitrator fees can go up to ₹45,000. The fee of ₹38,000 is within permissible limits and is reasonable for a claim of ₹64,926. This fee is unlikely to be successfully challenged as excessive."]
+  },
+  {
+    "question": "The EMI bounce in September 2023 was due to 'Insufficient Funds.' Should the lender have checked if there was a bank account issue or technical error?",
+    "golden_answers": ["While the borrower bears responsibility for maintaining sufficient balance, checking for technical errors demonstrates good lending practice. If the bank reported a technical failure rather than true insufficient funds, the borrower might not be at fault. Verification prevents wrongful NPA classification, though in this case, subsequent non-payment confirms genuine default."]
+  },
+  {
+    "question": "The borrower mentioned 'closing shop vs continue' as an option he was exploring. Does closing the business affect vehicle loan recovery?",
+    "golden_answers": ["Closing the shop doesn't eliminate the borrower's personal liability on the vehicle loan. However, it indicates deteriorating repayment capacity. The vehicle remains as secured asset. If the shop closes, the borrower loses income, reducing recovery prospects and emphasizing the importance of securing the vehicle before disposal."]
+  },
+  {
+    "question": "The case shows the borrower is cooperative and family-oriented (concerns about children's education, wife's role). Should these personal factors influence the arbitral award?",
+    "golden_answers": ["Personal factors demonstrate human context but don't alter the legal obligation to repay. The arbitrator may consider these factors in setting payment timelines, costs, or showing flexibility in alternative relief. However, the principal and contractual interest remain due regardless of personal circumstances, balancing compassion with contractual enforcement."]
+  },
+  {
+    "question": "The Execution Petition seeks daily sales attachment from Patel General Store. What practical challenges exist in enforcing such attachment?",
+    "golden_answers": ["Daily sales attachment in a small rural shop faces challenges: requiring court receiver presence or daily reporting, unrecorded cash sales, borrower's possible non-compliance, and supervision costs exceeding recovery. More practical alternatives include lump-sum settlement, monthly payment plans, or vehicle liquidation rather than daily sales monitoring."]
+  },
+  {
+    "question": "The Award's alternative relief mentions vehicle liquidation. Should the lender attempt negotiated voluntary surrender before forced seizure?",
+    "golden_answers": ["Yes, negotiated voluntary surrender is preferable as it reduces costs, avoids enforcement resistance, and maintains goodwill. Offering the borrower the option to surrender the vehicle voluntarily in exchange for written debt satisfaction or reduced claim may yield faster, cheaper results than court-supervised seizure."]
+  },
+  {
+    "question": "The Notice states the lender will 'initiate legal proceedings for recovery.' Does this adequately specify arbitration as the remedy?",
+    "golden_answers": ["The phrasing 'legal proceedings' is vague and doesn't specifically reference the arbitration clause. Better practice is to explicitly state 'invoke the arbitration clause in Clause 18 of the Loan Agreement' to provide clear notice of the specific dispute resolution mechanism that will be used."]
+  },
+  {
+    "question": "The recovery timeline shows multiple 'promising to pay' entries without subsequent payment. Should these broken promises be highlighted in the SOC?",
+    "golden_answers": ["Yes, documenting broken promises demonstrates a pattern of non-compliance and strengthens the lender's case that the borrower, despite opportunities, failed to honor commitments. This supports claims of willful default (though in this case hardship is genuine) and justifies proceeding with legal recovery after extended patience."]
+  },
+  {
+    "question": "The case shows the borrower operates a shop but the Execution Petition mentions 'TechnoSoft Solutions' as employer. Is this content from a different case?",
+    "golden_answers": ["Yes, 'TechnoSoft Solutions' appears to be content from a different case that was mistakenly included. Ramesh Patel is self-employed running Patel General Store. All references to salaried employment at any company should be removed and replaced with self-employment and business income details relevant to this case."]
+  },
+  {
+    "question": "The field visit reports note that neighbors were questioned about the borrower. Are statements from neighbors admissible in arbitration?",
+    "golden_answers": ["Neighbor statements recorded in field visit reports can be considered as circumstantial evidence of the borrower's whereabouts and situation. While hearsay in strict legal terms, arbitrators have wide discretion in evidence admissibility. For establishing facts like 'family moved out' or 'shop rarely opens,' such observations are practical and generally accepted."]
+  },
+  {
+    "question": "The SOC lists KYC documents including 'Business Proof' at Annexure C-8. What constitutes valid business proof for self-employed borrowers?",
+    "golden_answers": ["Valid business proof includes GST registration certificate, shop license/trade license from local municipal authority, shop rent agreement, business PAN, utility bills in business name, or photographs of business premises. These documents establish the existence and location of Patel General Store and verify self-employment claims."]
+  },
+  {
+    "question": "The DPD is 417 days, placing the loan in 'NPA' category. How does NPA classification affect the lender's reporting obligations to credit bureaus?",
+    "golden_answers": ["NPA classification requires mandatory reporting to credit information companies (CIBIL, Experian, etc.). The lender must report the borrower's default status, outstanding amount, and DPD. This affects the borrower's credit score and future borrowing ability. The Recall Notice correctly warns of credit bureau reporting as a consequence."]
+  },
+  {
+    "question": "The case mentions settlement proposal 1 by borrower (EMI reduction to ₹1,500 for 12 months) and proposal 2 by company (₹10,000 immediately + ₹3,500 for 18 months). Were these formally documented?",
+    "golden_answers": ["The case file states these proposals were under negotiation but does not indicate formal written documentation with signatures. Both proposals should be reduced to writing with clear terms, timelines, and consequences of non-compliance. Without written agreement, settlement proposals lack enforceability and create future disputes."]
+  },
+  {
+    "question": "The Arbitral Award provides for future interest at 16% p.a., but the Loan Agreement specifies 16.5% p.a. Can the arbitrator reduce the interest rate?",
+    "golden_answers": ["This appears to be an error or typo. Arbitrators typically enforce contractual interest rates unless there are grounds for modification (such as penalty clause arguments). If the agreement specifies 16.5% reducing balance, the award should reflect this rate. Any deviation should be explicitly reasoned in the award."]
+  },
+  {
+    "question": "The borrower's business model depends on agricultural prosperity in surrounding villages. Should the lender's credit policy be revised to account for agricultural risk in rural loans?",
+    "golden_answers": ["Yes, this case highlights concentration risk in agricultural regions. Credit policy revisions could include: seasonal repayment structures aligned with harvest cycles, diversification across sectors/regions, crop insurance linkage, or higher provisioning for rural retail loans. This improves portfolio resilience against localized agricultural shocks."]
+  },
+  {
+    "question": "The current status notes 'next visit on 5-12-2024' but the case has already progressed to award and execution stage. Should field visits continue?",
+    "golden_answers": ["Field visits remain valuable even at execution stage to locate assets (vehicle), verify borrower's current circumstances, facilitate voluntary settlement, or assist in serving execution notices. However, the status section should be updated to reflect 'Execution Stage' with field visits as part of execution strategy, not pre-legal recovery."]
+  },
+  {
+    "question": "The Statement of Account shows 'Legal Charges: ₹5,000' but earlier sections show 'Legal Notice Charges: ₹0.' When were legal charges incurred?",
+    "golden_answers": ["The CRM data (earlier stage) shows ₹0 legal charges. By the time of SOC filing, legal costs have been incurred for notices, advocate consultation, and filing. The ₹5,000 represents accumulated legal expenses from recall notice through SOC preparation. This progression is normal and should be documented with supporting invoices."]
+  },
+  {
+    "question": "The case shows TVS Jupiter as the financed vehicle. Does the Loan Agreement include specific description of the vehicle including make, model, color, engine number, and chassis number?",
+    "golden_answers": ["The Loan Agreement should include complete vehicle details: make (TVS), model (Jupiter), color, engine number, chassis number, and subsequent registration number. These details are essential for hypothecation, registration with RTO, and identification during repossession. The annexure C-3 (Loan Agreement) must contain this schedule of secured asset."]
+  },
+  {
+    "question": "The borrower's income is ₹38,000/month but field reports suggest current business revenue is only ₹15,000-₹20,000. Should the income in CRM be marked as 'outdated' or 'to be verified'?",
+    "golden_answers": ["Yes, CRM should be updated to reflect current financial status: 'Original Income: ₹38,000 (Feb 2023), Current Estimated Income: ₹15,000-₹20,000 (per field visit Dec 2023).' This provides accurate assessment for settlement discussions and realistic recovery expectations."]
+  },
+  {
+    "question": "The Loan Recall Notice threatens reporting to 'Credit Information Bureaus.' Should specific bureau names (CIBIL, Experian, Equifax, CRIF) be mentioned?",
+    "golden_answers": ["While not mandatory, listing specific bureaus (CIBIL, Experian, Equifax, CRIF High Mark) provides concrete warning rather than generic threat. This specificity helps the borrower understand the actual consequences and may prompt urgent response to avoid credit damage across all bureaus."]
+  },
+  {
+    "question": "The Award states total payable is ₹1,32,926/- (₹64,926 + ₹68,000). Is the ₹68,000 in costs reasonable given the genuine hardship documented?",
+    "golden_answers": ["₹68,000 in costs on a ₹64,926 claim is questionable, especially given documented genuine hardship (crop failure affecting business). While individual cost components may be within limits, the arbitrator should consider proportionality and hardship in setting total costs. A reduction to ₹40,000-₹50,000 would be more equitable."]
+  },
+  {
+    "question": "The Execution Petition seeks police assistance for vehicle seizure. Under what circumstances can police be involved in civil execution?",
+    "golden_answers": ["Police assistance in civil execution is governed by Section 37 CPC and is typically granted when: (1) resistance or breach of peace is anticipated, (2) the judgment debtor is likely to obstruct execution, or (3) the decree officer requires help in gaining access. The court must specifically order police assistance; it's not automatic."]
+  },
+  {
+    "question": "The case shows disbursal on 12th February 2023 but doesn't indicate whether disbursement was to the dealer or to the borrower. Which is standard practice?",
+    "golden_answers": ["For vehicle loans, disbursement is typically made directly to the vehicle dealer, not the borrower. This ensures loan proceeds are used for the intended purpose. The Disbursal Memo should name the dealer and show the vehicle was delivered to the borrower on the same day, with acknowledgment signed by the borrower."]
+  },
+  {
+    "question": "The recovery timeline shows 'Phone unreachable' on 10-04-2024. If the borrower's number is not working, does service by email alone suffice under Section 3?",
+    "golden_answers": ["Service by email alone may be insufficient if the phone is also unreachable, raising questions about whether the borrower actually received notice. Best practice requires multi-mode service: email, Speed Post to last known address, and if possible, personal service or service via alternate contacts. This strengthens deemed service arguments."]
+  },
+  {
+    "question": "The field visit on 20-02-2024 shows the borrower 'committed to restart payments from March.' Did any March payment materialize?",
+    "golden_answers": ["The case file does not show any payment after the partial ₹1,000 payment. The commitment to restart in March was not honored. This broken promise should be documented in the SOC and recovery timeline as evidence of the borrower's failure to follow through despite expressing intent."]
+  },
+  {
+    "question": "The Arbitrator appointed is Justice (Retd.) P.K. Sharma with seat in Sonipat. Should the seat match the borrower's residence (Sonipat) or can it be at the lender's office (Gurgaon)?",
+    "golden_answers": ["The arbitration clause in the Loan Agreement specifies the seat. Typically, it's agreed contractually. Sonipat (borrower's location) is appropriate and convenient for the borrower. Gurgaon (lender's location) could also be specified. The key is that the seat is clearly stated in the agreement (Clause 18) and consistently followed in proceedings."]
+  },
+  {
+    "question": "The Statement of Claim does not include a claim for repossession of the TVS Jupiter. Should this be added as a specific relief?",
+    "golden_answers": ["The alternative relief clause 'surrender of vehicle for liquidation' effectively covers repossession. However, explicitly praying for 'an order directing the Respondent to surrender physical possession of the vehicle to the Claimant or its authorized agent' would be clearer and more enforceable, leaving no ambiguity about the relief sought."]
+  },
+  {
+    "question": "The case involves a rural self-employed borrower facing agricultural crisis. Should microfinance or rural development organizations be engaged for mediation or support?",
+    "golden_answers": ["Engaging rural development organizations, SHG networks, or district rural development authorities could facilitate mediation and potentially identify alternative income sources or credit linkage for the borrower. However, this is beyond the lender's mandate. The lender's focus remains on recovery, though facilitating such connections could improve repayment prospects while demonstrating corporate social responsibility."]
+  },
+  {
+    "question": "The Award includes 'Administrative expenses: ₹8,000.' What do administrative expenses typically include in arbitration?",
+    "golden_answers": ["Administrative expenses include tribunal fees (if institutional arbitration), venue/hearing room charges, stenographer for transcripts, courier and communication costs, document copying, and miscellaneous expenses. For ad-hoc arbitration like this case, ₹8,000 seems reasonable for these incidentals, though detailed breakdown improves transparency."]
+  },
+  {
+    "question": "The SOC mentions the borrower 'absconded' but field visits show he was located and communicated regarding his situation. Should the term 'absconding' be replaced?",
+    "golden_answers": ["Yes, 'absconding' implies intentional hiding from authorities, which is not accurate here. The borrower relocated to his village due to business failure and was contactable through family. More accurate terms would be 'relocated without providing forwarding address' or 'left registered address without notification,' which describe the facts without implying criminal intent."]
+  },
+  {
+    "question": "The CRM shows Aadhaar as XXXX-XXXX-7823. Should the full Aadhaar be included in arbitration filings?",
+    "golden_answers": ["No, Aadhaar should be masked in legal filings for privacy compliance. Only the last 4 digits should be shown. The lender retains the full number in confidential KYC files. This practice complies with data protection norms while providing sufficient identification. Only if the tribunal specifically requires full Aadhaar for identity verification should it be provided in a sealed cover."]
+  },
+  {
+    "question": "The borrower mentioned 'daughter's marriage expenses' as a financial burden. Do personal expenses constitute valid defense against loan default?",
+    "golden_answers": ["Personal expenses, however legitimate and sympathetic, do not constitute a legal defense to loan default. The borrower's contractual obligation remains regardless of personal financial pressures. However, such circumstances can influence settlement negotiations, payment timelines, and the arbitrator's approach to costs and enforcement modalities, balancing legal rights with human circumstances."]
+  },
+  {
+    "question": "The Award is dated 15th October 2024, served on 25th October 2024, and execution filed on 10th November 2024. Does this timeline comply with the 30-day payment deadline?",
+    "golden_answers": ["The 30-day payment period runs from the award date (15 October 2024) to 14 November 2024. Filing execution on 10 November 2024 is premature as the deadline hasn't expired. However, if service occurred on 25 October, arguably 30 days runs from service, expiring 24 November. The execution petition should clarify the exact expiry date and file only after it passes."]
+  },
+  {
+    "question": "The case shows 'brother managing shop' during borrower's absence. Is the brother's role relevant to determining the borrower's actual financial situation?",
+    "golden_answers": ["Yes, if the brother is managing the shop, it suggests the business continues operating and generating some income, even if the borrower personally relocated. This is relevant for assessing actual revenue, determining whether the business closure claim is accurate, and evaluating whether shop income can contribute to debt repayment."]
+  },
+  {
+    "question": "The Section 9 petition does not specify the exact vehicle registration number. Should the petition be amended before hearing to include it?",
+    "golden_answers": ["Yes, the petition should be amended to include the exact registration number before the Section 9 hearing. Without specific identification, the court cannot pass an effective restraint order. If the registration number is in Annexure C-3 or C-4, it should be extracted and explicitly stated in the main petition for clarity."]
+  }
+]

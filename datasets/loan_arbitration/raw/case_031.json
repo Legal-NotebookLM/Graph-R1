@@ -1,0 +1,326 @@
+[
+  {
+    "question": "The Section 9 petition references 'Gig worker income decline' and 'gig platforms' but the borrower Ashok Tripathi is a 'LIC Development Officer' with ₹51,000 salary. Is this content from a different case?",
+    "golden_answers": ["Yes, this is clearly content from a different case. The Section 9 petition for a gig worker was mistakenly included in Ashok Tripathi's LIC employee case file. This section should be removed and replaced with the correct application referencing LIC employment and salary attachment."]
+  },
+  {
+    "question": "The borrower Ashok Tripathi is a Development Officer at LIC earning ₹51,000/month. The EMI is ₹4,105/month, which is 8% of salary. Why would someone with such affordable EMI deliberately default?",
+    "golden_answers": ["The affordable EMI ratio makes deliberate default puzzling. Possible explanations include: other undisclosed debts creating overall stress, personal financial priorities, belief he can avoid consequences, or dispute with the lender. Regardless of reason, the low EMI burden undermines any hardship defense and strengthens the willful default characterization."]
+  },
+  {
+    "question": "The recovery timeline shows the borrower 'avoided and left through back exit' when recovery agent visited office on 10-08-2024. How should this evasive behavior be characterized in legal filings?",
+    "golden_answers": ["This behavior should be characterized as 'deliberate evasion and non-cooperation' in legal filings. The pattern of avoiding office interactions despite stable employment demonstrates intentional avoidance of obligations, supporting claims for ex-parte proceedings and enhanced recovery measures including salary attachment."]
+  },
+  {
+    "question": "The field visit on 20-08-2024 met the borrower's wife who 'claimed no knowledge, husband handles finances.' Does this affect service or recovery strategy?",
+    "golden_answers": ["The wife's statement doesn't affect legal liability—only the borrower is responsible. However, it suggests: (1) Service to residence may reach the borrower through family, (2) Wife may facilitate communication, (3) Family awareness of the debt exists. Recovery strategy should focus on LIC salary attachment rather than family pressure."]
+  },
+  {
+    "question": "The DPD is 204 days as on 26-11-2024. If the May 2024 EMI bounced on 05-05-2024, does this calculation match?",
+    "golden_answers": ["From 5 May 2024 to 26 November 2024 is approximately 205 days, closely matching the stated 204 DPD. This 7-month default period, combined with the borrower's deliberate evasion despite stable LIC employment, justifies aggressive recovery measures."]
+  },
+  {
+    "question": "The Statement of Claim references 'Gig Worker Borrower' but the actual borrower is 'LIC Development Officer.' What corrections are needed?",
+    "golden_answers": ["Complete correction needed: Remove all gig worker/platform references. Insert: 'Ashok Tripathi, Development Officer, LIC of India, Lucknow, earning ₹51,000/month.' The SOC must accurately identify the borrower's employment and income source for valid salary attachment orders."]
+  },
+  {
+    "question": "The case shows only 3 EMIs were paid (February-April 2024) before default. The loan was sanctioned in January 2024. What does this early default pattern indicate?",
+    "golden_answers": ["Defaulting after only 3 EMIs suggests: (1) Borrower may have taken loan without genuine repayment intent, (2) Financial situation deteriorated quickly, (3) Or borrower prioritized other obligations. The very early default (within 3 months) is unusual for someone with stable government employment and raises questions about original loan purpose or borrower's financial discipline."]
+  },
+  {
+    "question": "The Section 17 application requests 'GPS tracking' for the vehicle. Is this relief typically granted for two-wheeler loans?",
+    "golden_answers": ["GPS tracking is unusual for small vehicle loans and may be considered disproportionate and invasive. Courts are more likely to grant: (1) Restraint on sale, (2) RC deposit requirement, (3) Periodic reporting of vehicle location. GPS tracking is typically reserved for high-value assets or cases with demonstrated flight risk, not a ₹1,15,000 loan with a government employee."]
+  },
+  {
+    "question": "The Award mentions 'gig platform income attachment' but the borrower is a salaried LIC employee. What should the Award authorize?",
+    "golden_answers": ["The Award should authorize: 'Salary attachment from LIC of India at 30-40% of net salary (₹51,000/month), to be deducted monthly and remitted to the Claimant until full satisfaction of the award amount.' Gig platform references must be removed—LIC is a government corporation that will comply with court orders for salary garnishment."]
+  },
+  {
+    "question": "The recovery timeline shows 'society security uncooperative' on 10-07-2024. Should this be documented for service purposes?",
+    "golden_answers": ["Yes, documenting uncooperative security helps establish: (1) Diligent service attempts, (2) Obstacles created by third parties, (3) Justification for alternative service methods (office address, email). This supports ex-parte proceedings by showing the lender made reasonable efforts despite resistance."]
+  },
+  {
+    "question": "The case shows Principal Outstanding of ₹1,04,162 from original ₹1,15,000. If ₹10,838 was recovered from 3 EMIs, does this add up?",
+    "golden_answers": ["Yes: ₹1,15,000 (disbursed) - ₹10,838 (principal recovered) = ₹1,04,162 (principal outstanding). The calculation is mathematically correct and consistent with the loan principal reduction through 3 EMI payments."]
+  },
+  {
+    "question": "The total outstanding is ₹1,58,579 on an original loan of ₹1,15,000. This represents 38% increase in 7 months. Is this proportionate?",
+    "golden_answers": ["The 38% increase includes: Interest Outstanding (₹34,567), Penal Charges (₹14,850), and Legal Charges (₹5,000) on Principal Outstanding of ₹1,04,162. At 15.5% p.a. interest rate, 7 months of accrual plus penalties is roughly in this range. The percentage appears proportionate for the default duration and rate."]
+  },
+  {
+    "question": "The borrower's employer is LIC of India, a government corporation. How does government employment affect salary attachment?",
+    "golden_answers": ["Government employment provides excellent recovery assurance: (1) Government entities strictly comply with court orders, (2) Salary is guaranteed and regular, (3) Employee cannot easily resign to evade, (4) HR departments are well-versed in garnishment procedures. LIC, being a government corporation, will reliably execute salary attachment orders."]
+  },
+  {
+    "question": "The Evidence Affidavit mentions 'Gig Platform Earnings Records' but the borrower is a salaried LIC employee. What documentation should be referenced?",
+    "golden_answers": ["Correct documentation should reference: 'LIC Employment Certificate, Salary Slips showing ₹51,000/month, Employee ID confirmation, Bank statements showing salary credit, and LIC HR contact details for garnishment order service.' All gig platform references must be removed."]
+  },
+  {
+    "question": "The case status is 'Arbitration Process Initiated' with Statement of Claim filed on 25-11-2024. What are the likely next steps?",
+    "golden_answers": ["Next steps include: (1) Service of SOC on respondent (15-30 days), (2) Opportunity to file Statement of Defense, (3) If no defense, application to proceed ex-parte, (4) Ex-parte hearing and evidence submission, (5) Award. Given the borrower's evasion pattern, ex-parte proceedings are likely."]
+  },
+  {
+    "question": "The Section 9 petition requests 'income attachment from gig platforms' but the borrower has no gig income. What relief should be requested?",
+    "golden_answers": ["The petition should request: 'Interim order directing LIC of India to attach 30-40% of net salary (₹51,000/month) of respondent Ashok Tripathi, Development Officer, and remit the same to the applicant monthly until further orders.' This matches the borrower's actual employment and income source."]
+  },
+  {
+    "question": "The borrower paid 3 EMIs totaling ₹12,315. Principal Recovered is ₹10,838 and Interest Recovered is ₹1,477. Is this allocation correct?",
+    "golden_answers": ["Yes, ₹10,838 (principal) + ₹1,477 (interest) = ₹12,315, matching 3 EMIs × ₹4,105. For a 15.5% reducing balance loan, early EMIs have approximately 12% interest component. The ₹1,477 interest from ₹12,315 payments (12%) aligns with typical early-stage amortization. The calculations appear correct."]
+  },
+  {
+    "question": "The interest rate is 15.5% p.a. reducing balance. The interest outstanding is ₹34,567 on principal of ₹1,04,162 over 7 months. Is this calculation reasonable?",
+    "golden_answers": ["Let's verify: ₹1,04,162 × 15.5% × (7/12) = approximately ₹9,418 in straight interest. The stated ₹34,567 is much higher, likely including: (1) Compounding effect, (2) Interest on missed EMIs, (3) Higher effective rate during default period. The figure should be verified against the loan amortization schedule but may be accurate for default interest calculations."]
+  },
+  {
+    "question": "The case shows penal interest of ₹14,850 on approximately ₹1,04,162 principal over 7 months. What is the implied penal rate?",
+    "golden_answers": ["₹14,850 on ₹1,04,162 over 7 months implies approximately 2.0% per month or about 24% per year in penal charges. This is within typical range (2-3% monthly). The rate appears reasonable and is unlikely to be challenged as excessive."]
+  },
+  {
+    "question": "The recovery timeline shows the borrower 'disconnected call' on 08-05-2024 and subsequently avoided office contact. Does this pattern support willful default characterization?",
+    "golden_answers": ["Yes, the pattern strongly supports willful default: (1) Deliberate call disconnection, (2) Avoidance of office contact despite stable employment, (3) No communication or explanation provided, (4) Wife's statement suggests awareness but non-cooperation. This contrasts with genuine hardship cases where borrowers typically engage and explain circumstances."]
+  },
+  {
+    "question": "The Execution Petition mentions 'gig platform income (if feasible)' but the borrower has no gig income. What execution modes are actually available?",
+    "golden_answers": ["Available execution modes: (1) Salary attachment from LIC (primary and most effective), (2) Vehicle attachment and auction (Suzuki Gixxer), (3) Bank account garnishment via PAN-linked search, (4) Any other movable property. LIC salary attachment is the most reliable given government employment compliance."]
+  },
+  {
+    "question": "The borrower's age is 36 years, Development Officer at LIC. What does this profile suggest about recovery prospects?",
+    "golden_answers": ["Profile suggests excellent recovery prospects: (1) Mid-career government employee with job security, (2) Stable salary with annual increments, (3) Cannot easily resign to evade, (4) Career progression potential increases future income, (5) Government employment ensures compliance with court orders. Salary attachment will be highly effective."]
+  },
+  {
+    "question": "The loan tenure is 36 months ending 5th January 2027. As of November 2024, approximately how many EMIs remain if the borrower had continued paying?",
+    "golden_answers": ["From November 2024 to January 2027 is approximately 26 months. Of the original 36 EMIs, the borrower paid 3, leaving about 33 EMIs unpaid. About 92% of tenure remains, meaning the loan barely started being repaid before default."]
+  },
+  {
+    "question": "The Section 11 petition was filed on 25-10-2024 and arbitrator appointed on 15-11-2024. This 21-day gap is very efficient. What factors expedited appointment?",
+    "golden_answers": ["Expediting factors likely include: (1) Clear, uncontested arbitration clause, (2) No response from respondent to Section 21, (3) Efficient court processing, (4) Available arbitrator on panel. The straightforward nature of the case (documented loan default with no defense) facilitated quick appointment."]
+  },
+  {
+    "question": "The case shows ₹5,000 legal notice charges. Should these be documented with invoices?",
+    "golden_answers": ["Yes, legal charges should be itemized: (1) Recall Notice drafting: ₹X, (2) Section 21 Notice: ₹X, (3) Courier/Speed Post: ₹X, (4) Legal consultation: ₹X. While ₹5,000 is reasonable, documentation prevents disputes and demonstrates transparency. The borrower might otherwise challenge arbitrary charges."]
+  },
+  {
+    "question": "The borrower's email is ashok.tripathi87@gmail.com. If '87' indicates birth year, does this match the stated age of 36?",
+    "golden_answers": ["If '87' is birth year, he would be 36-37 years old in 2024, matching the stated age of 36 years. This internal consistency validates the borrower's identity information in the CRM data."]
+  },
+  {
+    "question": "The vehicle is a Yamaha FZ-S. What is its approximate current market value after 10 months of use?",
+    "golden_answers": ["A Yamaha FZ-S purchased for ₹1,15,000 in January 2024 (10 months old) would have market value of approximately ₹75,000-85,000 depending on condition and mileage. This would cover approximately half the ₹1,58,579 outstanding, leaving ~₹70,000-80,000 shortfall requiring salary attachment."]
+  },
+  {
+    "question": "The Award excerpt shows 'Vehicle attachment/gig income' but the borrower has no gig income. What should the Award authorize?",
+    "golden_answers": ["The Award should authorize: 'Salary attachment from LIC of India at 30-40% of net monthly salary (₹51,000/month), to commence immediately and continue until full satisfaction. Alternatively or additionally, vehicle (Yamaha FZ-S) attachment and auction if salary attachment is insufficient or delayed.'"]
+  },
+  {
+    "question": "The case shows the borrower avoided recovery agent at office on 10-08-2024. Should workplace visits be documented differently?",
+    "golden_answers": ["Workplace visits should be: (1) Professional and non-confrontational, (2) Documented with time, location, and outcome, (3) Avoid creating scenes that could affect borrower's employment, (4) Focus on service rather than confrontation. The borrower's avoidance is documented but doesn't require aggressive tactics that might violate fair practices."]
+  },
+  {
+    "question": "The recovery timeline shows 'all communication failed' in June 2024. Should this have triggered earlier escalation?",
+    "golden_answers": ["Yes, complete communication failure combined with stable employment should have prompted earlier escalation. The borrower's deliberate avoidance was evident by June. Field visits in July-August confirmed evasion. Legal action could have commenced in July rather than waiting until September, reducing interest accumulation."]
+  },
+  {
+    "question": "The Statement of Claim was filed on 25-11-2024, nearly 1 month after arbitrator appointment (15-11-2024). Is this delay concerning?",
+    "golden_answers": ["The 10-day gap between appointment and SOC filing is within acceptable range (typically 15-30 days). The gap allows for document compilation and formal tribunal constitution. No institutional rules were likely violated, and the borrower wasn't prejudiced given eventual ex-parte proceedings."]
+  },
+  {
+    "question": "The case shows 'Intentional evasion' as default reason. What evidence supports this characterization versus genuine hardship?",
+    "golden_answers": ["Evidence supporting intentional evasion: (1) Stable LIC employment with ₹51,000 salary, (2) Affordable EMI (8% of income), (3) Deliberate call disconnection, (4) Avoidance of office contact, (5) No communication or explanation, (6) Wife's statement suggests awareness. This pattern contrasts with hardship cases where borrowers typically engage and explain."]
+  },
+  {
+    "question": "The processing fee is ₹3,450 (3% of ₹1,15,000). Is this fee refundable if the loan is settled early?",
+    "golden_answers": ["Processing fees are non-refundable as they cover loan origination costs incurred regardless of loan performance. The borrower cannot claim processing fee refund in settlement. However, in settlement negotiations, the lender might consider reducing total claim to account for recovery of some costs through initial processing fee collection."]
+  },
+  {
+    "question": "The case shows the borrower is employed at LIC Lucknow. Should execution proceedings be in Lucknow or can they be transferred?",
+    "golden_answers": ["Under CPC Order 21 Rule 3, decrees can be transferred for execution to the court where the judgment debtor resides or where assets are located. Since the borrower resides and works in Lucknow, Lucknow District Court is the appropriate execution court. The arbitral award can be executed as a civil court decree under Section 36 of the Arbitration Act."]
+  },
+  {
+    "question": "The List of Documents shows 'GPS Tracking Data' but the borrower is not a gig worker. What documents should be listed?",
+    "golden_answers": ["Correct documents should include: 'Loan Agreement, LIC Employment Certificate, Salary Slips (₹51,000/month), Vehicle RC and Documents, Communication Records (showing evasion), Field Visit Reports, Bank Statements, KYC Documents.' GPS tracking data is irrelevant for a salaried employee."]
+  },
+  {
+    "question": "The borrower's PAN is JKLTR6789L. Should PAN-linked asset search be conducted before execution?",
+    "golden_answers": ["Yes, PAN-linked search can reveal: (1) Bank accounts, (2) Fixed deposits, (3) Mutual fund investments, (4) Property transactions, (5) Other loans. For a government employee aged 36, there may be accumulated savings or investments. This search should precede execution to identify all attachable assets beyond salary."]
+  },
+  {
+    "question": "The case shows the borrower made no payments after April 2024. Should partial payments have been encouraged during default?",
+    "golden_answers": ["Yes, partial payments are beneficial: (1) Demonstrate good faith and debt acknowledgment, (2) Reduce outstanding balance, (3) Reset limitation period, (4) Show continuing payment intent. However, the borrower's complete avoidance suggests he wasn't interested in partial payments, making encouragement futile."]
+  },
+  {
+    "question": "The Award mentions costs of ₹60,000. For a ₹1,15,000 loan with ex-parte proceedings, are these costs proportionate?",
+    "golden_answers": ["₹60,000 costs on ₹1,58,579 claim (38%) seems high for ex-parte proceedings. Expected breakdown: Arbitrator ~₹35,000, Advocate ~₹20,000, Admin ~₹5,000. The ₹60,000 is within Fourth Schedule limits but on the higher end. Given the borrower's evasion, full costs may be justified."]
+  },
+  {
+    "question": "The case shows 'salary attachment being considered.' Given LIC employment, why is this not already implemented?",
+    "golden_answers": ["Salary attachment requires: (1) Arbitral award or court decree, (2) Execution petition filing, (3) Court order for garnishment. The case is at 'Arbitration Process Initiated' stage—award hasn't been passed yet. Once award is obtained and execution filed, LIC will comply with garnishment orders. The process is pending completion of arbitration."]
+  },
+  {
+    "question": "The recovery timeline shows employer verification at 'LIC office, Lucknow' on 25-07-2024 confirming employment. Should this be refreshed before execution?",
+    "golden_answers": ["Yes, verification should be current before execution: (1) 4 months have passed since verification, (2) Employee could have resigned, been transferred, or salary changed, (3) Fresh verification ensures execution order goes to correct employer/location. Stale employment data could result in failed attachment."]
+  },
+  {
+    "question": "The case shows the borrower's residence is in 'Gomti Nagar Extension, Lucknow.' Is this address sufficiently specific for legal service?",
+    "golden_answers": ["The address should be more complete: include building name (if any), street/road name, and landmark. 'Flat No. 15, [Building Name], [Street], Gomti Nagar Extension, Lucknow, Uttar Pradesh - 226010' would be more specific. However, postal PIN code 226010 identifies the area, so Speed Post should deliver."]
+  },
+  {
+    "question": "The Section 9 petition was filed on 20-11-2024, after SOC filing. Is this sequence correct?",
+    "golden_answers": ["Section 9 can be filed before or after tribunal constitution. Filing Section 9 for urgent salary attachment protection after SOC filing is strategically sound. Section 9 courts can grant interim relief pending tribunal formation or even after, to preserve recovery channels. The sequence is acceptable."]
+  },
+  {
+    "question": "The case shows 'Intentional evasion' as the default reason. Should this characterization be used in legal documents?",
+    "golden_answers": ["Yes, but with supporting evidence. The characterization is appropriate given documented evasion (disconnecting calls, avoiding office, no communication). Legal documents should state facts that support this conclusion rather than the conclusion itself. Let the tribunal infer 'intentional evasion' from the pattern of conduct described."]
+  },
+  {
+    "question": "The borrower's alternate phone number call attempts failed. Should this be investigated further?",
+    "golden_answers": ["Investigation may reveal: (1) Number changed to avoid contact, (2) Number was incorrect from the start, (3) Phone is switched off permanently. However, given the borrower's clear evasion pattern, extensive investigation may be unnecessary—focus should shift to legal service and salary attachment rather than continued communication attempts."]
+  },
+  {
+    "question": "The case shows the borrower paid 3 EMIs before defaulting. What percentage of the loan was repaid?",
+    "golden_answers": ["Principal recovered: ₹10,838 from ₹1,15,000 = 9.4% of loan repaid. The borrower repaid less than 10% of the principal before defaulting. This minimal repayment, combined with early default, suggests either financial distress from the start or lack of genuine repayment intent."]
+  },
+  {
+    "question": "The Execution Petition references 'gig platform income' but the borrower has no gig income. What correction is needed?",
+    "golden_answers": ["Complete correction: Remove all gig platform references. The execution petition should state: 'Primary execution mode: Salary attachment from LIC of India at 30-40% of net monthly salary (₹51,000/month). Alternative execution: Vehicle (Yamaha FZ-S) attachment and auction if salary attachment is insufficient.'"]
+  },
+  {
+    "question": "The case shows the borrower avoided recovery agent at office. Could this affect his employment standing?",
+    "golden_answers": ["Recovery visits to workplace, if conducted professionally, shouldn't affect employment. However, if visits become disruptive or create scenes, the borrower might face workplace issues. The lender should maintain professional conduct to avoid harassment claims while still pursuing legitimate recovery."]
+  },
+  {
+    "question": "The Award excerpt shows 'Vehicle attachment/gig income' as execution modes. For a LIC employee, what are the actual execution options?",
+    "golden_answers": ["Actual execution options: (1) Salary attachment from LIC (most effective), (2) Vehicle attachment and auction, (3) Bank account garnishment, (4) Any other movable property. LIC salary attachment is primary given government employment reliability. Vehicle attachment is backup if salary attachment is delayed or insufficient."]
+  },
+  {
+    "question": "The case shows ₹34,567 interest outstanding on ₹1,04,162 principal. At 15.5% p.a., is this figure accurate for 7 months?",
+    "golden_answers": ["Simple interest calculation: ₹1,04,162 × 15.5% × (7/12) ≈ ₹9,418. The stated ₹34,567 is much higher, likely including: (1) Compound interest, (2) Default interest rates, (3) Interest on missed EMIs. The figure should be verified against the loan agreement terms for default interest calculations."]
+  },
+  {
+    "question": "The recovery timeline shows complete communication failure from May to August 2024. Should field visits have been attempted earlier?",
+    "golden_answers": ["Yes, field visits should have been attempted earlier. After 2-3 failed communication attempts in May-June, physical verification in July was appropriate. The delay until July-August allowed more interest to accumulate. Earlier field visits would have confirmed evasion sooner and enabled faster legal escalation."]
+  },
+  {
+    "question": "The case shows the borrower is a Development Officer at LIC. What is the typical career progression and salary growth for this role?",
+    "golden_answers": ["LIC Development Officers typically have: (1) Salary increments annually, (2) Promotion opportunities to higher grades, (3) Performance-linked bonuses, (4) Job security until retirement. Salary can grow from ₹51,000 to ₹70,000-80,000+ over career. This growth potential supports long-term salary attachment recovery."]
+  },
+  {
+    "question": "The Section 17 application mentions 'gig platform income attachment explored.' For a LIC employee, what should be explored?",
+    "golden_answers": ["For a LIC employee, the application should explore: (1) Salary attachment percentage (30-40% is sustainable), (2) LIC HR contact for garnishment order service, (3) Bank account where salary is credited for direct attachment, (4) Any bonuses or incentives that can be attached. Gig platform references are completely irrelevant."]
+  },
+  {
+    "question": "The case shows the borrower's wife claimed 'no knowledge' of finances. Should the wife be served with notices?",
+    "golden_answers": ["The wife is not a party to the loan and cannot be served with legal notices intended for the borrower. However, sending notice to the family address with the wife as recipient for 'information to borrower' is acceptable practice. The wife can be requested to inform her husband, but she has no legal obligation."]
+  },
+  {
+    "question": "The Award shows 'Total: ₹2,18,579/- plus interest' but the outstanding is ₹1,58,579. What accounts for the ₹60,000 difference?",
+    "golden_answers": ["The ₹60,000 difference represents arbitration costs (Arbitrator fees, Advocate fees, Administrative expenses). The total award amount is: ₹1,58,579 (outstanding) + ₹60,000 (costs) = ₹2,18,579. Plus future interest accrues on this total amount until payment."]
+  },
+  {
+    "question": "The case shows the borrower avoided office contact on 10-08-2024. Should recovery agents have waited longer or used different approach?",
+    "golden_answers": ["Given the borrower's clear avoidance pattern, waiting longer would be futile. Alternative approaches: (1) Formal notice to LIC HR requesting employee contact, (2) Service through employer's internal channels, (3) Direct legal escalation. The borrower's deliberate evasion justifies moving to formal legal process rather than continued field attempts."]
+  },
+  {
+    "question": "The borrower's address is in Lucknow, and LIC office is also in Lucknow. Does this local presence affect recovery strategy?",
+    "golden_answers": ["Local presence is advantageous: (1) Easier field visits and service, (2) Direct access to LIC office for garnishment order service, (3) Lower execution costs, (4) Better coordination with local courts. The borrower's local employment and residence simplify the recovery process compared to cases with distant locations."]
+  },
+  {
+    "question": "The case shows 'salary attachment being considered.' What information is needed to implement salary attachment from LIC?",
+    "golden_answers": ["Information needed: (1) Borrower's full name and employee ID, (2) LIC branch/office address and HR contact, (3) Current designation and department, (4) Salary structure (gross, net, deductions), (5) Bank account details for salary credit. This enables court to issue precise garnishment order to LIC."]
+  },
+  {
+    "question": "The Evidence Affidavit mentions 'Gig Platform Earnings Records' but should reference LIC salary. What correction is needed?",
+    "golden_answers": ["The affidavit should state: 'LIC Employment Certificate, Salary Slips showing ₹51,000/month net salary, Employee ID confirmation, Bank statements showing LIC salary credit, and verification of continued employment as of [date].' All gig platform references must be removed."]
+  },
+  {
+    "question": "The case shows the borrower disconnected calls and avoided contact. Does this pattern support ex-parte proceedings?",
+    "golden_answers": ["Yes, the pattern strongly supports ex-parte proceedings: (1) Multiple service attempts failed, (2) Borrower deliberately avoided contact, (3) No response to notices, (4) No defense filed. The lender has made reasonable efforts to communicate, justifying proceeding without the borrower's participation."]
+  },
+  {
+    "question": "The loan was for Yamaha FZ-S purchased in January 2024. If the vehicle is still with the borrower, what is its current condition likely to be?",
+    "golden_answers": ["After 10 months of use, the vehicle condition depends on: (1) Maintenance and care, (2) Mileage accumulated, (3) Any accidents or damage. Assuming normal use, a well-maintained FZ-S would retain 70-75% value (₹80,000-85,000). Poor maintenance or high mileage could reduce value to ₹70,000-75,000."]
+  },
+  {
+    "question": "The case shows the borrower made no response to any communication attempts. Should this silence be interpreted as acknowledgment or denial?",
+    "golden_answers": ["Silence doesn't constitute legal acknowledgment, but it also doesn't constitute denial. In arbitration, the borrower's failure to respond means: (1) Facts in the claim are treated as uncontested, (2) The tribunal can proceed ex-parte, (3) The borrower loses opportunity to present defenses. Silence is effectively treated as non-participation rather than admission."]
+  },
+  {
+    "question": "The Award mentions interest at 17% p.a. but the loan agreement shows 15.5% p.a. Can the arbitrator increase the interest rate?",
+    "golden_answers": ["Arbitrators typically cannot unilaterally increase the contractual interest rate. The 17% rate in the award may reflect: (1) Default interest rate specified in the agreement, (2) Post-award interest at a different rate, (3) Or an error. The award should use 15.5% as per agreement for pre-award interest, though costs may be enhanced for non-cooperation."]
+  },
+  {
+    "question": "The case shows the borrower is employed at LIC Lucknow. Should execution be filed in Lucknow or at the arbitration seat?",
+    "golden_answers": ["Execution can be filed in Lucknow (where borrower works/resides) even if arbitration seat is elsewhere. Under CPC, execution can be transferred to the court where the judgment debtor resides or where assets are located. Since LIC office and borrower's residence are in Lucknow, Lucknow District Court is the appropriate execution forum."]
+  },
+  {
+    "question": "The recovery timeline shows 'all communication failed' in June 2024. What should trigger escalation from soft reminders to legal action?",
+    "golden_answers": ["Escalation triggers include: (1) Complete communication failure for 30-45 days, (2) Borrower with stable employment avoiding contact, (3) No response to multiple communication attempts, (4) Field visits confirming evasion. In this case, escalation should have occurred by July 2024 rather than waiting until September."]
+  },
+  {
+    "question": "The case shows the borrower paid only 3 EMIs before defaulting. What would have been the total repayment if he had continued?",
+    "golden_answers": ["Total if regularly paid: 36 EMIs × ₹4,105 = ₹1,47,780. He paid ₹12,315 (3 EMIs) before default. The remaining 33 EMIs would have totaled ₹1,35,465. The early default means the loan barely started being repaid, maximizing the outstanding principal."]
+  },
+  {
+    "question": "The Section 9 petition references 'gig worker' and 'gig platforms' throughout. What systematic correction is needed?",
+    "golden_answers": ["Systematic find-and-replace needed: (1) 'Gig worker' → 'LIC Development Officer', (2) 'Gig platform income' → 'LIC salary', (3) 'Gig platform earnings' → 'LIC salary slips', (4) 'Platform income attachment' → 'Salary attachment from LIC'. Every reference must match the borrower's actual employment profile."]
+  },
+  {
+    "question": "The case shows the borrower avoided office contact on 10-08-2024. Should recovery agents have persisted or escalated immediately?",
+    "golden_answers": ["Given the clear avoidance pattern, immediate escalation was appropriate. Continued persistence would be futile and potentially counterproductive. The borrower's deliberate evasion justifies moving to formal legal process. One more attempt could be made through formal notice to LIC HR, but legal escalation should proceed in parallel."]
+  },
+  {
+    "question": "The Award shows 'Vehicle attachment/gig income' as execution modes. For execution purposes, what should the court order specify?",
+    "golden_answers": ["The court order should specify: 'Direct LIC of India, Lucknow Branch, to attach 30-40% of net monthly salary (₹51,000/month) of respondent Ashok Tripathi, Development Officer, Employee ID [X], and remit the same to the decree holder monthly until full satisfaction. Alternatively, attach vehicle Yamaha FZ-S, Registration [X], for auction.'"]
+  },
+  {
+    "question": "The case shows the borrower's wife was met during field visit. Should family members be included in recovery strategy?",
+    "golden_answers": ["Family members can be used for: (1) Communication channel to reach borrower, (2) Information about borrower's whereabouts, (3) Facilitating service. However, they cannot be pressured for payment or made liable. The focus should remain on the borrower's LIC salary attachment rather than family involvement."]
+  },
+  {
+    "question": "The case shows 'Intentional evasion' as default reason with 'salary attachment being considered.' Why is salary attachment not already implemented?",
+    "golden_answers": ["Salary attachment requires: (1) Arbitral award (not yet obtained—case is at 'Arbitration Process Initiated'), (2) Execution petition filing, (3) Court order for garnishment. The process is pending completion of arbitration. Once award is obtained and execution filed, LIC will comply with garnishment orders. The consideration phase means planning for post-award execution."]
+  },
+  {
+    "question": "The borrower's email is ashok.tripathi87@gmail.com. Should email service be attempted even if other methods failed?",
+    "golden_answers": ["Yes, email service should be attempted: (1) Section 3 of Arbitration Act recognizes electronic communication, (2) Email provides delivery confirmation, (3) Multiple service methods strengthen ex-parte case, (4) Borrower may check email even if avoiding calls. Email to registered address constitutes valid service attempt."]
+  },
+  {
+    "question": "The case shows the borrower made no payments after April 2024. What is the total financial exposure now versus original loan?",
+    "golden_answers": ["Original loan: ₹1,15,000. Current outstanding: ₹1,58,579 (38% increase). With costs (₹60,000) and future interest, total exposure is ₹2,18,579+. The borrower paid only ₹12,315 but now owes ₹2,18,579+—nearly 19 times what he paid. This illustrates how defaults spiral through interest, penalties, and legal costs."]
+  },
+  {
+    "question": "The Execution Petition mentions 'gig platform income' but the borrower is a salaried employee. What is the correct execution strategy?",
+    "golden_answers": ["Correct execution strategy: (1) Primary: Salary attachment from LIC at 30-40% of ₹51,000/month = ₹15,300-20,400/month, (2) Secondary: Vehicle attachment and auction if salary attachment is delayed, (3) Tertiary: Bank account garnishment for any other income. LIC salary attachment is the most reliable and should be the primary focus."]
+  },
+  {
+    "question": "The case shows the borrower avoided recovery agent at office. Could this create workplace issues for the borrower?",
+    "golden_answers": ["If recovery visits are professional and non-disruptive, they shouldn't create workplace issues. However, if visits become frequent or create scenes, the borrower might face: (1) Questions from colleagues/supervisors, (2) Potential disciplinary action if it affects work, (3) Embarrassment. The lender should maintain professionalism to avoid harassment claims while pursuing legitimate recovery."]
+  },
+  {
+    "question": "The Award excerpt shows 'Vehicle attachment/gig income' but should show 'LIC salary attachment.' What correction is needed?",
+    "golden_answers": ["The Award should state: 'The Respondent is directed to pay the awarded amount. In default, the Claimant is authorized to: (1) Attach 30-40% of net monthly salary from LIC of India, or (2) Attach and auction the vehicle Yamaha FZ-S. Salary attachment from LIC shall be the primary mode of recovery.' All gig income references must be removed."]
+  },
+  {
+    "question": "The case shows the borrower is a Development Officer at LIC. What is the typical job security and retirement age for this position?",
+    "golden_answers": ["LIC Development Officers have: (1) Government job security (cannot be easily terminated), (2) Retirement age typically 60 years, (3) Pension benefits post-retirement, (4) Job protection ensures long-term salary attachment viability. For a 36-year-old, there are 24 years until retirement, providing ample time for salary-based recovery."]
+  },
+  {
+    "question": "The recovery timeline shows complete communication failure. Should the lender have attempted service through LIC HR earlier?",
+    "golden_answers": ["Yes, service through employer can be effective: (1) LIC HR can facilitate employee contact, (2) Formal notice to employer creates record, (3) May prompt borrower to respond to avoid workplace issues, (4) Establishes employment verification for future salary attachment. This approach should have been tried before full legal escalation."]
+  },
+  {
+    "question": "The case shows the borrower paid 3 EMIs before defaulting. What does this minimal repayment suggest about the loan purpose or borrower's intent?",
+    "golden_answers": ["Minimal repayment (3 EMIs) suggests: (1) Borrower may have taken loan for immediate need without long-term repayment plan, (2) Financial situation deteriorated quickly, (3) Or borrower never intended full repayment. The very early default (within 3 months) is unusual for someone with stable government employment and raises questions about original loan assessment or borrower's financial discipline."]
+  },
+  {
+    "question": "The Award shows 'Total: ₹2,18,579/- plus interest' with costs of ₹60,000. Is this cost breakdown provided?",
+    "golden_answers": ["The Award should provide cost breakdown: (1) Arbitrator fees: ₹X, (2) Advocate fees: ₹X, (3) Administrative expenses: ₹X. Without breakdown, costs appear arbitrary. The ₹60,000 total seems reasonable for a contested case but should be itemized for transparency and to enable challenge if excessive."]
+  },
+  {
+    "question": "The case shows the borrower avoided office contact. Should recovery agents have used different timing or approach?",
+    "golden_answers": ["Alternative approaches: (1) Early morning or late evening visits to catch borrower entering/leaving, (2) Formal notice to LIC HR requesting employee contact, (3) Service through employer's internal mail system, (4) Direct legal escalation given clear evasion. However, the borrower's deliberate avoidance suggests he would evade regardless of approach."]
+  },
+  {
+    "question": "The Execution Petition references 'gig platform income (if feasible)' but the borrower has no gig income. What should the execution prayer request?",
+    "golden_answers": ["The execution prayer should request: 'Issue garnishment order to LIC of India, Lucknow Branch, directing attachment of 30-40% of net monthly salary (₹51,000/month) of judgment debtor Ashok Tripathi, Development Officer, Employee ID [X], and monthly remittance to decree holder until full satisfaction. Alternatively, issue warrant for attachment of vehicle Yamaha FZ-S for auction.'"]
+  }
+]

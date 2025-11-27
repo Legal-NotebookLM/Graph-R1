@@ -1,0 +1,330 @@
+[
+  {
+    "question": "The Section 17 application lists the respondent as 'Aman Khan' but the case is about Anjali Desai. Is this document from the correct case file?",
+    "golden_answers": ["No, this is clearly from a different case. The Section 17 application for Aman Khan (a gig worker case) was mistakenly included in Anjali Desai's personal loan case file. This entire section should be removed and replaced with the correct Section 17 application for Anjali Desai, if one exists."]
+  },
+  {
+    "question": "The Loan Recall Notice is dated 5th March 2024 and sent to both the Mumbai address and Parents' Address in Pune. Does dual addressing strengthen service claims?",
+    "golden_answers": ["Yes, sending to both the registered Mumbai address (B-204, Sunrise Residency) and the parents' address in Pune demonstrates thorough service efforts. Since field visits confirmed the borrower relocated to Pune, dual service strengthens deemed service arguments and shows the lender made reasonable efforts to reach the borrower."]
+  },
+  {
+    "question": "The borrower lost her job at ICICI Bank in August 2023, with resignation confirmed on 31-08-2023. The EMI bounced in September 2023. Is there a direct causal connection?",
+    "golden_answers": ["Yes, there is direct causation. Job loss in August would mean the last salary in early September, after which the borrower had no income to maintain the ₹7,385 EMI. The September EMI bounce coinciding with job loss one month prior establishes clear cause-and-effect, supporting the borrower's genuine hardship claim."]
+  },
+  {
+    "question": "The Notice states the borrower 'recently secured employment with a new organization effective April 2024.' Should the lender verify this employment before filing the Execution Petition?",
+    "golden_answers": ["Absolutely. Verifying current employment at the time of execution is critical for salary attachment strategies. If the borrower is employed as stated, salary attachment becomes a viable execution mode. If employment claims are false or the borrower subsequently left, execution strategies must be adjusted accordingly."]
+  },
+  {
+    "question": "The outstanding amount is ₹2,88,842 for a personal loan of ₹2,50,000 after only 5 EMIs paid. How did the outstanding exceed the original loan amount?",
+    "golden_answers": ["The outstanding grew from ₹2,50,000 to ₹2,88,842 due to accrued interest (₹48,567), penal interest (₹18,450), and legal charges (₹5,000), totaling ₹71,842 in additional charges. Since only ₹33,175 of principal was recovered, the remaining principal (₹2,16,825) plus charges results in ₹2,88,842, which exceeds the original loan by 15%."]
+  },
+  {
+    "question": "The Recall Notice offers an alternative: pay 25% (₹72,210) within 15 days and balance in 6 installments. Is this a reasonable restructuring offer given the borrower's situation?",
+    "golden_answers": ["For an unemployed or recently employed borrower, ₹72,210 within 15 days is likely unrealistic. A more reasonable structure would lower the upfront payment to 10-15% (₹28,000-₹43,000) and extend installments to 12-18 months, aligning with typical job stabilization periods. The current offer, while business-driven, may be too aggressive for genuine hardship cases."]
+  },
+  {
+    "question": "The field visit on 15-11-2023 found the Mumbai flat given on rent with a new tenant unaware of the borrower. Does this indicate intentional evasion?",
+    "golden_answers": ["Not necessarily intentional evasion, but rather relocation due to job loss. The borrower likely couldn't afford Mumbai rent after losing her ICICI job and returned to parents' home in Pune. Renting out the flat could generate income toward loan repayment, which actually shows financial pragmatism rather than evasion."]
+  },
+  {
+    "question": "The recovery timeline notes the borrower was 'crying, mentioned severe stress' during a call on 15-09-2023. Should this emotional distress be considered in arbitration?",
+    "golden_answers": ["Emotional distress and mental health impact are human factors that arbitrators may consider in determining payment timelines, costs, and enforcement approach. However, they don't excuse the contractual obligation to repay. Documenting such factors supports compassionate enforcement while maintaining the lender's legal rights."]
+  },
+  {
+    "question": "The Section 21 Notice warns of 'criminal proceedings for cheating and criminal breach of trust under IPC.' Is this appropriate for a job loss default case?",
+    "golden_answers": ["No, threatening criminal proceedings is inappropriate here. Job loss leading to default is a civil matter, not criminal fraud. There's no evidence of deception at loan origination. Such threats in genuine hardship cases may violate RBI Fair Practices Code and could be seen as harassment. The notice should focus on civil remedies."]
+  },
+  {
+    "question": "The DPD is 447 days as on 26-11-2024. If the September 2023 EMI bounced on 05-09-2023, does this DPD calculation match?",
+    "golden_answers": ["Yes, from 5 September 2023 to 26 November 2024 is approximately 448 days, which matches the stated 447 DPD. This extended default period (nearly 15 months) justifies the lender's escalation to arbitration, even acknowledging the genuine hardship."]
+  },
+  {
+    "question": "The mother answered a call on 10-12-2023 and mentioned the daughter is 'going through depression.' Should medical documentation of depression be requested?",
+    "golden_answers": ["While mental health is a serious concern, requesting medical documentation could appear insensitive. For recovery purposes, acknowledging the borrower's difficult situation without demanding proof is appropriate. Mental health claims can be noted as context for settlement flexibility without requiring clinical verification, balancing compassion with recovery objectives."]
+  },
+  {
+    "question": "The Notice states the account was classified as NPA 'with effect from December 2023.' Is this timing correct per RBI guidelines?",
+    "golden_answers": ["Yes, RBI guidelines classify accounts as NPA after 90 days of continuous default. The September 2023 EMI bounced on 5 September 2023, so 90 days later would be approximately 4 December 2023. The NPA classification 'with effect from December 2023' is accurate and compliant with regulatory norms."]
+  },
+  {
+    "question": "The borrower mentioned 'joining new company from April' on 20-03-2024. The recall notice was issued 5-03-2024 giving 15 days. Should the deadline have been extended to accommodate the new job start?",
+    "golden_answers": ["While commercial considerations drive fixed deadlines, extending the deadline to late April (after salary receipt) could have increased recovery prospects. A pragmatic approach would be to proceed with legal notices while simultaneously offering a settlement window contingent on employment verification and first salary receipt. This balances legal positioning with practical recovery."]
+  },
+  {
+    "question": "The Section 9 petition seeks to 'restrain the Respondent from transferring, alienating or encumbering assets.' For an unsecured personal loan, what assets could be restrained?",
+    "golden_answers": ["Personal loans typically have no specific collateral. The restraint would apply to any movable or immovable property owned by the borrower (jewelry, bank deposits, property, vehicle). However, without knowledge of specific assets, this is a general restraint. The petition should identify known assets if any exist, or seek disclosure of assets from the borrower."]
+  },
+  {
+    "question": "The Notice includes 'Company Registration: L65999DL2010PLC123456' with specific format. What does this registration number reveal?",
+    "golden_answers": ["The format indicates: L = Public Limited Company, 65999 = business activity code (Other Financial Services), DL = Delhi, 2010 = year of incorporation, PLC = Public Limited Company, 123456 = unique registration number. This establishes Phoenix Finance Ltd. was incorporated in Delhi in 2010 as an NBFC, providing transparency about the lender's identity."]
+  },
+  {
+    "question": "The alternate proposal asks the borrower to pay ₹72,210 within 15 days. If she just started a new job in April 2024, is this financially feasible?",
+    "golden_answers": ["No, highly unlikely. A person starting a new job would receive first salary after 30-45 days, and ₹72,210 is approximately 10 months' salary for someone at entry level. The borrower would need family support or savings to pay this amount. The proposal should be revised to align with realistic cash flow from new employment."]
+  },
+  {
+    "question": "The recovery timeline shows employer verified on 20-11-2023 that resignation occurred 31-08-2023. Why did verification occur 3 months after resignation?",
+    "golden_answers": ["Employer verification on 20 November was likely triggered after the September EMI bounce and subsequent non-response. The lender's recovery team would investigate the reason for default, leading them to ICICI Bank's HR to verify employment status. The 3-month lag is typical for escalation from soft reminders to field verification."]
+  },
+  {
+    "question": "The case shows the borrower is cooperative throughout (replying to emails, answering calls, meeting at parents' address). Should this affect the decision to pursue ex-parte arbitration?",
+    "golden_answers": ["Yes, genuine cooperation suggests the borrower should be given an opportunity to participate in arbitration. Ex-parte proceedings are appropriate for absconding or non-responsive borrowers. Here, conducting arbitration on-notice with the borrower participating could lead to negotiated settlement or payment plan, achieving better outcomes than ex-parte proceedings."]
+  },
+  {
+    "question": "The Loan Account Number is PFL-PL-231003. The 'PL' designation indicates Personal Loan. How does this differ from 'TWL' (Two-Wheeler Loan) in terms of security?",
+    "golden_answers": ["Personal Loans (PL) are unsecured, backed only by the borrower's creditworthiness and signature. Two-Wheeler Loans (TWL) are secured by hypothecation of the vehicle. This fundamental difference affects recovery strategies: TWL allows vehicle repossession, while PL relies on salary attachment, property execution, or negotiated settlement without tangible security."]
+  },
+  {
+    "question": "The Notice warns of 'attachment of salary/bank accounts' as a recovery measure. Is attachment of both simultaneously permissible?",
+    "golden_answers": ["Yes, simultaneous attachment of salary and bank accounts is permissible in execution proceedings. However, courts often limit garnishment to ensure the judgment debtor retains basic subsistence income. For salary, typically 50% maximum can be attached; for bank accounts, the court may leave a minimum balance for essential needs, balancing recovery with debtor's survival."]
+  },
+  {
+    "question": "The borrower's age is 31 years. Does age factor into creditworthiness assessment or recovery strategy?",
+    "golden_answers": ["Age of 31 suggests the borrower is in early-to-mid career with potential for income growth and employment stability. For recovery, this age indicates longer earning potential, making salary attachment viable. It also suggests the borrower may have family support from parents (as evidenced by her returning to parents' home). These factors inform recovery strategy and settlement negotiations."]
+  },
+  {
+    "question": "The case shows the processing fee of ₹7,500 (3% of ₹2,50,000). Is this separate from or included in the ₹2,88,842 outstanding?",
+    "golden_answers": ["Processing fees are typically deducted upfront from the disbursed amount. If the loan was ₹2,50,000 with ₹7,500 fee, actual disbursal would be ₹2,42,500 to the borrower. However, the borrower owes ₹2,50,000 principal. The outstanding ₹2,88,842 includes this ₹2,50,000 principal (minus ₹33,175 recovered) plus interest and charges, but not the processing fee which was already collected."]
+  },
+  {
+    "question": "The Section 9 petition lists three prayers: asset restraint, asset disclosure, and salary attachment. Is salary attachment available at the interim stage?",
+    "golden_answers": ["Salary attachment is typically an execution remedy after final award, not interim relief. Section 9 allows preservation measures like asset freezing and disclosure orders, but ordering salary attachment pre-award may be seen as pre-judging the dispute. The prayer should focus on preservation (restraint, disclosure) rather than execution (attachment)."]
+  },
+  {
+    "question": "The affidavit of urgency states the borrower 'recently secured new employment' and there is 'risk of relocation or fund transfer.' Are these contradictory?",
+    "golden_answers": ["Not necessarily contradictory. New employment could prompt the borrower to relocate to another city for work, making enforcement difficult. Receiving salary could lead to fund transfer to family or accounts outside easy reach. The urgency is that new income sources should be secured before dispersal, but the phrasing could be clearer about how new employment creates disposal risk."]
+  },
+  {
+    "question": "The case shows the borrower's email auto-reply on 25-09-2023 said 'Out of office.' Does an auto-reply constitute sufficient notice delivery?",
+    "golden_answers": ["An auto-reply confirms the email was delivered to the recipient's mail server, though it doesn't prove the borrower read it. For legal notice purposes, delivery to the email address is generally sufficient for deemed service. The auto-reply actually strengthens the service claim by confirming the email address was active and receiving messages at that time."]
+  },
+  {
+    "question": "The Notice states 'We are aware that you lost your employment... however you have not approached us with any repayment proposal.' Is this statement factually accurate?",
+    "golden_answers": ["The recovery timeline shows the borrower was in communication, mentioned her situation, and answered calls. However, there's no documented formal written repayment proposal submitted by the borrower. While she communicated about her difficulties, without a concrete written proposal with specific terms, the lender's statement that 'no repayment proposal' was submitted is technically accurate."]
+  },
+  {
+    "question": "The personal loan was sanctioned on 20th March 2023 and disbursed on 25th March 2023. The first EMI was due 5th April 2023. Is this timeline standard?",
+    "golden_answers": ["Yes, 5 days between sanction and disbursal allows for documentation completion. First EMI due 11 days after disbursal is reasonable, giving the borrower time to arrange funds. This timeline is standard for personal loans where no asset delivery is involved, unlike vehicle loans which may have longer initial periods."]
+  },
+  {
+    "question": "The Notice threatens reporting to all four credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark). Is simultaneous reporting to all bureaus required?",
+    "golden_answers": ["Lenders typically report to one or two major bureaus (usually CIBIL) rather than all four. RBI requires reporting to at least one credit information company. Threatening all four creates stronger deterrent effect. However, actual practice may involve reporting to CIBIL and one other. The key is that default will impact the borrower's credit history across the ecosystem."]
+  },
+  {
+    "question": "The Statement of Claim in the case file references 'Aman Khan' (gig worker, Suzuki Access 125). Should all references to wrong borrowers be removed?",
+    "golden_answers": ["Absolutely. The file contains significant content mixing with at least two other cases (Aman Khan gig worker case and possibly others). All sections referencing wrong borrowers, different loan amounts, different vehicles, or different locations must be removed. Only content specific to Anjali Desai's ₹2,50,000 personal loan case should remain."]
+  },
+  {
+    "question": "The case shows outstanding interest of ₹48,567 on a principal of ₹2,16,825 for about 14 months of default. Is this interest calculation accurate for an 18% p.a. rate?",
+    "golden_answers": ["Let's verify: ₹2,16,825 at 18% p.a. for 14 months = ₹2,16,825 × 0.18 × (14/12) = approximately ₹45,493. The stated ₹48,567 is slightly higher, possibly including interest on reducing principal as payments were made, or calculation from different dates. The figures are in the ballpark, but precise amortization schedule should be verified."]
+  },
+  {
+    "question": "The Notice provides for 'initiate criminal proceedings for cheating and criminal breach of trust, if warranted.' What would constitute 'warranted' in this context?",
+    "golden_answers": ["Criminal proceedings would be warranted only if there was fraudulent intent at loan origination, such as providing fake employment documents, false income proof, or never intending to repay. Job loss after loan disbursement doesn't constitute fraud. Given the borrower's cooperation and genuine hardship, criminal proceedings are not warranted here and the threat is inappropriate."]
+  },
+  {
+    "question": "The borrower's PAN is GHIPS7890H. Should the Section 9 petition include a prayer for PAN-based bank account search?",
+    "golden_answers": ["Yes, praying for the court to direct banks to disclose all accounts linked to PAN GHIPS7890H would aid asset identification. This is particularly important for unsecured personal loans where specific assets aren't known. The court can issue notices to banks under Order XXI Rule 41 for disclosure of judgment debtor's bank accounts."]
+  },
+  {
+    "question": "The Recall Notice is dated 5th March 2024, offering 15 days to respond. The Section 21 Notice is dated 25th March 2024. Is this 20-day gap sufficient?",
+    "golden_answers": ["Yes, 20 days is adequate. The 15-day period from the Recall Notice would expire around 20 March (depending on service date), and issuing the Section 21 Notice on 25 March provides an additional 5-day buffer. This demonstrates reasonable patience and compliance with procedural fairness before invoking arbitration."]
+  },
+  {
+    "question": "The parents' address is listed as 'Saswad Road, Pune - 412301' without complete details. Should the full address be obtained?",
+    "golden_answers": ["Yes, obtaining the complete address (house number, locality name) improves service reliability. If Saswad Road is a long road, specificity ensures delivery. Since field visits successfully located the borrower at this address, the complete details should be updated in CRM and used in all future correspondence to ensure reliable service."]
+  },
+  {
+    "question": "The Email reminder on 25-09-2023 received an auto-reply 'Out of office.' Should the lender have attempted alternate email addresses?",
+    "golden_answers": ["If the borrower provided only one email address, the lender has no obligation to search for alternates. However, if the auto-reply provided an alternate contact or if alternate emails are available from employment records, using them would strengthen recovery efforts. In practice, one verified email address is typically sufficient for notice purposes."]
+  },
+  {
+    "question": "The case is at 'Recall Notice Issued' stage, yet the file includes Statement of Claim, Award extracts, and Execution Petition. Should the status be updated?",
+    "golden_answers": ["Yes, the status should reflect the current stage. If a Statement of Claim has been filed and arbitration is ongoing, the status is 'Arbitration Proceedings.' If an award has been passed, it's 'Award Stage' or 'Execution Stage.' Accurate status tracking is essential for case management and regulatory reporting."]
+  },
+  {
+    "question": "The outstanding principal is ₹2,16,825 from an original ₹2,50,000 loan with only ₹33,175 principal recovered. After 5 full EMIs of ₹7,385 each (₹36,925 total), how is only ₹33,175 principal?",
+    "golden_answers": ["In reducing balance loans, early EMIs have higher interest components. Of the ₹36,925 paid (5 EMIs), approximately ₹33,175 went to principal and ₹3,750 to interest. This is reasonable for an 18% p.a. loan where initial interest charges are substantial. The math appears consistent with reducing balance amortization."]
+  },
+  {
+    "question": "The Notice mentions the borrower 'approached us' for the loan. Should the circumstances of loan application be documented to counter any future coercion claims?",
+    "golden_answers": ["Yes, documenting that the borrower voluntarily approached the lender (through application form, signed declarations, no-coercion certificate) protects against claims that the loan was forced or missold. The loan application documents should clearly show the borrower's willing participation, understanding of terms, and absence of pressure, especially important if the borrower later disputes liability."]
+  },
+  {
+    "question": "The recovery timeline shows the mother answered multiple calls. Can the mother be held liable for the daughter's debt?",
+    "golden_answers": ["No, the mother has no liability unless she is a co-borrower or guarantor. Speaking with recovery officers doesn't create liability. The mother is being contacted as a means to reach the borrower, not as a debtor. Any attempt to hold the mother liable without her being party to the loan agreement would be improper and potentially harassment."]
+  },
+  {
+    "question": "The Notice offers a restructuring plan requiring 25% upfront and 6 monthly installments for the balance. What is the implied monthly installment amount?",
+    "golden_answers": ["If 25% (₹72,210) is paid upfront, the balance is ₹2,88,842 - ₹72,210 = ₹2,16,632. Dividing by 6 installments = ₹36,105 per month. For someone with an entry-level salary of ₹25,000-₹35,000, this is unaffordable. The restructuring plan should be revised to 12-18 installments of ₹12,000-₹18,000, making it realistic for a newly employed person."]
+  },
+  {
+    "question": "The borrower resigned from ICICI Bank due to 'performance issues.' Should this affect creditworthiness assessment for future lending?",
+    "golden_answers": ["Performance issues leading to resignation may indicate employment instability but don't necessarily reflect on creditworthiness or intent to repay. The borrower's subsequent default was due to unemployment, not character defect. Credit bureau reporting will note the default, which is sufficient. Detailed reasons for job loss need not be emphasized beyond explaining the default cause."]
+  },
+  {
+    "question": "The field visit to parents' address on 05-01-2024 found the borrower. Should this successful location be leveraged for in-person settlement discussions?",
+    "golden_answers": ["Yes, knowing the borrower's location at her parents' home provides an opportunity for face-to-face settlement discussions. Personal meetings often yield better outcomes than phone/email negotiations. The recovery team could visit with a settlement proposal, understand her current employment situation, and negotiate a realistic payment plan, potentially avoiding protracted arbitration."]
+  },
+  {
+    "question": "The interest rate is 18% p.a. on a personal loan. Is this rate compliant with usury laws or RBI guidelines?",
+    "golden_answers": ["There are no usury caps in India currently. RBI provides guidelines on transparency rather than rate caps. 18% p.a. is within the typical range for personal loans (usually 14-24% p.a.) depending on credit profile. As long as the rate was clearly disclosed at loan origination and the borrower agreed, it's legally valid, though on the higher end of the spectrum."]
+  },
+  {
+    "question": "The Notice states failure to pay will result in 'all other legal remedies available under law.' What remedies exist for unsecured personal loans?",
+    "golden_answers": ["For unsecured personal loans, remedies include: (1) Arbitration/litigation for monetary decree, (2) Execution against borrower's salary, bank accounts, movable or immovable property, (3) Credit bureau reporting affecting future credit, (4) Insolvency proceedings under IBC if debt exceeds ₹1 lakh (met here), (5) Civil recovery suits. Unlike secured loans, there's no specific collateral to repossess."]
+  },
+  {
+    "question": "The case shows penal interest of ₹18,450 on an outstanding of ₹2,16,825 for 14 months default. What penal rate does this imply?",
+    "golden_answers": ["₹18,450 on ₹2,16,825 for 14 months implies approximately 12% total penalty, or about 0.85% per month. This is reasonable compared to typical penal rates of 2-3% per month. The calculation appears conservative, which is beneficial as excessive penalties can be challenged. However, the exact calculation methodology should be verified against the loan agreement terms."]
+  },
+  {
+    "question": "The Recall Notice provides enclosures including 'EMI Payment History (April 2023 to February 2024).' Why does the EMI history extend to February 2024 when no payments occurred after August 2023?",
+    "golden_answers": ["The EMI history extending to February 2024 shows the complete default period, listing all EMIs that became due (and remained unpaid) through February 2024. This comprehensive view demonstrates the extent and duration of default. Showing only through August 2023 would understate the problem; extending to the notice date provides complete factual context."]
+  },
+  {
+    "question": "The borrower mentioned she was 'going through depression' per her mother. Should the lender request fitness documentation before proceeding legally?",
+    "golden_answers": ["Mental health is sensitive, and requesting fitness certificates could be intrusive. For loan enforcement, the borrower's legal capacity is presumed unless declared incompetent by a court. Depression doesn't affect legal capacity to be sued. The lender should proceed with standard legal process while maintaining compassionate communication, without demanding mental health documentation."]
+  },
+  {
+    "question": "The Section 21 Notice requires the borrower to propose an arbitrator within 15 days. If she proposes an arbitrator on day 14, what happens next?",
+    "golden_answers": ["If the borrower proposes an arbitrator within 15 days, both parties should attempt to mutually agree on the proposed candidate or negotiate an alternative. If mutual agreement is reached, that arbitrator is appointed. If parties cannot agree despite both engaging, either party may approach the court under Section 11(5) for appointment, but the borrower's timely response demonstrates cooperation."]
+  },
+  {
+    "question": "The Notice warns of 'proceedings for attachment of salary/bank accounts.' Is there a priority order for attachment in execution?",
+    "golden_answers": ["There's no statutory priority order; the decree holder can choose execution methods based on practicality and cost-effectiveness. Typically, bank account attachment is faster and less expensive than salary attachment which requires ongoing garnishment orders to the employer. The strategy depends on what's available: if salary is stable, ongoing attachment; if the borrower has bank balances, immediate garnishment."]
+  },
+  {
+    "question": "The borrower is 31 years old and working at ICICI Bank at the time of loan. Should the lender have assessed employment stability risk?",
+    "golden_answers": ["ICICI Bank is a major employer, generally indicating stable employment. At loan origination in March 2023, there was no reason to doubt stability. The subsequent resignation in August 2023 for performance issues was unpredictable. While lenders can assess industry and employer stability, individual performance-related resignations are difficult to predict in credit assessment."]
+  },
+  {
+    "question": "The Execution Petition references 'Infosys Employment Verification' for Anjali Desai. Is this the correct employer?",
+    "golden_answers": ["No, Anjali Desai worked at ICICI Bank, not Infosys. The reference to Infosys is content from a different case that was mistakenly included. The Execution Petition should verify her new employment (mentioned as starting April 2024, employer name unknown) or confirm she is not currently employed. All Infosys references should be removed."]
+  },
+  {
+    "question": "The case shows the borrower received auto-reply on email but phone was switched off. Is multi-channel communication failure grounds for deeming evasion?",
+    "golden_answers": ["Not necessarily. Phone may be switched off due to inability to pay bills after job loss, not intentional evasion. Email auto-reply 'Out of office' suggests she may have been seeking new employment. Genuine hardship often results in communication barriers. Evasion requires intentional avoidance despite having the means to respond, which isn't clearly established here."]
+  },
+  {
+    "question": "The Loan Agreement was executed on 20th March 2023. Should there be a cooling-off period before disbursal?",
+    "golden_answers": ["RBI guidelines require reasonable time between sanction and disbursal for the borrower to understand terms, but no mandatory cooling-off period. The 5-day gap (20 March to 25 March) is reasonable. If the borrower signed the agreement, she accepted the terms. A cooling-off period or right to cancel might be beneficial for consumer protection, but isn't currently mandated for personal loans."]
+  },
+  {
+    "question": "The mother stated the borrower was 'looking for new job' in December 2023, and by March 2024 she had secured employment. Does this 3-4 month job search duration affect the hardship assessment?",
+    "golden_answers": ["A 3-4 month job search for a qualified professional with ICICI Bank experience is reasonable, not prolonged. This timeline supports the genuineness of hardship. If she found work immediately, one might question whether she truly faced difficulty. The gap between job loss (August 2023) and re-employment (April 2024) of 8 months is longer than ideal but not unreasonable for mid-level positions."]
+  },
+  {
+    "question": "The Notice includes 'Company Registration: L65999DL2010PLC123456.' Should the RBI registration number also be included?",
+    "golden_answers": ["Yes, including the RBI registration number (for NBFC license) would further establish the lender's legitimacy and regulatory compliance. It's not mandatory in notices but enhances transparency and credibility. The combination of company registration and RBI license number clearly identifies Phoenix Finance Ltd. as a duly registered and regulated NBFC."]
+  },
+  {
+    "question": "The total EMIs paid equal ₹36,925 (5 × ₹7,385). The borrower also paid a processing fee of ₹7,500. Should the processing fee be adjusted against dues?",
+    "golden_answers": ["No, processing fees are not adjustable against loan repayment. They are separate charges for loan processing services, typically non-refundable and paid upfront. The ₹7,500 was deducted from disbursal, so the borrower received ₹2,42,500 but owes ₹2,50,000 principal. The processing fee doesn't offset the outstanding balance."]
+  },
+  {
+    "question": "The case shows the borrower moved from an expensive Mumbai flat to parents' home in Pune. Does downsizing indicate genuine hardship?",
+    "golden_answers": ["Yes, moving from Mumbai (high cost of living) to parents' home in Pune suggests genuine financial difficulty. Giving up independent accommodation and returning to parents' home is a significant lifestyle change that people typically avoid unless necessary. This corroborates her job loss claims and indicates she's taking practical steps to reduce expenses."]
+  },
+  {
+    "question": "The recovery timeline shows employer verification on 20-11-2023. Should similar verification be done periodically during recovery?",
+    "golden_answers": ["Yes, periodic employment verification (especially at key stages like recall notice, pre-execution) ensures recovery strategy remains aligned with the borrower's current situation. It helps identify salary attachment opportunities or confirms the borrower remains unemployed/underemployed. Quarterly verification during default is good practice for large loans exceeding ₹1 lakh."]
+  },
+  {
+    "question": "The Section 9 petition seeks asset disclosure. What mechanism compels the borrower to disclose assets?",
+    "golden_answers": ["The court can issue interrogatories under Order XI CPC requiring the borrower to file an affidavit disclosing all assets (bank accounts, property, jewelry, investments). Non-compliance can result in contempt proceedings. The petition should specifically pray for an asset disclosure affidavit with a specified timeline, enabling identification of execution targets."]
+  },
+  {
+    "question": "The borrower's circumstances (job loss, depression, relocation) indicate vulnerability. Should Phoenix Finance's recovery approach be reviewed for compliance with Fair Practices Code?",
+    "golden_answers": ["Yes, RBI's Fair Practices Code requires lenders to treat borrowers facing genuine hardship with consideration. While recovery is legitimate, the approach should be balanced: offering realistic restructuring (not ₹36,000/month EMI), avoiding criminal threats, not harassing family members, and engaging constructively. The current aggressive stance may need softening while maintaining recovery rights."]
+  },
+  {
+    "question": "The Notice dated 5th March 2024 states the borrower 'recently secured employment' but provides no employment details. Should these be specified?",
+    "golden_answers": ["If the lender has knowledge of the new employer, specifying it in the notice (e.g., 'employed at XYZ Company from April 2024') strengthens the case by showing investigation and provides warning that salary attachment is possible. If details are unknown, the vague reference may appear as speculation. Verification and specification would improve the notice's credibility."]
+  },
+  {
+    "question": "The Loan Recall Notice is separately sent to Mumbai and Pune addresses. If both are served, which address is deemed the 'registered address' for service purposes?",
+    "golden_answers": ["The 'registered address' is the address in the loan application and agreement, which is B-204, Sunrise Residency, Mumbai. This is the primary service address. The Pune address is a courtesy/supplementary service address. For legal purposes, service to the Mumbai registered address suffices, though dual service strengthens the lender's position by showing thoroughness."]
+  },
+  {
+    "question": "The case shows interest outstanding of ₹48,567 and penal interest of ₹18,450. Are these calculated on the same base or different bases?",
+    "golden_answers": ["They are calculated differently: Interest Outstanding (₹48,567) is the contractual interest @ 18% p.a. on the outstanding principal that accrued during the default period. Penal Interest (₹18,450) is additional penalty for defaulted payments, typically 2-3% per month on overdue EMI amounts. They compound to create the total interest burden but have different bases and rates."]
+  },
+  {
+    "question": "The Recall Notice states the 'borrower has failed to make any concrete repayment arrangement.' What would constitute a 'concrete' arrangement?",
+    "golden_answers": ["A concrete arrangement would be a written agreement signed by the borrower specifying: exact EMI amount, payment dates, duration, consequences of non-compliance, and any upfront payment. Verbal promises or vague commitments like 'I'll pay when I can' don't qualify. The arrangement must be definite, documented, and practically enforceable to be considered concrete."]
+  },
+  {
+    "question": "The borrower is at her parents' home in Pune. Should legal proceedings be initiated in Mumbai (loan origination) or Pune (current residence)?",
+    "golden_answers": ["The loan agreement likely specifies jurisdiction, typically the lender's location or borrower's registered address (Mumbai). Since the agreement was executed in Mumbai, Mumbai courts have jurisdiction. However, for practical execution, if the borrower permanently resides in Pune, execution proceedings can be transferred under Order XXI CPC. Arbitration can be seated per the agreement regardless of current residence."]
+  },
+  {
+    "question": "The case shows 447 days past due with outstanding now at ₹2,88,842 on original loan of ₹2,50,000. At what point does recovery cost exceed recovery value?",
+    "golden_answers": ["Recovery costs so far include legal notices (₹5,000), arbitration fees (estimated ₹50,000-70,000), and advocate fees (₹30,000+), totaling ₹85,000-105,000. This is 34-42% of the principal. If execution costs add another ₹30,000-50,000, total costs could reach 46-62% of principal. Recovery becomes questionable if costs exceed 50% of principal, suggesting settlement at 50-60% of claim might be more economical."]
+  },
+  {
+    "question": "The borrower's designation was 'Customer Service Executive' at ICICI Bank. Does this indicate her probable salary range?",
+    "golden_answers": ["Customer Service Executives at ICICI Bank typically earn ₹3-4.5 lakh per annum (₹25,000-37,500 per month) at entry to mid-level. The ₹7,385 EMI would have been 20-25% of her monthly income, which is within affordable limits. This confirms the loan was appropriately sized for her income at origination, and default resulted from job loss, not initial over-leveraging."]
+  },
+  {
+    "question": "The Notice provides a detailed breakdown of outstanding amounts. Should this breakdown be updated periodically and resent to the borrower?",
+    "golden_answers": ["Yes, periodic statements (monthly or quarterly) showing updated principal, interest, and penal charges provide transparency and maintain communication. Updated statements also serve as repeated acknowledgment of debt and can restart limitation periods. This practice demonstrates good lending practices and provides the borrower clear information to make payment decisions."]
+  },
+  {
+    "question": "The case indicates the borrower was 'very apologetic' and 'promised to restart payments once employed.' Should these acknowledgments be documented in writing?",
+    "golden_answers": ["Absolutely. Verbal acknowledgments should be immediately followed by written confirmation via email or letter summarizing the conversation, the borrower's acknowledgment, and commitment. Requesting the borrower's written reply confirming the details creates contemporaneous documentary evidence of liability acknowledgment, strengthening the lender's case and establishing clear limitation period restart dates."]
+  },
+  {
+    "question": "The Section 21 Notice is dated 25th March 2024, and the borrower mentioned starting work in April 2024. Should the arbitration invocation have waited until after her first salary?",
+    "golden_answers": ["From a pure recovery perspective, waiting until May-June 2024 (after salary receipt) could have enabled voluntary payment or realistic settlement based on actual income. However, legally, the lender had grounds to proceed. A balanced approach would be invoking arbitration to preserve rights while simultaneously offering a settlement window contingent on employment confirmation and first salary payment."]
+  },
+  {
+    "question": "The parents' phone answered the call on 10-12-2023. Can the parents be considered guarantors by conduct if they engage in discussions?",
+    "golden_answers": ["No, engaging in discussions as intermediaries doesn't make parents guarantors. Guarantee must be in writing per Section 126 of the Indian Contract Act. Simply receiving calls or passing messages on behalf of the borrower doesn't create liability. Parents are being helpful or concerned, not assuming debt. Treating them as liable parties would be legally incorrect and potentially harassment."]
+  },
+  {
+    "question": "The Recall Notice gives the borrower the option to 'propose a restructuring plan.' If she proposes a plan, is the lender bound to accept it?",
+    "golden_answers": ["No, the lender is not bound to accept any restructuring proposal. The invitation to propose allows the borrower to submit terms, but the lender evaluates based on viability, risk, and commercial considerations. The lender can reject, counter-propose, or accept. The key is that any rejection should be communicated promptly with reasons, showing good faith engagement."]
+  },
+  {
+    "question": "The borrower's email is anjali.desai92@gmail.com, suggesting birth year 1992, making her 31 years old in 2023. Does this match the stated age?",
+    "golden_answers": ["Yes, if the '92' indicates birth year 1992, she would be 31 years old in 2023, matching the stated age. This internal consistency validates the borrower's identity information. Email patterns with birth years are common and provide a simple verification check against the stated age, reducing identity confusion."]
+  },
+  {
+    "question": "The case shows penal charges of ₹18,450 accumulated over 14-15 months of default. Is charging penal interest during the borrower's unemployment period ethical?",
+    "golden_answers": ["While legally permissible if contractually agreed, charging full penal rates during documented unemployment and hardship raises ethical concerns. Some lenders waive or reduce penal charges in genuine hardship cases as a goodwill gesture. However, others maintain that penalties are consequences of default regardless of cause. A balanced approach might waive some penalties if the borrower engages constructively and makes partial payments."]
+  },
+  {
+    "question": "The Notice threatens 'reporting to ALL Credit Information Bureaus.' Does this include international credit bureaus?",
+    "golden_answers": ["No, the reference is to Indian credit bureaus: CIBIL, Experian India, Equifax India, and CRIF High Mark. These are domestic bureaus regulating Indian credit. International bureaus are separate. Defaults in India don't automatically appear on international credit reports unless the borrower later seeks credit abroad and Indian bureaus share data through global information sharing agreements."]
+  },
+  {
+    "question": "The field visit found the borrower at parents' address in Pune. Should the CRM residential address be permanently updated to the Pune address?",
+    "golden_answers": ["The registered address should remain the Mumbai address as per the loan agreement for legal consistency. However, CRM should add the Pune address as 'Current Address' or 'Alternative Address' for practical communication. This maintains legal accuracy while ensuring correspondence reaches the borrower. Any formal address change should be documented in writing by the borrower."]
+  },
+  {
+    "question": "The total outstanding of ₹2,88,842 represents 115% of the original ₹2,50,000 loan. At what point does accruing interest create unmanageable debt that prevents resolution?",
+    "golden_answers": ["When total debt exceeds 150-200% of original principal, it often becomes psychologically and practically unmanageable for the borrower, reducing recovery prospects. At 115%, the debt is still within recoverable range. However, if arbitration and execution costs add another ₹1 lakh, reaching 155%, settlement becomes unlikely. Early settlement before costs balloon is in both parties' interests."]
+  },
+  {
+    "question": "The Recall Notice mentions RBI guidelines for NPA classification. Should the notice reference the specific RBI circular or guidelines?",
+    "golden_answers": ["While not mandatory, citing the specific RBI Master Circular on Income Recognition, Asset Classification and Provisioning (IRACP) norms would enhance credibility and provide the borrower regulatory context. It demonstrates the lender is following prescribed norms rather than arbitrary classification. However, for a borrower notice, the general reference to 'RBI guidelines' is typically sufficient."]
+  },
+  {
+    "question": "The case shows job loss due to 'performance issues.' Should the lender investigate whether the job loss was wrongful termination?",
+    "golden_answers": ["No, investigating the borrower's employment termination circumstances is beyond the lender's scope and not relevant to loan recovery. Whether termination was justified or wrongful is a matter between the borrower and ICICI Bank. The lender's concern is only the resulting unemployment affecting repayment capacity. Getting involved in employment disputes would be inappropriate and time-consuming."]
+  },
+  {
+    "question": "The Notice provides an 'ALTERNATIVE PROPOSAL' section offering restructuring terms. Should this be in a separate communication rather than the Recall Notice?",
+    "golden_answers": ["Including alternative proposals in the Recall Notice is pragmatic and demonstrates willingness to resolve without litigation. However, some argue it dilutes the notice's severity. A middle ground is to include a brief mention in the notice with detailed restructuring proposals in a separate attachment or follow-up letter. This maintains the notice's formality while showing flexibility."]
+  },
+  {
+    "question": "The case shows legal charges of ₹5,000. Should detailed invoices for legal costs be attached to substantiate this amount?",
+    "golden_answers": ["Yes, attaching itemized invoices or cost breakdown (Recall Notice drafting: ₹1,000, Section 21 Notice: ₹1,500, Legal consultation: ₹1,500, Filing fees: ₹1,000) substantiates the claim and reduces disputes. Without documentation, the borrower may challenge these costs as arbitrary. Transparency in legal charges demonstrates good faith and supports cost recovery in arbitration."]
+  },
+  {
+    "question": "The borrower 'mentioned going through depression' per her mother. Could depression constitute grounds for Setting Aside the arbitral award under Section 34?",
+    "golden_answers": ["Depression alone doesn't invalidate arbitration proceedings unless it rendered the borrower legally incompetent to participate (which requires judicial declaration). Section 34 grounds include inability to present case, but if the borrower was served and chose not to participate, depression without legal incompetence declaration doesn't vitiate the proceedings. However, it's a humanitarian factor in settlement considerations."]
+  }
+]

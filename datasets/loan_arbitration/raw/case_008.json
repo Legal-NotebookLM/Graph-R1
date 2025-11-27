@@ -1,0 +1,218 @@
+[
+  {
+    "question": "The case involves a Gold Loan of ₹8,50,000 against 205 grams of pledged gold. The gold is in Phoenix Finance's custody. How does physical possession of security affect recovery strategy?",
+    "golden_answers": ["Physical possession of gold dramatically improves recovery position: (1) No need to locate or seize assets, (2) Gold value likely exceeds outstanding amount, (3) Liquidation is straightforward through authorized dealers, (4) No risk of asset disposal by borrower. Unlike other loans, the lender controls the security, making recovery virtually assured if proper liquidation procedures are followed."]
+  },
+  {
+    "question": "The DPD is stated as 56 days as on 26-11-2024, but the December 2023 EMI bounced on 05-12-2023. Is this DPD calculation correct?",
+    "golden_answers": ["No, the calculation appears incorrect. From 5 December 2023 to 26 November 2024 is approximately 357 days, not 56 days. A 56-day DPD would mean default started around 1 October 2024. This is a significant error that needs correction, as DPD affects NPA classification and urgency assessment."]
+  },
+  {
+    "question": "The case status is 'Soft Reminder Stage' but the file contains Loan Recall Notice, Section 21 Notice, and arbitration documents. Should the status be updated?",
+    "golden_answers": ["Yes, the status should be updated. Given that Recall Notice (20 February 2024) and Section 21 Notice (15 March 2024) have been issued, the case has moved beyond soft reminders. If arbitration has commenced, status should be 'Arbitration Initiated.' The current 'Soft Reminder Stage' label is outdated and misleading."]
+  },
+  {
+    "question": "The borrower Mohammed Riyaz visited the office on 15-04-2024 'to discuss restructuring' and 'assured payment by Ramzan.' Did payment occur?",
+    "golden_answers": ["The case file indicates continued default and legal escalation after the meeting, suggesting payment did not occur as promised. Ramzan 2024 was in March-April, so if the meeting was in mid-April, the Ramzan promise would have been for immediately or the next Ramzan (2025). The ongoing arbitration process indicates the assurance was not honored."]
+  },
+  {
+    "question": "The gold pledged is 205 grams. At current gold prices of approximately ₹6,000-6,500 per gram, what is the security value?",
+    "golden_answers": ["At ₹6,000-6,500 per gram, 205 grams is worth approximately ₹12,30,000-13,32,500. This substantially exceeds the outstanding of ₹5,00,816. The security more than covers the debt, meaning full recovery is virtually assured through gold liquidation. The excess (~₹7-8 lakhs) would be returned to the borrower after satisfaction of dues."]
+  },
+  {
+    "question": "The recovery timeline shows the borrower is cooperative, answering calls and making partial payments. Yet arbitration was initiated. Is this aggressive given the gold security?",
+    "golden_answers": ["Given that gold security exceeds outstanding, aggressive arbitration may seem unnecessary since recovery is assured. However: (1) Prolonged default still costs interest income, (2) Legal proceedings establish clear rights, (3) Borrower's promises weren't honored despite cooperation, (4) Formal process may prompt payment to avoid gold liquidation. The approach is legally sound if commercially aggressive."]
+  },
+  {
+    "question": "The Section 17 application references '₹7,50,000' loan and '210 grams, 22K' gold, but the CRM shows ₹8,50,000 and 205 grams. Which is correct?",
+    "golden_answers": ["The CRM figures (₹8,50,000 loan, 205 grams gold) should be correct as they're from the original loan documentation. The Section 17 application contains errors, likely from template mixing with another gold loan case. All documents should reference the correct figures from the CRM and Loan Agreement."]
+  },
+  {
+    "question": "The borrower operates 'Riyaz Perfume Trading' as a wholesaler. His business faces 'liquidity crisis due to stuck receivables.' How does this affect recovery assessment?",
+    "golden_answers": ["Stuck receivables suggest temporary cash flow issue, not permanent insolvency. Once receivables are collected, payment capacity may improve. However: (1) Receivables collection is uncertain, (2) Wholesaler credit cycles can be long, (3) The borrower's income (₹42,000/month) is modest. The gold security makes this analysis less critical since liquidation ensures recovery regardless of business performance."]
+  },
+  {
+    "question": "The Gold Loan interest rate is 12% p.a. reducing balance, lower than other loans in the case files (15-19%). Why the rate difference?",
+    "golden_answers": ["Gold loans carry lower rates because: (1) Gold is highly liquid security with established markets, (2) Near-zero recovery risk given possession, (3) LTV (Loan-to-Value) provides cushion against price fluctuation, (4) Shorter typical tenure. The 12% rate reflects the low-risk nature of gold-backed lending compared to unsecured or vehicle-hypothecated loans."]
+  },
+  {
+    "question": "The Notice warns of 'auction/liquidation of pledged gold (205 grams).' What is the gold auction process for NBFCs?",
+    "golden_answers": ["NBFC gold auction process: (1) Notice to borrower specifying auction date (typically 7-15 days), (2) Reserve price based on current market rates, (3) Auction through authorized dealers or public bidding, (4) Sale to highest bidder above reserve, (5) Proceeds applied to outstanding, (6) Surplus returned to borrower, (7) Shortfall (if any) remains borrower's liability. RBI guidelines govern the process."]
+  },
+  {
+    "question": "The borrower paid 9 full EMIs plus partial ₹20,000 totaling ₹3,78,668 before default. Principal recovered is ₹3,70,268. Does this allocation seem accurate?",
+    "golden_answers": ["From ₹3,78,668 payments, principal of ₹3,70,268 (97.8%) is surprisingly high—typically significant interest component exists in early EMIs. At 12% interest, early EMIs would have approximately 80-85% principal. The 97.8% figure should be verified. Either the interest component is understated or there's a calculation methodology being applied differently."]
+  },
+  {
+    "question": "The case shows the borrower requested 'meeting to discuss restructuring' on 25-03-2024 and visited office on 15-04-2024. What does this in-person engagement indicate?",
+    "golden_answers": ["In-person engagement indicates: (1) Borrower acknowledges the debt, (2) Serious intent to resolve (traveling to office costs time/money), (3) Preference for gold retention over liquidation, (4) Willingness to negotiate terms. This level of engagement suggests the borrower values the pledged gold (likely family jewelry) and will make efforts to prevent its liquidation."]
+  },
+  {
+    "question": "The Affidavit of Urgency mentions 'Gold worth ₹8+ lakhs in our custody.' Given current gold prices, is this valuation accurate?",
+    "golden_answers": ["The ₹8+ lakh valuation appears understated. At current prices (₹6,000-6,500/gram), 205 grams equals ₹12-13 lakhs. The ₹8+ lakh figure may reflect: (1) Loan disbursement value at time of pledge, (2) Conservative estimate, (3) Outdated information. Current valuation should be used in documents—understating security value doesn't harm the lender but should be accurate."]
+  },
+  {
+    "question": "The Notice states 'If you wish to avoid gold liquidation, immediate payment is required.' Does the borrower have any legal recourse to prevent liquidation?",
+    "golden_answers": ["Legal recourse is limited once proper notice is given: (1) Full payment clears the debt and returns gold, (2) Court injunction if procedural violation alleged, (3) Consumer complaint if unfair practices claimed, (4) RBI complaint if guidelines violated. However, if the lender follows proper procedures, the borrower cannot indefinitely prevent liquidation—that's the nature of pledged security."]
+  },
+  {
+    "question": "The recovery timeline shows the borrower promised payment 'by 31st Jan after wedding season sales' on 10-01-2024. Did January sales improve the situation?",
+    "golden_answers": ["The continued default and legal escalation in February-March 2024 suggest wedding season sales didn't generate expected revenue. Perfume wholesale may have seasonal demand variations, but the promised payment didn't materialize. This broken promise, despite reasonable expectation, justifies the lender's escalation to legal recovery."]
+  },
+  {
+    "question": "The Section 9 petition seeks to 'Confirm Company's lawful possession of pledged gold.' Why is confirmation needed if gold is already in custody?",
+    "golden_answers": ["Confirmation provides legal clarity: (1) Establishes undisputed right to retain gold pending resolution, (2) Prevents borrower from claiming wrongful possession, (3) Authorizes valuation and potential auction, (4) Creates court record supporting future liquidation, (5) Protects against any criminal complaint for wrongful retention. While physical possession exists, legal blessing strengthens the lender's position."]
+  },
+  {
+    "question": "The borrower's address is 'Charminar Area, Old City, Hyderabad.' Does this old city location affect service or recovery?",
+    "golden_answers": ["Old city areas can present challenges: (1) Narrow lanes may complicate field visits, (2) Address specificity may be lower, (3) Community networks may protect locals, (4) Service through traditional means may be more effective. However, the borrower has been responsive, and the gold is already in lender's possession, so location challenges are manageable."]
+  },
+  {
+    "question": "The outstanding is ₹5,00,816 on an ₹8,50,000 loan with 205 grams gold worth ₹12-13 lakhs. What is the LTV (Loan-to-Value) ratio?",
+    "golden_answers": ["Original LTV: ₹8,50,000 / ₹12,00,000 (approximate gold value at disbursement) ≈ 70%. Current outstanding LTV: ₹5,00,816 / ₹13,00,000 (current gold value) ≈ 38%. The current LTV is very safe—gold value substantially exceeds outstanding. This low LTV means full recovery is assured even with auction discount, and significant surplus returns to borrower."]
+  },
+  {
+    "question": "The EMI is ₹39,852/month on ₹42,000 monthly income. This 95% EMI-to-income ratio is unsustainable. How was this loan sanctioned?",
+    "golden_answers": ["Gold loans are typically not assessed on EMI-to-income ratio because recovery depends on collateral, not income. Lenders assume borrowers will repay to retain valuable family gold. The 95% ratio wouldn't be approved for unsecured loans but is acceptable for gold loans where the security exceeds the loan. The risk assessment is collateral-based, not income-based."]
+  },
+  {
+    "question": "The case shows only ₹4,850 penal interest on approximately ₹4,79,732 outstanding. At typical 2-3% monthly penal rates, this seems very low. Is it accurate?",
+    "golden_answers": ["₹4,850 on ₹4,79,732 is approximately 1% total penalty. For 11+ months of default at typical 2-3% monthly rate, penalties should be ₹90,000-1,40,000. The ₹4,850 figure appears significantly understated—either: (1) Gold loans have lower penal rates, (2) Caps apply, (3) Calculation error exists. This should be verified against the loan agreement terms."]
+  },
+  {
+    "question": "The Loan Recall Notice gives 15 days to pay ₹5,00,816 or face gold auction. Is 15 days sufficient notice for gold liquidation?",
+    "golden_answers": ["15 days is generally sufficient under RBI guidelines for gold loan recovery notices. Some state regulations may require 7-30 days minimum. The borrower has opportunity to arrange funds, negotiate settlement, or accept auction. Given 11+ months of prior default with multiple reminders, 15 days for final notice is legally defensible."]
+  },
+  {
+    "question": "The case shows the borrower made a partial payment of ₹20,000 on 05-01-2024 after email reminder. Does this affect the recovery approach?",
+    "golden_answers": ["The ₹20,000 partial payment demonstrates: (1) Acknowledgment of debt, (2) Good faith effort despite inability to pay full EMI, (3) Desire to retain gold, (4) Some payment capacity exists. This payment restarts limitation and shows the borrower isn't completely abandoning the obligation. It supports offering settlement or restructuring before liquidation."]
+  },
+  {
+    "question": "The Section 21 Notice includes 'Enforcement of security interest over the pledged gold' and 'Authorization for gold auction/liquidation' as disputes. Can arbitration authorize auction?",
+    "golden_answers": ["Yes, arbitrators can authorize gold auction as part of the award. The arbitration can: (1) Declare the debt due, (2) Confirm lender's right to liquidate security, (3) Establish procedures for auction, (4) Address surplus/shortfall treatment. However, many gold loans allow liquidation under contract without needing arbitration—the lender may be using arbitration for comprehensive resolution including any post-auction shortfall claims."]
+  },
+  {
+    "question": "The borrower operates a perfume wholesale business. How might seasonal factors affect his payment capacity?",
+    "golden_answers": ["Perfume wholesale has seasonal peaks: (1) Wedding season (October-February), (2) Festival periods (Diwali, Eid), (3) Gift-giving occasions. Off-seasons may see reduced sales. Understanding seasonality helps timing recovery discussions—approaching for settlement during peak business months may yield better results than during slow periods."]
+  },
+  {
+    "question": "The recovery timeline shows 'business facing liquidity issues' on 20-02-2024. For a wholesaler, what causes liquidity issues?",
+    "golden_answers": ["Wholesaler liquidity issues arise from: (1) Credit sales to retailers with delayed payments, (2) Inventory buildup requiring cash outflow, (3) Supplier payment terms shorter than customer collection cycles, (4) Seasonal demand mismatches, (5) Market competition forcing extended credit. These are typically temporary cash flow gaps, not insolvency—the business may be profitable but cash-strapped."]
+  },
+  {
+    "question": "The Gold Loan tenure is 24 months with last EMI 05-02-2025. As of November 2024, approximately how many EMIs remain if the borrower had continued paying?",
+    "golden_answers": ["From November 2024 to February 2025 is approximately 3-4 months, meaning 3-4 EMIs would remain if payments had continued regularly. The loan was nearly 80% through its tenure when default occurred—the borrower was close to completion. This context might inform settlement discussions: offering to clear remaining obligation at slight discount could be attractive."]
+  },
+  {
+    "question": "The Notice mentions 'pledged gold (205 grams)' but doesn't specify purity or item descriptions. Should these details be included?",
+    "golden_answers": ["Yes, gold details should be specified: (1) Number and type of items (chains, bangles, etc.), (2) Purity (22K, 18K, etc.), (3) Gross and net weight, (4) Unique identifiers from pledge receipt. Precise description prevents disputes about what was pledged and ensures correct items are returned/auctioned. The loan agreement and pledge deed should contain these details."]
+  },
+  {
+    "question": "The case file shows mixed content referencing '210 grams, 22K' vs. '205 grams' (unspecified purity). What is the correct gold quantity?",
+    "golden_answers": ["The CRM states 205 grams. The 210 grams reference appears to be from a different case mixed into this file. All documents should use 205 grams as per the original pledge documentation. The purity (likely 22K for typical gold jewelry) should be specified based on the Gold Valuation Certificate from loan origination."]
+  },
+  {
+    "question": "The Execution Petition mentions 'Gold Liquidation' with 'Current valuation: ₹[Amount].' Why is the amount blank?",
+    "golden_answers": ["The blank amount indicates template use without customization. The execution petition must specify current gold valuation—obtainable from recent assay or market rates applied to documented weight and purity. For 205 grams at current rates (₹6,000-6,500/gram), the valuation would be approximately ₹12-13 lakhs. This specific figure should be inserted."]
+  },
+  {
+    "question": "The borrower mentioned 'stuck receivables' as the reason for liquidity crisis. Can the lender access information about these receivables?",
+    "golden_answers": ["The lender has no direct right to the borrower's business receivables information unless the loan agreement provides for such disclosure. However, in settlement discussions, understanding receivables helps assess realistic payment capacity. The borrower might voluntarily share this to negotiate terms. Receivables themselves aren't collateral here—the gold is."]
+  },
+  {
+    "question": "The processing fee is ₹25,500 (3% of ₹8,50,000). For gold loans, is 3% processing fee standard?",
+    "golden_answers": ["3% processing fee for gold loans is on the higher end. Many gold loan providers charge 1-2% or flat fees. The higher percentage may reflect: (1) NBFC rather than traditional gold lender, (2) Premium services, (3) Market positioning. While within market range, competitive gold lenders often have lower fees to attract customers seeking to pledge family jewelry."]
+  },
+  {
+    "question": "The Award excerpt mentions 'Gold (210 grams, 22K) authorized for auction.' For Mohammed Riyaz's 205-gram pledge, what should the Award state?",
+    "golden_answers": ["The Award should state: 'Gold ornaments totaling 205 grams as per Pledge Deed dated 18 February 2023, currently in custody of Phoenix Finance Ltd., are authorized for auction through recognized gold dealers. The sale proceeds shall be applied toward satisfaction of the awarded amount, with any surplus returned to the Respondent within 15 days of auction completion.'"]
+  },
+  {
+    "question": "The borrower's email is riyaz.mohammed1972@gmail.com. If '1972' indicates birth year, does this match the stated age of 51?",
+    "golden_answers": ["If '1972' is birth year, he would be 51-52 years old in 2024, matching the stated age of 51 years. This internal consistency validates the borrower's identity information. The older age combined with established business suggests potential for assets beyond this gold, though current liquidity issues affect payment capacity."]
+  },
+  {
+    "question": "The Section 9 petition mentions 'respondent may attempt to reclaim gold without payment.' Can a borrower physically reclaim pledged gold?",
+    "golden_answers": ["Physical reclamation without payment would be: (1) Theft/robbery if by force, (2) Breach of contract regardless, (3) Criminal offense potentially. Gold loans involve legal possession transfer to lender pending repayment. The borrower has no right to physical access without clearing dues. The petition addresses theoretical risk—any attempt would be illegal and unsuccessful if security is proper."]
+  },
+  {
+    "question": "The recovery timeline shows the borrower 'promised full payment by 31st Jan after wedding season sales.' Wedding season for perfumes extends through February. Was timing reasonable?",
+    "golden_answers": ["Wedding season (October-February) is peak perfume demand period. Promising payment by 31 January was optimistic but reasonable if business performance matched expectations. The failure to pay suggests: (1) Sales were lower than anticipated, (2) Receivables remained stuck, (3) Other pressures consumed available cash. The timeline was reasonable; execution didn't match."]
+  },
+  {
+    "question": "The case shows Interest Outstanding of ₹16,234 on Principal Outstanding of ₹4,79,732 at 12% p.a. for approximately 11 months. Is this accurate?",
+    "golden_answers": ["Let's verify: ₹4,79,732 × 12% × (11/12) ≈ ₹52,770 expected interest. The stated ₹16,234 is much lower. Either: (1) Interest was partially paid through partial payment allocation, (2) Shorter default period than assumed, (3) Calculation methodology differs, (4) Figure is incorrect. This significant discrepancy should be investigated and clarified."]
+  },
+  {
+    "question": "The Loan Recall Notice date is 20-02-2024, and Section 21 Notice is 15-03-2024. The 23-day gap exceeds the 15-day response period. Is this appropriate?",
+    "golden_answers": ["Yes, this gap is appropriate. The Recall Notice gives 15 days for payment, expiring around 6 March. The Section 21 Notice on 15 March provides additional 9 days after deadline, showing patience before arbitration invocation. The timeline demonstrates reasonable escalation rather than immediate legal action."]
+  },
+  {
+    "question": "The notice states 'gold remains in custody of Phoenix Finance Ltd.' Should custody documentation (receipts, locker records) be maintained?",
+    "golden_answers": ["Absolutely. Custody documentation should include: (1) Original pledge deed with item descriptions, (2) Gold valuation certificate, (3) Custody/storage receipt, (4) Insurance records, (5) Locker/vault records, (6) Periodic inventory verification. These documents protect against claims of gold mishandling, theft, or substitution, and are essential for auction transparency."]
+  },
+  {
+    "question": "The borrower operates from 'Charminar Area, Old City, Hyderabad.' This is a historically significant commercial area. Does location indicate business legitimacy?",
+    "golden_answers": ["Charminar area is a well-known historical trading hub, particularly for perfumes, pearls, and textiles. Operating from this traditional market suggests established business presence and legitimacy. The location supports the borrower's claimed profession as perfume wholesaler. Old City businesses often have generational roots and community standing."]
+  },
+  {
+    "question": "The Award mentions 'Costs: ₹85,000.' For a gold loan case where security covers the debt, are high costs justified?",
+    "golden_answers": ["Costs seem high for a well-secured gold loan case. Since gold value (₹12-13 lakhs) exceeds outstanding (₹5 lakhs), recovery is assured and extensive legal proceedings may be unnecessary. Lower costs would be more proportionate. However, if borrower's non-cooperation necessitated full arbitration, costs may be justified. The ₹85,000 should be itemized for transparency."]
+  },
+  {
+    "question": "The Section 21 Notice states 'pledged gold remains in custody... and may be liquidated to recover dues as per Loan Agreement terms.' Can liquidation occur without arbitration?",
+    "golden_answers": ["Yes, most gold loan agreements contain contractual liquidation rights allowing auction after specified notice period without court/arbitration intervention. The lender is using arbitration likely for: (1) Comprehensive resolution, (2) Obtaining decree for any post-auction shortfall (unlikely here), (3) Legal certainty, (4) Addressing borrower's settlement requests formally. Direct liquidation was also available."]
+  },
+  {
+    "question": "The case shows the borrower visited the office and 'discussed challenges, assured payment by Ramzan.' What is the legal effect of such assurance?",
+    "golden_answers": ["The assurance: (1) Constitutes acknowledgment of debt (limitation extension), (2) Shows good faith engagement, (3) Created legitimate expectation of payment, (4) When broken, justifies escalation. However, verbal assurances aren't enforceable contracts. The broken promise supports the lender's decision to proceed with formal recovery despite the borrower's cooperative attitude."]
+  },
+  {
+    "question": "The Gold Loan is for 24 months. If the borrower paid 9 EMIs before default, what percentage of tenure was completed?",
+    "golden_answers": ["9 EMIs out of 24 = 37.5% of tenure completed. The loan was approximately one-third paid before default. This partial payment demonstrates initial ability and intent to repay. The default after 9 months suggests intervening circumstances (business downturn) rather than original fraudulent intent."]
+  },
+  {
+    "question": "The Execution Petition mentions 'Balance recovery (if any) from other assets.' Given gold value exceeds outstanding, when would balance recovery be needed?",
+    "golden_answers": ["Balance recovery from other assets would be needed only if: (1) Gold prices crashed dramatically reducing security value, (2) Some gold items were found to be fake/adulterated, (3) Weight was less than documented, (4) Auction realized less than expected. Given current gold prices and typical margins, this scenario is unlikely. The clause is precautionary but probably won't be exercised."]
+  },
+  {
+    "question": "The recovery timeline shows consistent communication from December 2023 through April 2024. How does this communication pattern affect case characterization?",
+    "golden_answers": ["Consistent communication characterizes this as a 'genuine hardship' case rather than 'willful default': (1) Borrower answered calls and explained circumstances, (2) Made partial payment showing intent, (3) Visited office for discussion, (4) Requested restructuring rather than evading. This profile supports offering settlement before gold liquidation, as the borrower may find resources to prevent losing family jewelry."]
+  },
+  {
+    "question": "The notice threatens 'initiate legal proceedings for recovery of any shortfall amount.' Given gold value exceeds debt, is this threat meaningful?",
+    "golden_answers": ["The shortfall threat is largely precautionary given current gold values. However, it's legally prudent because: (1) Gold prices can fluctuate, (2) Auction may not realize full market value, (3) Additional costs may accrue, (4) Establishes comprehensive remedy. While unlikely to be exercised in this case, stating all available remedies is standard legal drafting."]
+  },
+  {
+    "question": "The borrower is 51 years old with a wholesale business. What does this profile suggest about the pledged gold's significance?",
+    "golden_answers": ["For a 51-year-old traditional businessman, pledged gold is likely: (1) Family heirloom jewelry, (2) Accumulated savings over decades, (3) Emotionally significant beyond monetary value, (4) Wife's/family wedding jewelry. The psychological attachment to this gold may be strong, motivating significant effort to prevent liquidation. This suggests settlement discussions may be productive."]
+  },
+  {
+    "question": "The EMI of ₹39,852 on monthly income of ₹42,000 leaves only ₹2,148 for all other expenses. How did the borrower manage for 9 months?",
+    "golden_answers": ["Nine months of payments despite this ratio suggests: (1) Income was higher than stated ₹42,000, (2) Family/business had other income sources, (3) Borrowed from other sources to pay EMIs, (4) Business revenues directly funded EMIs before withdrawal for personal use. The stated income likely understates actual business throughput available for debt service."]
+  },
+  {
+    "question": "The case file shows legal notice charges as ₹0 in CRM but costs accumulate in proceedings. When are legal charges typically added?",
+    "golden_answers": ["Legal charges are added as incurred: (1) Recall Notice drafting and dispatch: ₹1,000-2,000, (2) Section 21 Notice: ₹1,500-2,500, (3) Section 9/11 petition preparation: ₹5,000-10,000, (4) Arbitration filing: Additional amounts. CRM showed ₹0 at soft reminder stage. By arbitration, cumulative legal costs would be ₹10,000-20,000, added to the outstanding."]
+  },
+  {
+    "question": "The Arbitration Reference shows ARB/2024/1008 without location prefix. For Hyderabad seat, what should the format be?",
+    "golden_answers": ["For Hyderabad seat, the format should be ARB/HYD/2024/1008. The current ARB/2024/1008 lacks geographic identifier. Consistent formatting with location codes (HYD for Hyderabad) helps case tracking and court coordination. All documents should use the complete reference."]
+  },
+  {
+    "question": "The Award authorizes 'gold auction towards dues adjustment.' What happens to auction surplus?",
+    "golden_answers": ["Gold auction surplus (sale proceeds minus outstanding debt and costs) must be returned to the borrower under contract and law. Given gold value (~₹12-13 lakhs) substantially exceeds outstanding (~₹5 lakhs), surplus of ~₹6-7 lakhs would be returned. The lender cannot retain excess—this would be unjust enrichment. Surplus return should occur within specified time (typically 15-30 days) after auction."]
+  },
+  {
+    "question": "The Statement of Account shows Total Outstanding as ₹5,00,816. If gold realizes ₹12,00,000 at auction, what is the borrower's net position?",
+    "golden_answers": ["Net position: ₹12,00,000 (gold value) - ₹5,00,816 (outstanding) - ~₹50,000 (auction costs) = approximately ₹6,50,000 surplus returned to borrower. Despite default, the borrower receives significant cash back. This may actually benefit the borrower by liquidating gold at good prices—though the emotional loss of family jewelry has non-monetary value."]
+  },
+  {
+    "question": "The borrower's PAN is UVWPS3456N. Should PAN be used for gold loan recovery given gold is in possession?",
+    "golden_answers": ["PAN-based asset search is less critical for gold loans since the primary security is in possession. However, it's still useful for: (1) Any post-auction shortfall recovery (unlikely here), (2) Locating other assets if settlement is pursued, (3) Tax implications of gold sale may involve PAN, (4) Comprehensive documentation. The need is lower than unsecured loans but not zero."]
+  },
+  {
+    "question": "The recovery timeline ends with the borrower visiting the office in April 2024. What happened after the office meeting?",
+    "golden_answers": ["The case file shows escalation to arbitration despite the office meeting, indicating: (1) Settlement discussions failed, (2) Payment assurance wasn't honored, (3) Lender proceeded with legal recovery. The arbitration documents (Section 9, Section 21, SOC, Award) represent proceedings after the failed settlement attempt. The cooperative borrower ultimately couldn't prevent legal escalation due to non-payment."]
+  }
+]

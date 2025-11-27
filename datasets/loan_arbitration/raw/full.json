@@ -1,0 +1,451 @@
+[
+    {
+      "question": "The draft invocation note only says 'Please proceed as per the agreement' instead of referencing the 28 March 2024 Section 21 Notice. Does this phrase properly initiate arbitration under Section 21?",
+      "golden_answers": [
+        "This wording is insufficient because Section 21 requires a direct reference to the arbitration clause and a clear communication that arbitration is being invoked. The current phrase is ambiguous and should be replaced with a properly drafted notice referencing Clause 18 of the 15 March 2023 loan agreement."
+      ]
+    },
+    {
+      "question": "The 5 March 2024 Loan Recall Notice does not include the EMI history showing the bounced 5 November 2023 EMI or unpaid months thereafter. Is the notice adequate for establishing a formal demand?",
+      "golden_answers": [
+        "The notice conveys default but omits key factual detail regarding overdue EMIs, which weakens its clarity. Including the EMI breakdown, particularly the November 2023 bounce and subsequent unpaid months, would make the demand more defensible."
+      ]
+    },
+    {
+      "question": "The borrower’s address appears inconsistently between 'Sector 12, Dwarka' and the full form 'Flat No. 203, Sai Residency, Plot No. 45, Sector 12, Dwarka'. Will this inconsistency impede Section 3 service arguments?",
+      "golden_answers": [
+        "It may introduce minor risk because inconsistent addressing can be exploited to argue improper service. Harmonizing all addresses to the fully verified CRM address is the safest approach to maintain Section 3 compliance."
+      ]
+    },
+    {
+      "question": "The SOC asserts that the borrower 'admitted full liability during calls in November 2023', even though the timeline notes that his phone became unreachable shortly after the 16 November call. Should this line remain?",
+      "golden_answers": [
+        "The claim is weak without corroborating logs or notes. It may remain in narrative form, but supporting documentation should be added or the statement softened to reflect the limited evidentiary basis."
+      ]
+    },
+    {
+      "question": "Clause 18 of the loan agreement allowed Phoenix Finance Ltd. to appoint an arbitrator unilaterally, yet the court appointed Justice (Retd.) Harish Kapoor on 1 June 2024. Should pleadings still reference the original clause?",
+      "golden_answers": [
+        "The unilateral appointment mechanism should not be relied upon in pleadings because it conflicts with neutrality standards. References should be updated to reflect the court’s appointment order under Section 11."
+      ]
+    },
+    {
+      "question": "In the Section 9 petition, you ask for immediate possession of the Honda Activa 6G (DL-8C-AW-1234). Is this proportional relief before arbitration formally commences?",
+      "golden_answers": [
+        "Immediate possession is granted only when there is compelling evidence of imminent disposal. Given the borrower's relocation and evasion since January 2024, a preservation-focused prayer is more appropriate unless evidence of an attempted sale is included."
+      ]
+    },
+    {
+      "question": "The loan disbursal is recorded as 22 March 2023, yet the dealer memo delivered the vehicle the same day with no timestamp. Should the SOC harmonize these details?",
+      "golden_answers": [
+        "While not critical, harmonizing these dates improves evidentiary clarity. Aligning disbursal and delivery details reduces potential confusion when reconstructing the loan transaction timeline."
+      ]
+    },
+    {
+      "question": "On 10 December 2023 the borrower emailed stating he would 'try to clear some amount next week', and the same day he paid ₹1,500. Should this be treated as acknowledgment for limitation purposes?",
+      "golden_answers": [
+        "When combined, the email and the ₹1,500 payment form a meaningful acknowledgment of liability. The vague phrasing of the email alone would be debatable, but the accompanying payment strengthens its legal relevance."
+      ]
+    },
+    {
+      "question": "A draft mistakenly references Section 17 instead of Section 9 for pre-arbitration interim relief, even though the tribunal was appointed later on 1 June 2024. How problematic is this?",
+      "golden_answers": [
+        "This is a substantive error because Section 17 powers apply only after tribunal constitution. The draft should be corrected to Section 9 to avoid maintainability objections."
+      ]
+    },
+    {
+      "question": "The valuation sheet for the Honda Activa 6G (DL-8C-AW-1234) provides only a single rounded figure without describing a method. Is such valuation adequate for Section 9 proceedings?",
+      "golden_answers": [
+        "It is minimally useful because it lacks methodology. Supplementation with dealer quotations or market assessments would greatly improve its evidentiary weight."
+      ]
+    },
+  
+    {
+      "question": "The 5 March 2024 Loan Recall Notice warns of legal consequences but does not reference Clause 18 of the loan agreement. Should an explicit clause reference be inserted?",
+      "golden_answers": [
+        "Adding a reference to Clause 18 would strengthen the notice by linking the borrower's default to the contractual dispute resolution framework. While not mandatory, it reduces ambiguity if the borrower later disputes notice sufficiency."
+      ]
+    },
+    {
+      "question": "The Section 21 Notice dated 28 March 2024 mentions the arbitration clause but does not quote it. Is quoting the clause necessary for validity?",
+      "golden_answers": [
+        "Quotation is not mandatory, but including the clause text improves clarity and minimizes disputes. The current notice is sufficient under Section 21 but could be improved by quoting the clause."
+      ]
+    },
+    {
+      "question": "In the SOC, the lender states that the borrower 'vacated his residence in January 2024' based on field visit reports. Does this claim require annexing the 15 January 2024 address verification report?",
+      "golden_answers": [
+        "Yes, annexing the report strengthens the factual foundation for allegations of evasion. Without the document, the statement appears less substantiated."
+      ]
+    },
+    {
+      "question": "The EMI table lists the December 2023 EMI as partially paid with ₹1,500, but the SOC text describes it as 'negligible'. Should this wording be revised?",
+      "golden_answers": [
+        "The description should be aligned with the actual figure to prevent the borrower from asserting misrepresentation. Revising the wording to reference the partial payment accurately is advisable."
+      ]
+    },
+    {
+      "question": "The affidavit of urgency states that the borrower is 'attempting to sell the vehicle' based on field agent inputs without documentation. Should pleadings soften this assertion?",
+      "golden_answers": [
+        "The assertion should be softened unless supporting documentation exists. Courts tend to scrutinize such claims closely, and an unsupported allegation may undermine credibility."
+      ]
+    },
+    {
+      "question": "The Section 21 Notice threatens filing under Section 11 if the borrower fails to propose an arbitrator in 15 days. Is the 15-day deadline defensible?",
+      "golden_answers": [
+        "Yes, the 15-day period is consistent with common practice and reinforces the urgency of appointment. However, the statute does not mandate a specific timeline, so the phrasing should reflect that it is a reasonable notice period."
+      ]
+    },
+    {
+      "question": "The SOC includes a reference to an 'affidavit dated 3 April 2024', but no such affidavit exists in the file. Should the reference be removed?",
+      "golden_answers": [
+        "Yes, the reference should be removed or corrected because citing a nonexistent document may cast doubt on the accuracy of the entire pleading."
+      ]
+    },
+    {
+      "question": "The Section 9 petition omits the Speed Post tracking number EE123456789IN used for the recall notice. Should this be inserted?",
+      "golden_answers": [
+        "Inserting the tracking number strengthens the assertion of valid service under Section 3. Including it reduces opportunities for the respondent to challenge notice receipt."
+      ]
+    },
+    {
+      "question": "The borrower resigned from Metro Solutions Pvt. Ltd. on 28 December 2023. Should the lender emphasize this fact in the SOC to establish increased recovery risk?",
+      "golden_answers": [
+        "Yes, the resignation supports the narrative of instability and evasion. Including it provides context for the borrower's subsequent defaults and non-cooperation."
+      ]
+    },
+    {
+      "question": "The SOC mentions a 'legal notice charge of ₹5,000', but the annexure for this fee is missing. Should the fee be retained without proof?",
+      "golden_answers": [
+        "It is better to annex supporting invoices or reduce emphasis on the charge. Without documentation, the borrower may contest it, weakening that component of the claim."
+      ]
+    },
+  
+    {
+      "question": "A draft paragraph claims that the respondent 'never communicated after October 2023', though call logs show interactions until 16 November 2023. Should this contradiction be corrected?",
+      "golden_answers": [
+        "Yes, the statement should be corrected to reflect communications through mid-November. Accuracy bolsters credibility and prevents contradictions that the respondent could exploit."
+      ]
+    },
+    {
+      "question": "The loan agreement specifies 16.5% reducing-balance interest, but the SOC uses a flat-rate calculation. Should the SOC revise its figures?",
+      "golden_answers": [
+        "Yes, using the contractually correct reducing-balance method ensures alignment with the agreement. The current flat-rate figures may be challenged as inaccurate."
+      ]
+    },
+    {
+      "question": "The 10 May 2024 Section 9 application states the borrower 'absconded since January 2024'. Does the recovery timeline support this?",
+      "golden_answers": [
+        "The timeline indicates that the borrower's residence was found vacated in mid-January and both numbers unreachable by early February. This supports characterizing him as absconding, though phrasing should match documented facts closely."
+      ]
+    },
+    {
+      "question": "The Section 21 notice includes the borrower's old email but omits his alternate phone number. Should alternate contact details be included?",
+      "golden_answers": [
+        "Including all known contact details strengthens the notice and demonstrates good faith efforts to communicate. Although not mandatory, it reduces procedural disputes."
+      ]
+    },
+    {
+      "question": "The affidavit of urgency references 'Annexure A' for proof of relocation, but Annexure A contains the loan agreement. Should the reference be corrected?",
+      "golden_answers": [
+        "Yes, the reference must be corrected to the appropriate field verification report. Mislabeling annexures weakens procedural precision."
+      ]
+    },
+    {
+      "question": "The SOC quotes the wrong EMI amount as ₹3,024 instead of ₹3,042. How important is this correction?",
+      "golden_answers": [
+        "It should be corrected because EMI value is central to calculating dues. Even minor inaccuracies can undermine confidence in the filing’s precision."
+      ]
+    },
+    {
+      "question": "A draft notice refers to the vehicle as 'DL-8C-AV-1234' instead of the correct 'DL-8C-AW-1234'. Is this clerical error material?",
+      "golden_answers": [
+        "It is minor but should be corrected because precise identification of secured assets is critical. Incorrect vehicle numbers can complicate enforcement."
+      ]
+    },
+    {
+      "question": "The Section 9 petition states that the vehicle is 'the only recoverable property', though the borrower may still be employed informally. Should this assertion be moderated?",
+      "golden_answers": [
+        "The assertion should be moderated to avoid overstatement. It is more accurate to describe the vehicle as the only known secured asset rather than the borrower's sole property."
+      ]
+    },
+    {
+      "question": "The recovery timeline notes a failed employer verification on 20 January 2024. Should this be highlighted in the petition?",
+      "golden_answers": [
+        "Highlighting the failed verification supports the claim that the borrower is evading obligations. Including it strengthens the argument for interim protection."
+      ]
+    },
+    {
+      "question": "The SOC refers to an outstanding interest amount of ₹22,847, but the statement of account includes penal interest separately. Should interest components be itemized?",
+      "golden_answers": [
+        "Itemization is advisable because it avoids confusion between contractual interest and penal charges. Disaggregating components facilitates clearer adjudication of the claim."
+      ]
+    },
+  
+    {
+      "question": "The Section 21 Notice was emailed to rajesh.sharma1989@gmail.com but was not copied to his alternate phone via SMS. Does this omission matter?",
+      "golden_answers": [
+        "The omission does not invalidate service, as email delivery is acceptable under Section 3. Still, including SMS could enhance the demonstration of diligence."
+      ]
+    },
+    {
+      "question": "The SOC narrative references a 'Statement of Defense', but the borrower never filed one. Should this reference be removed?",
+      "golden_answers": [
+        "Yes, the reference should be removed or clarified as hypothetical. Referencing a nonexistent document may create confusion."
+      ]
+    },
+    {
+      "question": "The lender's field agent report from 15 January 2024 was not stamped or signed. Can it still be annexed?",
+      "golden_answers": [
+        "It can be annexed but its evidentiary weight is reduced without signature or stamp. Supplementary documentation or agent declaration would strengthen it."
+      ]
+    },
+    {
+      "question": "The Section 9 petition mentions the borrower is 'attempting to alienate the vehicle' but includes no supporting evidence. Should the petition adjust its language?",
+      "golden_answers": [
+        "Yes, the language should be moderated unless stronger evidence exists. Courts prefer clear factual bases for such allegations."
+      ]
+    },
+    {
+      "question": "The recall notice threatened criminal action for cheating and breach of trust. Is this advisable in a civil loan recovery context?",
+      "golden_answers": [
+        "Including criminal threats can appear excessive unless supported by specific allegations of fraudulent intent. The notice should retain focus on contractual and statutory remedies."
+      ]
+    },
+    {
+      "question": "The SOC uses the phrase 'evading legal responsibility' to describe the borrower’s non-response. Is this language too strong?",
+      "golden_answers": [
+        "The phrase may be seen as argumentative. It is better to state objective facts such as relocation, unreachable numbers, and unreturned notices."
+      ]
+    },
+    {
+      "question": "The lender includes a ₹5,000 legal notice charge. Does this require proof under the Arbitration Act?",
+      "golden_answers": [
+        "While not mandated by the Act, supporting invoices help prevent disputes. Attaching proof increases defensibility of the cost component."
+      ]
+    },
+    {
+      "question": "The SOC describes the loan as 'personal', though it is a two-wheeler loan for a Honda Activa 6G. Should this be corrected?",
+      "golden_answers": [
+        "Yes, it should be corrected to 'two-wheeler loan' to reflect the actual loan type. Mischaracterizations can undermine factual accuracy."
+      ]
+    },
+    {
+      "question": "The affidavit includes a verification clause referencing a date of 10 April 2024, though the filing date is 10 May 2024. Should this mismatch be fixed?",
+      "golden_answers": [
+        "Yes, the date should be corrected to maintain procedural accuracy. Incorrect dates can raise doubts about the document’s provenance."
+      ]
+    },
+    {
+      "question": "The Section 9 petition describes the borrower as 'absconding' but does not define the period. Should the duration be specified?",
+      "golden_answers": [
+        "Yes, specifying that the borrower has been uncontactable since January 2024 provides necessary context. Precision strengthens credibility."
+      ]
+    },
+    {
+      "question": "The SOC includes the wrong loan account number once as PFL-TWL-320847 instead of PFL-TWL-230847. Does this require amendment?",
+      "golden_answers": [
+        "Yes, correcting the account number is important to avoid confusion and ensure proper mapping of documents to the correct borrower."
+      ]
+    },
+  
+    {
+      "question": "In the SOC annexure index, Annexure C-1 is listed twice for both the Section 21 Notice and the recall notice. Should numbering be fixed?",
+      "golden_answers": [
+        "Yes, annexure numbering should be corrected to avoid duplication. Clear numbering is essential for organized filings."
+      ]
+    },
+    {
+      "question": "The statement of account includes principal outstanding of ₹66,638, interest outstanding of ₹22,847, and penal interest of ₹8,450. Should the SOC include a total calculation?",
+      "golden_answers": [
+        "Including a total helps the tribunal understand the aggregate claim quickly. Summarizing the components improves clarity."
+      ]
+    },
+    {
+      "question": "The Recall Notice refers to RBI guidelines for NPA classification but does not attach supporting material. Should the SOC reference actual RBI circulars?",
+      "golden_answers": [
+        "While attachment is not mandatory, referencing the relevant RBI circular reinforces credibility. If challenged, providing the circular may help."
+      ]
+    },
+    {
+      "question": "The 28 March 2024 Section 21 Notice warns that non-cooperation will lead to ex-parte proceedings. Is this accurately stated?",
+      "golden_answers": [
+        "The warning should clarify that ex-parte proceedings occur if the respondent fails to appear before the tribunal, not merely due to non-cooperation with notice. A slight rephrasing ensures accuracy."
+      ]
+    },
+    {
+      "question": "The field visit report from 20 January 2024 notes the borrower’s mother’s refusal to cooperate. Should SOC mention this detail?",
+      "golden_answers": [
+        "Including it adds context to challenges in locating the borrower. It strengthens the narrative of non-cooperation without overstating wrongdoing."
+      ]
+    },
+    {
+      "question": "The SOC states that the vehicle is 'likely being used outside Delhi', but no evidence supports this. Should the sentence be removed?",
+      "golden_answers": [
+        "Yes, unsupported claims should be removed or softened. The tribunal expects factual grounding for such statements."
+      ]
+    },
+    {
+      "question": "The Section 9 petition does not mention that the borrower resigned on 28 December 2023. Should this be added as a ground?",
+      "golden_answers": [
+        "Adding the resignation information helps show discontinuity in income and increased risk of asset disposal. It strengthens the urgency argument."
+      ]
+    },
+    {
+      "question": "The SOC references a 'dealer invoice' but annexes only the disbursal memo from 22 March 2023. Should the missing invoice be included?",
+      "golden_answers": [
+        "Including the dealer invoice would strengthen the chain of documentation proving the loan’s purpose. It is best to annex it if available."
+      ]
+    },
+    {
+      "question": "The recall notice lists the vehicle as 'Activa 6G', while the SOC uses 'Honda Activa 6G'. Is harmonization necessary?",
+      "golden_answers": [
+        "Harmonizing terminology avoids trivial disputes. Both forms are accurate, but using a consistent one improves document coherence."
+      ]
+    },
+    {
+      "question": "The affidavit mentions that the borrower changed phone numbers, but only one unreachable number is shown in the timeline. Should this claim be clarified?",
+      "golden_answers": [
+        "The statement should be clarified or revised because only one number is documented as unreachable. Precision avoids potential contradictions."
+      ]
+    },
+    {
+      "question": "The Section 9 petition states the outstanding amount as ₹1,02,935 but does not mention the date of calculation (15 November 2024). Should it be added?",
+      "golden_answers": [
+        "Yes, specifying the calculation date prevents confusion and ensures the claim is temporally grounded."
+      ]
+    },
+    {
+      "question": "The SOC includes a reference to the 'Fair Practices Code' without attaching any internal policy documents. Should these be annexed?",
+      "golden_answers": [
+        "Attaching the policy is not necessary, but providing a brief excerpt or referencing the publicly available framework can strengthen procedural fairness assertions."
+      ]
+    },
+    {
+      "question": "The recall notice states that the borrower has been 'deliberately avoiding all communication', but the timeline shows at least one call answered by his mother. Should language be adjusted?",
+      "golden_answers": [
+        "Yes, the phrasing should acknowledge that limited indirect communication occurred. Overstatements weaken credibility."
+      ]
+    },
+    {
+      "question": "The SOC refers to a 'verbal warning issued on 12 December 2023', but no such entry exists in the recovery timeline. Should it be deleted?",
+      "golden_answers": [
+        "Yes, unsupported references should be removed to maintain factual accuracy and avoid inconsistencies with annexed documents."
+      ]
+    },
+    {
+      "question": "The Section 21 notice warns the borrower that the lender may 'report the default to credit bureaus'. Should this be included in arbitration notices?",
+      "golden_answers": [
+        "Including such warnings is permissible but not essential. However, they should not overshadow the notice's primary function of invoking arbitration."
+      ]
+    },
+    {
+      "question": "The recall notice refers to penal interest but does not specify the rate. Should the penal rate be inserted to avoid ambiguity?",
+      "golden_answers": [
+        "Inserting the penal rate enhances clarity and reduces the risk of disputes regarding calculation. It is advisable to include."
+      ]
+    },
+    {
+      "question": "The SOC references an 'attempted payment in January 2024', yet the EMI history shows no January payment. Should the reference be removed?",
+      "golden_answers": [
+        "Yes, the reference should be removed or corrected because the January EMI was marked unpaid. Keeping incorrect statements may undermine credibility."
+      ]
+    },
+    {
+      "question": "The affidavit includes an urgency ground that the borrower is 'negotiating with third parties'. Should this be supported with documentary proof?",
+      "golden_answers": [
+        "Supporting proof strengthens the claim, but absent proof, the language should be moderated to avoid speculative assertions."
+      ]
+    },
+    {
+      "question": "The SOC refers to the borrower's father, but the CRM file only lists his mother’s interaction. Should familial references be standardized?",
+      "golden_answers": [
+        "Yes, familial references should be aligned with actual records to avoid confusion. Inconsistent details may create evidentiary gaps."
+      ]
+    },
+    {
+      "question": "The Section 9 petition lacks any reference to the borrower's resignation dated 28 December 2023. Would including this strengthen the relief sought?",
+      "golden_answers": [
+        "Including the resignation supports the argument that the borrower’s financial situation deteriorated. It reinforces the urgency of interim protection."
+      ]
+    },
+    {
+      "question": "The SOC references the 'arbitration seat at New Delhi', consistent with Clause 18. Should the term 'venue' also be clarified?",
+      "golden_answers": [
+        "Clarifying the distinction between seat and venue improves procedural clarity. Including both terms avoids misinterpretation during hearings."
+      ]
+    },
+    {
+      "question": "The recall notice incorrectly writes the principal outstanding as ₹66,688 instead of ₹66,638. Is the discrepancy significant?",
+      "golden_answers": [
+        "The discrepancy is small but should be corrected because numerical accuracy is critical in financial disputes. Consistency across documents reduces grounds for challenge."
+      ]
+    },
+    {
+      "question": "The SOC narrates the borrower’s default as starting 'from October 2023', although the EMI table shows October as paid. Should this be corrected?",
+      "golden_answers": [
+        "Yes, the default should be correctly stated as beginning in November 2023. Accurate chronology strengthens the credibility of the account."
+      ]
+    },
+    {
+      "question": "The petition references 'Annexure C-5' as the payment history, but C-5 is the disbursal memo. Should numbering be revised?",
+      "golden_answers": [
+        "Yes, annexure numbering should be corrected because mislabeling undermines document organization. Accurate mapping supports smoother adjudication."
+      ]
+    },
+    {
+      "question": "The Section 21 Notice demands that the borrower propose an arbitrator within 15 days but does not explain what happens if he does not. Should this clarity be added?",
+      "golden_answers": [
+        "Adding that the lender may seek court appointment under Section 11 would improve clarity. It aligns the notice with statutory expectations."
+      ]
+    },
+    {
+      "question": "The SOC states the vehicle is hypothecated but doesn’t attach the hypothecation clause. Should it be annexed?",
+      "golden_answers": [
+        "Yes, annexing the hypothecation clause strengthens the claim regarding secured interest. It demonstrates the lender’s right to seek interim protection."
+      ]
+    },
+    {
+      "question": "The Section 21 Notice sent by Speed Post was not acknowledged by the borrower. Does Section 3 deemed service still apply?",
+      "golden_answers": [
+        "Yes, deemed service applies if the notice was sent to the last known address using a reliable delivery method. The lender can rely on the Speed Post receipt to establish service."
+      ]
+    },
+    {
+      "question": "The SOC incorrectly describes the loan as sanctioned on '14 March 2023', though the file states 15 March 2023. Should this error be corrected?",
+      "golden_answers": [
+        "Yes, the date should be corrected because loan sanction dates are key reference points in contract formation. Accuracy avoids unnecessary disputes."
+      ]
+    },
+    {
+      "question": "The recall notice includes a threat to initiate criminal action for cheating. Should this be included in a civil recovery process?",
+      "golden_answers": [
+        "While permissible, such threats can appear disproportionate without evidence of fraudulent intent. It is often better to limit the notice to contractual and statutory remedies."
+      ]
+    },
+    {
+      "question": "The SOC refers to a 'notice dated 6 March 2024', but only a 5 March 2024 recall notice exists. Should the date be corrected?",
+      "golden_answers": [
+        "Yes, the date should be corrected to avoid confusion. Precise dating is important for tracing compliance with notice requirements."
+      ]
+    },
+    {
+      "question": "The Section 9 petition lists two different dates for the borrower’s last EMI payment. Should these dates be reconciled?",
+      "golden_answers": [
+        "Yes, reconciling the dates avoids internal inconsistency. According to the EMI table, the last full EMI was paid on 5 October 2023."
+      ]
+    },
+    {
+      "question": "The SOC narrates that the borrower 'abandoned communication entirely in 2024', but part payment was received in December 2023. Does the phrasing require refinement?",
+      "golden_answers": [
+        "Yes, the phrasing should clarify that communication ceased after December 2023 to reflect the documented timeline accurately."
+      ]
+    },
+    {
+      "question": "The affidavit states that the borrower 'moved out without leaving forwarding details', but the field report only states the flat was locked. Should this be revised?",
+      "golden_answers": [
+        "Yes, the affidavit should describe only what was actually observed. Overstatements reduce the document’s reliability."
+      ]
+    }
+  ]
+  

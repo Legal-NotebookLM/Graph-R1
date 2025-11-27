@@ -1,0 +1,230 @@
+[
+  {
+    "question": "The Section 17 application references 'TV, Fridge, AC' but this case involves 'LED TV, AC, Furniture' as consumer durables. Should the assets be corrected?",
+    "golden_answers": ["Yes, the asset list should be corrected. The CRM specifies 'LED TV, AC, Furniture' as the financed consumer durables. References to 'Fridge' appear to be from a different case. All documents should accurately list: LED TV, Air Conditioner, and Furniture as the specific items financed under this Consumer Durable Loan."]
+  },
+  {
+    "question": "The borrower Lakshmi Narayanan is a TCS employee who faced a 15% salary cut from ₹48,000 to ₹40,800. How does employment at a major IT company affect recovery strategy?",
+    "golden_answers": ["TCS employment provides strong recovery assurance: (1) Salary attachment is reliable and enforceable, (2) Continued employment ensures ongoing income, (3) Corporate HR departments comply with court orders, (4) Employee retention concerns may motivate borrower to settle. Salary attachment from a Fortune 500 employer is among the most effective recovery modes."]
+  },
+  {
+    "question": "The DPD is 387 days as on 26-11-2024. If the November 2023 EMI bounced on 05-11-2023, does this calculation match?",
+    "golden_answers": ["From 5 November 2023 to 26 November 2024 is approximately 387 days, exactly matching the stated DPD. This 13-month default period, combined with the documented salary reduction and medical expenses, indicates genuine financial stress rather than willful evasion."]
+  },
+  {
+    "question": "The borrower mentioned 'father's prolonged illness requiring regular expenses' during field visits. How should medical hardship be factored into recovery?",
+    "golden_answers": ["Medical hardship considerations include: (1) Acknowledging genuine financial strain, (2) Offering extended repayment tenure to match reduced capacity, (3) Potentially reducing penal charges as goodwill gesture, (4) Considering salary attachment at sustainable percentage (20-25% as mentioned). Compassionate recovery balances lender rights with borrower's ability to meet basic family needs."]
+  },
+  {
+    "question": "The case status is 'Field Visit Stage' but the file contains Recall Notice, Section 21 Notice, and arbitration documents. Should the status be updated?",
+    "golden_answers": ["Yes, the status should be updated. Given that Recall Notice (10 February 2024) and Section 21 Notice (5 March 2024) have been issued with subsequent arbitration documents, the case has progressed significantly beyond field visits. Current status should reflect the actual stage—likely 'Arbitration Initiated' or 'Award Pending.'"]
+  },
+  {
+    "question": "The recovery timeline shows employer verification at 'TCS HR Department' on 20-02-2024 confirming salary reduction. How reliable is employer verification for recovery?",
+    "golden_answers": ["Employer verification from TCS HR is highly reliable: (1) HR departments provide accurate employment and salary data, (2) Written confirmation can be used for salary attachment orders, (3) TCS is a reputable company that will comply with legal orders, (4) Verification confirms ongoing employment security. This creates a clear recovery path through salary deduction."]
+  },
+  {
+    "question": "The borrower 'requested loan restructuring' during field visit on 15-03-2024. What restructuring options exist for Consumer Durable Loans?",
+    "golden_answers": ["Restructuring options include: (1) Extended tenure reducing monthly EMI, (2) Interest-only period during financial recovery, (3) Step-up EMI starting low and increasing, (4) One-time settlement at reduced amount, (5) Salary-linked payment matching reduced income, (6) Waiver of penal charges for agreed repayment plan. Given TCS employment, structured payment tied to salary is viable."]
+  },
+  {
+    "question": "The total outstanding is ₹1,80,222 on an original loan of ₹1,85,000. This is 97% of original amount after 7 EMIs paid. Is recovery nearly complete?",
+    "golden_answers": ["No, recovery is not nearly complete. The ₹1,80,222 outstanding is close to original loan because: (1) Only 7 full + 1 partial EMI paid, (2) Interest accrual on default period adds to balance, (3) Penal charges (₹10,450) added, (4) The outstanding grew during default. Principal Outstanding is ₹1,40,205, meaning only ₹44,795 principal was recovered from the original ₹1,85,000."]
+  },
+  {
+    "question": "The Award mentions 'Salary attachment from TCS (20-25%).' What is the maximum salary attachment permitted by law?",
+    "golden_answers": ["Under Indian law, salary attachment is typically limited to 50% of salary in aggregate across all creditors, with some exemptions for minimum subsistence. Courts often order 20-33% for individual creditors. The 20-25% mentioned is reasonable and sustainable, leaving the borrower with 75-80% of reduced salary for living expenses and other obligations."]
+  },
+  {
+    "question": "The Section 9 petition was filed in Chennai District Court. The borrower lives in Chennai and works at TCS Chennai. Is jurisdiction appropriate?",
+    "golden_answers": ["Yes, Chennai jurisdiction is appropriate: (1) Borrower resides in Chennai (Anna Nagar East), (2) Employer (TCS) has Chennai office, (3) Financed assets are at Chennai residence, (4) Loan agreement likely specifies Chennai jurisdiction. All relevant factors connect to Chennai, making it the proper forum for interim measures and execution."]
+  },
+  {
+    "question": "The borrower paid 7 full EMIs plus partial ₹3,000, totaling ₹49,347. The Principal Recovered is ₹44,795. Is this allocation accurate?",
+    "golden_answers": ["From ₹49,347 payments, ₹44,795 (90.8%) went to principal and ₹4,552 (9.2%) to interest. For a 16.5% loan, early EMIs typically have 75-80% principal component. The 90.8% principal allocation seems high—either the calculation methodology differs or there's an error. This should be verified against the amortization schedule."]
+  },
+  {
+    "question": "The field visit on 15-01-2024 confirmed 'struggling with multiple EMIs.' Should the lender investigate other loans?",
+    "golden_answers": ["Investigating total debt burden is prudent: (1) Multiple EMIs affect repayment capacity, (2) Credit bureau check reveals other obligations, (3) Understanding total outgo helps assess realistic payment ability, (4) May indicate overleveraging requiring debt consolidation approach. For a ₹40,800 salary with 'multiple EMIs,' disposable income for this loan is limited."]
+  },
+  {
+    "question": "The Affidavit of Urgency states consumer durables 'can be easily sold on online platforms.' Is asset disposal risk high for consumer electronics?",
+    "golden_answers": ["Yes, consumer electronics are easily liquidated: (1) Online marketplaces (OLX, Facebook Marketplace) enable quick sales, (2) No registration/documentation required unlike vehicles, (3) Cash transactions leave no trail, (4) Items can be sold piecemeal. The urgency claim is valid—without restraint orders, the borrower could sell TV, AC, furniture before attachment."]
+  },
+  {
+    "question": "The Notice threatens to 'Approach your employer TCS Limited for salary attachment proceedings.' Can lender approach employer directly?",
+    "golden_answers": ["No, direct approach to employer before court order is improper. Salary attachment requires: (1) Arbitral award or court decree, (2) Execution petition filing, (3) Court order for garnishment directing employer to deduct. Pre-judgment contact with employer about employee's debt could violate privacy and fair practices norms. The threat refers to post-award execution process."]
+  },
+  {
+    "question": "The borrower's designation is 'Assistant Manager - HR.' Could an HR professional understand legal notices better than average borrower?",
+    "golden_answers": ["Yes, an HR professional likely has: (1) Better understanding of legal compliance and notices, (2) Familiarity with salary attachment procedures, (3) Awareness of employment implications of debt default, (4) Ability to seek internal guidance. This sophistication means claims of 'not understanding' notices are less credible, but also suggests potential for constructive engagement on settlement."]
+  },
+  {
+    "question": "The recovery timeline shows the borrower 'expressed willingness to pay but current EMI too high for reduced salary' on 10-04-2024. Should the lender modify terms?",
+    "golden_answers": ["Yes, when borrower expresses willingness but inability to pay original terms, modification is prudent: (1) Calculate sustainable EMI based on reduced salary (₹40,800), (2) Propose extended tenure to reduce monthly burden, (3) Partial waiver of penal charges incentivizes agreement, (4) Salary attachment at 20-25% ensures payment. Rigid insistence on original terms may yield less than flexible restructuring."]
+  },
+  {
+    "question": "The loan tenure is 36 months ending 05-03-2026. As of November 2024, approximately how many EMIs remain?",
+    "golden_answers": ["From November 2024 to March 2026 is approximately 17 months. Of the original 36 EMIs, the borrower paid 7.5, leaving about 28.5 EMIs unpaid. About 47% of tenure remains, meaning the loan is roughly half-way through its term based on time, though principal recovery is only about 24%."]
+  },
+  {
+    "question": "The Outstanding includes Penal Interest of ₹10,450 over 13 months on approximately ₹1,40,205 principal. What is the implied penal rate?",
+    "golden_answers": ["₹10,450 on ₹1,40,205 over 13 months implies approximately 0.6% per month or about 7% per year in penal charges. This is relatively low—typical penal rates are 2-3% monthly. Either: (1) Loan agreement specifies low penal rate, (2) Caps apply, (3) Lender showing restraint given hardship circumstances. The rate appears borrower-friendly."]
+  },
+  {
+    "question": "The Section 17 application requests 'Alternatively, authorize salary attachment from TCS.' Can arbitrators order salary attachment?",
+    "golden_answers": ["Yes, arbitrators can include salary attachment authorization in awards under Section 17 (interim) or final award. The order directs the employer to deduct specified amounts from salary and remit to the claimant. Implementation requires serving the order on the employer (TCS) who must comply as a garnishee. This is a powerful remedy against employed borrowers."]
+  },
+  {
+    "question": "The case shows the borrower is female (Ms. Lakshmi Narayanan). Does gender affect recovery considerations?",
+    "golden_answers": ["Gender itself shouldn't affect legal recovery rights, but context matters: (1) Family caregiving responsibilities (father's illness) may disproportionately fall on women, (2) Single income vs. household income considerations, (3) Recovery approaches should remain professional and non-discriminatory. The legal process is the same, though compassionate considerations may account for documented caregiving burden."]
+  },
+  {
+    "question": "The employer verification confirmed 'salary reduction for certain grades.' How does company-wide restructuring affect individual debt recovery?",
+    "golden_answers": ["Company-wide salary cuts indicate: (1) Economic pressures affecting the employer, (2) Borrower's situation not unique or self-created, (3) Potential for salary restoration if company recovers, (4) Genuine hardship rather than personal financial mismanagement. This context supports treating the borrower sympathetically while still pursuing legitimate recovery through sustainable arrangements."]
+  },
+  {
+    "question": "The Execution Petition mentions 'Consumer Durables: TV, Fridge, AC, etc.' but the case involves 'LED TV, AC, Furniture.' What correction is needed?",
+    "golden_answers": ["The asset list should be corrected to: 'LED TV, Air Conditioner (AC), and Furniture as specified in the Consumer Durable Loan Agreement dated 8 March 2023.' 'Fridge' should be removed and 'Furniture' should be added. Accurate asset identification is essential for valid attachment and prevents confusion during execution."]
+  },
+  {
+    "question": "The borrower mentioned 'unexpected medical expenses for father' on 08-11-2023. Should medical expense documentation be required?",
+    "golden_answers": ["Requiring documentation is reasonable for settlement discussions but shouldn't be excessive: (1) Hospital bills/receipts substantiate the claim, (2) Helps assess ongoing vs. one-time expenses, (3) Validates the hardship narrative, (4) Informs realistic restructuring. However, intrusive demands may be counterproductive with an otherwise cooperative borrower. Balance verification with relationship preservation."]
+  },
+  {
+    "question": "The Statement of Claim mentions 'TCS employee, Consumer Durable Loan borrower' without full name. Should the respondent be fully identified?",
+    "golden_answers": ["Yes, full identification is essential: 'Ms. Lakshmi Narayanan, D/o [father's name], aged 36 years, Employee of TCS Limited (Designation: Assistant Manager - HR), residing at Flat No. 12, Anna Nagar East, Chennai, Tamil Nadu - 600102.' Vague references create identification ambiguity and may complicate enforcement."]
+  },
+  {
+    "question": "The Award includes 'Compassionate terms: Medical emergency considered.' How do tribunals incorporate compassion into awards?",
+    "golden_answers": ["Compassionate considerations in awards may include: (1) Extended payment timeline beyond standard 30 days, (2) Reduced costs given cooperation and hardship, (3) Lower interest rate for post-award period, (4) Installment payment directions, (5) Asset liquidation as last resort rather than first option. While debt remains due, terms can acknowledge genuine hardship without prejudicing lender rights."]
+  },
+  {
+    "question": "The recovery timeline shows the borrower was 'scheduled to visit office to discuss restructuring options' on 25-04-2024. Did the meeting occur?",
+    "golden_answers": ["The case file doesn't confirm the meeting outcome. The recovery timeline entry shows scheduling, not completion. Given subsequent arbitration documents, either: (1) Meeting occurred but didn't result in settlement, (2) Meeting was postponed/cancelled, (3) Discussions continued but failed. The arbitration progression suggests restructuring discussions didn't yield agreement."]
+  },
+  {
+    "question": "The EMI is ₹6,621/month. On reduced salary of ₹40,800, this is 16.2% of gross income. Is this sustainable?",
+    "golden_answers": ["16.2% EMI ratio is theoretically sustainable (typically up to 30-40% is acceptable). However, the borrower mentioned 'multiple EMIs' suggesting total debt service is higher. If aggregate EMIs exceed 40-50% of the reduced salary, the individual loan EMI isn't the issue—total debt burden is. Restructuring this loan alone may not solve the overall problem."]
+  },
+  {
+    "question": "The Notice mentions service via 'Speed Post AD & Email.' If email is used, what constitutes valid email service?",
+    "golden_answers": ["Valid email service requires: (1) Email to address provided in loan application, (2) Delivery confirmation (read receipt if enabled), (3) Alternative email if primary bounces, (4) Documentation of dispatch date and content. Section 3 of Arbitration Act recognizes electronic communication. Email to lakshmi.n87@gmail.com as registered email constitutes valid service."]
+  },
+  {
+    "question": "The borrower's address is 'Flat No. 12, Anna Nagar East, Chennai.' Is this address sufficiently specific for legal service?",
+    "golden_answers": ["The address should be more complete for reliable service: include building name (if any), street/road name, and landmark. 'Flat No. 12, [Building Name], [Street], Anna Nagar East, Chennai, Tamil Nadu - 600102' would be more specific. However, postal PIN code 600102 identifies Anna Nagar East, so Speed Post should deliver."]
+  },
+  {
+    "question": "The Section 9 petition mentions 'Risk of sale, damage, or removal' of consumer durables. What specific risks exist for each item?",
+    "golden_answers": ["LED TV: Can be sold on OLX/Facebook within days; Damage risk from mishandling during move. AC: Requires technical removal, slightly harder to sell quickly; Damage from improper uninstallation. Furniture: Bulky, harder to sell quickly but can be given away; Damage from use/wear. TV and AC face highest immediate disposal risk; furniture has lower liquidity."]
+  },
+  {
+    "question": "The case shows the borrower 'mentioned salary delayed' on 05-12-2023 when making partial payment. Do IT companies delay salaries?",
+    "golden_answers": ["Major IT companies like TCS rarely delay salaries—this would be unusual and newsworthy. More likely explanations: (1) Bonus/variable component delayed, (2) Salary credit date different from payment date the borrower expected, (3) Misstatement to buy time, (4) Temporary technical issue. TCS's financial stability makes prolonged salary delay unlikely; the claim should be verified."]
+  },
+  {
+    "question": "The loan interest rate is 16.5% p.a. reducing balance. For consumer durable loans, is this rate typical?",
+    "golden_answers": ["Yes, 16.5% is within typical range for NBFC consumer durable loans (14-24%). Bank CD loans may be lower (10-16%), while store financing can be higher. The rate reflects: unsecured/lightly-secured nature, smaller ticket size, consumer risk profile. For TCS employee with stable income, 16.5% is moderate; higher-risk borrowers might pay more."]
+  },
+  {
+    "question": "The Processing Fee is ₹5,550 (3% of ₹1,85,000). Is 3% standard for consumer durable loans?",
+    "golden_answers": ["3% processing fee is on the higher end for consumer durable loans. Many lenders charge 1-2.5% for such loans. Zero-cost EMI schemes at retailers often bundle processing fees differently. The 3% is within market range but not competitive. This fee was deducted upfront, so net disbursement was ₹1,79,450."]
+  },
+  {
+    "question": "The Award mentions 'Salary attachment from TCS (20-25%) OR asset liquidation.' Can both be pursued simultaneously?",
+    "golden_answers": ["Typically, salary attachment and asset liquidation are alternatives or sequential, not simultaneous for the same amount. The 'OR' suggests: (1) Salary attachment as primary mode, (2) Asset liquidation if salary attachment is insufficient or fails, (3) Court discretion in choosing appropriate mode. Pursuing both for the same debt could result in excess recovery, which is impermissible."]
+  },
+  {
+    "question": "The recovery timeline shows the borrower 'confirmed salary cut from ₹48,000 to ₹40,800' on 15-01-2024. This is ₹7,200/month reduction. Should EMI restructuring match this reduction?",
+    "golden_answers": ["Restructuring should consider: (1) Original EMI ₹6,621 was 13.8% of ₹48,000, (2) Same ratio on ₹40,800 gives ₹5,630 EMI capacity, (3) Reduction of ~₹1,000/month needed to maintain same burden, (4) Or extend tenure to lower EMI while maintaining total recovery. Matching restructuring to actual income change demonstrates fairness and improves payment likelihood."]
+  },
+  {
+    "question": "The Evidence Affidavit mentions 'Assets (TV, Fridge, AC, etc.)' but the case involves 'LED TV, AC, Furniture.' Which is correct?",
+    "golden_answers": ["The correct assets are 'LED TV, AC, and Furniture' per the CRM data. 'Fridge' is from a different case. The Evidence Affidavit should state: 'Consumer durables financed under the loan, namely LED Television, Air Conditioner, and Furniture, are currently at the Respondent's residence at Flat No. 12, Anna Nagar East, Chennai.'"]
+  },
+  {
+    "question": "The case shows 'father's illness' affecting the borrower. If the father lives separately, can his medical expenses legally affect loan recovery?",
+    "golden_answers": ["While the father's medical expenses don't legally reduce the debt, they explain reduced repayment capacity: (1) Daughter supporting elderly parent is common and sympathetic, (2) Medical expenses are recurring, affecting cash flow, (3) Cultural/moral obligation to family doesn't excuse debt but explains situation. Recovery approach can acknowledge this reality while still pursuing legitimate claims."]
+  },
+  {
+    "question": "The Execution Petition requests 'salary attachment from TCS' as primary mode. What information is needed to execute salary attachment?",
+    "golden_answers": ["For salary attachment, the execution court needs: (1) Borrower's full name and employee ID, (2) Employer name and registered address, (3) Current designation and department, (4) Salary structure (gross, net, deductions), (5) Bank account details for salary credit, (6) HR/Legal contact at TCS for order service. This enables court to issue garnishment order directly to employer."]
+  },
+  {
+    "question": "The Notice warns 'Report your default to Credit Information Bureaus.' Has credit reporting already occurred?",
+    "golden_answers": ["For a 387-day DPD account, credit bureau reporting has almost certainly already occurred. RBI mandates NPA reporting within 90 days. The borrower's CIBIL score would reflect: (1) Multiple missed payments, (2) NPA status since ~February 2024 (90+ days), (3) Account under collection/legal proceedings. This impacts her ability to get future credit and may add urgency to resolution."]
+  },
+  {
+    "question": "The case shows TCS employment verification was done on 20-02-2024. Should this be refreshed before execution?",
+    "golden_answers": ["Yes, verification should be current before execution: (1) 9 months have passed since verification, (2) Employee could have resigned, been terminated, or transferred, (3) Salary structure may have changed, (4) Fresh verification ensures execution order goes to correct employer/location. Stale employment data could result in failed attachment."]
+  },
+  {
+    "question": "The borrower is 36 years old in Assistant Manager role at TCS. What career trajectory and income growth might be expected?",
+    "golden_answers": ["A 36-year-old Assistant Manager at TCS likely has: (1) 10-12 years work experience, (2) Salary growth potential with promotions, (3) Potential for job change to higher-paying roles, (4) Career runway of 25+ years. The salary cut may be temporary (industry-wide pressures often reverse). Future income growth could improve repayment capacity, supporting restructuring with deferred higher payments."]
+  },
+  {
+    "question": "The List of Documents includes 'Medical Bills (father's illness).' Are medical bills relevant to a loan recovery arbitration?",
+    "golden_answers": ["Medical bills are relevant for: (1) Establishing hardship context for compassionate consideration, (2) Supporting restructuring request, (3) Explaining default circumstances, (4) Potentially reducing costs in award. They don't reduce the debt but provide context. A reasonable tribunal considers such evidence when determining payment terms and costs, not liability."]
+  },
+  {
+    "question": "The case shows Principal Outstanding of ₹1,40,205 from original ₹1,85,000. If the loan continues for remaining 17 months at regular EMIs, would total repayment exceed original?",
+    "golden_answers": ["Yes, with accrued interest and penalties, total repayment will exceed original: (1) Outstanding ₹1,80,222 already approaches original ₹1,85,000, (2) Future interest at 16.5% p.a. continues accruing, (3) Plus costs of ₹70,000 from award. Total eventual payment likely ₹2,50,000+ versus original ₹1,85,000. This is the cost of default—interest and enforcement expenses accumulate significantly."]
+  },
+  {
+    "question": "The SOC requests 'Salary attachment authorization (20-25% of net salary from TCS).' Is net salary the correct base?",
+    "golden_answers": ["Net salary is appropriate for attachment calculations: (1) Gross salary includes statutory deductions (PF, TDS) the employee never receives, (2) Net/take-home reflects actual disposable income, (3) Court orders typically specify net salary to ensure reasonable living standard. 20-25% of ₹40,800 net would be ₹8,160-10,200/month, covering the EMI with some buffer."]
+  },
+  {
+    "question": "The Award mentions costs of ₹70,000. For a ₹1,85,000 loan with cooperative borrower, are these costs proportionate?",
+    "golden_answers": ["₹70,000 costs on ₹1,85,000 loan (38%) seems high, especially with a cooperative borrower. Expected breakdown: Arbitrator ~₹35,000, Advocate ~₹25,000, Admin ~₹10,000. Given the borrower's participation and hardship circumstances, costs could reasonably be reduced to ₹50,000-55,000 as a compassionate measure, particularly since salary attachment ensures recovery."]
+  },
+  {
+    "question": "The default reason is 'Salary cut (15% reduction) combined with medical expenses for father.' Are these permanent or temporary factors?",
+    "golden_answers": ["Both factors have temporary potential: (1) Salary cuts in IT industry often reverse with market improvement, (2) Medical expenses for specific illness may reduce after treatment stabilizes. However: (1) Salary may not fully restore, (2) Father's condition might be chronic requiring ongoing costs. Recovery planning should assume medium-term constraints rather than immediate capacity restoration."]
+  },
+  {
+    "question": "The PAN is XYZPS5678P. Should PAN-linked asset search supplement salary attachment?",
+    "golden_answers": ["Yes, PAN search provides comprehensive picture: (1) Other bank accounts for supplementary recovery, (2) Investments that could be liquidated, (3) Other loans indicating total burden, (4) Property ownership for alternative attachment. Even with reliable salary attachment, understanding total financial position helps assess: can she pay more through liquidating assets, or is salary attachment the maximum realistic recovery?"]
+  },
+  {
+    "question": "The case file shows the borrower as female (Ms.) working in HR at TCS. How does her HR role affect understanding of legal proceedings?",
+    "golden_answers": ["An HR professional likely understands: (1) Legal notice implications, (2) Employer obligations regarding court orders, (3) Impact of debt default on employment record, (4) Salary attachment procedures. This sophistication means she can engage meaningfully in settlement discussions, understand restructuring options, and appreciate consequences. It may also mean she'll seek to protect her professional reputation through resolution."]
+  },
+  {
+    "question": "The Recall Notice date is 10-02-2024, Section 21 Notice is 05-03-2024. The gap is 23 days. Is this timeline appropriate?",
+    "golden_answers": ["Yes, the timeline is appropriate: (1) Recall Notice gives 15 days for payment (expires ~25 February), (2) Section 21 Notice on 5 March allows 8 additional days after deadline, (3) Shows measured escalation rather than immediate legal action. The lender provided reasonable opportunity before invoking arbitration."]
+  },
+  {
+    "question": "The case shows the borrower is 'still employed' per employer verification. Why is employment status crucial for this case?",
+    "golden_answers": ["Employment status is crucial because: (1) Salary attachment is primary recovery mode, (2) Ongoing income ensures payment capacity, (3) Corporate employer compliance is reliable, (4) Job loss would require strategy change to asset liquidation. Unlike self-employed or unemployed borrowers, an employed TCS worker provides near-certain recovery path through salary deduction."]
+  },
+  {
+    "question": "The Award excerpt shows 'Medical emergency noted compassionately' under Breach finding. Does compassion reduce liability?",
+    "golden_answers": ["No, compassion doesn't reduce debt liability—the full amount remains due. However, compassion affects: (1) Payment terms (extended timeline), (2) Costs awarded (potentially reduced), (3) Interest rate post-award (possibly lower), (4) Enforcement approach (salary attachment over asset seizure). The borrower still owes the money but receives more favorable terms for payment."]
+  },
+  {
+    "question": "The case shows ₹3,000 partial payment in December 2023. Should partial payments be encouraged during default?",
+    "golden_answers": ["Yes, partial payments are beneficial: (1) Demonstrate good faith and debt acknowledgment, (2) Reduce outstanding balance slightly, (3) Reset limitation period, (4) Show continuing payment intent, (5) Support compassionate treatment claims. Even small payments like ₹3,000 (less than half EMI) show the borrower isn't abandoning the obligation despite inability to pay fully."]
+  },
+  {
+    "question": "The Aadhaar ends in XXXX-XXXX-8901. Should full Aadhaar be used for execution?",
+    "golden_answers": ["Full Aadhaar isn't typically required for execution—the last 4 digits plus PAN provide sufficient identification. Aadhaar privacy restrictions limit full disclosure. For salary attachment from TCS, the employer can verify identity through employee records. Full Aadhaar may be requested by execution court if identity is disputed, but masked Aadhaar is generally sufficient."]
+  },
+  {
+    "question": "The case shows the borrower 'discussed challenges' with recovery team on multiple occasions. How does such engagement affect arbitration?",
+    "golden_answers": ["Consistent engagement positively affects arbitration: (1) Demonstrates borrower isn't evading, (2) Creates record of acknowledgment and settlement attempts, (3) Supports request for compassionate terms, (4) May result in lower costs, (5) Arbitrator may encourage settlement over contested award. This borrower's profile is ideal for mediated settlement rather than adversarial proceedings."]
+  },
+  {
+    "question": "The Execution Petition requests 'flexible terms' considering medical emergency. Can execution courts modify award terms?",
+    "golden_answers": ["Execution courts generally cannot modify award amounts but can: (1) Allow installment payment schedules, (2) Grant time for voluntary compliance, (3) Sequence execution modes (salary attachment first, asset liquidation if insufficient), (4) Consider proportionality in attachment. The substantive award stands, but execution modalities can accommodate borrower circumstances within legal limits."]
+  },
+  {
+    "question": "The outstanding includes Interest Outstanding of ₹29,567 at 16.5% p.a. on Principal Outstanding of ₹1,40,205 over 13 months. Is this accurate?",
+    "golden_answers": ["Let's verify: ₹1,40,205 × 16.5% × (13/12) ≈ ₹25,061 expected interest. The stated ₹29,567 is higher, possibly including: (1) Interest on interest, (2) Some compounding effect, (3) Higher effective rate. The figures are in reasonable range but verification against the amortization schedule would confirm accuracy. The difference (~₹4,500) is not significant."]
+  },
+  {
+    "question": "The case file references 'TV, Fridge, AC' in multiple places but CRM shows 'LED TV, AC, Furniture.' This inconsistency appears throughout. What quality control is needed?",
+    "golden_answers": ["Quality control measures needed: (1) Case-specific document review checklist, (2) Asset description verified against CRM/Loan Agreement, (3) Template fields highlighted for mandatory customization, (4) Senior review before filing, (5) Document management system that links all case documents to single source of truth. These inconsistencies undermine document credibility and could cause execution complications."]
+  }
+]

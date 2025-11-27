@@ -1,0 +1,290 @@
+[
+  {
+    "question": "The Section 9 petition references 'Gold Loan' and 'Gold in Company custody' but this case involves a Two-Wheeler Loan (Hero Splendor Plus) for Santosh Kumar. Is this content from a different case?",
+    "golden_answers": ["Yes, this is clearly content from a different case. The Section 9 petition for a gold loan was mistakenly included in Santosh Kumar's two-wheeler loan case file. This section should be removed and replaced with the correct application referencing the Hero Splendor Plus vehicle."]
+  },
+  {
+    "question": "The borrower Santosh Kumar is a Swiggy delivery partner (gig worker) who relocated from city to village due to app suspension. The case shows 'settlement being negotiated' with borrower proposing ₹40,000 (55% of outstanding). How should this settlement offer be evaluated?",
+    "golden_answers": ["The ₹40,000 settlement (55% of ₹72,538) should be evaluated considering: (1) Borrower's current village income (₹8,000/month) is severely reduced, (2) Borrower is cooperative and has made partial payments, (3) Vehicle value may be ₹30,000-40,000, (4) Full recovery through litigation may cost more than settlement. A 55% settlement is reasonable given genuine hardship and cooperation."]
+  },
+  {
+    "question": "The borrower filed a detailed response on 26-11-2024 proposing ₹40,000 settlement. The Statement of Claim was also filed on 26-11-2024. What does this simultaneous filing indicate?",
+    "golden_answers": ["The simultaneous filing indicates: (1) Borrower received notice and responded promptly, (2) Settlement discussions are active and serious, (3) Both parties are engaging constructively, (4) The case may resolve through consent award rather than contested proceedings. This level of engagement is positive for resolution."]
+  },
+  {
+    "question": "The case shows the borrower relocated from city to village and now earns only ₹8,000/month working in a local shop, down from ₹24,000/month as Swiggy partner. How does this income reduction affect recovery assessment?",
+    "golden_answers": ["The 67% income reduction (₹24,000 to ₹8,000) severely impacts recovery capacity. At ₹8,000/month, the borrower can afford only ₹500-1,000/month for debt service, making full recovery unrealistic. Settlement at reduced amount or extended installment plan matching current income is more practical than pursuing full claim."]
+  },
+  {
+    "question": "The DPD is 144 days as on 26-11-2024. If the July 2024 EMI bounced on 05-07-2024, does this calculation match?",
+    "golden_answers": ["From 5 July 2024 to 26 November 2024 is approximately 144 days, exactly matching the stated DPD. This 5-month default period, combined with the borrower's relocation and income reduction, explains the escalation to arbitration while the borrower's cooperation justifies ongoing settlement discussions."]
+  },
+  {
+    "question": "The borrower made a partial payment of ₹1,200 in August 2024 after the July bounce. Does this partial payment affect the case characterization?",
+    "golden_answers": ["Yes, the partial payment demonstrates: (1) Acknowledgment of debt, (2) Good faith effort despite reduced capacity, (3) Desire to continue payment, (4) Some payment capacity exists. This payment restarts limitation and shows the borrower isn't completely abandoning the obligation, supporting cooperative treatment in settlement."]
+  },
+  {
+    "question": "The case shows the borrower 'requested meeting to discuss restructuring' and filed settlement proposal. What does this level of engagement indicate?",
+    "golden_answers": ["This engagement indicates: (1) Borrower acknowledges the debt, (2) Serious intent to resolve (filing formal response), (3) Willingness to negotiate realistic terms, (4) Preference for settlement over contested proceedings. This level of cooperation distinguishes genuine hardship cases from willful defaulters and supports mediated resolution."]
+  },
+  {
+    "question": "The Statement of Claim references 'Gold Loan' and 'Gold in custody' but the actual case is a two-wheeler loan. What corrections are needed?",
+    "golden_answers": ["Complete correction needed: Remove all gold loan/custody references. Insert: 'Two-Wheeler Loan for Hero Splendor Plus, Registration [X], currently located at borrower's village residence in Motipur, Samastipur, Bihar. Vehicle is hypothecated security for the loan.' The SOC must accurately describe the actual loan type and security."]
+  },
+  {
+    "question": "The borrower's settlement proposal is ₹40,000 against outstanding of ₹72,538 (55%). Should the lender accept this?",
+    "golden_answers": ["Acceptance depends on: (1) Vehicle value (likely ₹30,000-40,000), (2) Cost of continued litigation vs. immediate settlement, (3) Borrower's realistic capacity (₹8,000/month income), (4) Time value of money. If vehicle is surrendered with settlement, 55% may be reasonable. However, negotiating to ₹45,000-50,000 (62-69%) with vehicle surrender could improve recovery."]
+  },
+  {
+    "question": "The case shows the borrower relocated to 'Village Motipur, Samastipur, Bihar.' How does rural location affect recovery costs and strategy?",
+    "golden_answers": ["Rural location increases: (1) Field visit costs and travel time, (2) Execution complexity (vehicle seizure from village), (3) Local court coordination if needed, (4) Auction market limitations for vehicle sale. However, the borrower's cooperation and settlement willingness may offset these costs through negotiated resolution rather than forced execution."]
+  },
+  {
+    "question": "The borrower mentioned 'app penalties, low orders' and 'rating dropped' as reasons for income decline. Should these gig platform issues be verified?",
+    "golden_answers": ["Verification is challenging for gig platforms: (1) Platform data is proprietary, (2) Borrower may not have access to detailed records, (3) Verification may be disproportionate for a ₹58,000 loan. The borrower's consistent narrative, relocation, and current low income (₹8,000) provide sufficient circumstantial evidence. Focus should be on current capacity rather than historical verification."]
+  },
+  {
+    "question": "The case shows the borrower paid 4 full EMIs plus partial ₹1,200 totaling ₹12,684. Principal Recovered is ₹11,146. Is this allocation accurate?",
+    "golden_answers": ["From ₹12,684 payments, ₹11,146 (87.9%) went to principal and ₹1,538 (12.1%) to interest. For a 17.5% loan, early EMIs typically have 75-80% principal component. The 87.9% principal allocation seems high—either the calculation methodology differs or there's an error. This should be verified against the amortization schedule."]
+  },
+  {
+    "question": "The interest rate is 17.5% p.a. reducing balance. The interest outstanding is ₹14,234 on principal of ₹46,854 over 5 months. Is this calculation reasonable?",
+    "golden_answers": ["Let's verify: ₹46,854 × 17.5% × (5/12) = approximately ₹3,417 in simple interest. The stated ₹14,234 is much higher, likely including: (1) Compounding effect, (2) Interest on missed EMIs, (3) Higher effective rate during default period. The figure should be verified against the loan agreement terms for default interest calculations."]
+  },
+  {
+    "question": "The case shows penal interest of ₹6,450 on approximately ₹46,854 principal over 5 months. What is the implied penal rate?",
+    "golden_answers": ["₹6,450 on ₹46,854 over 5 months implies approximately 2.75% per month or about 33% per year in penal charges. This is on the higher end but within typical range (2-3% monthly). The rate appears reasonable and is unlikely to be challenged as excessive."]
+  },
+  {
+    "question": "The borrower's father answered the call on 20-09-2024 confirming the son returned to village. Should family members be included in communication strategy?",
+    "golden_answers": ["Yes, family contact is valuable for: (1) Locating the borrower, (2) Maintaining communication channels, (3) Facilitating settlement discussions. However, only the borrower is legally liable—family cannot be made to pay. Using family as communication channel is appropriate; pressuring them for payment is not."]
+  },
+  {
+    "question": "The case shows the borrower 'offered to pay ₹500/month' in response letter. At this rate, how long would full recovery take?",
+    "golden_answers": ["At ₹500/month, full recovery of ₹72,538 would take 145 months (over 12 years), which is impractical. However, this offer shows: (1) Acknowledgment of debt, (2) Willingness to pay something, (3) Realistic assessment of current capacity. The offer should be countered with: higher monthly amount (₹2,000-3,000) or one-time settlement at reduced amount."]
+  },
+  {
+    "question": "The Section 9 petition references 'Gold Loan' and 'Gold in Company custody' but this is a two-wheeler loan. What should the petition request?",
+    "golden_answers": ["The petition should request: 'Restrain the respondent from selling, transferring, or disposing of the hypothecated vehicle Hero Splendor Plus, Registration [X], currently at Village Motipur, Samastipur, Bihar. Allow vehicle inspection and marking. Authorize vehicle attachment if settlement negotiations fail.' All gold references must be removed."]
+  },
+  {
+    "question": "The borrower's current income is ₹8,000/month in village shop. The original EMI was ₹2,871/month. What EMI would be sustainable now?",
+    "golden_answers": ["At ₹8,000/month income, sustainable EMI would be ₹1,000-1,500 (12-19% of income). The original ₹2,871 was 36% of ₹8,000, which is unsustainable. Restructuring to ₹1,200-1,500/month over extended tenure (48-60 months) would match current capacity while ensuring some recovery."]
+  },
+  {
+    "question": "The case shows the borrower 'mentioned working in local shop, salary ₹8,000 only' on 05-10-2024. Should this employment be verified?",
+    "golden_answers": ["Verification of village shop employment is challenging: (1) Small shops may not have formal employment records, (2) Income may be variable, (3) Verification costs may exceed benefit. The borrower's consistent narrative and current low income provide sufficient evidence. Focus should be on settlement based on stated capacity rather than extensive verification."]
+  },
+  {
+    "question": "The Award excerpt shows 'Settlement at 55% approved' but the case is still at 'Midway Arbitration' stage. Is this award content from a future stage?",
+    "golden_answers": ["Yes, the Award content appears to be from a future stage or different case. The case status is 'Midway Arbitration' with settlement negotiations ongoing. The Award should reflect the current stage—either pending settlement or contested award if settlement fails. The 55% settlement reference may be aspirational rather than finalized."]
+  },
+  {
+    "question": "The borrower's email is santosh.kumar96@gmail.com. If '96' indicates birth year, does this match the stated age of 27?",
+    "golden_answers": ["If '96' is birth year, he would be 27-28 years old in 2024, matching the stated age of 27 years. This internal consistency validates the borrower's identity information."]
+  },
+  {
+    "question": "The case shows the borrower relocated from city to village. What happened to the vehicle? Is it still with the borrower?",
+    "golden_answers": ["The vehicle's location is not explicitly stated but likely: (1) Brought to village with the borrower (most common), (2) Left in city (less likely), (3) Sold (possible but borrower's cooperation suggests otherwise). Field verification at village address would confirm vehicle location for potential attachment if settlement fails."]
+  },
+  {
+    "question": "The loan tenure is 24 months ending 05-02-2026. As of November 2024, approximately how many EMIs remain if the borrower had continued paying?",
+    "golden_answers": ["From November 2024 to February 2026 is approximately 15 months. Of the original 24 EMIs, the borrower paid 4.5, leaving about 19.5 EMIs unpaid. About 81% of tenure remains, meaning the loan was less than 20% paid before default."]
+  },
+  {
+    "question": "The case shows the borrower 'mentioned going back to village' on 05-08-2024 and confirmed relocation by 20-09-2024. What was the timeline of relocation?",
+    "golden_answers": ["The borrower mentioned relocation plans in early August 2024, made partial payment in August, and by September 2024 had completed relocation to village. The 1-2 month timeline suggests planned relocation rather than sudden flight, which aligns with the borrower's cooperative engagement and settlement discussions."]
+  },
+  {
+    "question": "The Section 11 petition was filed on 15-11-2024 and arbitrator appointed on 22-11-2024. This 7-day gap is very efficient. What factors expedited appointment?",
+    "golden_answers": ["Expediting factors likely include: (1) Clear, uncontested arbitration clause, (2) Efficient court processing, (3) Available arbitrator on panel, (4) Straightforward case facts. The 7-day appointment is exceptionally fast, suggesting the court prioritized this matter or had ready arbitrator availability."]
+  },
+  {
+    "question": "The borrower filed a 'detailed financial crisis' response with settlement proposal. Should this response be treated as Statement of Defense?",
+    "golden_answers": ["Yes, the borrower's detailed response filed on 26-11-2024 should be treated as Statement of Defense. It: (1) Addresses the claim, (2) Explains circumstances, (3) Proposes settlement, (4) Demonstrates engagement. The tribunal should accept it as defense and consider it in proceedings, potentially leading to consent award if settlement is agreed."]
+  },
+  {
+    "question": "The case shows ₹5,000 legal notice charges. Should these be waived in settlement given the borrower's cooperative engagement?",
+    "golden_answers": ["Waiving or reducing legal charges in settlement is a goodwill gesture that often facilitates agreement. Since the borrower has: participated actively, filed defense, engaged in negotiations, and proposed realistic settlement—he has demonstrated cooperation. Waiving ₹5,000 in exchange for expedited settlement could be worthwhile and may improve overall recovery."]
+  },
+  {
+    "question": "The borrower's settlement proposal is ₹40,000. If the vehicle is worth ₹35,000, should the lender accept vehicle surrender plus ₹5,000 cash?",
+    "golden_answers": ["Vehicle surrender (₹35,000) plus ₹5,000 cash = ₹40,000 matches the settlement proposal. This arrangement: (1) Provides immediate recovery, (2) Avoids execution costs, (3) Reflects borrower's capacity, (4) Resolves case quickly. However, negotiating vehicle surrender plus ₹10,000-15,000 cash (total ₹45,000-50,000) could improve recovery while still being acceptable to borrower."]
+  },
+  {
+    "question": "The case shows the borrower is a gig worker who relocated to village. Are there any emerging protections for gig workers in loan defaults?",
+    "golden_answers": ["Gig worker protections are evolving. Current considerations include: (1) Variable income recognition in loan underwriting, (2) Platform data for income verification, (3) Flexible repayment structures matching gig earnings, (4) Some proposed social security benefits. However, contractual loan obligations remain unchanged regardless of employment type. Courts may show empathy but the debt remains legally due."]
+  },
+  {
+    "question": "The Evidence Affidavit references 'Gold Loan' and 'Gold in custody' but this is a two-wheeler loan. What should the affidavit state?",
+    "golden_answers": ["The affidavit should state: 'Respondent availed Two-Wheeler Loan for Hero Splendor Plus. Borrower relocated from city to village due to gig work issues. Vehicle is currently at borrower's village residence. Borrower has made partial payments and proposed settlement. Outstanding amount. Documents verified.' All gold references must be removed."]
+  },
+  {
+    "question": "The case shows the borrower 'mentioned app suspension' as reason for relocation. Should the app suspension be verified?",
+    "golden_answers": ["Verification of app suspension is challenging: (1) Platform data is proprietary, (2) Borrower may not have formal suspension notice, (3) Verification may be disproportionate for a ₹58,000 loan. The borrower's consistent narrative, actual relocation, and current low income provide sufficient evidence. Focus should be on current capacity and settlement rather than historical verification."]
+  },
+  {
+    "question": "The borrower's PAN is MNOKU7890M. Should PAN-linked asset search be conducted before settlement?",
+    "golden_answers": ["PAN search may reveal: (1) Bank accounts (probably minimal for gig worker), (2) Any income tax filings, (3) Other loans. However, for a ₹58,000 loan with active settlement discussions, extensive asset search may be disproportionate. If settlement is progressing, focus on finalizing terms rather than extensive investigation."]
+  },
+  {
+    "question": "The case shows the borrower made partial payment of ₹1,200 in August 2024. Does this broken payment pattern affect settlement negotiations?",
+    "golden_answers": ["The partial payment demonstrates: (1) Acknowledgment of debt, (2) Good faith effort, (3) Some payment capacity. However, ₹1,200 is less than half the EMI (₹2,871), showing severe capacity constraints. In settlement, this supports the borrower's claim of reduced capacity and justifies accepting lower settlement amount or extended payment terms."]
+  },
+  {
+    "question": "The Award excerpt shows 'Settlement at 55% approved' and 'Gold auction authorized if settlement fails.' For a two-wheeler loan, what should the Award authorize?",
+    "golden_answers": ["The Award should authorize: 'If settlement of ₹40,000 (or agreed amount) is not paid within [X] days, the Claimant is authorized to attach and auction the hypothecated vehicle Hero Splendor Plus for recovery. Vehicle auction proceeds shall be applied toward satisfaction of the award amount.' All gold references must be removed."]
+  },
+  {
+    "question": "The case shows the borrower 'promised payment by Ramzan' during earlier interactions. Did payment occur?",
+    "golden_answers": ["The case file doesn't specify Ramzan timing or payment outcome. However, the continued default and relocation suggest payment didn't occur as promised. The borrower's subsequent settlement proposal (₹40,000) and cooperative engagement indicate he's now taking a more realistic approach to resolution."]
+  },
+  {
+    "question": "The borrower's current income is ₹8,000/month. The settlement proposal is ₹40,000. At current income, how long would it take to save ₹40,000?",
+    "golden_answers": ["At ₹8,000/month income with living expenses, saving ₹40,000 would take 8-12 months assuming minimal expenses. However, the borrower may: (1) Arrange funds from family, (2) Sell vehicle and add cash, (3) Take another loan, (4) Pay in installments. The settlement should specify payment timeline and method."]
+  },
+  {
+    "question": "The case shows the borrower filed settlement proposal on 26-11-2024. What is the typical timeline for settlement finalization?",
+    "golden_answers": ["Settlement finalization typically takes: (1) 1-2 weeks for lender evaluation and counter-proposal, (2) 1-2 weeks for borrower response and negotiation, (3) 1 week for final agreement and documentation, (4) Payment timeline as agreed. Total: 4-6 weeks from initial proposal to payment. Given active engagement, this case may finalize faster."]
+  },
+  {
+    "question": "The Section 17 application references 'Gold Loan' and 'Gold in custody' but this is a two-wheeler loan. What should the application request?",
+    "golden_answers": ["The application should request: 'Restrain the respondent from selling, transferring, or disposing of the hypothecated vehicle Hero Splendor Plus. Allow vehicle inspection and marking at village location. Authorize vehicle attachment if settlement negotiations fail. Protect the vehicle as security during settlement discussions.' All gold references must be removed."]
+  },
+  {
+    "question": "The case shows the borrower relocated to village and now works in local shop. What is the vehicle's utility in village context?",
+    "golden_answers": ["In village context, the vehicle may be: (1) Used for local transportation, (2) Less essential than in city delivery work, (3) Potentially sellable to meet settlement, (4) Or retained for personal use. Understanding vehicle utility helps assess: borrower's willingness to surrender it in settlement, or need to protect it as security."]
+  },
+  {
+    "question": "The borrower's settlement proposal is ₹40,000 (55% of ₹72,538). Should the lender counter with a higher amount?",
+    "golden_answers": ["Counter-proposal strategy: (1) Accept ₹40,000 if vehicle is surrendered (total recovery ~₹75,000), (2) Counter with ₹45,000-50,000 if vehicle retained, (3) Consider time value and execution costs. Given borrower's cooperation and realistic capacity assessment, aggressive counter may risk settlement failure. Balanced approach: ₹42,000-45,000 with vehicle surrender."]
+  },
+  {
+    "question": "The case shows the borrower 'mentioned Diwali sales were below expectation' on 05-11-2024. How does seasonal income affect recovery?",
+    "golden_answers": ["Seasonal income variations affect: (1) Borrower's payment capacity at different times, (2) Settlement payment timing (better after good seasons), (3) Installment plan structuring. Understanding seasonality helps: time settlement payments for high-income periods, or structure installments matching income cycles. For village shop, post-harvest and festival seasons may see higher income."]
+  },
+  {
+    "question": "The borrower's address is 'Village Motipur, Post Office Samastipur, District Samastipur, Bihar.' Is this address sufficiently specific for legal service?",
+    "golden_answers": ["The address should be more complete: include house number or landmark, and specific location within village. 'Village Motipur, [House Number/Landmark], Post Office Samastipur, District Samastipur, Bihar - 848101' would be more specific. However, postal PIN code 848101 identifies the area, and local post office knowledge may enable delivery."]
+  },
+  {
+    "question": "The case shows the borrower 'mentioned considering closing shop' on 15-11-2024. Should this business closure risk affect settlement urgency?",
+    "golden_answers": ["Yes, business closure risk increases settlement urgency: (1) If shop closes, income drops to zero, (2) Settlement capacity further reduced, (3) Vehicle may be sold to meet living expenses, (4) Recovery becomes more difficult. Early settlement before business closure protects recovery. The lender should expedite settlement discussions."]
+  },
+  {
+    "question": "The borrower's response letter shows 'detailed financial crisis' and settlement proposal. Should this be annexed to proceedings?",
+    "golden_answers": ["Yes, the response letter should be annexed: (1) Demonstrates borrower's engagement, (2) Provides context for settlement, (3) Shows acknowledgment of debt, (4) Supports consent award if settlement agreed. The letter is valuable evidence of cooperative conduct and should be part of the case record."]
+  },
+  {
+    "question": "The case shows the borrower is cooperative and has proposed settlement. Should the lender proceed with full arbitration or focus on settlement?",
+    "golden_answers": ["Focus should be on settlement given: (1) Borrower's active engagement, (2) Realistic proposal, (3) Genuine hardship, (4) Lower costs than full litigation. Arbitration can proceed in parallel but should be paused if settlement is progressing. If settlement fails, arbitration provides backup. Best approach: settlement-focused with arbitration as safety net."]
+  },
+  {
+    "question": "The Award excerpt shows 'Costs: ₹50,000/-' but the case is at midway stage. Should costs be reduced if settlement is reached?",
+    "golden_answers": ["Yes, if settlement is reached through consent award, costs should be reduced: (1) Lower advocate time (no full litigation), (2) Shorter proceedings, (3) Goodwill gesture, (4) Facilitates agreement. Typical consent award costs: ₹25,000-35,000 versus ₹50,000+ for contested. Cost reduction incentivizes settlement."]
+  },
+  {
+    "question": "The borrower's settlement proposal is ₹40,000. If the lender accepts this, what is the effective recovery percentage?",
+    "golden_answers": ["Effective recovery: ₹40,000 settlement from ₹72,538 outstanding = 55% recovery. However, if vehicle (worth ~₹35,000) is surrendered, total recovery is ~₹75,000 (103% of outstanding). The settlement should specify whether vehicle is included or additional. Net recovery after costs depends on execution expenses saved through settlement."]
+  },
+  {
+    "question": "The case shows the borrower relocated due to 'app suspension' and 'low orders.' Should the lender have restructured the loan earlier?",
+    "golden_answers": ["Earlier restructuring might have prevented default: (1) When borrower first mentioned app issues (July 2024), (2) Before relocation occurred, (3) When partial payment was made (August). However, restructuring requires borrower engagement, which may not have been sought earlier. The current settlement discussions are the appropriate response now."]
+  },
+  {
+    "question": "The borrower's current income is ₹8,000/month. The original loan was ₹58,000. Was this loan appropriately sized for a gig worker?",
+    "golden_answers": ["For a gig worker earning ₹24,000/month, a ₹58,000 loan with ₹2,871 EMI (12% of income) was appropriately sized. However, gig work income volatility wasn't adequately accounted for. The loan assumed stable income, but gig economy fluctuations caused the default. Future underwriting should factor income variability for gig workers."]
+  },
+  {
+    "question": "The case shows the borrower 'mentioned e-commerce competition' affecting business. How does this relate to a gig worker's income?",
+    "golden_answers": ["E-commerce competition may affect: (1) Delivery order volumes (fewer orders = less income), (2) Platform incentives (reduced bonuses), (3) Rider competition (more riders = fewer orders per rider). For a Swiggy delivery partner, reduced orders directly impact income. This explains the income decline from ₹24,000 to current ₹8,000."]
+  },
+  {
+    "question": "The borrower's settlement proposal is ₹40,000. Should payment be in lump sum or installments?",
+    "golden_answers": ["Payment structure options: (1) Lump sum if borrower arranges funds (family, vehicle sale), (2) Installments (₹5,000-10,000/month over 4-8 months) if capacity is limited, (3) Hybrid (part lump sum, part installments). Given ₹8,000/month income, installments of ₹5,000-6,000/month over 7-8 months may be more realistic than lump sum."]
+  },
+  {
+    "question": "The case shows the borrower filed 'detailed financial crisis' response. Should this response be treated as mitigating circumstances?",
+    "golden_answers": ["Yes, the detailed response should be treated as mitigating circumstances: (1) Explains genuine hardship (relocation, income reduction), (2) Shows cooperation rather than evasion, (3) Proposes realistic settlement, (4) Demonstrates good faith. This should result in: reduced costs, favorable settlement terms, or compassionate award structure."]
+  },
+  {
+    "question": "The Section 9 petition references 'Gold Loan' throughout. What systematic correction is needed?",
+    "golden_answers": ["Systematic find-and-replace needed: (1) 'Gold Loan' → 'Two-Wheeler Loan', (2) 'Gold in Company custody' → 'Vehicle hypothecated to lender', (3) 'Gold auction' → 'Vehicle auction', (4) 'Gold possession' → 'Vehicle security'. Every reference must match the actual loan type and security."]
+  },
+  {
+    "question": "The borrower's settlement proposal is ₹40,000. If accepted, should the case be closed or kept open for monitoring?",
+    "golden_answers": ["If settlement is accepted: (1) Case should be kept open until payment is received, (2) Monitor payment schedule if installments, (3) Close only after full payment, (4) Maintain records for future reference. Premature closure risks losing leverage if payment defaults. Case closure should follow payment completion, not agreement."]
+  },
+  {
+    "question": "The case shows the borrower is cooperative and has proposed settlement. What factors determine whether settlement should be accepted?",
+    "golden_answers": ["Settlement acceptance factors: (1) Recovery amount vs. full claim (55% is reasonable), (2) Borrower's realistic capacity (₹8,000/month supports settlement), (3) Cost of continued litigation vs. immediate settlement, (4) Time value of money, (5) Borrower's cooperation level (high in this case), (6) Vehicle value if surrendered. Balanced evaluation supports acceptance with minor negotiation."]
+  },
+  {
+    "question": "The borrower's response shows 'settlement proposal at ₹40,000.' Should this be formalized in a consent award?",
+    "golden_answers": ["Yes, if settlement is agreed, it should be formalized in a consent award: (1) Legally binding and enforceable, (2) Provides court backing for payment, (3) Enables execution if payment defaults, (4) Closes the arbitration formally. Consent award is the proper mechanism for settlement in arbitration proceedings."]
+  },
+  {
+    "question": "The case shows the borrower relocated to village and income reduced to ₹8,000/month. What is the vehicle's current utility and value?",
+    "golden_answers": ["Vehicle utility in village: (1) May be used for local transport, (2) Less essential than city delivery work, (3) Potentially sellable for ₹30,000-40,000. Current value after 8 months: approximately ₹35,000-40,000 (60-70% of original). The vehicle represents significant asset that can contribute to settlement if surrendered."]
+  },
+  {
+    "question": "The borrower's settlement proposal is ₹40,000. Should the lender counter-propose or accept?",
+    "golden_answers": ["Counter-proposal strategy: (1) Accept ₹40,000 if vehicle is surrendered (total ~₹75,000), (2) Counter with ₹45,000-50,000 if vehicle retained, (3) Consider execution costs saved. Given borrower's cooperation and realistic assessment, aggressive counter may risk settlement. Balanced: Accept ₹40,000 with vehicle surrender, or counter ₹45,000 without vehicle."]
+  },
+  {
+    "question": "The case shows the borrower 'mentioned considering closing shop' due to competition. Should business closure risk accelerate settlement?",
+    "golden_answers": ["Yes, business closure risk should accelerate settlement: (1) If shop closes, income drops further, (2) Settlement capacity reduces, (3) Vehicle may be sold for living expenses, (4) Recovery becomes harder. Early settlement before business closure protects recovery. The lender should expedite discussions and offer reasonable terms to close quickly."]
+  },
+  {
+    "question": "The borrower's response letter proposing ₹40,000 settlement was filed on 26-11-2024. What is the appropriate response timeline?",
+    "golden_answers": ["Appropriate response timeline: (1) Acknowledge receipt within 3-5 days, (2) Internal evaluation and decision within 1-2 weeks, (3) Counter-proposal or acceptance within 2-3 weeks of receipt. Given business closure risk mentioned, expedited response (1-2 weeks) is advisable to secure settlement before further deterioration."]
+  },
+  {
+    "question": "The case shows the borrower is cooperative and has proposed settlement. Should arbitration proceedings continue in parallel?",
+    "golden_answers": ["Arbitration should continue in parallel but at reduced pace: (1) Maintains legal pressure and timeline, (2) Provides backup if settlement fails, (3) Doesn't preclude settlement, (4) Can be paused if settlement progresses. Best approach: Continue arbitration preparation but prioritize settlement discussions. If settlement agreed, convert to consent award."]
+  },
+  {
+    "question": "The borrower's settlement proposal is ₹40,000 against ₹72,538 outstanding. What is the lender's break-even analysis?",
+    "golden_answers": ["Break-even analysis: (1) ₹40,000 settlement vs. ₹72,538 claim = ₹32,538 foregone, (2) But execution costs (₹10,000-15,000) and time value reduce net recovery, (3) Vehicle value (~₹35,000) if surrendered adds to settlement, (4) Time saved (months) has value. If vehicle surrendered, total recovery ~₹75,000 exceeds outstanding, making settlement attractive."]
+  },
+  {
+    "question": "The case shows the borrower relocated and income reduced. Should the lender consider write-off if settlement fails?",
+    "golden_answers": ["Write-off consideration: (1) Current income ₹8,000/month makes full recovery unrealistic, (2) Execution costs may exceed recoverable amounts, (3) Vehicle value (~₹35,000) provides some recovery, (4) Settlement at 55% is better than write-off. If settlement fails, execution for vehicle may yield ₹30,000-35,000 net, which is still better than write-off. Write-off should be last resort."]
+  },
+  {
+    "question": "The borrower's settlement proposal is ₹40,000. Should payment terms be flexible given current income constraints?",
+    "golden_answers": ["Yes, flexible payment terms facilitate settlement: (1) Installments of ₹5,000-6,000/month over 7-8 months, (2) Initial payment of ₹10,000-15,000 with balance in installments, (3) Vehicle surrender reducing cash requirement, (4) Extended timeline if needed. Flexibility increases likelihood of successful settlement completion."]
+  },
+  {
+    "question": "The case shows the borrower is cooperative and has proposed settlement. What documentation is needed for settlement agreement?",
+    "golden_answers": ["Settlement documentation: (1) Settlement agreement specifying amount, payment terms, vehicle surrender (if applicable), (2) Consent award from arbitrator formalizing settlement, (3) Payment schedule and monitoring mechanism, (4) Release and discharge upon full payment. Proper documentation ensures enforceability and prevents future disputes."]
+  },
+  {
+    "question": "The borrower's response shows 'detailed financial crisis' and settlement proposal. Should this response affect costs in the award?",
+    "golden_answers": ["Yes, the cooperative response should result in reduced costs: (1) Borrower engaged constructively, (2) Proposed realistic settlement, (3) Avoided full contested proceedings, (4) Demonstrated good faith. Costs should be reduced from standard ₹50,000+ to ₹25,000-35,000 as goodwill gesture and settlement incentive."]
+  },
+  {
+    "question": "The case shows the borrower relocated to village and proposed ₹40,000 settlement. What is the optimal settlement structure?",
+    "golden_answers": ["Optimal settlement: (1) Vehicle surrender (worth ~₹35,000) + ₹5,000-10,000 cash = ₹40,000-45,000 total, (2) Or ₹40,000 in installments (₹5,000-6,000/month) if vehicle retained, (3) Payment completion within 6-8 months, (4) Consent award formalizing terms. This structure balances recovery with borrower's capacity."]
+  },
+  {
+    "question": "The borrower's settlement proposal is ₹40,000. If the lender accepts, should interest continue accruing?",
+    "golden_answers": ["Interest should stop accruing upon settlement agreement: (1) Settlement represents final resolution, (2) Continued interest would increase amount beyond agreed settlement, (3) Defeats purpose of settlement, (4) Standard practice is to waive future interest in settlement. However, payment default after settlement may trigger interest resumption."]
+  },
+  {
+    "question": "The case shows the borrower is cooperative and has proposed settlement. Should the lender expedite settlement to prevent further deterioration?",
+    "golden_answers": ["Yes, expedited settlement is advisable: (1) Borrower mentioned considering closing shop, (2) Further income reduction would reduce settlement capacity, (3) Vehicle may be sold for living expenses, (4) Early settlement protects recovery. The lender should respond quickly (1-2 weeks) with reasonable terms to secure settlement before situation worsens."]
+  },
+  {
+    "question": "The borrower's settlement proposal is ₹40,000. Should the lender accept this amount or negotiate higher?",
+    "golden_answers": ["Negotiation strategy: (1) Accept ₹40,000 if vehicle is surrendered (total ~₹75,000 recovery), (2) Counter with ₹45,000-50,000 if vehicle retained, (3) Consider execution costs and time value. Given borrower's cooperation and realistic capacity, aggressive negotiation may risk settlement. Balanced: Accept ₹40,000 with vehicle, or counter ₹45,000 without vehicle."]
+  },
+  {
+    "question": "The case shows the borrower relocated and income reduced. What is the long-term recovery outlook if settlement is not reached?",
+    "golden_answers": ["Long-term outlook without settlement: (1) Full recovery unrealistic at ₹8,000/month income, (2) Execution for vehicle yields ~₹30,000-35,000 net, (3) Continued interest accrual increases debt, (4) Execution costs reduce net recovery, (5) Time value of money erodes recovery. Settlement provides better outcome than prolonged execution for minimal additional recovery."]
+  },
+  {
+    "question": "The borrower's settlement proposal is ₹40,000. Should this be accepted given the cooperative engagement and genuine hardship?",
+    "golden_answers": ["Acceptance is reasonable given: (1) Borrower's active engagement and realistic proposal, (2) Genuine hardship (relocation, income reduction), (3) 55% recovery is acceptable, (4) Vehicle surrender can increase total recovery, (5) Execution costs saved, (6) Time value. With vehicle surrender, total recovery exceeds outstanding, making acceptance prudent."]
+  }
+]
